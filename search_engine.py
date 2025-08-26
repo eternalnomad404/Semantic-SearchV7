@@ -9,7 +9,8 @@ import numpy as np
 import pickle
 import subprocess
 import re
-from sentence_transformers import SentenceTransformer
+# Replaced heavy sentence_transformers with lightweight encoder
+from lightweight_encoder import CompatibilityEncoder
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from dotenv import load_dotenv
@@ -70,7 +71,7 @@ class SemanticSearcher:
             self.tfidf_vectorizer = tfidf_data['vectorizer']
             self.tfidf_vectors = tfidf_data['vectors']
             
-        self.model = SentenceTransformer(model_name)
+        self.model = CompatibilityEncoder(model_name)
         self.model_name = model_name
         
         # Initialize GROQ client lazily (only when needed) - NOT USED ANYMORE
@@ -196,7 +197,7 @@ class SemanticSearcher:
         
         return category_type, source_emoji, display_header
 
-    def search(self, query: str, k: int = 20, min_score: float = 0.30) -> Tuple[List[Dict], str]:
+    def search(self, query: str, k: int = 20, min_score: float = 0.20) -> Tuple[List[Dict], str]:
         """
         Perform hybrid search and return results with metadata
         
