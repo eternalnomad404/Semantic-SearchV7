@@ -1,0 +1,55 @@
+# Docker ignore file - exclude large files from Docker build
+
+# Development files
+.git/
+.gitignore
+.vscode/
+.idea/
+*.log
+README.md
+README_DEPLOYMENT.md
+
+# Python cache and virtual env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.env
+
+# Test files
+test_*.py
+*_test.py
+tests/
+
+# Original Streamlit app (not needed for API)
+app_main.py
+generate_embeddings.py
+process_case_studies.py
+
+# Railway config
+railway.json
+
+# Large data files that aren't essential
+# Uncomment these if you want to exclude them:
+# data/Case-Studies.docx
+# data/*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+
+# Docker files themselves
+Dockerfile
+.dockerignore

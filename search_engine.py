@@ -37,7 +37,7 @@ class SemanticSearcher:
                  index_path: str = "vectorstore/faiss_index.index", 
                  metadata_path: str = "vectorstore/metadata.json",
                  tfidf_path: str = "vectorstore/tfidf.pkl",
-                 model_name: str = "all-MiniLM-L6-v2"):
+                 model_name: str = "all-MiniLM-L6-v2"):  # Keeping same model for consistency
         
         # Define case study URLs mapping
         self.case_study_urls = {
