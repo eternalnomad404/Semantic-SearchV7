@@ -49,7 +49,3 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
-
-# Docker files themselves
-Dockerfile
-.dockerignore

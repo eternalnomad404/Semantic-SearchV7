@@ -3,7 +3,6 @@ FastAPI REST API for Semantic Search System
 Converts Streamlit app to REST API endpoints
 """
 
-import os
 import time
 import traceback
 from contextlib import asynccontextmanager
@@ -22,10 +21,6 @@ from search_engine import SemanticSearcher, get_git_commit_hash
 # Global search engine instance
 search_engine: SemanticSearcher = None
 
-# Environment variables
-PORT = int(os.getenv("PORT", 8000))
-ENVIRONMENT = os.getenv("RAILWAY_ENVIRONMENT", "development")
-
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
@@ -33,29 +28,11 @@ async def lifespan(app: FastAPI):
     global search_engine
     try:
         print("🚀 Initializing Semantic Search Engine...")
-        
-        # Check if required files exist
-        required_files = [
-            "vectorstore/faiss_index.index",
-            "vectorstore/metadata.json", 
-            "vectorstore/tfidf.pkl"
-        ]
-        
-        for file_path in required_files:
-            if not os.path.exists(file_path):
-                raise FileNotFoundError(f"Required file not found: {file_path}")
-        
         search_engine = SemanticSearcher()
         print(f"✅ Search engine loaded with {len(search_engine.metadata)} documents")
-        print(f"🌍 Environment: {ENVIRONMENT}")
-        print(f"🔗 Port: {PORT}")
-        
         yield
     except Exception as e:
         print(f"❌ Failed to initialize search engine: {e}")
-        print(f"📁 Current directory contents: {os.listdir('.')}")
-        if os.path.exists('vectorstore'):
-            print(f"📁 Vectorstore contents: {os.listdir('vectorstore')}")
         raise
     finally:
         print("🔄 Shutting down...")
@@ -66,24 +43,15 @@ app = FastAPI(
     title="Hybrid Semantic Search API",
     description="REST API for semantic search across tools, services, courses, and case studies",
     version="1.0.0",
-    lifespan=lifespan,
-    docs_url="/docs" if ENVIRONMENT == "development" else "/docs",
-    redoc_url="/redoc" if ENVIRONMENT == "development" else "/redoc"
+    lifespan=lifespan
 )
 
-# Add CORS middleware for production
+# Add CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "https://*.railway.app",
-        "https://*.streamlit.app",
-        "http://localhost:3000",
-        "http://localhost:8000",
-        "http://localhost:8501",
-        "http://localhost:8502"
-    ] if ENVIRONMENT == "production" else ["*"],
+    allow_origins=["*"],  # Configure appropriately for production
     allow_credentials=True,
-    allow_methods=["GET", "POST", "OPTIONS"],
+    allow_methods=["*"],
     allow_headers=["*"],
 )
 
@@ -315,9 +283,4 @@ async def search_debug(request: SearchRequest):
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run(
-        app, 
-        host="0.0.0.0", 
-        port=PORT,
-        reload=ENVIRONMENT == "development"
-    )
+    uvicorn.run(app, host="0.0.0.0", port=8000, reload=True)

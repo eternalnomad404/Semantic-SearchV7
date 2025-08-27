@@ -35,7 +35,7 @@ COPY . .
 ENV PATH=/root/.local/bin:$PATH
 
 # Expose port
-EXPOSE $PORT
+EXPOSE 8000
 
 # Start command
-CMD uvicorn api_main:app --host 0.0.0.0 --port $PORT
+CMD uvicorn api_main:app --host 0.0.0.0 --port 8000
