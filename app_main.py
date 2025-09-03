@@ -138,7 +138,11 @@ class SemanticSearcher:
             return "https://dt4si.com/"
 
     def search(self, query: str, k: int = 20, min_score: float = 0.30) -> tuple[list[dict], str]:
-        # Always use 'all' categories - no intent detection
+        # Simple intent detection for case studies
+        query_lower = query.lower()
+        case_study_keywords = ['case study', 'case studies', 'case-study', 'case-studies']
+        boost_case_studies = any(keyword in query_lower for keyword in case_study_keywords)
+        
         detected_category = 'all'
         
         # Semantic search component
@@ -171,6 +175,10 @@ class SemanticSearcher:
             
             # Calculate hybrid score: 70% semantic + 30% TF-IDF
             hybrid_score = 0.7 * semantic_score + 0.3 * tfidf_score
+            
+            # Apply case study boost if searching for case studies
+            if boost_case_studies and item.get('sheet') == 'case-studies':
+                hybrid_score *= 1.5  # 50% boost for case studies when explicitly searching for them
             
             if hybrid_score < min_score:
                 continue

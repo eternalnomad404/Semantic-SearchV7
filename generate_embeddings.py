@@ -1,4 +1,4 @@
-print("🚀 Script started...")
+print("Script started...")
 
 import pandas as pd
 import json
@@ -74,7 +74,7 @@ for config in sheet_configs:
         filepath = os.path.join("data", config["filename"])
         
         if not os.path.exists(filepath):
-            print(f"❌ Case studies file not found: {filepath}")
+            print(f"Case studies file not found: {filepath}")
             continue
             
         try:
@@ -82,7 +82,7 @@ for config in sheet_configs:
             with open(filepath, 'r', encoding='utf-8') as f:
                 case_studies = json.load(f)
             
-            print(f"📊 Loaded {len(case_studies)} case studies from {config['filename']}")
+            print(f"Loaded {len(case_studies)} case studies from {config['filename']}")
             
             for cs in case_studies:
                 # Create embedding text from multiple fields
@@ -93,6 +93,9 @@ for config in sheet_configs:
                         embed_text_parts.append(text)
                 
                 embed_text = " ".join(embed_text_parts)
+                
+                # Enhance embedding text with explicit case study keywords for better semantic matching
+                embed_text = f"case study case studies success story impact story {embed_text}"
                 
                 # Create display data
                 display_data = []
@@ -114,16 +117,20 @@ for config in sheet_configs:
                 all_metadata.append(metadata_entry)
                 all_texts.append(embed_text)
                 raw_texts.append(embed_text)
+                
+                # Debug: Print first case study details
+                if cs.get("id") == 1:
+                    print(f"DEBUG: Case study 1 embed text preview: {embed_text[:200]}...")
             
         except Exception as e:
-            print(f"❌ Error processing case studies: {e}")
+            print(f"Error processing case studies: {e}")
             continue
     else:
         # Original Excel processing logic
         filepath = os.path.join("data", config["filename"])
 
         if not os.path.exists(filepath):
-            print(f"❌ File not found: {filepath}")
+            print(f"File not found: {filepath}")
             continue
 
         try:
@@ -134,9 +141,9 @@ for config in sheet_configs:
             else:
                 # Normal reading (for cleaned sheets with proper headers)
                 df = pd.read_excel(filepath, sheet_name=config["sheet_name"], header=0, nrows=config["max_rows"])
-            print(f"📊 Loaded {len(df)} rows from {config['filename']} sheet '{config['sheet_name']}' (max: {config['max_rows']})")
+            print(f"Loaded {len(df)} rows from {config['filename']} sheet '{config['sheet_name']}' (max: {config['max_rows']})")
         except Exception as e:
-            print(f"❌ Error reading {filepath}: {e}")
+            print(f"Error reading {filepath}: {e}")
             continue
 
         # Remove the old skip_row logic since we now use skiprows in read_excel
@@ -145,7 +152,7 @@ for config in sheet_configs:
             embed_df = df.iloc[:, config["embed_cols"]]
             display_df = df.iloc[:, config["display_cols"]]
         except IndexError:
-            print(f"❌ Column indices out of range in {config['filename']}")
+            print(f"Column indices out of range in {config['filename']}")
             continue
 
         # Convert to clean strings and join for embedding
@@ -166,11 +173,11 @@ for config in sheet_configs:
         all_texts.extend(texts)
 
 # Generate and save embeddings
-print(f"🧠 Generating embeddings for {len(all_texts)} rows...")
+print(f"Generating embeddings for {len(all_texts)} rows...")
 embeddings = model.encode(all_texts)
 
 # Generate TF-IDF vectors
-print("📊 Generating TF-IDF vectors...")
+print("Generating TF-IDF vectors...")
 tfidf = TfidfVectorizer(
     max_features=1000,
     stop_words='english',
@@ -195,9 +202,9 @@ index = faiss.IndexFlatL2(dim)
 index.add(embeddings)
 faiss.write_index(index, "vectorstore/faiss_index.index")
 
-print(f"✅ FAISS index built with {len(all_texts)} entries.")
-print(f"✅ TF-IDF vectors generated with {tfidf_vectors.shape[1]} features.")
-print("📈 Row boundaries applied:")
+print(f"FAISS index built with {len(all_texts)} entries.")
+print(f"TF-IDF vectors generated with {tfidf_vectors.shape[1]} features.")
+print("Row boundaries applied:")
 print("  - Sheet 1: 231 rows")
 print("  - Sheet 2: 25 rows") 
 print("  - Sheet 3: 110 rows")

@@ -208,7 +208,11 @@ class SemanticSearcher:
         Returns:
             Tuple of (results_list, detected_category)
         """
-        # Always use 'all' categories - no intent detection
+        # Simple intent detection for case studies
+        query_lower = query.lower()
+        case_study_keywords = ['case study', 'case studies', 'case-study', 'case-studies']
+        boost_case_studies = any(keyword in query_lower for keyword in case_study_keywords)
+        
         detected_category = 'all'
         
         # Semantic search component
@@ -241,6 +245,10 @@ class SemanticSearcher:
             
             # Calculate hybrid score: 70% semantic + 30% TF-IDF
             hybrid_score = 0.7 * semantic_score + 0.3 * tfidf_score
+            
+            # Apply case study boost if searching for case studies
+            if boost_case_studies and item.get('sheet') == 'case-studies':
+                hybrid_score *= 1.5  # 50% boost for case studies when explicitly searching for them
             
             if hybrid_score < min_score:
                 continue
@@ -368,6 +376,20 @@ class SemanticSearcher:
         
         # Sort category groups by their highest score (highest first)
         category_groups.sort(key=lambda x: x[2], reverse=True)
+        
+        # Special handling: If we detected case study intent and have case studies, prioritize them
+        if boost_case_studies and case_studies_results:
+            # Move case studies to the front if they're not already there
+            case_study_group = None
+            other_groups = []
+            for group in category_groups:
+                if group[0] == 'case-studies':
+                    case_study_group = group
+                else:
+                    other_groups.append(group)
+            
+            if case_study_group:
+                category_groups = [case_study_group] + other_groups
         
         # Combine results in order of category ranking by highest score
         top_results = []
