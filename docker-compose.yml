@@ -1,0 +1,43 @@
+version: '3.8'
+
+services:
+  semantic-search-api:
+    build: .
+    container_name: semantic-search-api
+    ports:
+      - "8000:8000"  # API port
+    environment:
+      - PYTHONPATH=/app
+    volumes:
+      - ./data:/app/data:ro  # Mount data as read-only
+      - ./vectorstore:/app/vectorstore:ro  # Mount vectorstore as read-only
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    restart: unless-stopped
+
+  semantic-search-streamlit:
+    build: .
+    container_name: semantic-search-streamlit
+    ports:
+      - "8501:8501"  # Streamlit port
+    environment:
+      - PYTHONPATH=/app
+    volumes:
+      - ./data:/app/data:ro  # Mount data as read-only
+      - ./vectorstore:/app/vectorstore:ro  # Mount vectorstore as read-only
+    command: ["streamlit", "run", "app_main.py", "--server.port=8501", "--server.address=0.0.0.0"]
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    restart: unless-stopped
+
+networks:
+  default:
+    name: semantic-search-network
