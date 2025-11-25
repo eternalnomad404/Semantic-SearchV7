@@ -22,6 +22,25 @@ from src.core.search_engine import SemanticSearcher, get_git_commit_hash
 search_engine: SemanticSearcher = None
 
 
+def extract_slug_from_url(url: str) -> str:
+    """
+    Extract slug from URL by getting the last path segment.
+    Example: 
+        "https://dt4si.com/case-studies/learning-link-foundation" -> "learning-link-foundation"
+        "https://dt4si.com/tools/chatgpt" -> "chatgpt"
+    """
+    if not url:
+        return ""
+    
+    # Remove trailing slash if present
+    url = url.rstrip('/')
+    
+    # Get the last segment after the last slash
+    slug = url.split('/')[-1]
+    
+    return slug
+
+
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     """Application lifespan manager - initialize search engine on startup"""
@@ -87,6 +106,9 @@ def transform_result_to_api_format(result: Dict[str, Any], rank: int) -> SearchR
     # Generate URL
     url = search_engine._generate_result_url(result)
     
+    # Extract slug from the generated URL
+    slug = extract_slug_from_url(url)
+    
     # Create metadata object
     result_metadata = SearchResultMetadata(
         values=metadata.get('values', []),
@@ -96,7 +118,8 @@ def transform_result_to_api_format(result: Dict[str, Any], rank: int) -> SearchR
         case_study_id=metadata.get('case_study_id'),
         summary=metadata.get('summary'),
         word_count=metadata.get('word_count'),
-        short_description=metadata.get('short_description', '')  # Add short_description
+        short_description=metadata.get('short_description', ''),  # Add short_description
+        slug=slug  # Add extracted slug
     )
     
     return SearchResult(

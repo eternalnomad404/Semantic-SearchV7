@@ -23,6 +23,7 @@ class SearchResultMetadata(BaseModel):
     summary: Optional[str] = Field(None, description="Case study summary")
     word_count: Optional[int] = Field(None, description="Word count (case studies only)")
     short_description: Optional[str] = Field(None, description="Short description of the item")
+    slug: Optional[str] = Field(None, description="URL slug extracted from the resource URL")
 
 
 class SearchResult(BaseModel):
