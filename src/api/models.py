@@ -9,7 +9,7 @@ from typing import List, Optional, Dict, Any, Union
 class SearchRequest(BaseModel):
     """Request schema for search endpoint"""
     query: str = Field(..., min_length=1, description="Search query string")
-    k: Optional[int] = Field(20, ge=1, le=100, description="Number of results to return")
+    k: Optional[int] = Field(None, ge=1, description="Number of results to return (None = all results)")
     min_score: Optional[float] = Field(0.3, ge=0.0, le=1.0, description="Minimum relevance score threshold")
 
 

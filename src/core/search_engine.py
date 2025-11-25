@@ -196,13 +196,13 @@ class SemanticSearcher:
         
         return category_type, source_emoji, display_header
 
-    def search(self, query: str, k: int = 20, min_score: float = 0.30) -> Tuple[List[Dict], str]:
+    def search(self, query: str, k: int = None, min_score: float = 0.30) -> Tuple[List[Dict], str]:
         """
         Perform hybrid search and return results with metadata
         
         Args:
             query: Search query string
-            k: Number of results to return
+            k: Number of results to return (None = return all results above min_score)
             min_score: Minimum score threshold
             
         Returns:
@@ -218,8 +218,9 @@ class SemanticSearcher:
         # Semantic search component
         query_vector = self.model.encode([query])
         # Use consistent multiplier for comprehensive search across all categories
-        search_multiplier = 2
-        distances, indices = self.index.search(query_vector, k * search_multiplier)
+        # If k is None, search all documents; otherwise use multiplier
+        search_k = len(self.metadata) if k is None else k * 2
+        distances, indices = self.index.search(query_vector, search_k)
         
         # TF-IDF search component
         query_tfidf = self.tfidf_vectorizer.transform([query])
@@ -396,7 +397,8 @@ class SemanticSearcher:
         for category_name, category_results, highest_score in category_groups:
             top_results.extend(category_results)
         
-        # Take the top k results after stacking
-        top_results = top_results[:k]
+        # Take the top k results after stacking (or all if k is None)
+        if k is not None:
+            top_results = top_results[:k]
         
         return top_results, detected_category
