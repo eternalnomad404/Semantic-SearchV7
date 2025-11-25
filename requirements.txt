@@ -12,3 +12,4 @@ python-Levenshtein
 fastapi
 uvicorn[standard]
 pydantic
+requests

@@ -1,0 +1,88 @@
+# Docker ignore file - exclude unnecessary files from Docker build
+
+# ===== LARGEST OFFENDERS (15GB+) =====
+venv/
+env/
+.venv/
+ENV/
+*.egg-info/
+.Python
+
+# Python cache and bytecode (1-2GB)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+*.py[cod]
+*$py.class
+*.so
+
+# Version control
+.git/
+.gitignore
+.gitattributes
+
+# Development environment
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+logs/
+temp_output.txt
+
+# Test files (not needed in production)
+test_*.py
+*_test.py
+debug_*.py
+tests/
+*.test.js
+.coverage
+htmlcov/
+.tox/
+
+# Documentation (keep essential README only)
+docs/
+*.md
+!README.md
+
+# Scripts (not needed in container)
+scripts/
+*.sh
+*.bat
+
+# Docker files (don't copy into image)
+docker/
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# IDE files
+*.sublime-*
+.DS_Store
+Thumbs.db
+
+# Excel temp files
+~$*.xlsx
+~$*.xls
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Build artifacts
+build/
+dist/
+*.egg
+.eggs/
