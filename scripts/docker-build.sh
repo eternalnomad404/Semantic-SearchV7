@@ -26,7 +26,7 @@ if [ ! -f "Dockerfile" ]; then
 fi
 
 # Check if required files exist
-required_files=("requirements.txt" "api_main.py" "search_engine.py" "models.py")
+required_files=("requirements.txt" "src/api/main.py" "src/core/search_engine.py" "src/api/models.py")
 for file in "${required_files[@]}"; do
     if [ ! -f "$file" ]; then
         echo -e "${RED}❌ Error: Required file '$file' not found.${NC}"
@@ -55,8 +55,8 @@ if [ $? -eq 0 ]; then
     echo ""
     echo -e "${GREEN}🚀 To run the containers:${NC}"
     echo -e "${YELLOW}   API Server:     docker run -p 8000:8000 ${FULL_IMAGE_NAME}${NC}"
-    echo -e "${YELLOW}   Streamlit App:  docker run -p 8501:8501 ${FULL_IMAGE_NAME} streamlit run app_main.py --server.port=8501 --server.address=0.0.0.0${NC}"
-    echo -e "${YELLOW}   Docker Compose: docker-compose up${NC}"
+    echo -e "${YELLOW}   Streamlit App:  docker run -p 8501:8501 ${FULL_IMAGE_NAME} streamlit run src/ui/streamlit_app.py --server.port=8501 --server.address=0.0.0.0${NC}"
+    echo -e "${YELLOW}   Docker Compose: cd docker && docker-compose up${NC}"
     echo ""
     echo -e "${BLUE}🌐 Endpoints:${NC}"
     echo -e "${YELLOW}   API Health:     http://localhost:8000/health${NC}"

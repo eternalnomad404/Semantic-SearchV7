@@ -1,0 +1,5 @@
+"""Streamlit UI for Semantic Search"""
+
+from .streamlit_app import main
+
+__all__ = ["main"]

@@ -59,5 +59,5 @@ HEALTHCHECK --interval=30s --timeout=30s --start-period=60s --retries=3 \
     CMD curl -f http://localhost:8000/health || exit 1
 
 # Default command runs the API server
-# Can be overridden to run Streamlit: docker run -p 8501:8501 <image> streamlit run app_main.py --server.port=8501 --server.address=0.0.0.0
-CMD ["uvicorn", "api_main:app", "--host", "0.0.0.0", "--port", "8000"]
+# Can be overridden to run Streamlit: docker run -p 8501:8501 <image> streamlit run src.ui.streamlit_app --server.port=8501 --server.address=0.0.0.0
+CMD ["uvicorn", "src.api.main:app", "--host", "0.0.0.0", "--port", "8000"]

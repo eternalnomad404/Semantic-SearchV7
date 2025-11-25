@@ -18,8 +18,8 @@ if not exist "Dockerfile" (
     exit /b 1
 )
 
-REM Check if required files exist
-set required_files=requirements.txt api_main.py search_engine.py models.py
+# Check if required files exist
+set required_files=requirements.txt src\api\main.py src\core\search_engine.py src\api\models.py
 for %%f in (%required_files%) do (
     if not exist "%%f" (
         echo ❌ Error: Required file '%%f' not found.
@@ -47,8 +47,8 @@ if %ERRORLEVEL% equ 0 (
     echo.
     echo 🚀 To run the containers:
     echo    API Server:     docker run -p 8000:8000 %FULL_IMAGE_NAME%
-    echo    Streamlit App:  docker run -p 8501:8501 %FULL_IMAGE_NAME% streamlit run app_main.py --server.port=8501 --server.address=0.0.0.0
-    echo    Docker Compose: docker-compose up
+    echo    Streamlit App:  docker run -p 8501:8501 %FULL_IMAGE_NAME% streamlit run src/ui/streamlit_app.py --server.port=8501 --server.address=0.0.0.0
+    echo    Docker Compose: cd docker ^&^& docker-compose up
     echo.
     echo 🌐 Endpoints:
     echo    API Health:     http://localhost:8000/health

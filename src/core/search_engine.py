@@ -8,7 +8,7 @@ import json
 import numpy as np
 import pickle
 import subprocess
-import re
+import re   
 from sentence_transformers import SentenceTransformer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
