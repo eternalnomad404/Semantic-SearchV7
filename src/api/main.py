@@ -119,7 +119,8 @@ def transform_result_to_api_format(result: Dict[str, Any], rank: int) -> SearchR
         summary=metadata.get('summary'),
         word_count=metadata.get('word_count'),
         short_description=metadata.get('short_description', ''),  # Add short_description
-        slug=slug  # Add extracted slug
+        slug=slug,  # Add extracted slug
+        image=metadata.get('image')  # Add image path from external API
     )
     
     return SearchResult(

@@ -11,7 +11,8 @@
       "3D Design",
       "Sloyd"
     ],
-    "short_description": "Generative AI platform for quick 3D modeling using simple parameters."
+    "short_description": "Generative AI platform for quick 3D modeling using simple parameters.",
+    "image": "/uploads/1751720749_sloyd-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -25,7 +26,8 @@
       "3D Design",
       "Spline"
     ],
-    "short_description": "User-friendly web 3D design tool for interactive content creation."
+    "short_description": "User-friendly web 3D design tool for interactive content creation.",
+    "image": "/uploads/1751720963_Spline-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -39,7 +41,8 @@
       "3D Design",
       "Runway"
     ],
-    "short_description": "Suite of AI tools for video editing, image, and 3D content creation."
+    "short_description": "Suite of AI tools for video editing, image, and 3D content creation.",
+    "image": "/uploads/1751724185_runway-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -53,7 +56,8 @@
       "Code & New Development",
       "Zoho Creator"
     ],
-    "short_description": "Low-code platform for building custom web and mobile business applications."
+    "short_description": "Low-code platform for building custom web and mobile business applications.",
+    "image": "/uploads/1751720999_zoho-creator-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -67,7 +71,8 @@
       "Code & New Development",
       "GitHub Copilot"
     ],
-    "short_description": "AI pair programmer suggesting code and functions to developers in real-time."
+    "short_description": "AI pair programmer suggesting code and functions to developers in real-time.",
+    "image": "/uploads/1751721634_github-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -81,7 +86,8 @@
       "Code & New Development",
       "Amazon Code Whisperer/Amazon Q"
     ],
-    "short_description": "AI coding companion generating real-time code suggestions within development environments (IDEs)."
+    "short_description": "AI coding companion generating real-time code suggestions within development environments (IDEs).",
+    "image": "/uploads/1751736628_aws-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -95,7 +101,8 @@
       "Text Generation",
       "Copy.ai"
     ],
-    "short_description": "AI content generation tool creating marketing copy, blog posts, and written materials."
+    "short_description": "AI content generation tool creating marketing copy, blog posts, and written materials.",
+    "image": "/uploads/1751721757_copy-ai-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -109,7 +116,8 @@
       "Text Generation",
       "Jasper"
     ],
-    "short_description": "AI writing assistant generating human-like content for marketing and articles quickly."
+    "short_description": "AI writing assistant generating human-like content for marketing and articles quickly.",
+    "image": "/uploads/1751721780_jasper-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -123,7 +131,8 @@
       "Text Generation",
       "Napkin AI"
     ],
-    "short_description": "AI writing assistant to capture, organize, and refine ideas and improve drafts."
+    "short_description": "AI writing assistant to capture, organize, and refine ideas and improve drafts.",
+    "image": "/uploads/1751721805_napkin-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -137,7 +146,8 @@
       "Image & Video Generation",
       "DALL-E 3"
     ],
-    "short_description": "OpenAI's AI model generating diverse, detailed images from text descriptions."
+    "short_description": "OpenAI's AI model generating diverse, detailed images from text descriptions.",
+    "image": "/uploads/1751721820_dalle-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -151,7 +161,8 @@
       "Image & Video Generation",
       "Midjourney"
     ],
-    "short_description": "AI program creating visually distinctive, artistic images from text descriptions."
+    "short_description": "AI program creating visually distinctive, artistic images from text descriptions.",
+    "image": "/uploads/1751724306_midjourney-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -165,7 +176,8 @@
       "Presentation Generation",
       "Canva AI"
     ],
-    "short_description": "AI-enhanced platform for quick, professional visual, document, and multimedia design."
+    "short_description": "AI-enhanced platform for quick, professional visual, document, and multimedia design.",
+    "image": "/uploads/1751724330_canva-ai-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -179,7 +191,8 @@
       "Presentation Generation",
       "Beautiful.ai"
     ],
-    "short_description": "AI presentation software that automatically applies best design practices for elegant slides."
+    "short_description": "AI presentation software that automatically applies best design practices for elegant slides.",
+    "image": "/uploads/1751730014_beautiful-ai-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -193,7 +206,8 @@
       "Presentation Generation",
       "SlideShare"
     ],
-    "short_description": "Hosting service for sharing professional content: presentations, documents, and videos."
+    "short_description": "Hosting service for sharing professional content: presentations, documents, and videos.",
+    "image": "/uploads/1751724377_slideshare-scribd-company-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -207,7 +221,8 @@
       "Presentation Generation",
       "Prezi"
     ],
-    "short_description": "Cloud-based software for dynamic, non-linear presentations using a single zoomable canvas."
+    "short_description": "Cloud-based software for dynamic, non-linear presentations using a single zoomable canvas.",
+    "image": "/uploads/1751724400_prezi-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -221,7 +236,8 @@
       "Presentation Generation",
       "Stotio"
     ],
-    "short_description": "AI growth platform automating pitch decks, strategic content, and narrative creation."
+    "short_description": "AI growth platform automating pitch decks, strategic content, and narrative creation.",
+    "image": "/uploads/1751724484_stotio-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -235,7 +251,8 @@
       "Presentation Generation",
       "Gamma"
     ],
-    "short_description": "New media format for creating engaging, interactive presentations and web pages."
+    "short_description": "New media format for creating engaging, interactive presentations and web pages.",
+    "image": "/uploads/1751724506_gamma-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -249,7 +266,8 @@
       "Audio, Voice & Music Generation",
       "ElevenLabs"
     ],
-    "short_description": "AI voice technology specializing in realistic voice synthesis and high-fidelity cloning."
+    "short_description": "AI voice technology specializing in realistic voice synthesis and high-fidelity cloning.",
+    "image": "/uploads/1751724546_elevenlabs-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -263,7 +281,8 @@
       "Audio, Voice & Music Generation",
       "Play.ht"
     ],
-    "short_description": "AI text-to-speech generator converting text into natural-sounding audio articles."
+    "short_description": "AI text-to-speech generator converting text into natural-sounding audio articles.",
+    "image": "/uploads/1751724596_play-ai-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -277,7 +296,8 @@
       "Audio, Voice & Music Generation",
       "Soundraw"
     ],
-    "short_description": "AI music generator creating custom, unique soundtracks by selecting mood and genre."
+    "short_description": "AI music generator creating custom, unique soundtracks by selecting mood and genre.",
+    "image": "/uploads/1751724662_Soundraw-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -291,7 +311,8 @@
       "Audio, Voice & Music Generation",
       "Suno"
     ],
-    "short_description": "AI music generation platform creating full songs with vocals from text prompts."
+    "short_description": "AI music generation platform creating full songs with vocals from text prompts.",
+    "image": "/uploads/1751724685_suno-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -305,7 +326,8 @@
       "Image & Video Generation",
       "D-ID"
     ],
-    "short_description": "AI technology for creating realistic talking avatars and animating faces from images."
+    "short_description": "AI technology for creating realistic talking avatars and animating faces from images.",
+    "image": "/uploads/1751724724_did-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -319,7 +341,8 @@
       "Text Generation",
       "Bolt New"
     ],
-    "short_description": "AI-driven platform automating blog posts, social media, and marketing content generation."
+    "short_description": "AI-driven platform automating blog posts, social media, and marketing content generation.",
+    "image": "/uploads/1751730874_boltnew.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -333,7 +356,8 @@
       "Code & New Development",
       "Lovable AI"
     ],
-    "short_description": "AI copywriting platform generating emotionally resonant ad copy to boost engagement."
+    "short_description": "AI copywriting platform generating emotionally resonant ad copy to boost engagement.",
+    "image": "/uploads/1751724779_lovable-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -347,7 +371,8 @@
       "Text Generation",
       "MarketMuse"
     ],
-    "short_description": "AI content intelligence platform for planning, creating, and optimizing content strategy."
+    "short_description": "AI content intelligence platform for planning, creating, and optimizing content strategy.",
+    "image": "/uploads/1751724810_marketmuse-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -361,7 +386,8 @@
       "Image & Video Generation",
       "Synthesia"
     ],
-    "short_description": "AI video generation platform creating professional videos with custom AI avatars."
+    "short_description": "AI video generation platform creating professional videos with custom AI avatars.",
+    "image": "/uploads/1751724852_synthesia-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -375,7 +401,8 @@
       "Text Generation",
       "Grammarly"
     ],
-    "short_description": "AI writing assistant improving grammar, clarity, engagement, and delivery in real-time."
+    "short_description": "AI writing assistant improving grammar, clarity, engagement, and delivery in real-time.",
+    "image": "/uploads/1751724883_grammarly-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -389,7 +416,8 @@
       "Text Generation",
       "ProWritingAid"
     ],
-    "short_description": "Writing software providing comprehensive feedback on style, grammar, and readability."
+    "short_description": "Writing software providing comprehensive feedback on style, grammar, and readability.",
+    "image": "/uploads/1751724925_prowritingaid-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -403,7 +431,8 @@
       "Audio, Voice & Music Generation",
       "Rev AI"
     ],
-    "short_description": "AI speech-to-text and NLP platform for transcription, captioning, and sentiment analysis."
+    "short_description": "AI speech-to-text and NLP platform for transcription, captioning, and sentiment analysis.",
+    "image": "/uploads/1751725035_rev-AI-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -417,7 +446,8 @@
       "Audio, Voice & Music Generation",
       "AssemblyAI"
     ],
-    "short_description": "API-based AI speech-to-text with advanced audio intelligence features like summarization."
+    "short_description": "API-based AI speech-to-text with advanced audio intelligence features like summarization.",
+    "image": "/uploads/1751725073_assemblyai--logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -431,7 +461,8 @@
       "Text Generation",
       "Amazon Comprehend"
     ],
-    "short_description": "NLP service using machine learning to find insights and relationships in text."
+    "short_description": "NLP service using machine learning to find insights and relationships in text.",
+    "image": "/uploads/1751736667_aws-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -445,7 +476,8 @@
       "Text Generation",
       "DeepL"
     ],
-    "short_description": "AI machine translation service known for high-quality, nuanced, and accurate translations."
+    "short_description": "AI machine translation service known for high-quality, nuanced, and accurate translations.",
+    "image": "/uploads/1751725152_deepl-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -459,7 +491,8 @@
       "Image & Video Generation",
       "Descript"
     ],
-    "short_description": "All-in-one editor: edit audio/video by simply editing the text transcript."
+    "short_description": "All-in-one editor: edit audio/video by simply editing the text transcript.",
+    "image": "/uploads/1751725203_descript-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -473,7 +506,8 @@
       "Image & Video Generation",
       "Runway"
     ],
-    "short_description": "Generative AI suite for video editing, image, and 3D content creation."
+    "short_description": "Generative AI suite for video editing, image, and 3D content creation.",
+    "image": "/uploads/1751724185_runway-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -487,7 +521,8 @@
       "Data Analysis",
       "Obviously AI"
     ],
-    "short_description": "No-code AI platform for business users to build predictive machine learning models."
+    "short_description": "No-code AI platform for business users to build predictive machine learning models.",
+    "image": "/uploads/1751735161_Obviously-AI-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -501,7 +536,8 @@
       "Data Analysis",
       "Medallia"
     ],
-    "short_description": "Experience management platform for collecting, analyzing, and acting on customer feedback."
+    "short_description": "Experience management platform for collecting, analyzing, and acting on customer feedback.",
+    "image": "/uploads/1751725367_medallia-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -515,7 +551,8 @@
       "Data Analysis",
       "MindsDB"
     ],
-    "short_description": "Open-source AI layer for databases to build machine learning models with data."
+    "short_description": "Open-source AI layer for databases to build machine learning models with data.",
+    "image": "/uploads/1751735100_mindsDB-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -529,7 +566,8 @@
       "Data Analysis",
       "Chat CSV"
     ],
-    "short_description": "Tool allowing users to analyze and ask natural language questions about CSV data."
+    "short_description": "Tool allowing users to analyze and ask natural language questions about CSV data.",
+    "image": "/uploads/1751725415_chatscv-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -543,7 +581,8 @@
       "Data Visualization",
       "Graphite"
     ],
-    "short_description": "Developer platform automating pull request stacking and unified code review workflows."
+    "short_description": "Developer platform automating pull request stacking and unified code review workflows.",
+    "image": "/uploads/1751734423_graphite-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -557,7 +596,8 @@
       "Data Visualization",
       "ChartPixel"
     ],
-    "short_description": "AI data analysis platform automating data cleaning, visualization, and insights generation."
+    "short_description": "AI data analysis platform automating data cleaning, visualization, and insights generation.",
+    "image": "/uploads/1751725455_chartpixel-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -571,7 +611,8 @@
       "Productivity Tools",
       "ChatGPT"
     ],
-    "short_description": "OpenAI's AI conversational agent generating human-like text and creative content."
+    "short_description": "OpenAI's AI conversational agent generating human-like text and creative content.",
+    "image": "/uploads/1751730278_chatgpt-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -585,7 +626,8 @@
       "Productivity Tools",
       "Claude"
     ],
-    "short_description": "Anthropic's large language model focused on helpful, harmless, honest reasoning and conversation."
+    "short_description": "Anthropic's large language model focused on helpful, harmless, honest reasoning and conversation.",
+    "image": "/uploads/1751725503_claude-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -599,7 +641,8 @@
       "Productivity Tools",
       "Meta AI"
     ],
-    "short_description": "Generative AI tools across Facebook/Instagram/WhatsApp for content and chat assistance."
+    "short_description": "Generative AI tools across Facebook/Instagram/WhatsApp for content and chat assistance.",
+    "image": "/uploads/1751728075_metaAI-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -613,7 +656,8 @@
       "Productivity Tools",
       "Gemini"
     ],
-    "short_description": "Google's multimodal large language model processing text, code, audio, and images."
+    "short_description": "Google's multimodal large language model processing text, code, audio, and images.",
+    "image": "/uploads/1751728110_gemini-rainbow-star-x-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -627,7 +671,8 @@
       "Productivity Tools",
       "Sarvam AI"
     ],
-    "short_description": "Indian-focused platform for building multilingual, voice-enabled AI agents and LLMs."
+    "short_description": "Indian-focused platform for building multilingual, voice-enabled AI agents and LLMs.",
+    "image": "/uploads/1751724058_sarvam-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -641,7 +686,8 @@
       "Productivity Tools",
       "Perplexity"
     ],
-    "short_description": "AI-powered search engine providing accurate, cited answers across diverse topics."
+    "short_description": "AI-powered search engine providing accurate, cited answers across diverse topics.",
+    "image": "/uploads/1751728140_perplexity-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -655,7 +701,8 @@
       "Productivity Tools",
       "Copilot (Microsoft)"
     ],
-    "short_description": "AI assistant in Microsoft 365 helping draft, summarize, and automate tasks."
+    "short_description": "AI assistant in Microsoft 365 helping draft, summarize, and automate tasks.",
+    "image": "/uploads/1751728168_Copilot-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -669,7 +716,8 @@
       "Productivity Tools",
       "Grok AI "
     ],
-    "short_description": "xAI's conversational AI delivering real-time, unfiltered, witty dialogue integrated with social."
+    "short_description": "xAI's conversational AI delivering real-time, unfiltered, witty dialogue integrated with social.",
+    "image": "/uploads/1751799194_grokai-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -683,7 +731,8 @@
       "Productivity Tools",
       "Rossum"
     ],
-    "short_description": "AI intelligent document processing platform automating data extraction from various documents."
+    "short_description": "AI intelligent document processing platform automating data extraction from various documents.",
+    "image": "/uploads/1751728224_rossum-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -697,7 +746,8 @@
       "Website Management",
       "Clearscope"
     ],
-    "short_description": "AI platform optimizing content for SEO by analyzing and recommending top keywords."
+    "short_description": "AI platform optimizing content for SEO by analyzing and recommending top keywords.",
+    "image": "/uploads/1751728259_clearscope-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -711,7 +761,8 @@
       "Social Media & Scheduling",
       "Hootsuite"
     ],
-    "short_description": "Social media management platform for scheduling, monitoring, and analyzing multiple profiles."
+    "short_description": "Social media management platform for scheduling, monitoring, and analyzing multiple profiles.",
+    "image": "/uploads/1751728295_hootsuite-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -725,7 +776,8 @@
       "Social Media & Scheduling",
       "Later"
     ],
-    "short_description": "Visual social media marketing platform for planning and scheduling content across channels."
+    "short_description": "Visual social media marketing platform for planning and scheduling content across channels.",
+    "image": "/uploads/1751728327_later-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -739,7 +791,8 @@
       "Social Media & Scheduling",
       "Sprout Social "
     ],
-    "short_description": "Robust social media management platform for outreach, engagement, and performance analysis."
+    "short_description": "Robust social media management platform for outreach, engagement, and performance analysis.",
+    "image": "/uploads/1751728358_sprout-social-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -753,7 +806,8 @@
       "Workflow Automation",
       "Zapier"
     ],
-    "short_description": "Web automation platform connecting apps to create automated workflows without coding."
+    "short_description": "Web automation platform connecting apps to create automated workflows without coding.",
+    "image": "/uploads/1751728386_zapier-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -767,7 +821,8 @@
       "Workflow Automation",
       "Slack"
     ],
-    "short_description": "Channel-based messaging platform for real-time team communication and collaboration."
+    "short_description": "Channel-based messaging platform for real-time team communication and collaboration.",
+    "image": "/uploads/1751728416_slack-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -781,7 +836,8 @@
       "Workflow Automation",
       "Hive"
     ],
-    "short_description": "Project management platform for team collaboration, task, and time tracking."
+    "short_description": "Project management platform for team collaboration, task, and time tracking.",
+    "image": "/uploads/1751728463_Hive-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -795,7 +851,8 @@
       "Workflow Automation",
       "Make"
     ],
-    "short_description": "Visual platform to design and automate complex workflows between various apps."
+    "short_description": "Visual platform to design and automate complex workflows between various apps.",
+    "image": "/uploads/1751728504_make-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -809,7 +866,8 @@
       "Chatbot",
       "GupShup"
     ],
-    "short_description": "Conversational messaging platform for businesses to deploy chatbots and engage customers."
+    "short_description": "Conversational messaging platform for businesses to deploy chatbots and engage customers.",
+    "image": "/uploads/1751728533_gupshup-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -823,7 +881,8 @@
       "Chatbot",
       "Lio"
     ],
-    "short_description": "Mobile-first app for individuals/small businesses to organize data in spreadsheet interface."
+    "short_description": "Mobile-first app for individuals/small businesses to organize data in spreadsheet interface.",
+    "image": "/uploads/1751728564_lio-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -837,7 +896,8 @@
       "Chatbot",
       "Glific"
     ],
-    "short_description": "Open-source WhatsApp chatbot platform for non-profits to engage communities."
+    "short_description": "Open-source WhatsApp chatbot platform for non-profits to engage communities.",
+    "image": "/uploads/1751728584_glific-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -851,7 +911,8 @@
       "Chatbot",
       "WATI"
     ],
-    "short_description": "WhatsApp Business API solution for shared inbox, chatbots, and communication management."
+    "short_description": "WhatsApp Business API solution for shared inbox, chatbots, and communication management.",
+    "image": "/uploads/1751728610_wati-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -865,7 +926,8 @@
       "Chatbot",
       "Zoko"
     ],
-    "short_description": "WhatsApp Business Platform solution to manage customer conversations and sales."
+    "short_description": "WhatsApp Business Platform solution to manage customer conversations and sales.",
+    "image": "/uploads/1751728635_zoko-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -879,7 +941,8 @@
       "Chatbot",
       "WhatsApp"
     ],
-    "short_description": "Free app with business tools for small enterprises to organize customer conversations."
+    "short_description": "Free app with business tools for small enterprises to organize customer conversations.",
+    "image": "/uploads/1751728658_whatsapp-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -893,7 +956,8 @@
       "Cloud Services",
       "Google Cloud"
     ],
-    "short_description": "Suite of cloud computing services for compute, storage, big data, and AI."
+    "short_description": "Suite of cloud computing services for compute, storage, big data, and AI.",
+    "image": "/uploads/1751728684_google-cloud-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -907,7 +971,8 @@
       "Cloud Services",
       "Microsoft Azure"
     ],
-    "short_description": "Cloud computing platform offering services for compute, analytics, storage, and networking."
+    "short_description": "Cloud computing platform offering services for compute, analytics, storage, and networking.",
+    "image": "/uploads/1751728715_ma-azure-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -921,7 +986,8 @@
       "Cloud Services",
       "AWS"
     ],
-    "short_description": "Comprehensive cloud platform offering over 200 fully featured global services."
+    "short_description": "Comprehensive cloud platform offering over 200 fully featured global services.",
+    "image": "/uploads/1751721662_aws-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -935,7 +1001,8 @@
       "Cloud Services",
       "Oracle Cloud Infrastructure (OCI)"
     ],
-    "short_description": "Suite of cloud services for compute, storage, networking, and database tools."
+    "short_description": "Suite of cloud services for compute, storage, networking, and database tools.",
+    "image": "/uploads/1751728749_oracle-cloud-infrastructurelogo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -949,7 +1016,8 @@
       "Cloud Services",
       "IBM Cloud"
     ],
-    "short_description": "Hybrid-first cloud platform leveraging global data centers and IBM AI heritage."
+    "short_description": "Hybrid-first cloud platform leveraging global data centers and IBM AI heritage.",
+    "image": "/uploads/1751728774_ibm-cloud-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -963,7 +1031,8 @@
       "Cloud Services",
       "DigitalOcean"
     ],
-    "short_description": "Developer-friendly cloud platform focused on simplicity, VMs, and predictable billing."
+    "short_description": "Developer-friendly cloud platform focused on simplicity, VMs, and predictable billing.",
+    "image": "/uploads/1751728799_digitalo-ceanlogo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -977,7 +1046,8 @@
       "Data Analysis",
       "Microsoft Excel"
     ],
-    "short_description": "Spreadsheet application for organizing, analyzing, and manipulating data with calculations."
+    "short_description": "Spreadsheet application for organizing, analyzing, and manipulating data with calculations.",
+    "image": "/uploads/1751728833_microsoft-excel-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -991,7 +1061,8 @@
       "Data Analysis",
       "Power BI"
     ],
-    "short_description": "Business intelligence platform to connect, transform data, and create interactive reports."
+    "short_description": "Business intelligence platform to connect, transform data, and create interactive reports.",
+    "image": "/uploads/1751728874_powerbi-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1005,7 +1076,8 @@
       "Data Analysis",
       "Tableau"
     ],
-    "short_description": "Data visualization platform creating interactive dashboards from diverse data sources."
+    "short_description": "Data visualization platform creating interactive dashboards from diverse data sources.",
+    "image": "/uploads/1751728914_tableau-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1019,7 +1091,8 @@
       "Data Analysis",
       "Zoho Analytics"
     ],
-    "short_description": "Self-service BI platform for data prep, visualization, and monitoring performance indicators."
+    "short_description": "Self-service BI platform for data prep, visualization, and monitoring performance indicators.",
+    "image": "/uploads/1751728944_zoho-analytics-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1033,7 +1106,8 @@
       "Reporting & Dashboarding",
       "Big Query"
     ],
-    "short_description": "Serverless data warehouse designed for analyzing large datasets using SQL."
+    "short_description": "Serverless data warehouse designed for analyzing large datasets using SQL.",
+    "image": "/uploads/1751728982_bigquery-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1047,7 +1121,8 @@
       "Reporting & Dashboarding",
       "Microsoft Excel"
     ],
-    "short_description": "Spreadsheet application for organizing, analyzing, and manipulating data with calculations."
+    "short_description": "Spreadsheet application for organizing, analyzing, and manipulating data with calculations.",
+    "image": "/uploads/1751728833_microsoft-excel-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1061,7 +1136,8 @@
       "Data Analysis",
       "Alteryx"
     ],
-    "short_description": "Data analytics platform offering tools for data preparation and advanced predictive modeling."
+    "short_description": "Data analytics platform offering tools for data preparation and advanced predictive modeling.",
+    "image": "/uploads/1751721678_alteryx-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1075,7 +1151,8 @@
       "Data Analysis",
       "Looker Studio"
     ],
-    "short_description": "Free web-based tool for building interactive data visualization dashboards and reports."
+    "short_description": "Free web-based tool for building interactive data visualization dashboards and reports.",
+    "image": "/uploads/1751729074_looker-studio-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1089,7 +1166,8 @@
       "Data Analysis",
       "Superset"
     ],
-    "short_description": "Open-source web application for exploring data and creating interactive dashboards."
+    "short_description": "Open-source web application for exploring data and creating interactive dashboards.",
+    "image": "/uploads/1751729104_superset-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1103,7 +1181,8 @@
       "Payroll Management",
       "Zoho Payroll"
     ],
-    "short_description": "Cloud-based software to process salaries, manage statutory compliance, and payments."
+    "short_description": "Cloud-based software to process salaries, manage statutory compliance, and payments.",
+    "image": "/uploads/1751729128_zoho-payroll-loog.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1117,7 +1196,8 @@
       "Payroll Management",
       "Zimyo"
     ],
-    "short_description": "Integrated HR and payroll software platform for employee management and automation."
+    "short_description": "Integrated HR and payroll software platform for employee management and automation.",
+    "image": "/uploads/1751729818_zimyo-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1131,7 +1211,8 @@
       "Payroll Management",
       "SynergyWorks - Office AutomationSoftware"
     ],
-    "short_description": "Office automation software suite streamlining administrative and operational office tasks."
+    "short_description": "Office automation software suite streamlining administrative and operational office tasks.",
+    "image": "/uploads/1751737529_Social-Integrated-Platform.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1145,7 +1226,8 @@
       "Payroll Management",
       "Realbooks"
     ],
-    "short_description": "Cloud-based accounting software for financial, inventory, billing, and reporting management."
+    "short_description": "Cloud-based accounting software for financial, inventory, billing, and reporting management.",
+    "image": "/uploads/1751729183_realbook-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1159,7 +1241,8 @@
       "Payroll Management",
       "FactoHR"
     ],
-    "short_description": "Cloud-based HR and payroll software automating human resource operations and compliance."
+    "short_description": "Cloud-based HR and payroll software automating human resource operations and compliance.",
+    "image": "/uploads/1751729204_Factohr-loog.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1173,7 +1256,8 @@
       "Payroll Management",
       "Keka HR"
     ],
-    "short_description": "HRMS system for payroll, talent, attendance, and leave management to streamline operations."
+    "short_description": "HRMS system for payroll, talent, attendance, and leave management to streamline operations.",
+    "image": "/uploads/1751729224_keka-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1187,7 +1271,8 @@
       "Payroll Management",
       "TallyPrime"
     ],
-    "short_description": "Complete business management software for invoicing, accounting, inventory, and payroll."
+    "short_description": "Complete business management software for invoicing, accounting, inventory, and payroll.",
+    "image": "/uploads/1751729250_tally-prime-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1201,7 +1286,8 @@
       "Payroll Management",
       "Zoho Books"
     ],
-    "short_description": "Cloud-based accounting application to easily record, audit, and analyze financial transactions."
+    "short_description": "Cloud-based accounting application to easily record, audit, and analyze financial transactions.",
+    "image": "/uploads/1751729287_zoho-books-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1215,7 +1301,8 @@
       "Payroll Management",
       "Xero"
     ],
-    "short_description": "Cloud-based accounting system for small businesses managing invoicing and payroll."
+    "short_description": "Cloud-based accounting system for small businesses managing invoicing and payroll.",
+    "image": "/uploads/1751729350_xero-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1229,7 +1316,8 @@
       "Payroll Management",
       "Vyapar"
     ],
-    "short_description": "Free GST-compliant invoicing and accounting app for Indian small businesses."
+    "short_description": "Free GST-compliant invoicing and accounting app for Indian small businesses.",
+    "image": "/uploads/1751729379_vyapar-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1243,7 +1331,8 @@
       "Resource Management",
       "ClickTime"
     ],
-    "short_description": "Time and expense tracking software managing employee hours and project costs efficiently."
+    "short_description": "Time and expense tracking software managing employee hours and project costs efficiently.",
+    "image": "/uploads/1751729405_clicktime-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1257,7 +1346,8 @@
       "Resource Management",
       "ERP4Impact"
     ],
-    "short_description": "ERP solution tailored for social sector organizations managing projects and finances."
+    "short_description": "ERP solution tailored for social sector organizations managing projects and finances.",
+    "image": "/uploads/1751729424_erp4Impact-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1271,7 +1361,8 @@
       "CRM/Grant/Donor Management",
       "Zoho CRM"
     ],
-    "short_description": "CRM software managing sales, marketing, and customer support activities efficiently."
+    "short_description": "CRM software managing sales, marketing, and customer support activities efficiently.",
+    "image": "/uploads/1751729445_zoho-crm-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1285,7 +1376,8 @@
       "CRM/Grant/Donor Management",
       "Salesforce CRM"
     ],
-    "short_description": "Cloud-based CRM platform for managing customer engagement across all operational areas."
+    "short_description": "Cloud-based CRM platform for managing customer engagement across all operational areas.",
+    "image": "/uploads/1751729472_salesforce-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1299,7 +1391,8 @@
       "CRM/Grant/Donor Management",
       "Bigin"
     ],
-    "short_description": "Pipeline-centric CRM software simplifying lead management for small businesses effectively."
+    "short_description": "Pipeline-centric CRM software simplifying lead management for small businesses effectively.",
+    "image": "/uploads/1751729492_bigin-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1313,7 +1406,8 @@
       "CRM/Grant/Donor Management",
       "Hubspot"
     ],
-    "short_description": "Comprehensive platform for CRM, marketing, sales, and customer service tools."
+    "short_description": "Comprehensive platform for CRM, marketing, sales, and customer service tools.",
+    "image": "/uploads/1751729512_hubspot-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1327,7 +1421,8 @@
       "CRM/Grant/Donor Management",
       "Streak"
     ],
-    "short_description": "CRM system integrating directly into Gmail to manage workflows from the inbox."
+    "short_description": "CRM system integrating directly into Gmail to manage workflows from the inbox.",
+    "image": "/uploads/1751729535_streak-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1341,7 +1436,8 @@
       "CRM/Grant/Donor Management",
       "Social Integrated Platform"
     ],
-    "short_description": "ERP solution digitizing CSR fund management, project M&E, and compliance for impact."
+    "short_description": "ERP solution digitizing CSR fund management, project M&E, and compliance for impact.",
+    "image": "/uploads/1751737234_Social-Integrated-Platform.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1355,7 +1451,8 @@
       "CRM/Grant/Donor Management",
       "SynergyDonor - Donor Relationship Platform"
     ],
-    "short_description": "Donor relationship management platform for tracking information, campaigns, and communication."
+    "short_description": "Donor relationship management platform for tracking information, campaigns, and communication.",
+    "image": "/uploads/1751737497_Social-Integrated-Platform.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1369,7 +1466,8 @@
       "CRM/Grant/Donor Management",
       "MGrant"
     ],
-    "short_description": "Web-based CSR grant management platform for proposal, evaluation, and project tracking."
+    "short_description": "Web-based CSR grant management platform for proposal, evaluation, and project tracking.",
+    "image": "/uploads/1751729592_mgrant-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1383,7 +1481,8 @@
       "CRM/Grant/Donor Management",
       "Meritto"
     ],
-    "short_description": "AI operating system streamlining student recruitment, enrollment, and admissions processes."
+    "short_description": "AI operating system streamlining student recruitment, enrollment, and admissions processes.",
+    "image": "/uploads/1751729628_meritt-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1397,7 +1496,8 @@
       "CRM/Grant/Donor Management",
       "Daanveda"
     ],
-    "short_description": "Donor and fundraising management platform built for Indian NGOs, including compliance."
+    "short_description": "Donor and fundraising management platform built for Indian NGOs, including compliance.",
+    "image": "/uploads/1751723876_daanveda-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1411,7 +1511,8 @@
       "CRM/Grant/Donor Management",
       "Salesforce"
     ],
-    "short_description": "Cloud-based CRM platform for managing customer engagement across all operational areas."
+    "short_description": "Cloud-based CRM platform for managing customer engagement across all operational areas.",
+    "image": null
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1425,7 +1526,8 @@
       "Crowdfunding",
       "danamojo"
     ],
-    "short_description": "Digital fundraising platform for non-profits to manage online donation collection easily."
+    "short_description": "Digital fundraising platform for non-profits to manage online donation collection easily.",
+    "image": "/uploads/1751729587_danamojo-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1439,7 +1541,8 @@
       "Crowdfunding",
       "Fuel a dream"
     ],
-    "short_description": "Crowdfunding platform enabling individuals and organizations to raise funds for causes."
+    "short_description": "Crowdfunding platform enabling individuals and organizations to raise funds for causes.",
+    "image": "/uploads/1751736146_fadlogo-tm-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1453,7 +1556,8 @@
       "Crowdfunding",
       "Daanveda"
     ],
-    "short_description": "Donor and fundraising management platform built for Indian NGOs, including compliance."
+    "short_description": "Donor and fundraising management platform built for Indian NGOs, including compliance.",
+    "image": "/uploads/1751723876_daanveda-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1467,7 +1571,8 @@
       "Crowdfunding",
       "Milaap"
     ],
-    "short_description": "Crowdfunding platform for personal needs, medical, education, and social causes."
+    "short_description": "Crowdfunding platform for personal needs, medical, education, and social causes.",
+    "image": "/uploads/1751723402_milaap-Logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1481,7 +1586,8 @@
       "Crowdfunding",
       "Give India"
     ],
-    "short_description": "Donation platform providing a channel to contribute to verified NGOs across India."
+    "short_description": "Donation platform providing a channel to contribute to verified NGOs across India.",
+    "image": "/uploads/1751723549_give-india-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1495,7 +1601,8 @@
       "Attendance & Payroll Management",
       "Keka"
     ],
-    "short_description": "HRMS system for payroll, talent, attendance, and leave management to streamline operations."
+    "short_description": "HRMS system for payroll, talent, attendance, and leave management to streamline operations.",
+    "image": null
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1509,7 +1616,8 @@
       "Attendance & Payroll Management",
       "Tech for School"
     ],
-    "short_description": "All-in-one platform automating HRMS/LMS to simplify comprehensive school management tasks."
+    "short_description": "All-in-one platform automating HRMS/LMS to simplify comprehensive school management tasks.",
+    "image": "/uploads/1751723805_tech-for-school-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1523,7 +1631,8 @@
       "Attendance & Payroll Management",
       "Paybooks"
     ],
-    "short_description": "Cloud-based payroll and HR management software for processing salaries and compliance."
+    "short_description": "Cloud-based payroll and HR management software for processing salaries and compliance.",
+    "image": "/uploads/1751723829_paybooks-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1537,7 +1646,8 @@
       "Attendance & Payroll Management",
       "GreytHR"
     ],
-    "short_description": "Cloud-based HR and payroll software automating management, compliance, and processes."
+    "short_description": "Cloud-based HR and payroll software automating management, compliance, and processes.",
+    "image": "/uploads/1751734445_greythr-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1551,7 +1661,8 @@
       "Attendance & Payroll Management",
       "Zoho People"
     ],
-    "short_description": "Cloud-based HRMS managing employee database, leave, attendance, and performance tracking."
+    "short_description": "Cloud-based HRMS managing employee database, leave, attendance, and performance tracking.",
+    "image": "/uploads/1751729616_zoho-people-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1565,7 +1676,8 @@
       "Attendance & Payroll Management",
       "Beehive"
     ],
-    "short_description": "Web-based HRMS platform automating employee lifecycle and attendance tracking."
+    "short_description": "Web-based HRMS platform automating employee lifecycle and attendance tracking.",
+    "image": "/uploads/1751730103_beehive-hrms-software-loog.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1579,7 +1691,8 @@
       "Attendance & Payroll Management",
       "FactoHR"
     ],
-    "short_description": "Cloud-based HR and payroll software automating human resource operations and compliance."
+    "short_description": "Cloud-based HR and payroll software automating human resource operations and compliance.",
+    "image": "/uploads/1751729204_Factohr-loog.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1593,7 +1706,8 @@
       "Attendance & Payroll Management",
       "Keka HR"
     ],
-    "short_description": "HRMS system for payroll, talent, attendance, and leave management to streamline operations."
+    "short_description": "HRMS system for payroll, talent, attendance, and leave management to streamline operations.",
+    "image": "/uploads/1751729224_keka-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1607,7 +1721,8 @@
       "Recruitment",
       "ERP Next for HR"
     ],
-    "short_description": "HR module within ERPNext for employee, payroll, and attendance management."
+    "short_description": "HR module within ERPNext for employee, payroll, and attendance management.",
+    "image": "/uploads/1751734129_erpnext-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1621,7 +1736,8 @@
       "Recruitment",
       "Zoho People"
     ],
-    "short_description": "Cloud-based HRMS managing employee database, leave, attendance, and performance tracking."
+    "short_description": "Cloud-based HRMS managing employee database, leave, attendance, and performance tracking.",
+    "image": "/uploads/1751729616_zoho-people-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1635,7 +1751,8 @@
       "Recruitment",
       "BeeHive"
     ],
-    "short_description": "Web-based HRMS platform automating employee lifecycle and attendance tracking."
+    "short_description": "Web-based HRMS platform automating employee lifecycle and attendance tracking.",
+    "image": "/uploads/1751730103_beehive-hrms-software-loog.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1649,7 +1766,8 @@
       "Recruitment",
       "People Hub"
     ],
-    "short_description": "HR management platform centralizing data, administration, and performance processes."
+    "short_description": "HR management platform centralizing data, administration, and performance processes.",
+    "image": "/uploads/1751736987_people-hub-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1663,7 +1781,8 @@
       "Recruitment",
       "Zoho One"
     ],
-    "short_description": "Comprehensive suite of over 50 integrated business applications for running a business."
+    "short_description": "Comprehensive suite of over 50 integrated business applications for running a business.",
+    "image": "/uploads/1751729728_zoho-one-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1677,7 +1796,8 @@
       "Fellowship Management",
       "Better Together"
     ],
-    "short_description": "Platform fostering collaboration and community engagement within the social impact sector."
+    "short_description": "Platform fostering collaboration and community engagement within the social impact sector.",
+    "image": "/uploads/1751730160_better-together-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1691,7 +1811,8 @@
       "Fellowship Management",
       "Journeys of Change"
     ],
-    "short_description": "Change-management app automating opportunity publication, tracking, and collaboration."
+    "short_description": "Change-management app automating opportunity publication, tracking, and collaboration.",
+    "image": "/uploads/1751736787_Platform-commons-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1705,7 +1826,8 @@
       "Fellowship Management",
       "Ally"
     ],
-    "short_description": "Mentorship software platform automating mentor-mentee matching and session management."
+    "short_description": "Mentorship software platform automating mentor-mentee matching and session management.",
+    "image": "/uploads/1751720939_ally-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1719,7 +1841,8 @@
       "Learning Management System",
       "Moodle"
     ],
-    "short_description": "Free, open-source Learning Management System for dynamic online education courses."
+    "short_description": "Free, open-source Learning Management System for dynamic online education courses.",
+    "image": "/uploads/1751735124_moodle-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1733,7 +1856,8 @@
       "Learning Management System",
       "GreytHR Academy"
     ],
-    "short_description": "Online learning platform automating HR and payroll upskilling and course delivery."
+    "short_description": "Online learning platform automating HR and payroll upskilling and course delivery.",
+    "image": "/uploads/1751736441_GreytHR-Academy.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1747,7 +1871,8 @@
       "Learning Management System",
       "Tech for School"
     ],
-    "short_description": "All-in-one platform automating HRMS/LMS to simplify comprehensive school management tasks."
+    "short_description": "All-in-one platform automating HRMS/LMS to simplify comprehensive school management tasks.",
+    "image": "/uploads/1751723805_tech-for-school-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1761,7 +1886,8 @@
       "Learning Management System",
       "Edusystem"
     ],
-    "short_description": "LMS offering digital curricular content, resources, and assessments for core subjects."
+    "short_description": "LMS offering digital curricular content, resources, and assessments for core subjects.",
+    "image": "/uploads/1751730420_edusystem-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1775,7 +1901,8 @@
       "Learning Management System",
       "Synergy Skills and Learning Management"
     ],
-    "short_description": "Skilling and LMS platform automating program mobilization, course creation, and tracking."
+    "short_description": "Skilling and LMS platform automating program mobilization, course creation, and tracking.",
+    "image": "/uploads/1751737388_Social-Integrated-Platform.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1789,7 +1916,8 @@
       "Learning Management System",
       "Firki "
     ],
-    "short_description": "Teach For India’s online platform offering courses and resources for teacher education."
+    "short_description": "Teach For India’s online platform offering courses and resources for teacher education.",
+    "image": "/uploads/1751730507_firki-full-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1803,7 +1931,8 @@
       "Training & Development",
       "mLearn"
     ],
-    "short_description": "Educational platform leveraging mobile technology for content and knowledge dissemination."
+    "short_description": "Educational platform leveraging mobile technology for content and knowledge dissemination.",
+    "image": "/uploads/1751737737_dhwani-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1817,7 +1946,8 @@
       "Training & Development",
       "Orchard (Formerly Campus Cloud)"
     ],
-    "short_description": "School ERP and SIS automating attendance, assessment, and communication workflows."
+    "short_description": "School ERP and SIS automating attendance, assessment, and communication workflows.",
+    "image": "/uploads/1751736839_Platform-commons-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1831,7 +1961,8 @@
       "Training & Development",
       "Meritto"
     ],
-    "short_description": "AI operating system streamlining student recruitment, enrollment, and admissions processes."
+    "short_description": "AI operating system streamlining student recruitment, enrollment, and admissions processes.",
+    "image": "/uploads/1751729628_meritt-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1845,7 +1976,8 @@
       "Training & Development",
       "Wordwall"
     ],
-    "short_description": "Website for educators to create interactive teaching resources, quizzes, and games."
+    "short_description": "Website for educators to create interactive teaching resources, quizzes, and games.",
+    "image": "/uploads/1751731025_wordwall-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1859,7 +1991,8 @@
       "Training & Development",
       "Orchard (Formerly Campus Cloud)"
     ],
-    "short_description": "School ERP and SIS automating attendance, assessment, and communication workflows."
+    "short_description": "School ERP and SIS automating attendance, assessment, and communication workflows.",
+    "image": "/uploads/1751736839_Platform-commons-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1873,7 +2006,8 @@
       "Training & Development",
       "Meritto"
     ],
-    "short_description": "AI operating system streamlining student recruitment, enrollment, and admissions processes."
+    "short_description": "AI operating system streamlining student recruitment, enrollment, and admissions processes.",
+    "image": "/uploads/1751729628_meritt-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1887,7 +2021,8 @@
       "Training & Development",
       "Wordwall"
     ],
-    "short_description": "Website for educators to create interactive teaching resources, quizzes, and games."
+    "short_description": "Website for educators to create interactive teaching resources, quizzes, and games.",
+    "image": "/uploads/1751731025_wordwall-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1901,7 +2036,8 @@
       "Training & Development",
       "Eduapp"
     ],
-    "short_description": "School and institute management platform automating attendance, fees, and communication."
+    "short_description": "School and institute management platform automating attendance, fees, and communication.",
+    "image": "/uploads/1751730384_eduapp-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1915,7 +2051,8 @@
       "Email Marketing",
       "Mailchimp"
     ],
-    "short_description": "Email marketing and automation platform for campaigns, lists, and performance analysis."
+    "short_description": "Email marketing and automation platform for campaigns, lists, and performance analysis.",
+    "image": "/uploads/1751734873_mailchimp-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1929,7 +2066,8 @@
       "Email Marketing",
       "SendGrid"
     ],
-    "short_description": "Cloud-based email platform for sending transactional and marketing emails securely."
+    "short_description": "Cloud-based email platform for sending transactional and marketing emails securely.",
+    "image": "/uploads/1751735373_sendgrid-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1943,7 +2081,8 @@
       "Email Marketing",
       "Substack"
     ],
-    "short_description": "Online platform for writers to publish newsletters and podcasts via paid subscriptions."
+    "short_description": "Online platform for writers to publish newsletters and podcasts via paid subscriptions.",
+    "image": "/uploads/1751735540_substack-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1957,7 +2096,8 @@
       "Email Marketing",
       "Wix"
     ],
-    "short_description": "Cloud-based web development platform using drag-and-drop tools to create websites."
+    "short_description": "Cloud-based web development platform using drag-and-drop tools to create websites.",
+    "image": "/uploads/1751730941_wix-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1971,7 +2111,8 @@
       "Image and Video Editing",
       "GIMP"
     ],
-    "short_description": "Free, open-source raster graphics editor for image retouching and composition."
+    "short_description": "Free, open-source raster graphics editor for image retouching and composition.",
+    "image": "/uploads/1751730569_gimp-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1985,7 +2126,8 @@
       "Image and Video Editing",
       "Inkscape"
     ],
-    "short_description": "Free, open-source vector graphics editor for creating illustrations and diagrams."
+    "short_description": "Free, open-source vector graphics editor for creating illustrations and diagrams.",
+    "image": "/uploads/1751734561_inkscape-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1999,7 +2141,8 @@
       "Image and Video Editing",
       "Canva"
     ],
-    "short_description": "Graphic design platform using drag-and-drop to create professional visual content easily."
+    "short_description": "Graphic design platform using drag-and-drop to create professional visual content easily.",
+    "image": null
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2013,7 +2156,8 @@
       "Outreach and Marketing",
       "Telegram"
     ],
-    "short_description": "Cloud-based instant messaging service offering secure, encrypted communication and channels."
+    "short_description": "Cloud-based instant messaging service offering secure, encrypted communication and channels.",
+    "image": "/uploads/1751733885_telegram-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2027,7 +2171,8 @@
       "Outreach and Marketing",
       "WhatsApp Business"
     ],
-    "short_description": "Free app with business tools for small enterprises to organize customer conversations."
+    "short_description": "Free app with business tools for small enterprises to organize customer conversations.",
+    "image": "/uploads/1751735827_whatsapp-business-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2041,7 +2186,8 @@
       "Outreach and Marketing",
       "Hubspot"
     ],
-    "short_description": "Comprehensive platform for CRM, marketing, sales, and customer service tools."
+    "short_description": "Comprehensive platform for CRM, marketing, sales, and customer service tools.",
+    "image": "/uploads/1751729512_hubspot-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2055,7 +2201,8 @@
       "Outreach and Marketing",
       "Mailchimp"
     ],
-    "short_description": "Email marketing and automation platform for campaigns, lists, and performance analysis."
+    "short_description": "Email marketing and automation platform for campaigns, lists, and performance analysis.",
+    "image": "/uploads/1751734873_mailchimp-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2069,7 +2216,8 @@
       "Outreach and Marketing",
       "Magento"
     ],
-    "short_description": "Open-source e-commerce platform for building and managing robust online stores."
+    "short_description": "Open-source e-commerce platform for building and managing robust online stores.",
+    "image": "/uploads/1751734819_magento-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2083,7 +2231,8 @@
       "Outreach and Marketing",
       "Sprout Social "
     ],
-    "short_description": "Robust social media management platform for outreach, engagement, and performance analysis."
+    "short_description": "Robust social media management platform for outreach, engagement, and performance analysis.",
+    "image": "/uploads/1751728358_sprout-social-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2097,7 +2246,8 @@
       "Outreach and Marketing",
       "Meritto"
     ],
-    "short_description": "AI operating system streamlining student recruitment, enrollment, and admissions processes."
+    "short_description": "AI operating system streamlining student recruitment, enrollment, and admissions processes.",
+    "image": "/uploads/1751729628_meritt-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2111,7 +2261,8 @@
       "Social Media & Community Engagement",
       "Socioboard"
     ],
-    "short_description": "Open-source social media management and content marketing platform for scheduling."
+    "short_description": "Open-source social media management and content marketing platform for scheduling.",
+    "image": "/uploads/1751735399_socioboard-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2125,7 +2276,8 @@
       "Social Media & Community Engagement",
       "Buffer\n"
     ],
-    "short_description": "Versatile social media management platform automating scheduling and multi-platform publishing."
+    "short_description": "Versatile social media management platform automating scheduling and multi-platform publishing.",
+    "image": "/uploads/1751730209_buffer-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2139,7 +2291,8 @@
       "Social Media & Community Engagement",
       "Meta"
     ],
-    "short_description": "Parent conglomerate for corporate governance, R&D, and ecosystem integration across platforms."
+    "short_description": "Parent conglomerate for corporate governance, R&D, and ecosystem integration across platforms.",
+    "image": null
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2153,7 +2306,8 @@
       "Social Media & Community Engagement",
       "X (previously twitter)"
     ],
-    "short_description": "Social media platform for users to post and interact with short messages (\"tweets\")."
+    "short_description": "Social media platform for users to post and interact with short messages (\"tweets\").",
+    "image": "/uploads/1751730891_twitter-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2167,7 +2321,8 @@
       "Social Media & Community Engagement",
       "Instagram"
     ],
-    "short_description": "Photo- and video-sharing social media for feeds, Stories, Reels, and visual engagement."
+    "short_description": "Photo- and video-sharing social media for feeds, Stories, Reels, and visual engagement.",
+    "image": "/uploads/1751734595_Instagram-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2181,7 +2336,8 @@
       "Social Media & Community Engagement",
       "Google Groups"
     ],
-    "short_description": "Service for creating online discussion forums and email-based communication groups."
+    "short_description": "Service for creating online discussion forums and email-based communication groups.",
+    "image": "/uploads/1751734247_google-groups-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2195,7 +2351,8 @@
       "Social Media & Community Engagement",
       "Techforgood Community"
     ],
-    "short_description": "Social impact collaboration platform for networking, project incubation, and resource sharing."
+    "short_description": "Social impact collaboration platform for networking, project incubation, and resource sharing.",
+    "image": "/uploads/1751735767_tech-for-school-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2209,7 +2366,8 @@
       "Social Media & Community Engagement",
       "Better Together"
     ],
-    "short_description": "Platform fostering collaboration and community engagement within the social impact sector."
+    "short_description": "Platform fostering collaboration and community engagement within the social impact sector.",
+    "image": "/uploads/1751730160_better-together-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2223,7 +2381,8 @@
       "Video Conferencing",
       "Jitsi Meet"
     ],
-    "short_description": "Open-source video conferencing with encryption, no account needed, and features."
+    "short_description": "Open-source video conferencing with encryption, no account needed, and features.",
+    "image": "/uploads/1751734625_jitsi-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2237,7 +2396,8 @@
       "Video Conferencing",
       "KUDO"
     ],
-    "short_description": "Cloud-based platform providing professional, real-time language interpretation for meetings."
+    "short_description": "Cloud-based platform providing professional, real-time language interpretation for meetings.",
+    "image": "/uploads/1751736412_kudo-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2251,7 +2411,8 @@
       "Video Conferencing",
       "Google Meet"
     ],
-    "short_description": "Secure, cloud-based video conferencing integrated with Google Workspace for real-time meetings."
+    "short_description": "Secure, cloud-based video conferencing integrated with Google Workspace for real-time meetings.",
+    "image": "/uploads/1751734359_google-meet-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2265,7 +2426,8 @@
       "Website Management",
       "Google Lighthouse"
     ],
-    "short_description": "Open-source tool auditing web pages for performance, accessibility, and quality."
+    "short_description": "Open-source tool auditing web pages for performance, accessibility, and quality.",
+    "image": "/uploads/1751734269_google-lighthouse-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2279,7 +2441,8 @@
       "Website Management",
       "Wix"
     ],
-    "short_description": "Cloud-based web development platform using drag-and-drop tools to create websites."
+    "short_description": "Cloud-based web development platform using drag-and-drop tools to create websites.",
+    "image": "/uploads/1751730941_wix-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2293,7 +2456,8 @@
       "Website Management",
       "Squarespace"
     ],
-    "short_description": "Website building platform providing tools for creating sites, stores, and portfolios."
+    "short_description": "Website building platform providing tools for creating sites, stores, and portfolios.",
+    "image": "/uploads/1751735473_squarespace-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2307,7 +2471,8 @@
       "Website Management",
       "Joomla"
     ],
-    "short_description": "Free, open-source content management system (CMS) to build websites and applications."
+    "short_description": "Free, open-source content management system (CMS) to build websites and applications.",
+    "image": "/uploads/1751734659_joomla-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2321,7 +2486,8 @@
       "Reporting & Dashboarding",
       "Power BI"
     ],
-    "short_description": "Business intelligence platform to connect, transform data, and create interactive reports."
+    "short_description": "Business intelligence platform to connect, transform data, and create interactive reports.",
+    "image": "/uploads/1751728874_powerbi-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2335,7 +2501,8 @@
       "Reporting & Dashboarding",
       "Tableau"
     ],
-    "short_description": "Data visualization platform creating interactive dashboards from diverse data sources."
+    "short_description": "Data visualization platform creating interactive dashboards from diverse data sources.",
+    "image": "/uploads/1751728914_tableau-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2349,7 +2516,8 @@
       "Reporting & Dashboarding",
       "Superset"
     ],
-    "short_description": "Open-source web application for exploring data and creating interactive dashboards."
+    "short_description": "Open-source web application for exploring data and creating interactive dashboards.",
+    "image": "/uploads/1751729104_superset-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2363,7 +2531,8 @@
       "Reporting & Dashboarding",
       "HotJar"
     ],
-    "short_description": "UX tool using heatmaps and recordings to understand user interaction with websites."
+    "short_description": "UX tool using heatmaps and recordings to understand user interaction with websites.",
+    "image": "/uploads/1751734511_hotjar-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2377,7 +2546,8 @@
       "Reporting & Dashboarding",
       "Big Query"
     ],
-    "short_description": "Serverless data warehouse designed for analyzing large datasets using SQL."
+    "short_description": "Serverless data warehouse designed for analyzing large datasets using SQL.",
+    "image": "/uploads/1751728982_bigquery-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2391,7 +2561,8 @@
       "Reporting & Dashboarding",
       "Google Looker Studio"
     ],
-    "short_description": "Free web-based tool for building interactive data visualization dashboards and reports."
+    "short_description": "Free web-based tool for building interactive data visualization dashboards and reports.",
+    "image": "/uploads/1751734304_google-looker-studio-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2405,7 +2576,8 @@
       "Data Analysis",
       "Dalgo"
     ],
-    "short_description": "Open-source data platform for non-profits to manage, analyze, and dashboard data."
+    "short_description": "Open-source data platform for non-profits to manage, analyze, and dashboard data.",
+    "image": "/uploads/1751730320_dalgo-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2419,7 +2591,8 @@
       "Data Analysis",
       "Zoho Analytics"
     ],
-    "short_description": "Self-service BI platform for data prep, visualization, and monitoring performance indicators."
+    "short_description": "Self-service BI platform for data prep, visualization, and monitoring performance indicators.",
+    "image": "/uploads/1751728944_zoho-analytics-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2433,7 +2606,8 @@
       "Data Analysis",
       "Google Analytics"
     ],
-    "short_description": "Web-analytics service offering data on traffic, behavior, and marketing ROI."
+    "short_description": "Web-analytics service offering data on traffic, behavior, and marketing ROI.",
+    "image": "/uploads/1751730338_google-analytics-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2447,7 +2621,8 @@
       "Data Collection",
       "Avni"
     ],
-    "short_description": "Open-source field service and mobile data collection platform for field workers."
+    "short_description": "Open-source field service and mobile data collection platform for field workers.",
+    "image": null
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2461,7 +2636,8 @@
       "Data Management",
       "Apache Superset"
     ],
-    "short_description": "Open-source web application for exploring data and creating interactive dashboards."
+    "short_description": "Open-source web application for exploring data and creating interactive dashboards.",
+    "image": "/uploads/1751736720_superset-logo1.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2475,7 +2651,8 @@
       "Data Management",
       "Dalgo"
     ],
-    "short_description": "Open-source data platform for non-profits to manage, analyze, and dashboard data."
+    "short_description": "Open-source data platform for non-profits to manage, analyze, and dashboard data.",
+    "image": "/uploads/1751730320_dalgo-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2489,7 +2666,8 @@
       "Data Management",
       "Dalgo"
     ],
-    "short_description": "Open-source data platform for non-profits to manage, analyze, and dashboard data."
+    "short_description": "Open-source data platform for non-profits to manage, analyze, and dashboard data.",
+    "image": "/uploads/1751730320_dalgo-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2503,7 +2681,8 @@
       "Data Analysis",
       "Zoho Analytics"
     ],
-    "short_description": "Self-service BI platform for data prep, visualization, and monitoring performance indicators."
+    "short_description": "Self-service BI platform for data prep, visualization, and monitoring performance indicators.",
+    "image": "/uploads/1751728944_zoho-analytics-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2517,7 +2696,8 @@
       "Data Collection",
       "Mform"
     ],
-    "short_description": "Web/mobile platform for data collection, monitoring, and program management/insights."
+    "short_description": "Web/mobile platform for data collection, monitoring, and program management/insights.",
+    "image": "/uploads/1751735059_mform-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2531,7 +2711,8 @@
       "Data Collection",
       "SurveyCTO"
     ],
-    "short_description": "Mobile data collection platform for secure, high-quality data gathering in challenging settings."
+    "short_description": "Mobile data collection platform for secure, high-quality data gathering in challenging settings.",
+    "image": "/uploads/1751735618_surveycto-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2545,7 +2726,8 @@
       "Data Collection",
       "Jotform"
     ],
-    "short_description": "Online form builder creating custom web forms, apps, and smart PDFs without coding."
+    "short_description": "Online form builder creating custom web forms, apps, and smart PDFs without coding.",
+    "image": "/uploads/1751734684_jotform-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2559,7 +2741,8 @@
       "Data Collection",
       "Google Form"
     ],
-    "short_description": "Google Workspace tool creating surveys, quizzes, and polls with real-time collaboration."
+    "short_description": "Google Workspace tool creating surveys, quizzes, and polls with real-time collaboration.",
+    "image": "/uploads/1751734223_google-form-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2573,7 +2756,8 @@
       "Data Collection",
       "mWater"
     ],
-    "short_description": "Platform for water/sanitation data collection, mapping, and water quality monitoring."
+    "short_description": "Platform for water/sanitation data collection, mapping, and water quality monitoring.",
+    "image": "/uploads/1751729474_mWater-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2587,7 +2771,8 @@
       "Data Collection",
       "Synergy Survey and Analytics"
     ],
-    "short_description": "Survey, data visualization, and monitoring tools for real-time M&E with insights."
+    "short_description": "Survey, data visualization, and monitoring tools for real-time M&E with insights.",
+    "image": "/uploads/1751737428_Social-Integrated-Platform.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2601,7 +2786,8 @@
       "Data Collection",
       "Google Sheets"
     ],
-    "short_description": "Web-based spreadsheet application for real-time collaboration, organizing, and calculations."
+    "short_description": "Web-based spreadsheet application for real-time collaboration, organizing, and calculations.",
+    "image": "/uploads/1751734391_google-sheets-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2615,7 +2801,8 @@
       "Data Collection",
       "Zoho Forms"
     ],
-    "short_description": "Online form builder creating web forms for data collection, registration, and feedback."
+    "short_description": "Online form builder creating web forms for data collection, registration, and feedback.",
+    "image": "/uploads/1751729722_zoho-forms-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2629,7 +2816,8 @@
       "Data Collection",
       "Kobo Toolbox"
     ],
-    "short_description": "Free, open-source tool for digital data collection in humanitarian/research settings."
+    "short_description": "Free, open-source tool for digital data collection in humanitarian/research settings.",
+    "image": "/uploads/1751729747_kobo-toolbox-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2643,7 +2831,8 @@
       "Data Collection",
       "CommCare by Dimagi"
     ],
-    "short_description": "Mobile platform for frontline workers building custom apps for data collection/service."
+    "short_description": "Mobile platform for frontline workers building custom apps for data collection/service.",
+    "image": "/uploads/1751735972_dimagi-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2657,7 +2846,8 @@
       "Data Collection",
       "\nSynergyConnect (Social Integrated platform)"
     ],
-    "short_description": "Social integrated platform streamlining CSR, project M&E, donor, and impact analytics."
+    "short_description": "Social integrated platform streamlining CSR, project M&E, donor, and impact analytics.",
+    "image": "/uploads/1751737454_Social-Integrated-Platform.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2671,7 +2861,8 @@
       "Reporting & Dashboarding",
       "Looker Studio"
     ],
-    "short_description": "Free web-based tool for building interactive data visualization dashboards and reports."
+    "short_description": "Free web-based tool for building interactive data visualization dashboards and reports.",
+    "image": "/uploads/1751729074_looker-studio-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2685,7 +2876,8 @@
       "Reporting & Dashboarding",
       "Google Looker Studio"
     ],
-    "short_description": "Free web-based tool for building interactive data visualization dashboards and reports."
+    "short_description": "Free web-based tool for building interactive data visualization dashboards and reports.",
+    "image": "/uploads/1751734304_google-looker-studio-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2699,7 +2891,8 @@
       "Digital Infrastructure",
       "Big Query"
     ],
-    "short_description": "Serverless data warehouse designed for analyzing large datasets using SQL."
+    "short_description": "Serverless data warehouse designed for analyzing large datasets using SQL.",
+    "image": "/uploads/1751728982_bigquery-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2713,7 +2906,8 @@
       "Digital Infrastructure",
       "Zoho Creator"
     ],
-    "short_description": "Low-code platform for building custom web and mobile business applications."
+    "short_description": "Low-code platform for building custom web and mobile business applications.",
+    "image": "/uploads/1751720999_zoho-creator-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2727,7 +2921,8 @@
       "Digital Infrastructure",
       "InsightOne"
     ],
-    "short_description": "Platform for remote management and monitoring of payment terminal devices efficiently."
+    "short_description": "Platform for remote management and monitoring of payment terminal devices efficiently.",
+    "image": "/uploads/1751722890_InsightOne-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2741,7 +2936,8 @@
       "Digital Infrastructure",
       "Commons.farm"
     ],
-    "short_description": "Platform supporting agriculture by managing workflows for ground professionals and farmers."
+    "short_description": "Platform supporting agriculture by managing workflows for ground professionals and farmers.",
+    "image": "/uploads/1751722869_commons-farm-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2755,7 +2951,8 @@
       "Digital Infrastructure",
       "Frappe Framework"
     ],
-    "short_description": "Full-stack, low-code web application framework for rapid modular ERP development."
+    "short_description": "Full-stack, low-code web application framework for rapid modular ERP development.",
+    "image": "/uploads/1751722848_frappe-framework-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2769,7 +2966,8 @@
       "Digital Infrastructure",
       "Google Workspace"
     ],
-    "short_description": "Suite of cloud-based tools for email, docs, sheets, storage, and collaboration."
+    "short_description": "Suite of cloud-based tools for email, docs, sheets, storage, and collaboration.",
+    "image": "/uploads/1751722823_google-workspace-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2783,7 +2981,8 @@
       "Digital Infrastructure",
       "Zabbix"
     ],
-    "short_description": "Open-source software monitoring IT components: networks, servers, and cloud services."
+    "short_description": "Open-source software monitoring IT components: networks, servers, and cloud services.",
+    "image": "/uploads/1751737661_Zabbix-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2797,7 +2996,8 @@
       "Digital Infrastructure",
       "Zapier"
     ],
-    "short_description": "Web automation platform connecting apps to create automated workflows without coding."
+    "short_description": "Web automation platform connecting apps to create automated workflows without coding.",
+    "image": "/uploads/1751728386_zapier-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2811,7 +3011,8 @@
       "Digital Infrastructure",
       "Nagios"
     ],
-    "short_description": "Open-source monitoring system for systems, networks, and infrastructure alerting."
+    "short_description": "Open-source monitoring system for systems, networks, and infrastructure alerting.",
+    "image": "/uploads/1751722703_nagios-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2825,7 +3026,8 @@
       "Digital Infrastructure",
       "Esper"
     ],
-    "short_description": "Platform for managing and securing fleets of dedicated Android devices."
+    "short_description": "Platform for managing and securing fleets of dedicated Android devices.",
+    "image": "/uploads/1751730454_esper-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2839,7 +3041,8 @@
       "Document and Knowledge Management",
       "Document360"
     ],
-    "short_description": "Knowledge-management platform for creating and publishing self-service knowledge bases/SOPs."
+    "short_description": "Knowledge-management platform for creating and publishing self-service knowledge bases/SOPs.",
+    "image": "/uploads/1751734102_Document360-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2853,7 +3056,8 @@
       "Document and Knowledge Management",
       "M-Files"
     ],
-    "short_description": "Intelligent information management organizing content based on what it is."
+    "short_description": "Intelligent information management organizing content based on what it is.",
+    "image": "/uploads/1751722638_m-files-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2867,7 +3071,8 @@
       "Document and Knowledge Management",
       "OneDrive"
     ],
-    "short_description": "Cloud storage service by Microsoft for file syncing, sharing, and collaboration."
+    "short_description": "Cloud storage service by Microsoft for file syncing, sharing, and collaboration.",
+    "image": "/uploads/1751735220_onedrive-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2881,7 +3086,8 @@
       "Document and Knowledge Management",
       "Notion"
     ],
-    "short_description": "Versatile workspace application for note-taking, project management, and collaboration."
+    "short_description": "Versatile workspace application for note-taking, project management, and collaboration.",
+    "image": "/uploads/1751722579_notion-emblem-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2895,7 +3101,8 @@
       "Document and Knowledge Management",
       "Document360"
     ],
-    "short_description": "Knowledge-management platform for creating and publishing self-service knowledge bases/SOPs."
+    "short_description": "Knowledge-management platform for creating and publishing self-service knowledge bases/SOPs.",
+    "image": "/uploads/1751734102_Document360-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2909,7 +3116,8 @@
       "Document and Knowledge Management",
       "Dropbox"
     ],
-    "short_description": "Cloud storage service allowing file storing, sharing, and access across devices."
+    "short_description": "Cloud storage service allowing file storing, sharing, and access across devices.",
+    "image": "/uploads/1751722510_Dropbox-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2923,7 +3131,8 @@
       "Document and Knowledge Management",
       "Dropbox"
     ],
-    "short_description": "Cloud storage service allowing file storing, sharing, and access across devices."
+    "short_description": "Cloud storage service allowing file storing, sharing, and access across devices.",
+    "image": "/uploads/1751722510_Dropbox-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2937,7 +3146,8 @@
       "Scheduling",
       "Calendly"
     ],
-    "short_description": "Automated scheduling software simplifying meeting and appointment booking efficiently."
+    "short_description": "Automated scheduling software simplifying meeting and appointment booking efficiently.",
+    "image": "/uploads/1751722449_calendly-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2951,7 +3161,8 @@
       "Scheduling",
       "Motion"
     ],
-    "short_description": "AI-powered scheduling app automating meetings, focus time, and daily task planning."
+    "short_description": "AI-powered scheduling app automating meetings, focus time, and daily task planning.",
+    "image": "/uploads/1751722424_motion-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2965,7 +3176,8 @@
       "Scheduling",
       "Reclaim.ai"
     ],
-    "short_description": "AI smart calendar assistant automatically scheduling tasks, habits, and meetings optimally."
+    "short_description": "AI smart calendar assistant automatically scheduling tasks, habits, and meetings optimally.",
+    "image": "/uploads/1751722391_reclaim-ai-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2979,7 +3191,8 @@
       "Workflow Management",
       "Kelsa"
     ],
-    "short_description": "Business process automation and BPM platform for workflow design and execution."
+    "short_description": "Business process automation and BPM platform for workflow design and execution.",
+    "image": "/uploads/1751722356_kelsa-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2993,7 +3206,8 @@
       "Workflow Management",
       "Flux"
     ],
-    "short_description": "Workflow automation platform to design, execute, and monitor complex business processes."
+    "short_description": "Workflow automation platform to design, execute, and monitor complex business processes.",
+    "image": "/uploads/1751722330_flux-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -3007,7 +3221,8 @@
       "Workflow Management",
       "UVDesk\n"
     ],
-    "short_description": "Customer support helpdesk module for ticket management and multichannel support."
+    "short_description": "Customer support helpdesk module for ticket management and multichannel support.",
+    "image": "/uploads/1751722297_uvdesk-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -3021,7 +3236,8 @@
       "Workflow Management",
       "DeskPro\n"
     ],
-    "short_description": "Omnichannel support helpdesk automating ticketing, live chat, and AI-powered workflows."
+    "short_description": "Omnichannel support helpdesk automating ticketing, live chat, and AI-powered workflows.",
+    "image": "/uploads/1751722279_deskpro-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -3035,7 +3251,8 @@
       "Agile",
       "Redmine"
     ],
-    "short_description": "Flexible project management web app with issue tracking, charts, and forums."
+    "short_description": "Flexible project management web app with issue tracking, charts, and forums.",
+    "image": "/uploads/1751722249_redmine-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -3049,7 +3266,8 @@
       "Agile",
       "Taiga"
     ],
-    "short_description": "Open-source project management platform for agile teams using Scrum and Kanban."
+    "short_description": "Open-source project management platform for agile teams using Scrum and Kanban.",
+    "image": "/uploads/1751722230_taiga-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -3063,7 +3281,8 @@
       "Agile",
       "New Relic"
     ],
-    "short_description": "Observability platform for real-time monitoring, tracing, and alerting for IT performance."
+    "short_description": "Observability platform for real-time monitoring, tracing, and alerting for IT performance.",
+    "image": "/uploads/1751722198_new-relic-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -3077,7 +3296,8 @@
       "Task Management",
       "Trello"
     ],
-    "short_description": "Kanban-style web application using boards, lists, and cards to organize tasks."
+    "short_description": "Kanban-style web application using boards, lists, and cards to organize tasks.",
+    "image": "/uploads/1751722172_trello-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -3091,7 +3311,8 @@
       "Task Management",
       "ClickUp"
     ],
-    "short_description": "Cloud-based, all-in-one project management and productivity platform for task tracking."
+    "short_description": "Cloud-based, all-in-one project management and productivity platform for task tracking.",
+    "image": "/uploads/1751722144_clickup-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -3105,7 +3326,8 @@
       "Task Management",
       "Monday.com"
     ],
-    "short_description": "Work operating system (Work OS) managing tasks, projects, and teamwork via boards."
+    "short_description": "Work operating system (Work OS) managing tasks, projects, and teamwork via boards.",
+    "image": "/uploads/1751722116_Monday-Com-Logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -3119,7 +3341,8 @@
       "Task Management",
       "Jira"
     ],
-    "short_description": "Issue tracking and project management software, primarily for agile software teams."
+    "short_description": "Issue tracking and project management software, primarily for agile software teams.",
+    "image": "/uploads/1751722085_jira-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -3133,7 +3356,8 @@
       "Task Management",
       "Avaza"
     ],
-    "short_description": "Cloud suite combining project management, time tracking, invoicing, and expenses."
+    "short_description": "Cloud suite combining project management, time tracking, invoicing, and expenses.",
+    "image": "/uploads/1751722056_avaza-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -3147,7 +3371,8 @@
       "Task Management",
       "Smart Sheets"
     ],
-    "short_description": "Work management platform using a spreadsheet-like interface for collaborative work."
+    "short_description": "Work management platform using a spreadsheet-like interface for collaborative work.",
+    "image": "/uploads/1751722033_smartsheet-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -3161,7 +3386,8 @@
       "Task Management",
       "Basecamp"
     ],
-    "short_description": "Web-based tool for project management, to-do lists, schedules, and team chat."
+    "short_description": "Web-based tool for project management, to-do lists, schedules, and team chat.",
+    "image": "/uploads/1751721976_basecamp-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -3175,7 +3401,8 @@
       "Task Management",
       "Notion"
     ],
-    "short_description": "Versatile workspace application for note-taking, project management, and collaboration."
+    "short_description": "Versatile workspace application for note-taking, project management, and collaboration.",
+    "image": "/uploads/1751722579_notion-emblem-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -3189,7 +3416,8 @@
       "Task Management",
       "Zoho Projects"
     ],
-    "short_description": "Cloud-based software helping teams plan, track, and monitor project tasks/progress."
+    "short_description": "Cloud-based software helping teams plan, track, and monitor project tasks/progress.",
+    "image": "/uploads/1751721924_zoho-projects-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -3203,7 +3431,8 @@
       "Task Management",
       "Collaborate"
     ],
-    "short_description": "Project management platform automating planning, task assignment, and progress tracking."
+    "short_description": "Project management platform automating planning, task assignment, and progress tracking.",
+    "image": "/uploads/1751721895_collaborate-logo.png"
   },
   {
     "sheet": "Cleaned Sheet",
@@ -3217,7 +3446,8 @@
       "Task Management",
       "Asana"
     ],
-    "short_description": "Work management platform helping teams organize, track, and manage their work."
+    "short_description": "Work management platform helping teams organize, track, and manage their work.",
+    "image": "/uploads/1751721875_asana-logo.png"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3227,7 +3457,8 @@
     "values": [
       "Designscape"
     ],
-    "short_description": "Tech company specializing in custom web-based solutions using Microsoft Technologies."
+    "short_description": "Tech company specializing in custom web-based solutions using Microsoft Technologies.",
+    "image": "/uploads/1763557609_designscape-logo.jpg"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3237,7 +3468,8 @@
     "values": [
       "Studio Subu"
     ],
-    "short_description": "Creative solutions consultancy solving communication challenges for social impact organizations."
+    "short_description": "Creative solutions consultancy solving communication challenges for social impact organizations.",
+    "image": "/uploads/1751719924_studio-subu-logo.png"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3247,7 +3479,8 @@
     "values": [
       "Project Tech4Dev"
     ],
-    "short_description": "Initiative empowering non-profits with open-source tech, platforms, and leadership support."
+    "short_description": "Initiative empowering non-profits with open-source tech, platforms, and leadership support.",
+    "image": "/uploads/1751719940_project-tech4-d-logo.png"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3257,7 +3490,8 @@
     "values": [
       "EdZola Technologies"
     ],
-    "short_description": "Tech4Good company providing affordable, customizable low-code (Zoho) solutions for non-profits."
+    "short_description": "Tech4Good company providing affordable, customizable low-code (Zoho) solutions for non-profits.",
+    "image": "/uploads/1751720002_edzola-technologies-logo.png"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3267,7 +3501,8 @@
     "values": [
       "Dhwani Rural Information Systems Private Limited"
     ],
-    "short_description": "Social impact technology consulting firm empowering non-profits via digital transformation."
+    "short_description": "Social impact technology consulting firm empowering non-profits via digital transformation.",
+    "image": "/uploads/1751720018_dhwani--logo.png"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3277,7 +3512,8 @@
     "values": [
       "Think201"
     ],
-    "short_description": "Sector-agnostic technology and design company crafting custom digital solutions."
+    "short_description": "Sector-agnostic technology and design company crafting custom digital solutions.",
+    "image": "/uploads/1751720034_think-logo.png"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3287,7 +3523,8 @@
     "values": [
       "Refresh Ideas"
     ],
-    "short_description": "Full-service digital agency using design thinking for customized digital solutions/marketing."
+    "short_description": "Full-service digital agency using design thinking for customized digital solutions/marketing.",
+    "image": "/uploads/1751720065_refresh-ideas-logo.png"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3297,7 +3534,8 @@
     "values": [
       "Tekdi technologies private limited"
     ],
-    "short_description": "IT solutions provider focusing on enterprise-class digital solutions for societal transformation."
+    "short_description": "IT solutions provider focusing on enterprise-class digital solutions for societal transformation.",
+    "image": "/uploads/1751720127_ttpl-logo.png"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3307,7 +3545,8 @@
     "values": [
       "Navadithi Solutions"
     ],
-    "short_description": "Full stack IT services company delivering scalable software solutions and supporting non-profits."
+    "short_description": "Full stack IT services company delivering scalable software solutions and supporting non-profits.",
+    "image": "/uploads/1751720148_navadithi-solutions-logo.png"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3317,7 +3556,8 @@
     "values": [
       "Radics"
     ],
-    "short_description": "Applied learning sciences lab developing evidence-rooted learning solutions for education."
+    "short_description": "Applied learning sciences lab developing evidence-rooted learning solutions for education.",
+    "image": "/uploads/1751720169_radics-blue-yellow-logo.png"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3327,7 +3567,8 @@
     "values": [
       "Tech for Social Good"
     ],
-    "short_description": "SaaS platform automating operations, reporting; offering discounted software, HRMS/LMS."
+    "short_description": "SaaS platform automating operations, reporting; offering discounted software, HRMS/LMS.",
+    "image": "/uploads/1763557680_tech-for-social-good.jpg"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3337,7 +3578,8 @@
     "values": [
       "Tech4Good Community "
     ],
-    "short_description": "Organization strengthening non-profits' tech capabilities with open-source systems implementation."
+    "short_description": "Organization strengthening non-profits' tech capabilities with open-source systems implementation.",
+    "image": "/uploads/1731988147_tech4good.png"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3347,7 +3589,8 @@
     "values": [
       "Platform Commons"
     ],
-    "short_description": "Co-creates integrated digital platforms to drive social impact and sector efficiency."
+    "short_description": "Co-creates integrated digital platforms to drive social impact and sector efficiency.",
+    "image": "/uploads/1751720211_platform-commons-logo.png"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3357,7 +3600,8 @@
     "values": [
       "Kenpath Technologies Pvt. Ltd."
     ],
-    "short_description": "Technology company creating bespoke solutions and scaling technology for an inclusive future."
+    "short_description": "Technology company creating bespoke solutions and scaling technology for an inclusive future.",
+    "image": "/uploads/1751720225_kenpath-logo.png"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3367,7 +3611,8 @@
     "values": [
       "Civic Data Lab"
     ],
-    "short_description": "Works at data/tech/design intersection to strengthen public information and governance."
+    "short_description": "Works at data/tech/design intersection to strengthen public information and governance.",
+    "image": "/uploads/1751720244_civic-data-lab-logo.png"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3377,7 +3622,8 @@
     "values": [
       "SynergyConnect Data Innovations Private Limited"
     ],
-    "short_description": "Technology partner providing ERP solution for non-profit and CSR digital transformation."
+    "short_description": "Technology partner providing ERP solution for non-profit and CSR digital transformation.",
+    "image": "/uploads/1751720262_sc-logo.png"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3387,7 +3633,8 @@
     "values": [
       "Microware Computing and Consulting"
     ],
-    "short_description": "Tech company providing real-time analytics, security, and off-shore software development."
+    "short_description": "Tech company providing real-time analytics, security, and off-shore software development.",
+    "image": "/uploads/1751720280_mcc-logo.png"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3397,7 +3644,8 @@
     "values": [
       "Arham Labs"
     ],
-    "short_description": "Digital consulting delivering project management for organizational digital transformation."
+    "short_description": "Digital consulting delivering project management for organizational digital transformation.",
+    "image": "/uploads/1751720290_arham-labs-logo.png"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3407,7 +3655,8 @@
     "values": [
       "Litmusink"
     ],
-    "short_description": "Digital experience services creating brand identities and digital experiences for small businesses."
+    "short_description": "Digital experience services creating brand identities and digital experiences for small businesses.",
+    "image": "/uploads/1751720305_litmusink-logo.png"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3417,7 +3666,8 @@
     "values": [
       "DGTL 360"
     ],
-    "short_description": "Full-service digital agency specializing in design, development, marketing, and analytics services."
+    "short_description": "Full-service digital agency specializing in design, development, marketing, and analytics services.",
+    "image": "/uploads/1751720317_dgtl360.png"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3427,7 +3677,8 @@
     "values": [
       "Kahaniyaan"
     ],
-    "short_description": "Storytelling consultancy integrating strategic narrative into strategy, culture, and marketing."
+    "short_description": "Storytelling consultancy integrating strategic narrative into strategy, culture, and marketing.",
+    "image": "/uploads/1751720330_kahaniyaan-logo.png"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3437,7 +3688,8 @@
     "values": [
       "Greenpepper+AI"
     ],
-    "short_description": "Generative AI studio helping enterprises strategize, deploy, and scale AI content initiatives."
+    "short_description": "Generative AI studio helping enterprises strategize, deploy, and scale AI content initiatives.",
+    "image": "/uploads/1751720342_greenpepper-logo.png"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3447,7 +3699,8 @@
     "values": [
       "Digital For Nonprofits (D4NP)"
     ],
-    "short_description": "Leverages tech grants, AI, and digital marketing to accelerate non-profit awareness/fundraising."
+    "short_description": "Leverages tech grants, AI, and digital marketing to accelerate non-profit awareness/fundraising.",
+    "image": "/uploads/1751720363_Digital-for-Nonprofits.png"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3457,7 +3710,8 @@
     "values": [
       "Digicated"
     ],
-    "short_description": "Advisory firm accelerating digital marketing maturity using holistic, generative AI strategies."
+    "short_description": "Advisory firm accelerating digital marketing maturity using holistic, generative AI strategies.",
+    "image": null
   },
   {
     "sheet": "Training Program",
@@ -3471,7 +3725,8 @@
       "Introductory AI Courses",
       "AI For Everyone "
     ],
-    "short_description": "Core AI concepts, terminology, team structure for non-technical professionals/responsible adoption."
+    "short_description": "Core AI concepts, terminology, team structure for non-technical professionals/responsible adoption.",
+    "image": "/uploads/courses/1763623800_1.png"
   },
   {
     "sheet": "Training Program",
@@ -3485,7 +3740,8 @@
       "Introductory AI Courses",
       "AI for Everyone: Master the Basics "
     ],
-    "short_description": "AI fundamentals, ML techniques, ethics, and practical uses for project participation."
+    "short_description": "AI fundamentals, ML techniques, ethics, and practical uses for project participation.",
+    "image": "/uploads/courses/1763623821_2.png"
   },
   {
     "sheet": "Training Program",
@@ -3499,7 +3755,8 @@
       "Introductory AI Courses",
       "Introduction to AI "
     ],
-    "short_description": "Fundamental AI concepts, real-world applications, agent design, and ethical development."
+    "short_description": "Fundamental AI concepts, real-world applications, agent design, and ethical development.",
+    "image": "/uploads/courses/1763623841_3.png"
   },
   {
     "sheet": "Training Program",
@@ -3513,7 +3770,8 @@
       "Introductory AI Courses",
       "Introduction to Artificial Intelligence "
     ],
-    "short_description": "General AI, classic/generative AI, ML, neural networks, and ethical overview for managers."
+    "short_description": "General AI, classic/generative AI, ML, neural networks, and ethical overview for managers.",
+    "image": "/uploads/courses/1763623867_4.png"
   },
   {
     "sheet": "Training Program",
@@ -3527,7 +3785,8 @@
       "Introductory AI Courses",
       "Natural Language Processing Specialization"
     ],
-    "short_description": "Key NLP methods: classical ML, sequence models, and attention-based LLM building."
+    "short_description": "Key NLP methods: classical ML, sequence models, and attention-based LLM building.",
+    "image": "/uploads/courses/1763623886_5.png"
   },
   {
     "sheet": "Training Program",
@@ -3541,7 +3800,8 @@
       "Generative AI",
       "Prompt Engineering for ChatGPT"
     ],
-    "short_description": "Prompt engineering fundamentals, patterns, and complex applications for LLM workflow optimization."
+    "short_description": "Prompt engineering fundamentals, patterns, and complex applications for LLM workflow optimization.",
+    "image": "/uploads/courses/1763623761_6.png"
   },
   {
     "sheet": "Training Program",
@@ -3555,7 +3815,8 @@
       "Generative AI",
       "ChatGPT Prompt Engineering for Developers"
     ],
-    "short_description": "Prompt principles, LLM workflow, APIs, and building a basic chatbot for NGO tools."
+    "short_description": "Prompt principles, LLM workflow, APIs, and building a basic chatbot for NGO tools.",
+    "image": "/uploads/courses/1763623672_7.png"
   },
   {
     "sheet": "Training Program",
@@ -3569,7 +3830,8 @@
       "Generative AI",
       "Generative AI: Prompt Engineering Basics"
     ],
-    "short_description": "Prompt types, image prompt basics, and watsonx tools for content automation/insights."
+    "short_description": "Prompt types, image prompt basics, and watsonx tools for content automation/insights.",
+    "image": "/uploads/courses/1763623731_8.png"
   },
   {
     "sheet": "Training Program",
@@ -3583,7 +3845,8 @@
       "Generative AI",
       "Generative AI for Everyone"
     ],
-    "short_description": "Generative AI methods, prompt engineering, applications, and ethical risks/potential."
+    "short_description": "Generative AI methods, prompt engineering, applications, and ethical risks/potential.",
+    "image": "/uploads/courses/1763623706_9.png"
   },
   {
     "sheet": "Training Program",
@@ -3597,7 +3860,8 @@
       "Ethics and Responsible Use of AI",
       "Ethics of Artificial Intelligence"
     ],
-    "short_description": "Core AI ethics principles: fairness, accountability, transparency, bias mitigation, governance."
+    "short_description": "Core AI ethics principles: fairness, accountability, transparency, bias mitigation, governance.",
+    "image": "/uploads/courses/1763556810_Ethics-of-Artificial-Intelligence.jpg"
   },
   {
     "sheet": "Training Program",
@@ -3611,7 +3875,8 @@
       "Making Chatbots",
       "AI Chatbots without Programming"
     ],
-    "short_description": "No-code chatbot creation using IBM Watson: intents, dialog flows, and analytics."
+    "short_description": "No-code chatbot creation using IBM Watson: intents, dialog flows, and analytics.",
+    "image": "/uploads/courses/1763623923_11.png"
   },
   {
     "sheet": "Training Program",
@@ -3625,7 +3890,8 @@
       "Making Chatbots",
       "Building AI Powered Chatbots Without Programming"
     ],
-    "short_description": "Building no-programming AI chatbots: recommendation systems, workflows, and deployment."
+    "short_description": "Building no-programming AI chatbots: recommendation systems, workflows, and deployment.",
+    "image": "/uploads/courses/1763623943_12.png"
   },
   {
     "sheet": "Training Program",
@@ -3639,7 +3905,8 @@
       "Making Chatbots",
       "Designing a Customer Support Chatbot Using Flowise"
     ],
-    "short_description": "No-code chatbot design using Flowise.ai for FAQ bots and website embedding."
+    "short_description": "No-code chatbot design using Flowise.ai for FAQ bots and website embedding.",
+    "image": "/uploads/courses/1763623972_13.png"
   },
   {
     "sheet": "Training Program",
@@ -3653,7 +3920,8 @@
       "Full-Stack Development",
       "The Full-Stack"
     ],
-    "short_description": "Full-stack web development: Django, HTML/CSS/JS, cloud for production applications."
+    "short_description": "Full-stack web development: Django, HTML/CSS/JS, cloud for production applications.",
+    "image": "/uploads/courses/1763632738_15.png"
   },
   {
     "sheet": "Training Program",
@@ -3667,7 +3935,8 @@
       "Full-Stack Development",
       "Fullstack Web Development"
     ],
-    "short_description": "Modern full-stack workflows: interactive front-end, Java/Spring Boot back-end, REST APIs."
+    "short_description": "Modern full-stack workflows: interactive front-end, Java/Spring Boot back-end, REST APIs.",
+    "image": "/uploads/courses/1763632720_16.png"
   },
   {
     "sheet": "Training Program",
@@ -3681,7 +3950,8 @@
       "Full-Stack Development",
       "Full-Stack Developer Capstone Project"
     ],
-    "short_description": "Full-stack project applying ASP.NET Core, Blazor, Entity Framework for app deployment."
+    "short_description": "Full-stack project applying ASP.NET Core, Blazor, Entity Framework for app deployment.",
+    "image": "/uploads/courses/1763632700_17.png"
   },
   {
     "sheet": "Training Program",
@@ -3695,7 +3965,8 @@
       "Devops (Cloud Computing)",
       "Introduction to DevOps"
     ],
-    "short_description": "DevOps fundamentals: culture, CI/CD, Infrastructure as Code, TDD/BDD, microservices."
+    "short_description": "DevOps fundamentals: culture, CI/CD, Infrastructure as Code, TDD/BDD, microservices.",
+    "image": "/uploads/courses/1763632275_18.png"
   },
   {
     "sheet": "Training Program",
@@ -3709,7 +3980,8 @@
       "Devops (Cloud Computing)",
       "Azure CloudOps: Automating Infrastructure & Cost Control"
     ],
-    "short_description": "Azure CloudOps: IaC (ARM/Bicep), CI/CD automation, cost management, and governance."
+    "short_description": "Azure CloudOps: IaC (ARM/Bicep), CI/CD automation, cost management, and governance.",
+    "image": "/uploads/courses/1763632211_19.png"
   },
   {
     "sheet": "Training Program",
@@ -3723,7 +3995,8 @@
       "Devops (Cloud Computing)",
       "Continuous Integration and Continuous Delivery (CI/CD)"
     ],
-    "short_description": "CI/CD: Terraform for IaC, Jenkins/GitHub Actions, and OpenShift/Argo CD for deployment."
+    "short_description": "CI/CD: Terraform for IaC, Jenkins/GitHub Actions, and OpenShift/Argo CD for deployment.",
+    "image": "/uploads/courses/1763632234_20.png"
   },
   {
     "sheet": "Training Program",
@@ -3737,7 +4010,8 @@
       "Devops (Cloud Computing)",
       "Deployment and DevOps"
     ],
-    "short_description": "Deployment & DevOps: Azure services, CI/CD, monitoring, and Copilot for automation."
+    "short_description": "Deployment & DevOps: Azure services, CI/CD, monitoring, and Copilot for automation.",
+    "image": "/uploads/courses/1763632255_21.png"
   },
   {
     "sheet": "Training Program",
@@ -3751,7 +4025,8 @@
       "UI/UX",
       "Fundamentals of UI/UX Design"
     ],
-    "short_description": "Core UX design concepts: UI/UX workflows and design thinking fundamentals."
+    "short_description": "Core UX design concepts: UI/UX workflows and design thinking fundamentals.",
+    "image": "/uploads/courses/1763632876_22.png"
   },
   {
     "sheet": "Training Program",
@@ -3765,7 +4040,8 @@
       "UI/UX",
       "Foundations of User Experience (UX) Design"
     ],
-    "short_description": "Foundational UX: user-centered design, accessibility, and equity-focused practices."
+    "short_description": "Foundational UX: user-centered design, accessibility, and equity-focused practices.",
+    "image": "/uploads/courses/1763632853_23.png"
   },
   {
     "sheet": "Training Program",
@@ -3779,7 +4055,8 @@
       "UI/UX",
       "UX Design Career Guide: Essential Skills for Growth, Success"
     ],
-    "short_description": "Strategic UX planning, career pathways, and fundamental skills for success in UX."
+    "short_description": "Strategic UX planning, career pathways, and fundamental skills for success in UX.",
+    "image": "/uploads/courses/1763632898_24.png"
   },
   {
     "sheet": "Training Program",
@@ -3793,7 +4070,8 @@
       "Cybersecurity",
       "Cybersecurity for Everyone"
     ],
-    "short_description": "Cybersecurity concepts, threats, and policy for non-technical NGO professionals."
+    "short_description": "Cybersecurity concepts, threats, and policy for non-technical NGO professionals.",
+    "image": "/uploads/courses/1763632075_25.png"
   },
   {
     "sheet": "Training Program",
@@ -3807,7 +4085,8 @@
       "Cybersecurity",
       "Foundations of Cybersecurity"
     ],
-    "short_description": "Security frameworks, CIA triad, risk management, and security ethics fundamentals."
+    "short_description": "Security frameworks, CIA triad, risk management, and security ethics fundamentals.",
+    "image": "/uploads/courses/1763632114_26.png"
   },
   {
     "sheet": "Training Program",
@@ -3821,7 +4100,8 @@
       "Cybersecurity",
       "Introduction to Cybersecurity Essentials"
     ],
-    "short_description": "Data security, authentication, encryption, and threat management best practices."
+    "short_description": "Data security, authentication, encryption, and threat management best practices.",
+    "image": "/uploads/courses/1763632137_27.png"
   },
   {
     "sheet": "Training Program",
@@ -3835,7 +4115,8 @@
       "Cybersecurity",
       "Introduction to Cybersecurity Fundamentals"
     ],
-    "short_description": "Foundational cybersecurity models, attacker techniques, and data protection methods."
+    "short_description": "Foundational cybersecurity models, attacker techniques, and data protection methods.",
+    "image": "/uploads/courses/1763632162_28.png"
   },
   {
     "sheet": "Training Program",
@@ -3849,7 +4130,8 @@
       "No Code Building",
       "Create a no-code responsive website with Webflow (Guided Project)"
     ],
-    "short_description": "No-code website building using Webflow for responsive design and content."
+    "short_description": "No-code website building using Webflow for responsive design and content.",
+    "image": "/uploads/courses/1763632795_29.png"
   },
   {
     "sheet": "Training Program",
@@ -3863,7 +4145,8 @@
       "No Code Building",
       "Introductory's Guide: Use Bubble to Build an App Without Coding"
     ],
-    "short_description": "No-code app building and scaling using Bubble for custom mobile/web apps."
+    "short_description": "No-code app building and scaling using Bubble for custom mobile/web apps.",
+    "image": null
   },
   {
     "sheet": "Training Program",
@@ -3877,7 +4160,8 @@
       "No Code Building",
       "Create a canvas app in Power Apps"
     ],
-    "short_description": "Creating and customizing canvas apps and user interfaces using Power Apps."
+    "short_description": "Creating and customizing canvas apps and user interfaces using Power Apps.",
+    "image": "/uploads/courses/1763632773_31.png"
   },
   {
     "sheet": "Training Program",
@@ -3891,7 +4175,8 @@
       "Data Management & Cloud Storage",
       "Modernizing Data Lakes & Warehouses with Google Cloud "
     ],
-    "short_description": "Cloud storage use-cases, data lake/warehouse design, and BigQuery/Dataproc."
+    "short_description": "Cloud storage use-cases, data lake/warehouse design, and BigQuery/Dataproc.",
+    "image": "/uploads/courses/1763625387_32.png"
   },
   {
     "sheet": "Training Program",
@@ -3905,7 +4190,8 @@
       "Data Management & Cloud Storage",
       "Introduction to Cloud Computing"
     ],
-    "short_description": "Cloud computing models, core components, and emerging trends (serverless, microservices)."
+    "short_description": "Cloud computing models, core components, and emerging trends (serverless, microservices).",
+    "image": "/uploads/courses/1763625350_34.png"
   },
   {
     "sheet": "Training Program",
@@ -3919,7 +4205,8 @@
       "Data Management & Cloud Storage",
       "Google Cloud Fundamentals: Core Infrastructure"
     ],
-    "short_description": "GCP products, services, resource hierarchy, and core infrastructure components."
+    "short_description": "GCP products, services, resource hierarchy, and core infrastructure components.",
+    "image": "/uploads/courses/1763625331_33.png"
   },
   {
     "sheet": "Training Program",
@@ -3933,7 +4220,8 @@
       "Data Management & Cloud Storage",
       "Managing Big Data in Clusters and Cloud Storage"
     ],
-    "short_description": "Browsing/managing big data with Apache Hive/Impala and choosing cloud storage formats."
+    "short_description": "Browsing/managing big data with Apache Hive/Impala and choosing cloud storage formats.",
+    "image": "/uploads/courses/1763625368_35.png"
   },
   {
     "sheet": "Training Program",
@@ -3947,7 +4235,8 @@
       "Data Analysis & Interpretation",
       "Data Science: Visualization"
     ],
-    "short_description": "Data visualization principles focusing on ggplot2 and tableausque plots."
+    "short_description": "Data visualization principles focusing on ggplot2 and tableausque plots.",
+    "image": "/uploads/courses/1763624756_36.png"
   },
   {
     "sheet": "Training Program",
@@ -3961,7 +4250,8 @@
       "Data Analysis & Interpretation",
       "Data Analysis with Python"
     ],
-    "short_description": "Data analysis with Python: cleaning, exploratory analysis, and predictive modeling."
+    "short_description": "Data analysis with Python: cleaning, exploratory analysis, and predictive modeling.",
+    "image": "/uploads/courses/1763624158_37.png"
   },
   {
     "sheet": "Training Program",
@@ -3975,7 +4265,8 @@
       "Data Analysis & Interpretation",
       "Introduction to Data Analytics"
     ],
-    "short_description": "Foundational data analytics: analysis process, data roles, and data structures."
+    "short_description": "Foundational data analytics: analysis process, data roles, and data structures.",
+    "image": "/uploads/courses/1763624882_38.png"
   },
   {
     "sheet": "Training Program",
@@ -3989,7 +4280,8 @@
       "Data Analysis & Interpretation",
       "Excel Basics for Data Analysis"
     ],
-    "short_description": "Spreadsheet data analysis: Excel navigation, formulas, cleaning, and pivot tables."
+    "short_description": "Spreadsheet data analysis: Excel navigation, formulas, cleaning, and pivot tables.",
+    "image": "/uploads/courses/1763624784_39.png"
   },
   {
     "sheet": "Training Program",
@@ -4003,7 +4295,8 @@
       "Data Analysis & Interpretation",
       "Data Analysis with R Programming"
     ],
-    "short_description": "R programming language: syntax, data structures, and visualization using Tidyverse."
+    "short_description": "R programming language: syntax, data structures, and visualization using Tidyverse.",
+    "image": "/uploads/courses/1763624723_40.png"
   },
   {
     "sheet": "Training Program",
@@ -4017,7 +4310,8 @@
       "Data Analysis & Interpretation",
       "Excel Skills for Statistics and Data Analysis: Intermediate"
     ],
-    "short_description": "Advanced statistical analysis in Excel: inferential statistics, regression, visualization."
+    "short_description": "Advanced statistical analysis in Excel: inferential statistics, regression, visualization.",
+    "image": "/uploads/courses/1763624818_41.png"
   },
   {
     "sheet": "Training Program",
@@ -4031,7 +4325,8 @@
       "Data Analysis & Interpretation",
       "Introduction to Data Analysis using Microsoft Excel (Guided Project)"
     ],
-    "short_description": "Excel project: sorting, filtering, VLOOKUP, and PivotTables for data analysis."
+    "short_description": "Excel project: sorting, filtering, VLOOKUP, and PivotTables for data analysis.",
+    "image": "/uploads/courses/1763624858_42.png"
   },
   {
     "sheet": "Training Program",
@@ -4045,7 +4340,8 @@
       "Applied Data Science & Predictive Analytics",
       "Applied Data Science Capstone"
     ],
-    "short_description": "Capstone project: hands-on data science covering sourcing, modeling, and reporting."
+    "short_description": "Capstone project: hands-on data science covering sourcing, modeling, and reporting.",
+    "image": "/uploads/courses/1763624016_43.png"
   },
   {
     "sheet": "Training Program",
@@ -4059,7 +4355,8 @@
       "Applied Data Science & Predictive Analytics",
       "Databases and SQL for Data Science with Python"
     ],
-    "short_description": "Data analysis with Python and SQL querying/advanced techniques."
+    "short_description": "Data analysis with Python and SQL querying/advanced techniques.",
+    "image": "/uploads/courses/1763624035_44.png"
   },
   {
     "sheet": "Training Program",
@@ -4073,7 +4370,8 @@
       "Applied Data Science & Predictive Analytics",
       "SQL for Data Science"
     ],
-    "short_description": "Fundamentals of SQL for data science: SELECT, filtering, joins, and data manipulation."
+    "short_description": "Fundamentals of SQL for data science: SELECT, filtering, joins, and data manipulation.",
+    "image": "/uploads/courses/1763624104_46.png"
   },
   {
     "sheet": "Training Program",
@@ -4087,7 +4385,8 @@
       "Applied Data Science & Predictive Analytics",
       "Python for Data Science, AI & Development"
     ],
-    "short_description": "Python programming for data science/AI: core syntax, Pandas/Numpy, APIs, scraping."
+    "short_description": "Python programming for data science/AI: core syntax, Pandas/Numpy, APIs, scraping.",
+    "image": "/uploads/courses/1763624083_45.png"
   },
   {
     "sheet": "Training Program",
@@ -4101,7 +4400,8 @@
       "Data Privacy & Security",
       "Data Privacy Fundamentals"
     ],
-    "short_description": "Data privacy theories and real-world applications covering social media and AI."
+    "short_description": "Data privacy theories and real-world applications covering social media and AI.",
+    "image": "/uploads/courses/1763625631_48.png"
   },
   {
     "sheet": "Training Program",
@@ -4115,7 +4415,8 @@
       "Data Privacy & Security",
       "Data Privacy and Protection Standards"
     ],
-    "short_description": "Global data privacy regulations (GDPR/CCPA), protection strategies, and compliance."
+    "short_description": "Global data privacy regulations (GDPR/CCPA), protection strategies, and compliance.",
+    "image": "/uploads/courses/1763625605_47.png"
   },
   {
     "sheet": "Training Program",
@@ -4129,7 +4430,8 @@
       "Data Privacy & Security",
       "IBM Data Privacy for Information Architecture"
     ],
-    "short_description": "Data privacy principles in architecture: mechanisms, governance, and IBM DataFirst method."
+    "short_description": "Data privacy principles in architecture: mechanisms, governance, and IBM DataFirst method.",
+    "image": "/uploads/courses/1763625698_50.png"
   },
   {
     "sheet": "Training Program",
@@ -4143,7 +4445,8 @@
       "Data Privacy & Security",
       "Data Privacy, Security, Governance, Risk and Compliance"
     ],
-    "short_description": "Integrated data privacy, security, governance, risk, and compliance strategies."
+    "short_description": "Integrated data privacy, security, governance, risk, and compliance strategies.",
+    "image": "/uploads/courses/1763625659_49.png"
   },
   {
     "sheet": "Training Program",
@@ -4157,7 +4460,8 @@
       "Data Privacy & Security",
       "Privacy Law and Data Protection"
     ],
-    "short_description": "U.S./international privacy laws, FTC roles, GDPR, and practical compliance techniques."
+    "short_description": "U.S./international privacy laws, FTC roles, GDPR, and practical compliance techniques.",
+    "image": "/uploads/courses/1763625715_51.png"
   },
   {
     "sheet": "Training Program",
@@ -4171,7 +4475,8 @@
       "Data Visualization, Dashboarding & Reporting",
       "Data Analysis and Visualization with Power BI "
     ],
-    "short_description": "Power BI: report design, formatting, and creating interactive dashboards."
+    "short_description": "Power BI: report design, formatting, and creating interactive dashboards.",
+    "image": "/uploads/courses/1763625824_52.png"
   },
   {
     "sheet": "Training Program",
@@ -4185,7 +4490,8 @@
       "Data Visualization, Dashboarding & Reporting",
       "Harnessing the Power of Data with Power BI"
     ],
-    "short_description": "Power BI analyst role: analysis components, decision stages, and dashboard fundamentals."
+    "short_description": "Power BI analyst role: analysis components, decision stages, and dashboard fundamentals.",
+    "image": "/uploads/courses/1763625843_54.png"
   },
   {
     "sheet": "Training Program",
@@ -4199,7 +4505,8 @@
       "Data Visualization, Dashboarding & Reporting",
       "Data Analysis and Visualization with Power BI "
     ],
-    "short_description": "Power BI fundamentals: connecting data, shaping models, and creating dashboards."
+    "short_description": "Power BI fundamentals: connecting data, shaping models, and creating dashboards.",
+    "image": "/uploads/courses/1763625824_52.png"
   },
   {
     "sheet": "Training Program",
@@ -4213,7 +4520,8 @@
       "Data Collection",
       "Data Collection: Online, Telephone and Face-to-face"
     ],
-    "short_description": "Interview/self-administered data collection methods: survey techniques and limitations."
+    "short_description": "Interview/self-administered data collection methods: survey techniques and limitations.",
+    "image": "/uploads/courses/1763625266_56.png"
   },
   {
     "sheet": "Training Program",
@@ -4227,7 +4535,8 @@
       "Data Collection",
       "Data Collection and Integration"
     ],
-    "short_description": "Data gathering from files, databases, web pages, and APIs using Python/SQL."
+    "short_description": "Data gathering from files, databases, web pages, and APIs using Python/SQL.",
+    "image": "/uploads/courses/1763625240_55.png"
   },
   {
     "sheet": "Training Program",
@@ -4241,7 +4550,8 @@
       "Data Collection",
       "Framework for Data Collection and Analysis"
     ],
-    "short_description": "Data collection framework: sourcing, research questions, quality, sampling, error metrics."
+    "short_description": "Data collection framework: sourcing, research questions, quality, sampling, error metrics.",
+    "image": "/uploads/courses/1763625288_57.png"
   },
   {
     "sheet": "Training Program",
@@ -4255,7 +4565,8 @@
       "Digital Marketing",
       "The Strategy of Content Marketing"
     ],
-    "short_description": "Content marketing frameworks, editorial planning, and storytelling techniques."
+    "short_description": "Content marketing frameworks, editorial planning, and storytelling techniques.",
+    "image": "/uploads/courses/1763631773_63.png"
   },
   {
     "sheet": "Training Program",
@@ -4269,7 +4580,8 @@
       "Digital Marketing",
       "Foundations of Digital Marketing and E‑commerce"
     ],
-    "short_description": "Digital marketing/e-commerce fundamentals: funnels, customer journeys, and roles."
+    "short_description": "Digital marketing/e-commerce fundamentals: funnels, customer journeys, and roles.",
+    "image": "/uploads/courses/1763631720_61.png"
   },
   {
     "sheet": "Training Program",
@@ -4283,7 +4595,8 @@
       "Digital Marketing",
       "Digital Marketing"
     ],
-    "short_description": "Comprehensive digital marketing strategies: integrated channels, analytics, campaign management."
+    "short_description": "Comprehensive digital marketing strategies: integrated channels, analytics, campaign management.",
+    "image": "/uploads/courses/1763631664_59.png"
   },
   {
     "sheet": "Training Program",
@@ -4297,7 +4610,8 @@
       "Digital Marketing",
       "Attract and Engage Customers with Digital Marketing"
     ],
-    "short_description": "Brand awareness/engagement tactics: SEO, SEM, display advertising, and persona development."
+    "short_description": "Brand awareness/engagement tactics: SEO, SEM, display advertising, and persona development.",
+    "image": "/uploads/courses/1763631637_58.png"
   },
   {
     "sheet": "Training Program",
@@ -4311,7 +4625,8 @@
       "Digital Marketing",
       "Introduction to Digital Marketing"
     ],
-    "short_description": "Foundational digital marketing skills: social media, email, PPC, content, and growth hacking."
+    "short_description": "Foundational digital marketing skills: social media, email, PPC, content, and growth hacking.",
+    "image": "/uploads/courses/1763631744_62.png"
   },
   {
     "sheet": "Training Program",
@@ -4325,7 +4640,8 @@
       "Digital Marketing",
       "Digital Marketing Essentials Masterclass "
     ],
-    "short_description": "Social media marketing, SEO, SEM, and Facebook marketing fundamentals for upskilling."
+    "short_description": "Social media marketing, SEO, SEM, and Facebook marketing fundamentals for upskilling.",
+    "image": "/uploads/courses/1763631693_60.png"
   },
   {
     "sheet": "Training Program",
@@ -4339,7 +4655,8 @@
       "Video Editing",
       "Mastering Final Cut Pro"
     ],
-    "short_description": "Final Cut Pro X: media import, timeline editing, effects, and audio workflows."
+    "short_description": "Final Cut Pro X: media import, timeline editing, effects, and audio workflows.",
+    "image": "/uploads/courses/1763632003_65.png"
   },
   {
     "sheet": "Training Program",
@@ -4353,7 +4670,8 @@
       "Video Editing",
       "Create a Promotional Video using Canva"
     ],
-    "short_description": "Canva video project: script, video slide design, animations, and marketing export."
+    "short_description": "Canva video project: script, video slide design, animations, and marketing export.",
+    "image": "/uploads/courses/1763631986_64.png"
   },
   {
     "sheet": "Training Program",
@@ -4367,7 +4685,8 @@
       "Video Editing",
       "YouTube Editing: Enhance Videos"
     ],
-    "short_description": "YouTube editing techniques: pacing, transitions, audio enhancement, and viewer retention."
+    "short_description": "YouTube editing techniques: pacing, transitions, audio enhancement, and viewer retention.",
+    "image": "/uploads/courses/1763632028_66.png"
   },
   {
     "sheet": "Training Program",
@@ -4381,7 +4700,8 @@
       "SEO",
       "Advanced Search Engine Optimization Strategies"
     ],
-    "short_description": "International SEO, mobile optimization, and performance metrics for global traffic."
+    "short_description": "International SEO, mobile optimization, and performance metrics for global traffic.",
+    "image": "/uploads/courses/1763631851_67.png"
   },
   {
     "sheet": "Training Program",
@@ -4395,7 +4715,8 @@
       "SEO",
       "Google SEO Fundamentals"
     ],
-    "short_description": "Fundamentals of SEO: on-page, off-page, technical SEO, and keyword research."
+    "short_description": "Fundamentals of SEO: on-page, off-page, technical SEO, and keyword research.",
+    "image": "/uploads/courses/1763631895_68.png"
   },
   {
     "sheet": "Training Program",
@@ -4409,7 +4730,8 @@
       "SEO",
       "Introduction to Google SEO"
     ],
-    "short_description": "SEO basics: evolving world, Google algorithms, and user-first SEO strategies."
+    "short_description": "SEO basics: evolving world, Google algorithms, and user-first SEO strategies.",
+    "image": "/uploads/courses/1763631915_69.png"
   },
   {
     "sheet": "Training Program",
@@ -4423,7 +4745,8 @@
       "Product Management",
       "Digital Product Management: Modern Fundamentals"
     ],
-    "short_description": "Creating actionable product focus: customer outcomes, roadmapping, iterative testing."
+    "short_description": "Creating actionable product focus: customer outcomes, roadmapping, iterative testing.",
+    "image": "/uploads/courses/1763630097_70.png"
   },
   {
     "sheet": "Training Program",
@@ -4437,7 +4760,8 @@
       "Product Management",
       "Product Management: An Introduction "
     ],
-    "short_description": "PM core concepts: lifecycle, personas, value creation, SWOT analysis, and ProdBoK®."
+    "short_description": "PM core concepts: lifecycle, personas, value creation, SWOT analysis, and ProdBoK®.",
+    "image": "/uploads/courses/1763630150_71.png"
   },
   {
     "sheet": "Training Program",
@@ -4451,7 +4775,8 @@
       "Design Thinking",
       "Design Thinking for the Greater Good: Innovation in the Social Sector"
     ],
-    "short_description": "Design thinking in social sector: stakeholder engagement, prototyping, and testing."
+    "short_description": "Design thinking in social sector: stakeholder engagement, prototyping, and testing.",
+    "image": "/uploads/courses/1763629755_73.png"
   },
   {
     "sheet": "Training Program",
@@ -4465,7 +4790,8 @@
       "Design Thinking",
       "Design Thinking for Innovators"
     ],
-    "short_description": "Core design thinking: applying empathy, ideation, prototyping, and testing."
+    "short_description": "Core design thinking: applying empathy, ideation, prototyping, and testing.",
+    "image": "/uploads/courses/1763629724_72.png"
   },
   {
     "sheet": "Training Program",
@@ -4479,7 +4805,8 @@
       "Design Thinking",
       "Innovation Through Design: Think, Make, Break, Repeat"
     ],
-    "short_description": "Iterative design processes: thinking, prototyping, testing, and repeating rapidly."
+    "short_description": "Iterative design processes: thinking, prototyping, testing, and repeating rapidly.",
+    "image": "/uploads/courses/1763629811_75.png"
   },
   {
     "sheet": "Training Program",
@@ -4493,7 +4820,8 @@
       "Design Thinking",
       "Design-Led Strategy (Design Strategy)"
     ],
-    "short_description": "Design strategy: blending design thinking with enterprise strategy via case studies."
+    "short_description": "Design strategy: blending design thinking with enterprise strategy via case studies.",
+    "image": "/uploads/courses/1763629784_74.png"
   },
   {
     "sheet": "Training Program",
@@ -4507,7 +4835,8 @@
       "Product Development",
       "Agile Project Management"
     ],
-    "short_description": "Backlog grooming, sprint planning, retrospectives, and agile scaling fundamentals."
+    "short_description": "Backlog grooming, sprint planning, retrospectives, and agile scaling fundamentals.",
+    "image": "/uploads/courses/1763629863_76.png"
   },
   {
     "sheet": "Training Program",
@@ -4521,7 +4850,8 @@
       "Product Development",
       "Cosmetic Product Development"
     ],
-    "short_description": "Cosmetic product development: idea generation, market, sustainability, and testing."
+    "short_description": "Cosmetic product development: idea generation, market, sustainability, and testing.",
+    "image": "/uploads/courses/1763629887_77.png"
   },
   {
     "sheet": "Training Program",
@@ -4535,7 +4865,8 @@
       "Product Innovation",
       "Managing the New Product Development Process"
     ],
-    "short_description": "Design thinking tools for innovation: CCRs, concept generation, prototyping."
+    "short_description": "Design thinking tools for innovation: CCRs, concept generation, prototyping.",
+    "image": "/uploads/courses/1763630033_81.png"
   },
   {
     "sheet": "Training Program",
@@ -4549,7 +4880,8 @@
       "Product Innovation",
       "Creativity, Innovation and Transformation"
     ],
-    "short_description": "Creativity and innovation frameworks: ideation tools, CENTER model, transformative practices."
+    "short_description": "Creativity and innovation frameworks: ideation tools, CENTER model, transformative practices.",
+    "image": "/uploads/courses/1763629928_78.png"
   },
   {
     "sheet": "Training Program",
@@ -4563,7 +4895,8 @@
       "Product Innovation",
       "Innovation Management"
     ],
-    "short_description": "Innovation management principles: idea generation, strategy, and implementation tools."
+    "short_description": "Innovation management principles: idea generation, strategy, and implementation tools.",
+    "image": "/uploads/courses/1763629985_80.png"
   },
   {
     "sheet": "Training Program",
@@ -4577,7 +4910,8 @@
       "Product Innovation",
       "Social Business Model and Planning for Social Innovation"
     ],
-    "short_description": "Social business modeling/planning: Business Model Canvas, organizational form, funding."
+    "short_description": "Social business modeling/planning: Business Model Canvas, organizational form, funding.",
+    "image": "/uploads/courses/1763630057_82.png"
   },
   {
     "sheet": "Training Program",
@@ -4591,7 +4925,8 @@
       "Product Innovation",
       "Healthcare Innovation: Need/Opportunity Identification"
     ],
-    "short_description": "Healthcare innovation: need identification, stakeholder engagement, and opportunity validation."
+    "short_description": "Healthcare innovation: need identification, stakeholder engagement, and opportunity validation.",
+    "image": "/uploads/courses/1763629958_79.png"
   },
   {
     "sheet": "Training Program",
@@ -4605,7 +4940,8 @@
       "Public Speaking",
       "Successful Presentation "
     ],
-    "short_description": "Practical presentation strategies: overcoming fear, designing visuals, and persuasive delivery."
+    "short_description": "Practical presentation strategies: overcoming fear, designing visuals, and persuasive delivery.",
+    "image": "/uploads/courses/1763630639_96.png"
   },
   {
     "sheet": "Training Program",
@@ -4619,7 +4955,8 @@
       "Public Speaking",
       "Speaking to Persuade: Motivating audiences with solid arguments and moving language"
     ],
-    "short_description": "Persuasive speaking: argument structure and emotional appeal for NGO action."
+    "short_description": "Persuasive speaking: argument structure and emotional appeal for NGO action.",
+    "image": "/uploads/courses/1763631460_85.png"
   },
   {
     "sheet": "Training Program",
@@ -4633,7 +4970,8 @@
       "Public Speaking",
       "Introduction to Public Speaking"
     ],
-    "short_description": "Foundational public speaking: structure, voice modulation, and audience engagement."
+    "short_description": "Foundational public speaking: structure, voice modulation, and audience engagement.",
+    "image": "/uploads/courses/1763630392_89.png"
   },
   {
     "sheet": "Training Program",
@@ -4647,7 +4985,8 @@
       "Public Speaking",
       "HarvardX: Rhetoric: The Art of Persuasive Writing and Public Speaking "
     ],
-    "short_description": "Rhetorical principles, persuasive writing, and public speaking strategies mastery."
+    "short_description": "Rhetorical principles, persuasive writing, and public speaking strategies mastery.",
+    "image": "/uploads/courses/1763631359_83.png"
   },
   {
     "sheet": "Training Program",
@@ -4661,7 +5000,8 @@
       "Idea Pitching",
       "Public Speaking and Presentations"
     ],
-    "short_description": "Foundational public speaking: structure, vocal variety, and slide design for pitches."
+    "short_description": "Foundational public speaking: structure, vocal variety, and slide design for pitches.",
+    "image": "/uploads/courses/1763630423_90.png"
   },
   {
     "sheet": "Training Program",
@@ -4675,7 +5015,8 @@
       "Idea Pitching",
       "How to Sell: An Overview of Fundamental Selling Techniques"
     ],
-    "short_description": "Fundamental selling techniques: process analysis, cold calling, and overcoming objections."
+    "short_description": "Fundamental selling techniques: process analysis, cold calling, and overcoming objections.",
+    "image": "/uploads/courses/1763630345_87.png"
   },
   {
     "sheet": "Training Program",
@@ -4689,7 +5030,8 @@
       "Idea Pitching",
       "Speaking and Presenting: Pitches and Persuasion"
     ],
-    "short_description": "Persuasive speaking/presentation: storytelling, expression range, and confident negotiation."
+    "short_description": "Persuasive speaking/presentation: storytelling, expression range, and confident negotiation.",
+    "image": "/uploads/courses/1763630453_91.png"
   },
   {
     "sheet": "Training Program",
@@ -4703,7 +5045,8 @@
       "Idea Pitching",
       "Influencing People"
     ],
-    "short_description": "Influence/persuasion tactics: building relationships and protecting from manipulation."
+    "short_description": "Influence/persuasion tactics: building relationships and protecting from manipulation.",
+    "image": "/uploads/courses/1763630364_88.png"
   },
   {
     "sheet": "Training Program",
@@ -4717,7 +5060,8 @@
       "Idea Pitching",
       "Introduction to Public Speaking"
     ],
-    "short_description": "Speech composition/delivery focusing on rhetorical structure and pitch confidence."
+    "short_description": "Speech composition/delivery focusing on rhetorical structure and pitch confidence.",
+    "image": "/uploads/courses/1763630392_89.png"
   },
   {
     "sheet": "Training Program",
@@ -4731,7 +5075,8 @@
       "Presentation Design",
       "Work Smarter with Microsoft PowerPoint"
     ],
-    "short_description": "Advanced PowerPoint features, template customization, and presentation flow optimization."
+    "short_description": "Advanced PowerPoint features, template customization, and presentation flow optimization.",
+    "image": "/uploads/courses/1763630660_97.png"
   },
   {
     "sheet": "Training Program",
@@ -4745,7 +5090,8 @@
       "Presentation Design",
       "Present with Purpose: Create/Deliver Effective Presentations"
     ],
-    "short_description": "Presentation design/delivery: impactful decks, storytelling, and managing nerves."
+    "short_description": "Presentation design/delivery: impactful decks, storytelling, and managing nerves.",
+    "image": "/uploads/courses/1763630621_95.png"
   },
   {
     "sheet": "Training Program",
@@ -4759,7 +5105,8 @@
       "Presentation Design",
       "Designing and Formatting a Presentation in PowerPoint"
     ],
-    "short_description": "PowerPoint 365 project: theme, formatting, table insertion, and finalizing decks."
+    "short_description": "PowerPoint 365 project: theme, formatting, table insertion, and finalizing decks.",
+    "image": "/uploads/courses/1763630577_93.png"
   },
   {
     "sheet": "Training Program",
@@ -4773,7 +5120,8 @@
       "Presentation Design",
       "Effective Business Presentations with Powerpoint"
     ],
-    "short_description": "Data-driven storytelling in PowerPoint: structure, design, and professional delivery."
+    "short_description": "Data-driven storytelling in PowerPoint: structure, design, and professional delivery.",
+    "image": "/uploads/courses/1763630600_94.png"
   },
   {
     "sheet": "Training Program",
@@ -4787,7 +5135,8 @@
       "Presentation Design",
       "Successful Presentation"
     ],
-    "short_description": "Public speaking fundamentals: mastering fear, presentation formula, verbal/non-verbal skills."
+    "short_description": "Public speaking fundamentals: mastering fear, presentation formula, verbal/non-verbal skills.",
+    "image": "/uploads/courses/1763630639_96.png"
   },
   {
     "sheet": "Training Program",
@@ -4801,7 +5150,8 @@
       "Presentation Design",
       "Create and Design Digital Products using Canva"
     ],
-    "short_description": "Canva digital product design: covers, templates, protection, and watermarking."
+    "short_description": "Canva digital product design: covers, templates, protection, and watermarking.",
+    "image": "/uploads/courses/1763630560_92.png"
   },
   {
     "sheet": "Training Program",
@@ -4815,7 +5165,8 @@
       "Project and Program Management",
       "Fundamentals of Project Planning and Management "
     ],
-    "short_description": "Hypothesis-driven planning, risk analysis, earned value, and stakeholder engagement."
+    "short_description": "Hypothesis-driven planning, risk analysis, earned value, and stakeholder engagement.",
+    "image": "/uploads/courses/1763631011_101.png"
   },
   {
     "sheet": "Training Program",
@@ -4829,7 +5180,8 @@
       "Project and Program Management",
       "IBM Project Management Basics "
     ],
-    "short_description": "Project initiation, planning, execution, monitoring, and closing (IBM best practices)."
+    "short_description": "Project initiation, planning, execution, monitoring, and closing (IBM best practices).",
+    "image": "/uploads/courses/1763631034_102.png"
   },
   {
     "sheet": "Training Program",
@@ -4843,7 +5195,8 @@
       "Project and Program Management",
       "Foundations of Project Management"
     ],
-    "short_description": "Foundational PM concepts: roles, life cycle, methodologies, and culture impact."
+    "short_description": "Foundational PM concepts: roles, life cycle, methodologies, and culture impact.",
+    "image": "/uploads/courses/1763630738_100.png"
   },
   {
     "sheet": "Training Program",
@@ -4857,7 +5210,8 @@
       "Project and Program Management",
       "Project Management Essentials"
     ],
-    "short_description": "Core PM principles: communication, leadership, planning, and software selection."
+    "short_description": "Core PM principles: communication, leadership, planning, and software selection.",
+    "image": "/uploads/courses/1763631083_104.png"
   },
   {
     "sheet": "Training Program",
@@ -4871,7 +5225,8 @@
       "Project and Program Management",
       "Agile Project Management"
     ],
-    "short_description": "Agile PM: philosophy, Scrum ceremonies, backlog, sprint planning, and coaching."
+    "short_description": "Agile PM: philosophy, Scrum ceremonies, backlog, sprint planning, and coaching.",
+    "image": "/uploads/courses/1763629863_76.png"
   },
   {
     "sheet": "Training Program",
@@ -4885,7 +5240,8 @@
       "Project and Program Management",
       "Introduction to Project Management"
     ],
-    "short_description": "Project management fundamentals: definitions, methodologies, roles, and career paths."
+    "short_description": "Project management fundamentals: definitions, methodologies, roles, and career paths.",
+    "image": "/uploads/courses/1763631065_103.png"
   },
   {
     "sheet": "Training Program",
@@ -4899,7 +5255,8 @@
       "Project and Program Management",
       "Create a Project Management Tracker using Microsoft Excel"
     ],
-    "short_description": "Excel for PM project: creating, formatting, and tracking spreadsheets/workbooks."
+    "short_description": "Excel for PM project: creating, formatting, and tracking spreadsheets/workbooks.",
+    "image": "/uploads/courses/1763630714_99.png"
   },
   {
     "sheet": "Training Program",
@@ -4913,7 +5270,8 @@
       "Operational Excellence ",
       "Operations Excellence Specialization"
     ],
-    "short_description": "Operational strategy, process optimization, Lean tools, and Six Sigma basics."
+    "short_description": "Operational strategy, process optimization, Lean tools, and Six Sigma basics.",
+    "image": "/uploads/courses/1763630527_107.png"
   },
   {
     "sheet": "Training Program",
@@ -4927,7 +5285,8 @@
       "Operational Excellence ",
       "Lean Management Fundamentals"
     ],
-    "short_description": "Lean principles: identifying waste, tools (Kaizen, Kanban), and leadership role."
+    "short_description": "Lean principles: identifying waste, tools (Kaizen, Kanban), and leadership role.",
+    "image": "/uploads/courses/1763630508_106.png"
   },
   {
     "sheet": "Training Program",
@@ -4941,7 +5300,8 @@
       "Operational Excellence ",
       "Lean Management Course"
     ],
-    "short_description": "Lean principles/tools: TPS, JIT, 7 wastes, 5S, Kaizen, Kanban, and metrics."
+    "short_description": "Lean principles/tools: TPS, JIT, 7 wastes, 5S, Kaizen, Kanban, and metrics.",
+    "image": "/uploads/courses/1763630491_105.png"
   },
   {
     "sheet": "Training Program",
@@ -4955,7 +5315,8 @@
       "Social Entrepreneurship and Innovation",
       "Creating Change through Social Entrepreneurship"
     ],
-    "short_description": "Social problem definition, solution development, business model, and impact measurement."
+    "short_description": "Social problem definition, solution development, business model, and impact measurement.",
+    "image": "/uploads/courses/1763631539_108.png"
   },
   {
     "sheet": "Training Program",
@@ -4969,7 +5330,8 @@
       "Social Entrepreneurship and Innovation",
       "Social Entrepreneurship and Systems Change"
     ],
-    "short_description": "Systems thinking in social entrepreneurship: collaboration, policy advocacy, scaling solutions."
+    "short_description": "Systems thinking in social entrepreneurship: collaboration, policy advocacy, scaling solutions.",
+    "image": "/uploads/courses/1763631592_109.png"
   },
   {
     "sheet": "case-studies",
@@ -4989,7 +5351,8 @@
     "word_count": 1288,
     "industry": "Education",
     "problem_type": "Digital Transformation",
-    "short_description": "Salesforce centralized 160+ projects, boosting LLF data accuracy and efficiency."
+    "short_description": "Salesforce centralized 160+ projects, boosting LLF data accuracy and efficiency.",
+    "image": "/uploads/studies/1764056043_logo_llf.png"
   },
   {
     "sheet": "case-studies",
@@ -5009,7 +5372,8 @@
     "word_count": 1014,
     "industry": "Technology",
     "problem_type": "Operational Excellence",
-    "short_description": "Hybrid tech stack, AI/GIS, enables scalable, verifiable agroforestry monitoring and impact."
+    "short_description": "Hybrid tech stack, AI/GIS, enables scalable, verifiable agroforestry monitoring and impact.",
+    "image": null
   },
   {
     "sheet": "case-studies",
@@ -5029,7 +5393,8 @@
     "word_count": 639,
     "industry": "Education",
     "problem_type": "Operational Excellence",
-    "short_description": "AI-assisted mentoring streamlined peer coaching, boosting coverage and efficiency by 30%."
+    "short_description": "AI-assisted mentoring streamlined peer coaching, boosting coverage and efficiency by 30%.",
+    "image": "/uploads/studies/1764055608_logo_i-sakhsam.png"
   },
   {
     "sheet": "case-studies",
@@ -5049,7 +5414,8 @@
     "word_count": 650,
     "industry": "Education",
     "problem_type": "Impact Measurement",
-    "short_description": "UMANG mobile app streamlined data/support, boosting student attendance 31% in Balwadis."
+    "short_description": "UMANG mobile app streamlined data/support, boosting student attendance 31% in Balwadis.",
+    "image": "/uploads/studies/1764055678_logo_Vipla-Foundation.png"
   },
   {
     "sheet": "case-studies",
@@ -5069,7 +5435,8 @@
     "word_count": 1274,
     "industry": "Education",
     "problem_type": "Operational Excellence",
-    "short_description": "ERP/Mobile apps digitized supply chain, improving efficiency and compliance."
+    "short_description": "ERP/Mobile apps digitized supply chain, improving efficiency and compliance.",
+    "image": null
   },
   {
     "sheet": "case-studies",
@@ -5089,7 +5456,8 @@
     "word_count": 1557,
     "industry": "Education",
     "problem_type": "Operational Excellence",
-    "short_description": "Hybrid tech ecosystem amplified human capacity, enhancing learner journeys and placement rate."
+    "short_description": "Hybrid tech ecosystem amplified human capacity, enhancing learner journeys and placement rate.",
+    "image": "/uploads/studies/1764055887_logo_Anudip-2--updated.png"
   },
   {
     "sheet": "case-studies",
@@ -5109,7 +5477,8 @@
     "word_count": 937,
     "industry": "Technology",
     "problem_type": "Digital Transformation",
-    "short_description": "Lighthouse custom software enabled real-time vocational education monitoring across 25+ states."
+    "short_description": "Lighthouse custom software enabled real-time vocational education monitoring across 25+ states.",
+    "image": "/uploads/studies/1764055646_logo_LAHI.png"
   },
   {
     "sheet": "case-studies",
@@ -5129,7 +5498,8 @@
     "word_count": 1118,
     "industry": "Healthcare",
     "problem_type": "Operational Excellence",
-    "short_description": "NuTree app digitized nutrition counseling, resulting in 3x reach and better health outcomes."
+    "short_description": "NuTree app digitized nutrition counseling, resulting in 3x reach and better health outcomes.",
+    "image": "/uploads/studies/1764055587_logo_fmch-2.png"
   },
   {
     "sheet": "case-studies",
@@ -5149,7 +5519,8 @@
     "word_count": 726,
     "industry": "Education",
     "problem_type": "Operational Excellence",
-    "short_description": "ML model achieved 90% accuracy, enabling precision targeting for girl enrollment 7x faster."
+    "short_description": "ML model achieved 90% accuracy, enabling precision targeting for girl enrollment 7x faster.",
+    "image": "/uploads/studies/1764056416_logo_educate-girls-gis.png"
   },
   {
     "sheet": "case-studies",
@@ -5169,7 +5540,8 @@
     "word_count": 925,
     "industry": "Technology",
     "problem_type": "Operational Excellence",
-    "short_description": "GIS platform streamlined planning, automating cluster generation and optimizing field routes."
+    "short_description": "GIS platform streamlined planning, automating cluster generation and optimizing field routes.",
+    "image": "/uploads/studies/1764056416_logo_educate-girls-gis.png"
   },
   {
     "sheet": "case-studies",
@@ -5189,6 +5561,7 @@
     "word_count": 672,
     "industry": "Technology",
     "problem_type": "Operational Excellence",
-    "short_description": "Custom mobile app enabled 100% digital data, eliminating maternal deaths in high-risk cases."
+    "short_description": "Custom mobile app enabled 100% digital data, eliminating maternal deaths in high-risk cases.",
+    "image": "/uploads/studies/1764055413_logo_ChatGPT Image Jul 7, 2025, 08_19_14 PM.png"
   }
 ]

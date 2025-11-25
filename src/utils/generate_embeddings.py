@@ -4,6 +4,7 @@ import pandas as pd
 import json
 import faiss
 import os
+import re
 from sentence_transformers import SentenceTransformer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from fuzzywuzzy import fuzz
@@ -12,6 +13,33 @@ import pickle
 
 # Setup output directory
 os.makedirs("vectorstore", exist_ok=True)
+
+# Load image mapping if available
+IMAGE_MAPPING_FILE = "data/slug_to_image_mapping.json"
+slug_to_image = {}
+
+if os.path.exists(IMAGE_MAPPING_FILE):
+    try:
+        with open(IMAGE_MAPPING_FILE, 'r', encoding='utf-8') as f:
+            image_data = json.load(f)
+            slug_to_image = image_data.get('mapping', {})
+            print(f"✅ Loaded {len(slug_to_image)} image mappings from external API")
+    except Exception as e:
+        print(f"⚠️  Warning: Could not load image mappings: {e}")
+        slug_to_image = {}
+else:
+    print(f"⚠️  Image mapping file not found: {IMAGE_MAPPING_FILE}")
+    print("   Run 'python src/utils/fetch_external_images.py' to fetch images")
+
+
+def create_url_slug(text: str) -> str:
+    """Convert text to URL-friendly slug (same logic as search_engine.py)"""
+    slug = text.lower()
+    slug = re.sub(r'[^a-z0-9\s-]', '', slug)
+    slug = re.sub(r'\s+', '-', slug)
+    slug = re.sub(r'-+', '-', slug)
+    slug = slug.strip('-')
+    return slug
 
 # Clear previous vectorstore
 if os.path.exists("vectorstore/faiss_index.index"):
@@ -102,6 +130,15 @@ for config in sheet_configs:
                 for field in config["display_fields"]:
                     display_data.append(cs.get(field, ""))
                 
+                # Get image from slug mapping for case studies
+                image_path = None
+                case_study_title = cs.get("title", "")
+                if case_study_title:
+                    # Clean the title to match slug format
+                    clean_title = case_study_title.replace('- ', '').split('(')[0].strip()
+                    slug = create_url_slug(clean_title)
+                    image_path = slug_to_image.get(slug)
+                
                 # Store metadata
                 metadata_entry = {
                     "sheet": "case-studies",
@@ -113,7 +150,8 @@ for config in sheet_configs:
                     "word_count": cs.get("word_count", 0),
                     "industry": cs.get("industry", ""),
                     "problem_type": cs.get("problem_type", ""),
-                    "short_description": cs.get("short_description", "")  # Add short_description
+                    "short_description": cs.get("short_description", ""),  # Add short_description
+                    "image": image_path  # Add image path from external API
                 }
                 all_metadata.append(metadata_entry)
                 all_texts.append(embed_text)
@@ -169,11 +207,37 @@ for config in sheet_configs:
             # Remove short_description from values array (keep only display fields)
             values_without_short_desc = row_data[:-1] if len(row_data) > 1 else row_data
             
+            # Generate slug for image lookup based on category
+            image_path = None
+            sheet_name_lower = config["sheet_name"].lower()
+            
+            if "cleaned sheet" in sheet_name_lower or "tools" in sheet_name_lower:
+                # Tools: use Name of Tool (index 2 in embed_cols, but index 2 in values after removal)
+                tool_name = values_without_short_desc[2] if len(values_without_short_desc) >= 3 else ""
+                if tool_name:
+                    slug = create_url_slug(str(tool_name))
+                    image_path = slug_to_image.get(slug)
+                    
+            elif "service provider" in sheet_name_lower:
+                # Services: use Name of Service Provider (index 0)
+                provider_name = values_without_short_desc[0] if len(values_without_short_desc) >= 1 else ""
+                if provider_name:
+                    slug = create_url_slug(str(provider_name))
+                    image_path = slug_to_image.get(slug)
+                    
+            elif "training" in sheet_name_lower:
+                # Courses: use Course Title (index 2)
+                course_title = values_without_short_desc[2] if len(values_without_short_desc) >= 3 else ""
+                if course_title:
+                    slug = create_url_slug(str(course_title))
+                    image_path = slug_to_image.get(slug)
+            
             metadata_entry = {
                 "sheet": config["sheet_name"],
                 "column_headers": config["column_headers"][:-1],  # Exclude short_description from headers
                 "values": values_without_short_desc,
-                "short_description": short_desc  # Add as separate field
+                "short_description": short_desc,  # Add as separate field
+                "image": image_path  # Add image path from external API
             }
             all_metadata.append(metadata_entry)
 
