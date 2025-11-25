@@ -95,7 +95,8 @@ def transform_result_to_api_format(result: Dict[str, Any], rank: int) -> SearchR
         problem_type=metadata.get('problem_type'),
         case_study_id=metadata.get('case_study_id'),
         summary=metadata.get('summary'),
-        word_count=metadata.get('word_count')
+        word_count=metadata.get('word_count'),
+        short_description=metadata.get('short_description', '')  # Add short_description
     )
     
     return SearchResult(

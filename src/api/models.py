@@ -22,6 +22,7 @@ class SearchResultMetadata(BaseModel):
     case_study_id: Optional[int] = Field(None, description="Case study ID")
     summary: Optional[str] = Field(None, description="Case study summary")
     word_count: Optional[int] = Field(None, description="Word count (case studies only)")
+    short_description: Optional[str] = Field(None, description="Short description of the item")
 
 
 class SearchResult(BaseModel):

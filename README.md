@@ -1,4 +1,4 @@
-222222222222222222222222222222222222A hybrid search system combining semantic search (70%) and TF-IDF keyword matching (30%) for intelligent search across tools, service providers, training courses, and case studies.
+A hybrid search system combining semantic search (70%) and TF-IDF keyword matching (30%) for intelligent search across tools, service providers, training courses, and case studies.
 
 ## 📋 Table of Contents
 Money. 

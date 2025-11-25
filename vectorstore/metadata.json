@@ -10,7 +10,8 @@
       "AI Tools",
       "3D Design",
       "Sloyd"
-    ]
+    ],
+    "short_description": "Generative AI platform for quick 3D modeling using simple parameters."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -23,7 +24,8 @@
       "AI Tools",
       "3D Design",
       "Spline"
-    ]
+    ],
+    "short_description": "User-friendly web 3D design tool for interactive content creation."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -36,7 +38,8 @@
       "AI Tools",
       "3D Design",
       "Runway"
-    ]
+    ],
+    "short_description": "Suite of AI tools for video editing, image, and 3D content creation."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -49,7 +52,8 @@
       "AI Tools",
       "Code & New Development",
       "Zoho Creator"
-    ]
+    ],
+    "short_description": "Low-code platform for building custom web and mobile business applications."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -62,7 +66,8 @@
       "AI Tools",
       "Code & New Development",
       "GitHub Copilot"
-    ]
+    ],
+    "short_description": "AI pair programmer suggesting code and functions to developers in real-time."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -75,7 +80,8 @@
       "AI Tools",
       "Code & New Development",
       "Amazon Code Whisperer/Amazon Q"
-    ]
+    ],
+    "short_description": "AI coding companion generating real-time code suggestions within development environments (IDEs)."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -88,7 +94,8 @@
       "AI Tools",
       "Text Generation",
       "Copy.ai"
-    ]
+    ],
+    "short_description": "AI content generation tool creating marketing copy, blog posts, and written materials."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -101,7 +108,8 @@
       "AI Tools",
       "Text Generation",
       "Jasper"
-    ]
+    ],
+    "short_description": "AI writing assistant generating human-like content for marketing and articles quickly."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -114,7 +122,8 @@
       "AI Tools",
       "Text Generation",
       "Napkin AI"
-    ]
+    ],
+    "short_description": "AI writing assistant to capture, organize, and refine ideas and improve drafts."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -127,7 +136,8 @@
       "AI Tools",
       "Image & Video Generation",
       "DALL-E 3"
-    ]
+    ],
+    "short_description": "OpenAI's AI model generating diverse, detailed images from text descriptions."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -140,7 +150,8 @@
       "AI Tools",
       "Image & Video Generation",
       "Midjourney"
-    ]
+    ],
+    "short_description": "AI program creating visually distinctive, artistic images from text descriptions."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -153,7 +164,8 @@
       "AI Tools",
       "Presentation Generation",
       "Canva AI"
-    ]
+    ],
+    "short_description": "AI-enhanced platform for quick, professional visual, document, and multimedia design."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -166,7 +178,8 @@
       "AI Tools",
       "Presentation Generation",
       "Beautiful.ai"
-    ]
+    ],
+    "short_description": "AI presentation software that automatically applies best design practices for elegant slides."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -179,7 +192,8 @@
       "AI Tools",
       "Presentation Generation",
       "SlideShare"
-    ]
+    ],
+    "short_description": "Hosting service for sharing professional content: presentations, documents, and videos."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -192,7 +206,8 @@
       "AI Tools",
       "Presentation Generation",
       "Prezi"
-    ]
+    ],
+    "short_description": "Cloud-based software for dynamic, non-linear presentations using a single zoomable canvas."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -205,7 +220,8 @@
       "AI Tools",
       "Presentation Generation",
       "Stotio"
-    ]
+    ],
+    "short_description": "AI growth platform automating pitch decks, strategic content, and narrative creation."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -218,7 +234,8 @@
       "AI Tools",
       "Presentation Generation",
       "Gamma"
-    ]
+    ],
+    "short_description": "New media format for creating engaging, interactive presentations and web pages."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -231,7 +248,8 @@
       "AI Tools",
       "Audio, Voice & Music Generation",
       "ElevenLabs"
-    ]
+    ],
+    "short_description": "AI voice technology specializing in realistic voice synthesis and high-fidelity cloning."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -244,7 +262,8 @@
       "AI Tools",
       "Audio, Voice & Music Generation",
       "Play.ht"
-    ]
+    ],
+    "short_description": "AI text-to-speech generator converting text into natural-sounding audio articles."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -257,7 +276,8 @@
       "AI Tools",
       "Audio, Voice & Music Generation",
       "Soundraw"
-    ]
+    ],
+    "short_description": "AI music generator creating custom, unique soundtracks by selecting mood and genre."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -270,7 +290,8 @@
       "AI Tools",
       "Audio, Voice & Music Generation",
       "Suno"
-    ]
+    ],
+    "short_description": "AI music generation platform creating full songs with vocals from text prompts."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -283,7 +304,8 @@
       "AI Tools",
       "Image & Video Generation",
       "D-ID"
-    ]
+    ],
+    "short_description": "AI technology for creating realistic talking avatars and animating faces from images."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -296,7 +318,8 @@
       "AI Tools",
       "Text Generation",
       "Bolt New"
-    ]
+    ],
+    "short_description": "AI-driven platform automating blog posts, social media, and marketing content generation."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -309,7 +332,8 @@
       "AI Tools",
       "Code & New Development",
       "Lovable AI"
-    ]
+    ],
+    "short_description": "AI copywriting platform generating emotionally resonant ad copy to boost engagement."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -322,7 +346,8 @@
       "AI Tools",
       "Text Generation",
       "MarketMuse"
-    ]
+    ],
+    "short_description": "AI content intelligence platform for planning, creating, and optimizing content strategy."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -335,7 +360,8 @@
       "AI Tools",
       "Image & Video Generation",
       "Synthesia"
-    ]
+    ],
+    "short_description": "AI video generation platform creating professional videos with custom AI avatars."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -348,7 +374,8 @@
       "AI Tools",
       "Text Generation",
       "Grammarly"
-    ]
+    ],
+    "short_description": "AI writing assistant improving grammar, clarity, engagement, and delivery in real-time."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -361,7 +388,8 @@
       "AI Tools",
       "Text Generation",
       "ProWritingAid"
-    ]
+    ],
+    "short_description": "Writing software providing comprehensive feedback on style, grammar, and readability."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -374,7 +402,8 @@
       "AI Tools",
       "Audio, Voice & Music Generation",
       "Rev AI"
-    ]
+    ],
+    "short_description": "AI speech-to-text and NLP platform for transcription, captioning, and sentiment analysis."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -387,7 +416,8 @@
       "AI Tools",
       "Audio, Voice & Music Generation",
       "AssemblyAI"
-    ]
+    ],
+    "short_description": "API-based AI speech-to-text with advanced audio intelligence features like summarization."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -400,7 +430,8 @@
       "AI Tools",
       "Text Generation",
       "Amazon Comprehend"
-    ]
+    ],
+    "short_description": "NLP service using machine learning to find insights and relationships in text."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -413,7 +444,8 @@
       "AI Tools",
       "Text Generation",
       "DeepL"
-    ]
+    ],
+    "short_description": "AI machine translation service known for high-quality, nuanced, and accurate translations."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -426,7 +458,8 @@
       "AI Tools",
       "Image & Video Generation",
       "Descript"
-    ]
+    ],
+    "short_description": "All-in-one editor: edit audio/video by simply editing the text transcript."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -439,7 +472,8 @@
       "AI Tools",
       "Image & Video Generation",
       "Runway"
-    ]
+    ],
+    "short_description": "Generative AI suite for video editing, image, and 3D content creation."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -452,7 +486,8 @@
       "AI Tools",
       "Data Analysis",
       "Obviously AI"
-    ]
+    ],
+    "short_description": "No-code AI platform for business users to build predictive machine learning models."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -465,7 +500,8 @@
       "AI Tools",
       "Data Analysis",
       "Medallia"
-    ]
+    ],
+    "short_description": "Experience management platform for collecting, analyzing, and acting on customer feedback."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -478,7 +514,8 @@
       "AI Tools",
       "Data Analysis",
       "MindsDB"
-    ]
+    ],
+    "short_description": "Open-source AI layer for databases to build machine learning models with data."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -491,7 +528,8 @@
       "AI Tools",
       "Data Analysis",
       "Chat CSV"
-    ]
+    ],
+    "short_description": "Tool allowing users to analyze and ask natural language questions about CSV data."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -504,7 +542,8 @@
       "AI Tools",
       "Data Visualization",
       "Graphite"
-    ]
+    ],
+    "short_description": "Developer platform automating pull request stacking and unified code review workflows."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -517,7 +556,8 @@
       "AI Tools",
       "Data Visualization",
       "ChartPixel"
-    ]
+    ],
+    "short_description": "AI data analysis platform automating data cleaning, visualization, and insights generation."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -530,7 +570,8 @@
       "AI Tools",
       "Productivity Tools",
       "ChatGPT"
-    ]
+    ],
+    "short_description": "OpenAI's AI conversational agent generating human-like text and creative content."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -543,7 +584,8 @@
       "AI Tools",
       "Productivity Tools",
       "Claude"
-    ]
+    ],
+    "short_description": "Anthropic's large language model focused on helpful, harmless, honest reasoning and conversation."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -556,7 +598,8 @@
       "AI Tools",
       "Productivity Tools",
       "Meta AI"
-    ]
+    ],
+    "short_description": "Generative AI tools across Facebook/Instagram/WhatsApp for content and chat assistance."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -569,7 +612,8 @@
       "AI Tools",
       "Productivity Tools",
       "Gemini"
-    ]
+    ],
+    "short_description": "Google's multimodal large language model processing text, code, audio, and images."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -582,7 +626,8 @@
       "AI Tools",
       "Productivity Tools",
       "Sarvam AI"
-    ]
+    ],
+    "short_description": "Indian-focused platform for building multilingual, voice-enabled AI agents and LLMs."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -595,7 +640,8 @@
       "AI Tools",
       "Productivity Tools",
       "Perplexity"
-    ]
+    ],
+    "short_description": "AI-powered search engine providing accurate, cited answers across diverse topics."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -608,7 +654,8 @@
       "AI Tools",
       "Productivity Tools",
       "Copilot (Microsoft)"
-    ]
+    ],
+    "short_description": "AI assistant in Microsoft 365 helping draft, summarize, and automate tasks."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -621,7 +668,8 @@
       "AI Tools",
       "Productivity Tools",
       "Grok AI "
-    ]
+    ],
+    "short_description": "xAI's conversational AI delivering real-time, unfiltered, witty dialogue integrated with social."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -634,7 +682,8 @@
       "AI Tools",
       "Productivity Tools",
       "Rossum"
-    ]
+    ],
+    "short_description": "AI intelligent document processing platform automating data extraction from various documents."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -647,7 +696,8 @@
       "Marketing & Communication",
       "Website Management",
       "Clearscope"
-    ]
+    ],
+    "short_description": "AI platform optimizing content for SEO by analyzing and recommending top keywords."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -660,7 +710,8 @@
       "AI Tools",
       "Social Media & Scheduling",
       "Hootsuite"
-    ]
+    ],
+    "short_description": "Social media management platform for scheduling, monitoring, and analyzing multiple profiles."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -673,7 +724,8 @@
       "AI Tools",
       "Social Media & Scheduling",
       "Later"
-    ]
+    ],
+    "short_description": "Visual social media marketing platform for planning and scheduling content across channels."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -686,7 +738,8 @@
       "AI Tools",
       "Social Media & Scheduling",
       "Sprout Social "
-    ]
+    ],
+    "short_description": "Robust social media management platform for outreach, engagement, and performance analysis."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -699,7 +752,8 @@
       "AI Tools",
       "Workflow Automation",
       "Zapier"
-    ]
+    ],
+    "short_description": "Web automation platform connecting apps to create automated workflows without coding."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -712,7 +766,8 @@
       "AI Tools",
       "Workflow Automation",
       "Slack"
-    ]
+    ],
+    "short_description": "Channel-based messaging platform for real-time team communication and collaboration."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -725,7 +780,8 @@
       "AI Tools",
       "Workflow Automation",
       "Hive"
-    ]
+    ],
+    "short_description": "Project management platform for team collaboration, task, and time tracking."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -738,7 +794,8 @@
       "AI Tools",
       "Workflow Automation",
       "Make"
-    ]
+    ],
+    "short_description": "Visual platform to design and automate complex workflows between various apps."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -751,7 +808,8 @@
       "Chatbot",
       "Chatbot",
       "GupShup"
-    ]
+    ],
+    "short_description": "Conversational messaging platform for businesses to deploy chatbots and engage customers."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -764,7 +822,8 @@
       "Chatbot",
       "Chatbot",
       "Lio"
-    ]
+    ],
+    "short_description": "Mobile-first app for individuals/small businesses to organize data in spreadsheet interface."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -777,7 +836,8 @@
       "Chatbot",
       "Chatbot",
       "Glific"
-    ]
+    ],
+    "short_description": "Open-source WhatsApp chatbot platform for non-profits to engage communities."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -790,7 +850,8 @@
       "Chatbot",
       "Chatbot",
       "WATI"
-    ]
+    ],
+    "short_description": "WhatsApp Business API solution for shared inbox, chatbots, and communication management."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -803,7 +864,8 @@
       "Chatbot",
       "Chatbot",
       "Zoko"
-    ]
+    ],
+    "short_description": "WhatsApp Business Platform solution to manage customer conversations and sales."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -816,7 +878,8 @@
       "Chatbot",
       "Chatbot",
       "WhatsApp"
-    ]
+    ],
+    "short_description": "Free app with business tools for small enterprises to organize customer conversations."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -829,7 +892,8 @@
       "Data & Analytics",
       "Cloud Services",
       "Google Cloud"
-    ]
+    ],
+    "short_description": "Suite of cloud computing services for compute, storage, big data, and AI."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -842,7 +906,8 @@
       "Data & Analytics",
       "Cloud Services",
       "Microsoft Azure"
-    ]
+    ],
+    "short_description": "Cloud computing platform offering services for compute, analytics, storage, and networking."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -855,7 +920,8 @@
       "Data & Analytics",
       "Cloud Services",
       "AWS"
-    ]
+    ],
+    "short_description": "Comprehensive cloud platform offering over 200 fully featured global services."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -868,7 +934,8 @@
       "Data & Analytics",
       "Cloud Services",
       "Oracle Cloud Infrastructure (OCI)"
-    ]
+    ],
+    "short_description": "Suite of cloud services for compute, storage, networking, and database tools."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -881,7 +948,8 @@
       "Data & Analytics",
       "Cloud Services",
       "IBM Cloud"
-    ]
+    ],
+    "short_description": "Hybrid-first cloud platform leveraging global data centers and IBM AI heritage."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -894,7 +962,8 @@
       "Data & Analytics",
       "Cloud Services",
       "DigitalOcean"
-    ]
+    ],
+    "short_description": "Developer-friendly cloud platform focused on simplicity, VMs, and predictable billing."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -907,7 +976,8 @@
       "Data & Analytics",
       "Data Analysis",
       "Microsoft Excel"
-    ]
+    ],
+    "short_description": "Spreadsheet application for organizing, analyzing, and manipulating data with calculations."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -920,7 +990,8 @@
       "Data & Analytics",
       "Data Analysis",
       "Power BI"
-    ]
+    ],
+    "short_description": "Business intelligence platform to connect, transform data, and create interactive reports."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -933,7 +1004,8 @@
       "Data & Analytics",
       "Data Analysis",
       "Tableau"
-    ]
+    ],
+    "short_description": "Data visualization platform creating interactive dashboards from diverse data sources."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -946,7 +1018,8 @@
       "Data & Analytics",
       "Data Analysis",
       "Zoho Analytics"
-    ]
+    ],
+    "short_description": "Self-service BI platform for data prep, visualization, and monitoring performance indicators."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -959,7 +1032,8 @@
       "Monitoring and Evaluation",
       "Reporting & Dashboarding",
       "Big Query"
-    ]
+    ],
+    "short_description": "Serverless data warehouse designed for analyzing large datasets using SQL."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -972,7 +1046,8 @@
       "Monitoring and Evaluation",
       "Reporting & Dashboarding",
       "Microsoft Excel"
-    ]
+    ],
+    "short_description": "Spreadsheet application for organizing, analyzing, and manipulating data with calculations."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -985,7 +1060,8 @@
       "Data & Analytics",
       "Data Analysis",
       "Alteryx"
-    ]
+    ],
+    "short_description": "Data analytics platform offering tools for data preparation and advanced predictive modeling."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -998,7 +1074,8 @@
       "Data & Analytics",
       "Data Analysis",
       "Looker Studio"
-    ]
+    ],
+    "short_description": "Free web-based tool for building interactive data visualization dashboards and reports."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1011,7 +1088,8 @@
       "Data & Analytics",
       "Data Analysis",
       "Superset"
-    ]
+    ],
+    "short_description": "Open-source web application for exploring data and creating interactive dashboards."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1024,7 +1102,8 @@
       "Finance and Accounts",
       "Payroll Management",
       "Zoho Payroll"
-    ]
+    ],
+    "short_description": "Cloud-based software to process salaries, manage statutory compliance, and payments."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1037,7 +1116,8 @@
       "Finance and Accounts",
       "Payroll Management",
       "Zimyo"
-    ]
+    ],
+    "short_description": "Integrated HR and payroll software platform for employee management and automation."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1050,7 +1130,8 @@
       "Finance and Accounts",
       "Payroll Management",
       "SynergyWorks - Office AutomationSoftware"
-    ]
+    ],
+    "short_description": "Office automation software suite streamlining administrative and operational office tasks."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1063,7 +1144,8 @@
       "Finance and Accounts",
       "Payroll Management",
       "Realbooks"
-    ]
+    ],
+    "short_description": "Cloud-based accounting software for financial, inventory, billing, and reporting management."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1076,7 +1158,8 @@
       "Finance and Accounts",
       "Payroll Management",
       "FactoHR"
-    ]
+    ],
+    "short_description": "Cloud-based HR and payroll software automating human resource operations and compliance."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1089,7 +1172,8 @@
       "Finance and Accounts",
       "Payroll Management",
       "Keka HR"
-    ]
+    ],
+    "short_description": "HRMS system for payroll, talent, attendance, and leave management to streamline operations."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1102,7 +1186,8 @@
       "Finance and Accounts",
       "Payroll Management",
       "TallyPrime"
-    ]
+    ],
+    "short_description": "Complete business management software for invoicing, accounting, inventory, and payroll."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1115,7 +1200,8 @@
       "Finance and Accounts",
       "Payroll Management",
       "Zoho Books"
-    ]
+    ],
+    "short_description": "Cloud-based accounting application to easily record, audit, and analyze financial transactions."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1128,7 +1214,8 @@
       "Finance and Accounts",
       "Payroll Management",
       "Xero"
-    ]
+    ],
+    "short_description": "Cloud-based accounting system for small businesses managing invoicing and payroll."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1141,7 +1228,8 @@
       "Finance and Accounts",
       "Payroll Management",
       "Vyapar"
-    ]
+    ],
+    "short_description": "Free GST-compliant invoicing and accounting app for Indian small businesses."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1154,7 +1242,8 @@
       "Finance and Accounts",
       "Resource Management",
       "ClickTime"
-    ]
+    ],
+    "short_description": "Time and expense tracking software managing employee hours and project costs efficiently."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1167,7 +1256,8 @@
       "Finance and Accounts",
       "Resource Management",
       "ERP4Impact"
-    ]
+    ],
+    "short_description": "ERP solution tailored for social sector organizations managing projects and finances."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1180,7 +1270,8 @@
       "Fundraising",
       "CRM/Grant/Donor Management",
       "Zoho CRM"
-    ]
+    ],
+    "short_description": "CRM software managing sales, marketing, and customer support activities efficiently."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1193,7 +1284,8 @@
       "Fundraising",
       "CRM/Grant/Donor Management",
       "Salesforce CRM"
-    ]
+    ],
+    "short_description": "Cloud-based CRM platform for managing customer engagement across all operational areas."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1206,7 +1298,8 @@
       "Fundraising",
       "CRM/Grant/Donor Management",
       "Bigin"
-    ]
+    ],
+    "short_description": "Pipeline-centric CRM software simplifying lead management for small businesses effectively."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1219,7 +1312,8 @@
       "Fundraising",
       "CRM/Grant/Donor Management",
       "Hubspot"
-    ]
+    ],
+    "short_description": "Comprehensive platform for CRM, marketing, sales, and customer service tools."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1232,7 +1326,8 @@
       "Fundraising",
       "CRM/Grant/Donor Management",
       "Streak"
-    ]
+    ],
+    "short_description": "CRM system integrating directly into Gmail to manage workflows from the inbox."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1245,7 +1340,8 @@
       "Fundraising",
       "CRM/Grant/Donor Management",
       "Social Integrated Platform"
-    ]
+    ],
+    "short_description": "ERP solution digitizing CSR fund management, project M&E, and compliance for impact."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1258,7 +1354,8 @@
       "Fundraising",
       "CRM/Grant/Donor Management",
       "SynergyDonor - Donor Relationship Platform"
-    ]
+    ],
+    "short_description": "Donor relationship management platform for tracking information, campaigns, and communication."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1271,7 +1368,8 @@
       "Fundraising",
       "CRM/Grant/Donor Management",
       "MGrant"
-    ]
+    ],
+    "short_description": "Web-based CSR grant management platform for proposal, evaluation, and project tracking."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1284,7 +1382,8 @@
       "Fundraising",
       "CRM/Grant/Donor Management",
       "Meritto"
-    ]
+    ],
+    "short_description": "AI operating system streamlining student recruitment, enrollment, and admissions processes."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1297,7 +1396,8 @@
       "Fundraising",
       "CRM/Grant/Donor Management",
       "Daanveda"
-    ]
+    ],
+    "short_description": "Donor and fundraising management platform built for Indian NGOs, including compliance."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1310,7 +1410,8 @@
       "Fundraising",
       "CRM/Grant/Donor Management",
       "Salesforce"
-    ]
+    ],
+    "short_description": "Cloud-based CRM platform for managing customer engagement across all operational areas."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1323,7 +1424,8 @@
       "Fundraising",
       "Crowdfunding",
       "danamojo"
-    ]
+    ],
+    "short_description": "Digital fundraising platform for non-profits to manage online donation collection easily."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1336,7 +1438,8 @@
       "Fundraising",
       "Crowdfunding",
       "Fuel a dream"
-    ]
+    ],
+    "short_description": "Crowdfunding platform enabling individuals and organizations to raise funds for causes."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1349,7 +1452,8 @@
       "Fundraising",
       "Crowdfunding",
       "Daanveda"
-    ]
+    ],
+    "short_description": "Donor and fundraising management platform built for Indian NGOs, including compliance."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1362,7 +1466,8 @@
       "Fundraising",
       "Crowdfunding",
       "Milaap"
-    ]
+    ],
+    "short_description": "Crowdfunding platform for personal needs, medical, education, and social causes."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1375,7 +1480,8 @@
       "Fundraising",
       "Crowdfunding",
       "Give India"
-    ]
+    ],
+    "short_description": "Donation platform providing a channel to contribute to verified NGOs across India."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1388,7 +1494,8 @@
       "Human Resources",
       "Attendance & Payroll Management",
       "Keka"
-    ]
+    ],
+    "short_description": "HRMS system for payroll, talent, attendance, and leave management to streamline operations."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1401,7 +1508,8 @@
       "Human Resources",
       "Attendance & Payroll Management",
       "Tech for School"
-    ]
+    ],
+    "short_description": "All-in-one platform automating HRMS/LMS to simplify comprehensive school management tasks."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1414,7 +1522,8 @@
       "Human Resources",
       "Attendance & Payroll Management",
       "Paybooks"
-    ]
+    ],
+    "short_description": "Cloud-based payroll and HR management software for processing salaries and compliance."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1427,7 +1536,8 @@
       "Human Resources",
       "Attendance & Payroll Management",
       "GreytHR"
-    ]
+    ],
+    "short_description": "Cloud-based HR and payroll software automating management, compliance, and processes."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1440,7 +1550,8 @@
       "Human Resources",
       "Attendance & Payroll Management",
       "Zoho People"
-    ]
+    ],
+    "short_description": "Cloud-based HRMS managing employee database, leave, attendance, and performance tracking."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1453,7 +1564,8 @@
       "Human Resources",
       "Attendance & Payroll Management",
       "Beehive"
-    ]
+    ],
+    "short_description": "Web-based HRMS platform automating employee lifecycle and attendance tracking."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1466,7 +1578,8 @@
       "Human Resources",
       "Attendance & Payroll Management",
       "FactoHR"
-    ]
+    ],
+    "short_description": "Cloud-based HR and payroll software automating human resource operations and compliance."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1479,7 +1592,8 @@
       "Human Resources",
       "Attendance & Payroll Management",
       "Keka HR"
-    ]
+    ],
+    "short_description": "HRMS system for payroll, talent, attendance, and leave management to streamline operations."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1492,7 +1606,8 @@
       "Human Resources",
       "Recruitment",
       "ERP Next for HR"
-    ]
+    ],
+    "short_description": "HR module within ERPNext for employee, payroll, and attendance management."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1505,7 +1620,8 @@
       "Human Resources",
       "Recruitment",
       "Zoho People"
-    ]
+    ],
+    "short_description": "Cloud-based HRMS managing employee database, leave, attendance, and performance tracking."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1518,7 +1634,8 @@
       "Human Resources",
       "Recruitment",
       "BeeHive"
-    ]
+    ],
+    "short_description": "Web-based HRMS platform automating employee lifecycle and attendance tracking."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1531,7 +1648,8 @@
       "Human Resources",
       "Recruitment",
       "People Hub"
-    ]
+    ],
+    "short_description": "HR management platform centralizing data, administration, and performance processes."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1544,7 +1662,8 @@
       "Human Resources",
       "Recruitment",
       "Zoho One"
-    ]
+    ],
+    "short_description": "Comprehensive suite of over 50 integrated business applications for running a business."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1557,7 +1676,8 @@
       "Learning & Development",
       "Fellowship Management",
       "Better Together"
-    ]
+    ],
+    "short_description": "Platform fostering collaboration and community engagement within the social impact sector."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1570,7 +1690,8 @@
       "Learning & Development",
       "Fellowship Management",
       "Journeys of Change"
-    ]
+    ],
+    "short_description": "Change-management app automating opportunity publication, tracking, and collaboration."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1583,7 +1704,8 @@
       "Learning & Development",
       "Fellowship Management",
       "Ally"
-    ]
+    ],
+    "short_description": "Mentorship software platform automating mentor-mentee matching and session management."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1596,7 +1718,8 @@
       "Learning & Development",
       "Learning Management System",
       "Moodle"
-    ]
+    ],
+    "short_description": "Free, open-source Learning Management System for dynamic online education courses."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1609,7 +1732,8 @@
       "Learning & Development",
       "Learning Management System",
       "GreytHR Academy"
-    ]
+    ],
+    "short_description": "Online learning platform automating HR and payroll upskilling and course delivery."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1622,7 +1746,8 @@
       "Learning & Development",
       "Learning Management System",
       "Tech for School"
-    ]
+    ],
+    "short_description": "All-in-one platform automating HRMS/LMS to simplify comprehensive school management tasks."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1635,7 +1760,8 @@
       "Learning & Development",
       "Learning Management System",
       "Edusystem"
-    ]
+    ],
+    "short_description": "LMS offering digital curricular content, resources, and assessments for core subjects."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1648,7 +1774,8 @@
       "Learning & Development",
       "Learning Management System",
       "Synergy Skills and Learning Management"
-    ]
+    ],
+    "short_description": "Skilling and LMS platform automating program mobilization, course creation, and tracking."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1661,7 +1788,8 @@
       "Learning & Development",
       "Learning Management System",
       "Firki "
-    ]
+    ],
+    "short_description": "Teach For India’s online platform offering courses and resources for teacher education."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1674,7 +1802,8 @@
       "Learning & Development",
       "Training & Development",
       "mLearn"
-    ]
+    ],
+    "short_description": "Educational platform leveraging mobile technology for content and knowledge dissemination."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1687,7 +1816,8 @@
       "Learning & Development",
       "Training & Development",
       "Orchard (Formerly Campus Cloud)"
-    ]
+    ],
+    "short_description": "School ERP and SIS automating attendance, assessment, and communication workflows."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1700,7 +1830,8 @@
       "Learning & Development",
       "Training & Development",
       "Meritto"
-    ]
+    ],
+    "short_description": "AI operating system streamlining student recruitment, enrollment, and admissions processes."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1713,7 +1844,8 @@
       "Learning & Development",
       "Training & Development",
       "Wordwall"
-    ]
+    ],
+    "short_description": "Website for educators to create interactive teaching resources, quizzes, and games."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1726,7 +1858,8 @@
       "Learning & Development",
       "Training & Development",
       "Orchard (Formerly Campus Cloud)"
-    ]
+    ],
+    "short_description": "School ERP and SIS automating attendance, assessment, and communication workflows."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1739,7 +1872,8 @@
       "Learning & Development",
       "Training & Development",
       "Meritto"
-    ]
+    ],
+    "short_description": "AI operating system streamlining student recruitment, enrollment, and admissions processes."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1752,7 +1886,8 @@
       "Learning & Development",
       "Training & Development",
       "Wordwall"
-    ]
+    ],
+    "short_description": "Website for educators to create interactive teaching resources, quizzes, and games."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1765,7 +1900,8 @@
       "Learning & Development",
       "Training & Development",
       "Eduapp"
-    ]
+    ],
+    "short_description": "School and institute management platform automating attendance, fees, and communication."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1778,7 +1914,8 @@
       "Marketing & Communication",
       "Email Marketing",
       "Mailchimp"
-    ]
+    ],
+    "short_description": "Email marketing and automation platform for campaigns, lists, and performance analysis."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1791,7 +1928,8 @@
       "Marketing & Communication",
       "Email Marketing",
       "SendGrid"
-    ]
+    ],
+    "short_description": "Cloud-based email platform for sending transactional and marketing emails securely."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1804,7 +1942,8 @@
       "Marketing & Communication",
       "Email Marketing",
       "Substack"
-    ]
+    ],
+    "short_description": "Online platform for writers to publish newsletters and podcasts via paid subscriptions."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1817,7 +1956,8 @@
       "Marketing & Communication",
       "Email Marketing",
       "Wix"
-    ]
+    ],
+    "short_description": "Cloud-based web development platform using drag-and-drop tools to create websites."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1830,7 +1970,8 @@
       "Marketing & Communication",
       "Image and Video Editing",
       "GIMP"
-    ]
+    ],
+    "short_description": "Free, open-source raster graphics editor for image retouching and composition."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1843,7 +1984,8 @@
       "Marketing & Communication",
       "Image and Video Editing",
       "Inkscape"
-    ]
+    ],
+    "short_description": "Free, open-source vector graphics editor for creating illustrations and diagrams."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1856,7 +1998,8 @@
       "Marketing & Communication",
       "Image and Video Editing",
       "Canva"
-    ]
+    ],
+    "short_description": "Graphic design platform using drag-and-drop to create professional visual content easily."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1869,7 +2012,8 @@
       "Marketing & Communication",
       "Outreach and Marketing",
       "Telegram"
-    ]
+    ],
+    "short_description": "Cloud-based instant messaging service offering secure, encrypted communication and channels."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1882,7 +2026,8 @@
       "Marketing & Communication",
       "Outreach and Marketing",
       "WhatsApp Business"
-    ]
+    ],
+    "short_description": "Free app with business tools for small enterprises to organize customer conversations."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1895,7 +2040,8 @@
       "Marketing & Communication",
       "Outreach and Marketing",
       "Hubspot"
-    ]
+    ],
+    "short_description": "Comprehensive platform for CRM, marketing, sales, and customer service tools."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1908,7 +2054,8 @@
       "Marketing & Communication",
       "Outreach and Marketing",
       "Mailchimp"
-    ]
+    ],
+    "short_description": "Email marketing and automation platform for campaigns, lists, and performance analysis."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1921,7 +2068,8 @@
       "Marketing & Communication",
       "Outreach and Marketing",
       "Magento"
-    ]
+    ],
+    "short_description": "Open-source e-commerce platform for building and managing robust online stores."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1934,7 +2082,8 @@
       "Marketing & Communication",
       "Outreach and Marketing",
       "Sprout Social "
-    ]
+    ],
+    "short_description": "Robust social media management platform for outreach, engagement, and performance analysis."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1947,7 +2096,8 @@
       "Marketing & Communication",
       "Outreach and Marketing",
       "Meritto"
-    ]
+    ],
+    "short_description": "AI operating system streamlining student recruitment, enrollment, and admissions processes."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1960,7 +2110,8 @@
       "Marketing & Communication",
       "Social Media & Community Engagement",
       "Socioboard"
-    ]
+    ],
+    "short_description": "Open-source social media management and content marketing platform for scheduling."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1973,7 +2124,8 @@
       "Marketing & Communication",
       "Social Media & Community Engagement",
       "Buffer\n"
-    ]
+    ],
+    "short_description": "Versatile social media management platform automating scheduling and multi-platform publishing."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1986,7 +2138,8 @@
       "Marketing & Communication",
       "Social Media & Community Engagement",
       "Meta"
-    ]
+    ],
+    "short_description": "Parent conglomerate for corporate governance, R&D, and ecosystem integration across platforms."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -1999,7 +2152,8 @@
       "Marketing & Communication",
       "Social Media & Community Engagement",
       "X (previously twitter)"
-    ]
+    ],
+    "short_description": "Social media platform for users to post and interact with short messages (\"tweets\")."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2012,7 +2166,8 @@
       "Marketing & Communication",
       "Social Media & Community Engagement",
       "Instagram"
-    ]
+    ],
+    "short_description": "Photo- and video-sharing social media for feeds, Stories, Reels, and visual engagement."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2025,7 +2180,8 @@
       "Marketing & Communication",
       "Social Media & Community Engagement",
       "Google Groups"
-    ]
+    ],
+    "short_description": "Service for creating online discussion forums and email-based communication groups."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2038,7 +2194,8 @@
       "Marketing & Communication",
       "Social Media & Community Engagement",
       "Techforgood Community"
-    ]
+    ],
+    "short_description": "Social impact collaboration platform for networking, project incubation, and resource sharing."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2051,7 +2208,8 @@
       "Marketing & Communication",
       "Social Media & Community Engagement",
       "Better Together"
-    ]
+    ],
+    "short_description": "Platform fostering collaboration and community engagement within the social impact sector."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2064,7 +2222,8 @@
       "Marketing & Communication",
       "Video Conferencing",
       "Jitsi Meet"
-    ]
+    ],
+    "short_description": "Open-source video conferencing with encryption, no account needed, and features."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2077,7 +2236,8 @@
       "Marketing & Communication",
       "Video Conferencing",
       "KUDO"
-    ]
+    ],
+    "short_description": "Cloud-based platform providing professional, real-time language interpretation for meetings."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2090,7 +2250,8 @@
       "Marketing & Communication",
       "Video Conferencing",
       "Google Meet"
-    ]
+    ],
+    "short_description": "Secure, cloud-based video conferencing integrated with Google Workspace for real-time meetings."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2103,7 +2264,8 @@
       "Marketing & Communication",
       "Website Management",
       "Google Lighthouse"
-    ]
+    ],
+    "short_description": "Open-source tool auditing web pages for performance, accessibility, and quality."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2116,7 +2278,8 @@
       "Marketing & Communication",
       "Website Management",
       "Wix"
-    ]
+    ],
+    "short_description": "Cloud-based web development platform using drag-and-drop tools to create websites."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2129,7 +2292,8 @@
       "Marketing & Communication",
       "Website Management",
       "Squarespace"
-    ]
+    ],
+    "short_description": "Website building platform providing tools for creating sites, stores, and portfolios."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2142,7 +2306,8 @@
       "Marketing & Communication",
       "Website Management",
       "Joomla"
-    ]
+    ],
+    "short_description": "Free, open-source content management system (CMS) to build websites and applications."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2155,7 +2320,8 @@
       "Monitoring and Evaluation",
       "Reporting & Dashboarding",
       "Power BI"
-    ]
+    ],
+    "short_description": "Business intelligence platform to connect, transform data, and create interactive reports."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2168,7 +2334,8 @@
       "Monitoring and Evaluation",
       "Reporting & Dashboarding",
       "Tableau"
-    ]
+    ],
+    "short_description": "Data visualization platform creating interactive dashboards from diverse data sources."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2181,7 +2348,8 @@
       "Monitoring and Evaluation",
       "Reporting & Dashboarding",
       "Superset"
-    ]
+    ],
+    "short_description": "Open-source web application for exploring data and creating interactive dashboards."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2194,7 +2362,8 @@
       "Monitoring and Evaluation",
       "Reporting & Dashboarding",
       "HotJar"
-    ]
+    ],
+    "short_description": "UX tool using heatmaps and recordings to understand user interaction with websites."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2207,7 +2376,8 @@
       "Monitoring and Evaluation",
       "Reporting & Dashboarding",
       "Big Query"
-    ]
+    ],
+    "short_description": "Serverless data warehouse designed for analyzing large datasets using SQL."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2220,7 +2390,8 @@
       "Monitoring and Evaluation",
       "Reporting & Dashboarding",
       "Google Looker Studio"
-    ]
+    ],
+    "short_description": "Free web-based tool for building interactive data visualization dashboards and reports."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2233,7 +2404,8 @@
       "Data & Analytics",
       "Data Analysis",
       "Dalgo"
-    ]
+    ],
+    "short_description": "Open-source data platform for non-profits to manage, analyze, and dashboard data."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2246,7 +2418,8 @@
       "Data & Analytics",
       "Data Analysis",
       "Zoho Analytics"
-    ]
+    ],
+    "short_description": "Self-service BI platform for data prep, visualization, and monitoring performance indicators."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2259,7 +2432,8 @@
       "Data & Analytics",
       "Data Analysis",
       "Google Analytics"
-    ]
+    ],
+    "short_description": "Web-analytics service offering data on traffic, behavior, and marketing ROI."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2272,7 +2446,8 @@
       "Monitoring and Evaluation",
       "Data Collection",
       "Avni"
-    ]
+    ],
+    "short_description": "Open-source field service and mobile data collection platform for field workers."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2285,7 +2460,8 @@
       "Data & Analytics",
       "Data Management",
       "Apache Superset"
-    ]
+    ],
+    "short_description": "Open-source web application for exploring data and creating interactive dashboards."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2298,7 +2474,8 @@
       "Data & Analytics",
       "Data Management",
       "Dalgo"
-    ]
+    ],
+    "short_description": "Open-source data platform for non-profits to manage, analyze, and dashboard data."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2311,7 +2488,8 @@
       "Data & Analytics",
       "Data Management",
       "Dalgo"
-    ]
+    ],
+    "short_description": "Open-source data platform for non-profits to manage, analyze, and dashboard data."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2324,7 +2502,8 @@
       "Data & Analytics",
       "Data Analysis",
       "Zoho Analytics"
-    ]
+    ],
+    "short_description": "Self-service BI platform for data prep, visualization, and monitoring performance indicators."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2337,7 +2516,8 @@
       "Monitoring and Evaluation",
       "Data Collection",
       "Mform"
-    ]
+    ],
+    "short_description": "Web/mobile platform for data collection, monitoring, and program management/insights."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2350,7 +2530,8 @@
       "Monitoring and Evaluation",
       "Data Collection",
       "SurveyCTO"
-    ]
+    ],
+    "short_description": "Mobile data collection platform for secure, high-quality data gathering in challenging settings."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2363,7 +2544,8 @@
       "Monitoring and Evaluation",
       "Data Collection",
       "Jotform"
-    ]
+    ],
+    "short_description": "Online form builder creating custom web forms, apps, and smart PDFs without coding."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2376,7 +2558,8 @@
       "Monitoring and Evaluation",
       "Data Collection",
       "Google Form"
-    ]
+    ],
+    "short_description": "Google Workspace tool creating surveys, quizzes, and polls with real-time collaboration."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2389,7 +2572,8 @@
       "Monitoring and Evaluation",
       "Data Collection",
       "mWater"
-    ]
+    ],
+    "short_description": "Platform for water/sanitation data collection, mapping, and water quality monitoring."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2402,7 +2586,8 @@
       "Monitoring and Evaluation",
       "Data Collection",
       "Synergy Survey and Analytics"
-    ]
+    ],
+    "short_description": "Survey, data visualization, and monitoring tools for real-time M&E with insights."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2415,7 +2600,8 @@
       "Monitoring and Evaluation",
       "Data Collection",
       "Google Sheets"
-    ]
+    ],
+    "short_description": "Web-based spreadsheet application for real-time collaboration, organizing, and calculations."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2428,7 +2614,8 @@
       "Monitoring and Evaluation",
       "Data Collection",
       "Zoho Forms"
-    ]
+    ],
+    "short_description": "Online form builder creating web forms for data collection, registration, and feedback."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2441,7 +2628,8 @@
       "Monitoring and Evaluation",
       "Data Collection",
       "Kobo Toolbox"
-    ]
+    ],
+    "short_description": "Free, open-source tool for digital data collection in humanitarian/research settings."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2454,7 +2642,8 @@
       "Monitoring and Evaluation",
       "Data Collection",
       "CommCare by Dimagi"
-    ]
+    ],
+    "short_description": "Mobile platform for frontline workers building custom apps for data collection/service."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2467,7 +2656,8 @@
       "Monitoring and Evaluation",
       "Data Collection",
       "\nSynergyConnect (Social Integrated platform)"
-    ]
+    ],
+    "short_description": "Social integrated platform streamlining CSR, project M&E, donor, and impact analytics."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2480,7 +2670,8 @@
       "Monitoring and Evaluation",
       "Reporting & Dashboarding",
       "Looker Studio"
-    ]
+    ],
+    "short_description": "Free web-based tool for building interactive data visualization dashboards and reports."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2493,7 +2684,8 @@
       "Monitoring and Evaluation",
       "Reporting & Dashboarding",
       "Google Looker Studio"
-    ]
+    ],
+    "short_description": "Free web-based tool for building interactive data visualization dashboards and reports."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2506,7 +2698,8 @@
       "Office Automation",
       "Digital Infrastructure",
       "Big Query"
-    ]
+    ],
+    "short_description": "Serverless data warehouse designed for analyzing large datasets using SQL."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2519,7 +2712,8 @@
       "Office Automation",
       "Digital Infrastructure",
       "Zoho Creator"
-    ]
+    ],
+    "short_description": "Low-code platform for building custom web and mobile business applications."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2532,7 +2726,8 @@
       "Office Automation",
       "Digital Infrastructure",
       "InsightOne"
-    ]
+    ],
+    "short_description": "Platform for remote management and monitoring of payment terminal devices efficiently."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2545,7 +2740,8 @@
       "Office Automation",
       "Digital Infrastructure",
       "Commons.farm"
-    ]
+    ],
+    "short_description": "Platform supporting agriculture by managing workflows for ground professionals and farmers."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2558,7 +2754,8 @@
       "Office Automation",
       "Digital Infrastructure",
       "Frappe Framework"
-    ]
+    ],
+    "short_description": "Full-stack, low-code web application framework for rapid modular ERP development."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2571,7 +2768,8 @@
       "Office Automation",
       "Digital Infrastructure",
       "Google Workspace"
-    ]
+    ],
+    "short_description": "Suite of cloud-based tools for email, docs, sheets, storage, and collaboration."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2584,7 +2782,8 @@
       "Office Automation",
       "Digital Infrastructure",
       "Zabbix"
-    ]
+    ],
+    "short_description": "Open-source software monitoring IT components: networks, servers, and cloud services."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2597,7 +2796,8 @@
       "Office Automation",
       "Digital Infrastructure",
       "Zapier"
-    ]
+    ],
+    "short_description": "Web automation platform connecting apps to create automated workflows without coding."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2610,7 +2810,8 @@
       "Office Automation",
       "Digital Infrastructure",
       "Nagios"
-    ]
+    ],
+    "short_description": "Open-source monitoring system for systems, networks, and infrastructure alerting."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2623,7 +2824,8 @@
       "Office Automation",
       "Digital Infrastructure",
       "Esper"
-    ]
+    ],
+    "short_description": "Platform for managing and securing fleets of dedicated Android devices."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2636,7 +2838,8 @@
       "Office Automation",
       "Document and Knowledge Management",
       "Document360"
-    ]
+    ],
+    "short_description": "Knowledge-management platform for creating and publishing self-service knowledge bases/SOPs."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2649,7 +2852,8 @@
       "Office Automation",
       "Document and Knowledge Management",
       "M-Files"
-    ]
+    ],
+    "short_description": "Intelligent information management organizing content based on what it is."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2662,7 +2866,8 @@
       "Office Automation",
       "Document and Knowledge Management",
       "OneDrive"
-    ]
+    ],
+    "short_description": "Cloud storage service by Microsoft for file syncing, sharing, and collaboration."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2675,7 +2880,8 @@
       "Office Automation",
       "Document and Knowledge Management",
       "Notion"
-    ]
+    ],
+    "short_description": "Versatile workspace application for note-taking, project management, and collaboration."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2688,7 +2894,8 @@
       "Office Automation",
       "Document and Knowledge Management",
       "Document360"
-    ]
+    ],
+    "short_description": "Knowledge-management platform for creating and publishing self-service knowledge bases/SOPs."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2701,7 +2908,8 @@
       "Office Automation",
       "Document and Knowledge Management",
       "Dropbox"
-    ]
+    ],
+    "short_description": "Cloud storage service allowing file storing, sharing, and access across devices."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2714,7 +2922,8 @@
       "Office Automation",
       "Document and Knowledge Management",
       "Dropbox"
-    ]
+    ],
+    "short_description": "Cloud storage service allowing file storing, sharing, and access across devices."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2727,7 +2936,8 @@
       "Office Automation",
       "Scheduling",
       "Calendly"
-    ]
+    ],
+    "short_description": "Automated scheduling software simplifying meeting and appointment booking efficiently."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2740,7 +2950,8 @@
       "Office Automation",
       "Scheduling",
       "Motion"
-    ]
+    ],
+    "short_description": "AI-powered scheduling app automating meetings, focus time, and daily task planning."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2753,7 +2964,8 @@
       "Office Automation",
       "Scheduling",
       "Reclaim.ai"
-    ]
+    ],
+    "short_description": "AI smart calendar assistant automatically scheduling tasks, habits, and meetings optimally."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2766,7 +2978,8 @@
       "Office Automation",
       "Workflow Management",
       "Kelsa"
-    ]
+    ],
+    "short_description": "Business process automation and BPM platform for workflow design and execution."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2779,7 +2992,8 @@
       "Office Automation",
       "Workflow Management",
       "Flux"
-    ]
+    ],
+    "short_description": "Workflow automation platform to design, execute, and monitor complex business processes."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2792,7 +3006,8 @@
       "Office Automation",
       "Workflow Management",
       "UVDesk\n"
-    ]
+    ],
+    "short_description": "Customer support helpdesk module for ticket management and multichannel support."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2805,7 +3020,8 @@
       "Office Automation",
       "Workflow Management",
       "DeskPro\n"
-    ]
+    ],
+    "short_description": "Omnichannel support helpdesk automating ticketing, live chat, and AI-powered workflows."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2818,7 +3034,8 @@
       "Project & Task Management",
       "Agile",
       "Redmine"
-    ]
+    ],
+    "short_description": "Flexible project management web app with issue tracking, charts, and forums."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2831,7 +3048,8 @@
       "Project & Task Management",
       "Agile",
       "Taiga"
-    ]
+    ],
+    "short_description": "Open-source project management platform for agile teams using Scrum and Kanban."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2844,7 +3062,8 @@
       "Project & Task Management",
       "Agile",
       "New Relic"
-    ]
+    ],
+    "short_description": "Observability platform for real-time monitoring, tracing, and alerting for IT performance."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2857,7 +3076,8 @@
       "Project & Task Management",
       "Task Management",
       "Trello"
-    ]
+    ],
+    "short_description": "Kanban-style web application using boards, lists, and cards to organize tasks."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2870,7 +3090,8 @@
       "Project & Task Management",
       "Task Management",
       "ClickUp"
-    ]
+    ],
+    "short_description": "Cloud-based, all-in-one project management and productivity platform for task tracking."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2883,7 +3104,8 @@
       "Project & Task Management",
       "Task Management",
       "Monday.com"
-    ]
+    ],
+    "short_description": "Work operating system (Work OS) managing tasks, projects, and teamwork via boards."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2896,7 +3118,8 @@
       "Project & Task Management",
       "Task Management",
       "Jira"
-    ]
+    ],
+    "short_description": "Issue tracking and project management software, primarily for agile software teams."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2909,7 +3132,8 @@
       "Project & Task Management",
       "Task Management",
       "Avaza"
-    ]
+    ],
+    "short_description": "Cloud suite combining project management, time tracking, invoicing, and expenses."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2922,7 +3146,8 @@
       "Project & Task Management",
       "Task Management",
       "Smart Sheets"
-    ]
+    ],
+    "short_description": "Work management platform using a spreadsheet-like interface for collaborative work."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2935,7 +3160,8 @@
       "Project & Task Management",
       "Task Management",
       "Basecamp"
-    ]
+    ],
+    "short_description": "Web-based tool for project management, to-do lists, schedules, and team chat."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2948,7 +3174,8 @@
       "Project & Task Management",
       "Task Management",
       "Notion"
-    ]
+    ],
+    "short_description": "Versatile workspace application for note-taking, project management, and collaboration."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2961,7 +3188,8 @@
       "Project & Task Management",
       "Task Management",
       "Zoho Projects"
-    ]
+    ],
+    "short_description": "Cloud-based software helping teams plan, track, and monitor project tasks/progress."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2974,7 +3202,8 @@
       "Project & Task Management",
       "Task Management",
       "Collaborate"
-    ]
+    ],
+    "short_description": "Project management platform automating planning, task assignment, and progress tracking."
   },
   {
     "sheet": "Cleaned Sheet",
@@ -2987,7 +3216,8 @@
       "Project & Task Management",
       "Task Management",
       "Asana"
-    ]
+    ],
+    "short_description": "Work management platform helping teams organize, track, and manage their work."
   },
   {
     "sheet": "Service Provider Profiles",
@@ -2996,7 +3226,8 @@
     ],
     "values": [
       "Designscape"
-    ]
+    ],
+    "short_description": "Tech company specializing in custom web-based solutions using Microsoft Technologies."
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3005,7 +3236,8 @@
     ],
     "values": [
       "Studio Subu"
-    ]
+    ],
+    "short_description": "Creative solutions consultancy solving communication challenges for social impact organizations."
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3014,7 +3246,8 @@
     ],
     "values": [
       "Project Tech4Dev"
-    ]
+    ],
+    "short_description": "Initiative empowering non-profits with open-source tech, platforms, and leadership support."
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3023,7 +3256,8 @@
     ],
     "values": [
       "EdZola Technologies"
-    ]
+    ],
+    "short_description": "Tech4Good company providing affordable, customizable low-code (Zoho) solutions for non-profits."
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3032,7 +3266,8 @@
     ],
     "values": [
       "Dhwani Rural Information Systems Private Limited"
-    ]
+    ],
+    "short_description": "Social impact technology consulting firm empowering non-profits via digital transformation."
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3041,7 +3276,8 @@
     ],
     "values": [
       "Think201"
-    ]
+    ],
+    "short_description": "Sector-agnostic technology and design company crafting custom digital solutions."
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3050,7 +3286,8 @@
     ],
     "values": [
       "Refresh Ideas"
-    ]
+    ],
+    "short_description": "Full-service digital agency using design thinking for customized digital solutions/marketing."
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3059,7 +3296,8 @@
     ],
     "values": [
       "Tekdi technologies private limited"
-    ]
+    ],
+    "short_description": "IT solutions provider focusing on enterprise-class digital solutions for societal transformation."
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3068,7 +3306,8 @@
     ],
     "values": [
       "Navadithi Solutions"
-    ]
+    ],
+    "short_description": "Full stack IT services company delivering scalable software solutions and supporting non-profits."
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3077,7 +3316,8 @@
     ],
     "values": [
       "Radics"
-    ]
+    ],
+    "short_description": "Applied learning sciences lab developing evidence-rooted learning solutions for education."
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3086,7 +3326,8 @@
     ],
     "values": [
       "Tech for Social Good"
-    ]
+    ],
+    "short_description": "SaaS platform automating operations, reporting; offering discounted software, HRMS/LMS."
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3095,7 +3336,8 @@
     ],
     "values": [
       "Tech4Good Community "
-    ]
+    ],
+    "short_description": "Organization strengthening non-profits' tech capabilities with open-source systems implementation."
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3104,7 +3346,8 @@
     ],
     "values": [
       "Platform Commons"
-    ]
+    ],
+    "short_description": "Co-creates integrated digital platforms to drive social impact and sector efficiency."
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3113,7 +3356,8 @@
     ],
     "values": [
       "Kenpath Technologies Pvt. Ltd."
-    ]
+    ],
+    "short_description": "Technology company creating bespoke solutions and scaling technology for an inclusive future."
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3122,7 +3366,8 @@
     ],
     "values": [
       "Civic Data Lab"
-    ]
+    ],
+    "short_description": "Works at data/tech/design intersection to strengthen public information and governance."
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3131,7 +3376,8 @@
     ],
     "values": [
       "SynergyConnect Data Innovations Private Limited"
-    ]
+    ],
+    "short_description": "Technology partner providing ERP solution for non-profit and CSR digital transformation."
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3140,7 +3386,8 @@
     ],
     "values": [
       "Microware Computing and Consulting"
-    ]
+    ],
+    "short_description": "Tech company providing real-time analytics, security, and off-shore software development."
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3149,7 +3396,8 @@
     ],
     "values": [
       "Arham Labs"
-    ]
+    ],
+    "short_description": "Digital consulting delivering project management for organizational digital transformation."
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3158,7 +3406,8 @@
     ],
     "values": [
       "Litmusink"
-    ]
+    ],
+    "short_description": "Digital experience services creating brand identities and digital experiences for small businesses."
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3167,7 +3416,8 @@
     ],
     "values": [
       "DGTL 360"
-    ]
+    ],
+    "short_description": "Full-service digital agency specializing in design, development, marketing, and analytics services."
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3176,7 +3426,8 @@
     ],
     "values": [
       "Kahaniyaan"
-    ]
+    ],
+    "short_description": "Storytelling consultancy integrating strategic narrative into strategy, culture, and marketing."
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3185,7 +3436,8 @@
     ],
     "values": [
       "Greenpepper+AI"
-    ]
+    ],
+    "short_description": "Generative AI studio helping enterprises strategize, deploy, and scale AI content initiatives."
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3194,7 +3446,8 @@
     ],
     "values": [
       "Digital For Nonprofits (D4NP)"
-    ]
+    ],
+    "short_description": "Leverages tech grants, AI, and digital marketing to accelerate non-profit awareness/fundraising."
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3203,7 +3456,8 @@
     ],
     "values": [
       "Digicated"
-    ]
+    ],
+    "short_description": "Advisory firm accelerating digital marketing maturity using holistic, generative AI strategies."
   },
   {
     "sheet": "Training Program",
@@ -3216,7 +3470,8 @@
       "Artificial Intelligence",
       "Introductory AI Courses",
       "AI For Everyone "
-    ]
+    ],
+    "short_description": "Core AI concepts, terminology, team structure for non-technical professionals/responsible adoption."
   },
   {
     "sheet": "Training Program",
@@ -3229,7 +3484,8 @@
       "Artificial Intelligence",
       "Introductory AI Courses",
       "AI for Everyone: Master the Basics "
-    ]
+    ],
+    "short_description": "AI fundamentals, ML techniques, ethics, and practical uses for project participation."
   },
   {
     "sheet": "Training Program",
@@ -3242,7 +3498,8 @@
       "Artificial Intelligence",
       "Introductory AI Courses",
       "Introduction to AI "
-    ]
+    ],
+    "short_description": "Fundamental AI concepts, real-world applications, agent design, and ethical development."
   },
   {
     "sheet": "Training Program",
@@ -3255,7 +3512,8 @@
       "Artificial Intelligence",
       "Introductory AI Courses",
       "Introduction to Artificial Intelligence "
-    ]
+    ],
+    "short_description": "General AI, classic/generative AI, ML, neural networks, and ethical overview for managers."
   },
   {
     "sheet": "Training Program",
@@ -3268,7 +3526,8 @@
       "Artificial Intelligence",
       "Introductory AI Courses",
       "Natural Language Processing Specialization"
-    ]
+    ],
+    "short_description": "Key NLP methods: classical ML, sequence models, and attention-based LLM building."
   },
   {
     "sheet": "Training Program",
@@ -3281,7 +3540,8 @@
       "Artificial Intelligence",
       "Generative AI",
       "Prompt Engineering for ChatGPT"
-    ]
+    ],
+    "short_description": "Prompt engineering fundamentals, patterns, and complex applications for LLM workflow optimization."
   },
   {
     "sheet": "Training Program",
@@ -3294,7 +3554,8 @@
       "Artificial Intelligence",
       "Generative AI",
       "ChatGPT Prompt Engineering for Developers"
-    ]
+    ],
+    "short_description": "Prompt principles, LLM workflow, APIs, and building a basic chatbot for NGO tools."
   },
   {
     "sheet": "Training Program",
@@ -3307,7 +3568,8 @@
       "Artificial Intelligence",
       "Generative AI",
       "Generative AI: Prompt Engineering Basics"
-    ]
+    ],
+    "short_description": "Prompt types, image prompt basics, and watsonx tools for content automation/insights."
   },
   {
     "sheet": "Training Program",
@@ -3320,7 +3582,8 @@
       "Artificial Intelligence",
       "Generative AI",
       "Generative AI for Everyone"
-    ]
+    ],
+    "short_description": "Generative AI methods, prompt engineering, applications, and ethical risks/potential."
   },
   {
     "sheet": "Training Program",
@@ -3333,7 +3596,8 @@
       "Artificial Intelligence",
       "Ethics and Responsible Use of AI",
       "Ethics of Artificial Intelligence"
-    ]
+    ],
+    "short_description": "Core AI ethics principles: fairness, accountability, transparency, bias mitigation, governance."
   },
   {
     "sheet": "Training Program",
@@ -3346,7 +3610,8 @@
       "Artificial Intelligence",
       "Making Chatbots",
       "AI Chatbots without Programming"
-    ]
+    ],
+    "short_description": "No-code chatbot creation using IBM Watson: intents, dialog flows, and analytics."
   },
   {
     "sheet": "Training Program",
@@ -3359,7 +3624,8 @@
       "Artificial Intelligence",
       "Making Chatbots",
       "Building AI Powered Chatbots Without Programming"
-    ]
+    ],
+    "short_description": "Building no-programming AI chatbots: recommendation systems, workflows, and deployment."
   },
   {
     "sheet": "Training Program",
@@ -3372,7 +3638,8 @@
       "Artificial Intelligence",
       "Making Chatbots",
       "Designing a Customer Support Chatbot Using Flowise"
-    ]
+    ],
+    "short_description": "No-code chatbot design using Flowise.ai for FAQ bots and website embedding."
   },
   {
     "sheet": "Training Program",
@@ -3385,7 +3652,8 @@
       "Website/App Development",
       "Full-Stack Development",
       "The Full-Stack"
-    ]
+    ],
+    "short_description": "Full-stack web development: Django, HTML/CSS/JS, cloud for production applications."
   },
   {
     "sheet": "Training Program",
@@ -3398,7 +3666,8 @@
       "Website/App Development",
       "Full-Stack Development",
       "Fullstack Web Development"
-    ]
+    ],
+    "short_description": "Modern full-stack workflows: interactive front-end, Java/Spring Boot back-end, REST APIs."
   },
   {
     "sheet": "Training Program",
@@ -3411,7 +3680,8 @@
       "Website/App Development",
       "Full-Stack Development",
       "Full-Stack Developer Capstone Project"
-    ]
+    ],
+    "short_description": "Full-stack project applying ASP.NET Core, Blazor, Entity Framework for app deployment."
   },
   {
     "sheet": "Training Program",
@@ -3424,7 +3694,8 @@
       "Website/App Development",
       "Devops (Cloud Computing)",
       "Introduction to DevOps"
-    ]
+    ],
+    "short_description": "DevOps fundamentals: culture, CI/CD, Infrastructure as Code, TDD/BDD, microservices."
   },
   {
     "sheet": "Training Program",
@@ -3437,7 +3708,8 @@
       "Website/App Development",
       "Devops (Cloud Computing)",
       "Azure CloudOps: Automating Infrastructure & Cost Control"
-    ]
+    ],
+    "short_description": "Azure CloudOps: IaC (ARM/Bicep), CI/CD automation, cost management, and governance."
   },
   {
     "sheet": "Training Program",
@@ -3450,7 +3722,8 @@
       "Website/App Development",
       "Devops (Cloud Computing)",
       "Continuous Integration and Continuous Delivery (CI/CD)"
-    ]
+    ],
+    "short_description": "CI/CD: Terraform for IaC, Jenkins/GitHub Actions, and OpenShift/Argo CD for deployment."
   },
   {
     "sheet": "Training Program",
@@ -3463,7 +3736,8 @@
       "Website/App Development",
       "Devops (Cloud Computing)",
       "Deployment and DevOps"
-    ]
+    ],
+    "short_description": "Deployment & DevOps: Azure services, CI/CD, monitoring, and Copilot for automation."
   },
   {
     "sheet": "Training Program",
@@ -3476,7 +3750,8 @@
       "Website/App Development",
       "UI/UX",
       "Fundamentals of UI/UX Design"
-    ]
+    ],
+    "short_description": "Core UX design concepts: UI/UX workflows and design thinking fundamentals."
   },
   {
     "sheet": "Training Program",
@@ -3489,7 +3764,8 @@
       "Website/App Development",
       "UI/UX",
       "Foundations of User Experience (UX) Design"
-    ]
+    ],
+    "short_description": "Foundational UX: user-centered design, accessibility, and equity-focused practices."
   },
   {
     "sheet": "Training Program",
@@ -3502,7 +3778,8 @@
       "Website/App Development",
       "UI/UX",
       "UX Design Career Guide: Essential Skills for Growth, Success"
-    ]
+    ],
+    "short_description": "Strategic UX planning, career pathways, and fundamental skills for success in UX."
   },
   {
     "sheet": "Training Program",
@@ -3515,7 +3792,8 @@
       "Website/App Development",
       "Cybersecurity",
       "Cybersecurity for Everyone"
-    ]
+    ],
+    "short_description": "Cybersecurity concepts, threats, and policy for non-technical NGO professionals."
   },
   {
     "sheet": "Training Program",
@@ -3528,7 +3806,8 @@
       "Website/App Development",
       "Cybersecurity",
       "Foundations of Cybersecurity"
-    ]
+    ],
+    "short_description": "Security frameworks, CIA triad, risk management, and security ethics fundamentals."
   },
   {
     "sheet": "Training Program",
@@ -3541,7 +3820,8 @@
       "Website/App Development",
       "Cybersecurity",
       "Introduction to Cybersecurity Essentials"
-    ]
+    ],
+    "short_description": "Data security, authentication, encryption, and threat management best practices."
   },
   {
     "sheet": "Training Program",
@@ -3554,7 +3834,8 @@
       "Website/App Development",
       "Cybersecurity",
       "Introduction to Cybersecurity Fundamentals"
-    ]
+    ],
+    "short_description": "Foundational cybersecurity models, attacker techniques, and data protection methods."
   },
   {
     "sheet": "Training Program",
@@ -3567,7 +3848,8 @@
       "Website/App Development",
       "No Code Building",
       "Create a no-code responsive website with Webflow (Guided Project)"
-    ]
+    ],
+    "short_description": "No-code website building using Webflow for responsive design and content."
   },
   {
     "sheet": "Training Program",
@@ -3580,7 +3862,8 @@
       "Website/App Development",
       "No Code Building",
       "Introductory's Guide: Use Bubble to Build an App Without Coding"
-    ]
+    ],
+    "short_description": "No-code app building and scaling using Bubble for custom mobile/web apps."
   },
   {
     "sheet": "Training Program",
@@ -3593,7 +3876,8 @@
       "Website/App Development",
       "No Code Building",
       "Create a canvas app in Power Apps"
-    ]
+    ],
+    "short_description": "Creating and customizing canvas apps and user interfaces using Power Apps."
   },
   {
     "sheet": "Training Program",
@@ -3606,7 +3890,8 @@
       "Data and Analytics",
       "Data Management & Cloud Storage",
       "Modernizing Data Lakes & Warehouses with Google Cloud "
-    ]
+    ],
+    "short_description": "Cloud storage use-cases, data lake/warehouse design, and BigQuery/Dataproc."
   },
   {
     "sheet": "Training Program",
@@ -3619,7 +3904,8 @@
       "Data and Analytics",
       "Data Management & Cloud Storage",
       "Introduction to Cloud Computing"
-    ]
+    ],
+    "short_description": "Cloud computing models, core components, and emerging trends (serverless, microservices)."
   },
   {
     "sheet": "Training Program",
@@ -3632,7 +3918,8 @@
       "Data and Analytics",
       "Data Management & Cloud Storage",
       "Google Cloud Fundamentals: Core Infrastructure"
-    ]
+    ],
+    "short_description": "GCP products, services, resource hierarchy, and core infrastructure components."
   },
   {
     "sheet": "Training Program",
@@ -3645,7 +3932,8 @@
       "Data and Analytics",
       "Data Management & Cloud Storage",
       "Managing Big Data in Clusters and Cloud Storage"
-    ]
+    ],
+    "short_description": "Browsing/managing big data with Apache Hive/Impala and choosing cloud storage formats."
   },
   {
     "sheet": "Training Program",
@@ -3658,7 +3946,8 @@
       "Data and Analytics",
       "Data Analysis & Interpretation",
       "Data Science: Visualization"
-    ]
+    ],
+    "short_description": "Data visualization principles focusing on ggplot2 and tableausque plots."
   },
   {
     "sheet": "Training Program",
@@ -3671,7 +3960,8 @@
       "Data and Analytics",
       "Data Analysis & Interpretation",
       "Data Analysis with Python"
-    ]
+    ],
+    "short_description": "Data analysis with Python: cleaning, exploratory analysis, and predictive modeling."
   },
   {
     "sheet": "Training Program",
@@ -3684,7 +3974,8 @@
       "Data and Analytics",
       "Data Analysis & Interpretation",
       "Introduction to Data Analytics"
-    ]
+    ],
+    "short_description": "Foundational data analytics: analysis process, data roles, and data structures."
   },
   {
     "sheet": "Training Program",
@@ -3697,7 +3988,8 @@
       "Data and Analytics",
       "Data Analysis & Interpretation",
       "Excel Basics for Data Analysis"
-    ]
+    ],
+    "short_description": "Spreadsheet data analysis: Excel navigation, formulas, cleaning, and pivot tables."
   },
   {
     "sheet": "Training Program",
@@ -3710,7 +4002,8 @@
       "Data and Analytics",
       "Data Analysis & Interpretation",
       "Data Analysis with R Programming"
-    ]
+    ],
+    "short_description": "R programming language: syntax, data structures, and visualization using Tidyverse."
   },
   {
     "sheet": "Training Program",
@@ -3723,7 +4016,8 @@
       "Data and Analytics",
       "Data Analysis & Interpretation",
       "Excel Skills for Statistics and Data Analysis: Intermediate"
-    ]
+    ],
+    "short_description": "Advanced statistical analysis in Excel: inferential statistics, regression, visualization."
   },
   {
     "sheet": "Training Program",
@@ -3736,7 +4030,8 @@
       "Data and Analytics",
       "Data Analysis & Interpretation",
       "Introduction to Data Analysis using Microsoft Excel (Guided Project)"
-    ]
+    ],
+    "short_description": "Excel project: sorting, filtering, VLOOKUP, and PivotTables for data analysis."
   },
   {
     "sheet": "Training Program",
@@ -3749,7 +4044,8 @@
       "Data and Analytics",
       "Applied Data Science & Predictive Analytics",
       "Applied Data Science Capstone"
-    ]
+    ],
+    "short_description": "Capstone project: hands-on data science covering sourcing, modeling, and reporting."
   },
   {
     "sheet": "Training Program",
@@ -3762,7 +4058,8 @@
       "Data and Analytics",
       "Applied Data Science & Predictive Analytics",
       "Databases and SQL for Data Science with Python"
-    ]
+    ],
+    "short_description": "Data analysis with Python and SQL querying/advanced techniques."
   },
   {
     "sheet": "Training Program",
@@ -3775,7 +4072,8 @@
       "Data and Analytics",
       "Applied Data Science & Predictive Analytics",
       "SQL for Data Science"
-    ]
+    ],
+    "short_description": "Fundamentals of SQL for data science: SELECT, filtering, joins, and data manipulation."
   },
   {
     "sheet": "Training Program",
@@ -3788,7 +4086,8 @@
       "Data and Analytics",
       "Applied Data Science & Predictive Analytics",
       "Python for Data Science, AI & Development"
-    ]
+    ],
+    "short_description": "Python programming for data science/AI: core syntax, Pandas/Numpy, APIs, scraping."
   },
   {
     "sheet": "Training Program",
@@ -3801,7 +4100,8 @@
       "Data and Analytics",
       "Data Privacy & Security",
       "Data Privacy Fundamentals"
-    ]
+    ],
+    "short_description": "Data privacy theories and real-world applications covering social media and AI."
   },
   {
     "sheet": "Training Program",
@@ -3814,7 +4114,8 @@
       "Data and Analytics",
       "Data Privacy & Security",
       "Data Privacy and Protection Standards"
-    ]
+    ],
+    "short_description": "Global data privacy regulations (GDPR/CCPA), protection strategies, and compliance."
   },
   {
     "sheet": "Training Program",
@@ -3827,7 +4128,8 @@
       "Data and Analytics",
       "Data Privacy & Security",
       "IBM Data Privacy for Information Architecture"
-    ]
+    ],
+    "short_description": "Data privacy principles in architecture: mechanisms, governance, and IBM DataFirst method."
   },
   {
     "sheet": "Training Program",
@@ -3840,7 +4142,8 @@
       "Data and Analytics",
       "Data Privacy & Security",
       "Data Privacy, Security, Governance, Risk and Compliance"
-    ]
+    ],
+    "short_description": "Integrated data privacy, security, governance, risk, and compliance strategies."
   },
   {
     "sheet": "Training Program",
@@ -3853,7 +4156,8 @@
       "Data and Analytics",
       "Data Privacy & Security",
       "Privacy Law and Data Protection"
-    ]
+    ],
+    "short_description": "U.S./international privacy laws, FTC roles, GDPR, and practical compliance techniques."
   },
   {
     "sheet": "Training Program",
@@ -3866,7 +4170,8 @@
       "Data and Analytics",
       "Data Visualization, Dashboarding & Reporting",
       "Data Analysis and Visualization with Power BI "
-    ]
+    ],
+    "short_description": "Power BI: report design, formatting, and creating interactive dashboards."
   },
   {
     "sheet": "Training Program",
@@ -3879,7 +4184,8 @@
       "Data and Analytics",
       "Data Visualization, Dashboarding & Reporting",
       "Harnessing the Power of Data with Power BI"
-    ]
+    ],
+    "short_description": "Power BI analyst role: analysis components, decision stages, and dashboard fundamentals."
   },
   {
     "sheet": "Training Program",
@@ -3892,7 +4198,8 @@
       "Data and Analytics",
       "Data Visualization, Dashboarding & Reporting",
       "Data Analysis and Visualization with Power BI "
-    ]
+    ],
+    "short_description": "Power BI fundamentals: connecting data, shaping models, and creating dashboards."
   },
   {
     "sheet": "Training Program",
@@ -3905,7 +4212,8 @@
       "Data and Analytics",
       "Data Collection",
       "Data Collection: Online, Telephone and Face-to-face"
-    ]
+    ],
+    "short_description": "Interview/self-administered data collection methods: survey techniques and limitations."
   },
   {
     "sheet": "Training Program",
@@ -3918,7 +4226,8 @@
       "Data and Analytics",
       "Data Collection",
       "Data Collection and Integration"
-    ]
+    ],
+    "short_description": "Data gathering from files, databases, web pages, and APIs using Python/SQL."
   },
   {
     "sheet": "Training Program",
@@ -3931,7 +4240,8 @@
       "Data and Analytics",
       "Data Collection",
       "Framework for Data Collection and Analysis"
-    ]
+    ],
+    "short_description": "Data collection framework: sourcing, research questions, quality, sampling, error metrics."
   },
   {
     "sheet": "Training Program",
@@ -3944,7 +4254,8 @@
       "Social and Digital Media",
       "Digital Marketing",
       "The Strategy of Content Marketing"
-    ]
+    ],
+    "short_description": "Content marketing frameworks, editorial planning, and storytelling techniques."
   },
   {
     "sheet": "Training Program",
@@ -3957,7 +4268,8 @@
       "Social and Digital Media",
       "Digital Marketing",
       "Foundations of Digital Marketing and E‑commerce"
-    ]
+    ],
+    "short_description": "Digital marketing/e-commerce fundamentals: funnels, customer journeys, and roles."
   },
   {
     "sheet": "Training Program",
@@ -3970,7 +4282,8 @@
       "Social and Digital Media",
       "Digital Marketing",
       "Digital Marketing"
-    ]
+    ],
+    "short_description": "Comprehensive digital marketing strategies: integrated channels, analytics, campaign management."
   },
   {
     "sheet": "Training Program",
@@ -3983,7 +4296,8 @@
       "Social and Digital Media",
       "Digital Marketing",
       "Attract and Engage Customers with Digital Marketing"
-    ]
+    ],
+    "short_description": "Brand awareness/engagement tactics: SEO, SEM, display advertising, and persona development."
   },
   {
     "sheet": "Training Program",
@@ -3996,7 +4310,8 @@
       "Social and Digital Media",
       "Digital Marketing",
       "Introduction to Digital Marketing"
-    ]
+    ],
+    "short_description": "Foundational digital marketing skills: social media, email, PPC, content, and growth hacking."
   },
   {
     "sheet": "Training Program",
@@ -4009,7 +4324,8 @@
       "Social and Digital Media",
       "Digital Marketing",
       "Digital Marketing Essentials Masterclass "
-    ]
+    ],
+    "short_description": "Social media marketing, SEO, SEM, and Facebook marketing fundamentals for upskilling."
   },
   {
     "sheet": "Training Program",
@@ -4022,7 +4338,8 @@
       "Social and Digital Media",
       "Video Editing",
       "Mastering Final Cut Pro"
-    ]
+    ],
+    "short_description": "Final Cut Pro X: media import, timeline editing, effects, and audio workflows."
   },
   {
     "sheet": "Training Program",
@@ -4035,7 +4352,8 @@
       "Social and Digital Media",
       "Video Editing",
       "Create a Promotional Video using Canva"
-    ]
+    ],
+    "short_description": "Canva video project: script, video slide design, animations, and marketing export."
   },
   {
     "sheet": "Training Program",
@@ -4048,7 +4366,8 @@
       "Social and Digital Media",
       "Video Editing",
       "YouTube Editing: Enhance Videos"
-    ]
+    ],
+    "short_description": "YouTube editing techniques: pacing, transitions, audio enhancement, and viewer retention."
   },
   {
     "sheet": "Training Program",
@@ -4061,7 +4380,8 @@
       "Social and Digital Media",
       "SEO",
       "Advanced Search Engine Optimization Strategies"
-    ]
+    ],
+    "short_description": "International SEO, mobile optimization, and performance metrics for global traffic."
   },
   {
     "sheet": "Training Program",
@@ -4074,7 +4394,8 @@
       "Social and Digital Media",
       "SEO",
       "Google SEO Fundamentals"
-    ]
+    ],
+    "short_description": "Fundamentals of SEO: on-page, off-page, technical SEO, and keyword research."
   },
   {
     "sheet": "Training Program",
@@ -4087,7 +4408,8 @@
       "Social and Digital Media",
       "SEO",
       "Introduction to Google SEO"
-    ]
+    ],
+    "short_description": "SEO basics: evolving world, Google algorithms, and user-first SEO strategies."
   },
   {
     "sheet": "Training Program",
@@ -4100,7 +4422,8 @@
       "Product and Innovation",
       "Product Management",
       "Digital Product Management: Modern Fundamentals"
-    ]
+    ],
+    "short_description": "Creating actionable product focus: customer outcomes, roadmapping, iterative testing."
   },
   {
     "sheet": "Training Program",
@@ -4113,7 +4436,8 @@
       "Product and Innovation",
       "Product Management",
       "Product Management: An Introduction "
-    ]
+    ],
+    "short_description": "PM core concepts: lifecycle, personas, value creation, SWOT analysis, and ProdBoK®."
   },
   {
     "sheet": "Training Program",
@@ -4126,7 +4450,8 @@
       "Product and Innovation",
       "Design Thinking",
       "Design Thinking for the Greater Good: Innovation in the Social Sector"
-    ]
+    ],
+    "short_description": "Design thinking in social sector: stakeholder engagement, prototyping, and testing."
   },
   {
     "sheet": "Training Program",
@@ -4139,7 +4464,8 @@
       "Product and Innovation",
       "Design Thinking",
       "Design Thinking for Innovators"
-    ]
+    ],
+    "short_description": "Core design thinking: applying empathy, ideation, prototyping, and testing."
   },
   {
     "sheet": "Training Program",
@@ -4152,7 +4478,8 @@
       "Product and Innovation",
       "Design Thinking",
       "Innovation Through Design: Think, Make, Break, Repeat"
-    ]
+    ],
+    "short_description": "Iterative design processes: thinking, prototyping, testing, and repeating rapidly."
   },
   {
     "sheet": "Training Program",
@@ -4165,7 +4492,8 @@
       "Product and Innovation",
       "Design Thinking",
       "Design-Led Strategy (Design Strategy)"
-    ]
+    ],
+    "short_description": "Design strategy: blending design thinking with enterprise strategy via case studies."
   },
   {
     "sheet": "Training Program",
@@ -4178,7 +4506,8 @@
       "Product and Innovation",
       "Product Development",
       "Agile Project Management"
-    ]
+    ],
+    "short_description": "Backlog grooming, sprint planning, retrospectives, and agile scaling fundamentals."
   },
   {
     "sheet": "Training Program",
@@ -4191,7 +4520,8 @@
       "Product and Innovation",
       "Product Development",
       "Cosmetic Product Development"
-    ]
+    ],
+    "short_description": "Cosmetic product development: idea generation, market, sustainability, and testing."
   },
   {
     "sheet": "Training Program",
@@ -4204,7 +4534,8 @@
       "Product and Innovation",
       "Product Innovation",
       "Managing the New Product Development Process"
-    ]
+    ],
+    "short_description": "Design thinking tools for innovation: CCRs, concept generation, prototyping."
   },
   {
     "sheet": "Training Program",
@@ -4217,7 +4548,8 @@
       "Product and Innovation",
       "Product Innovation",
       "Creativity, Innovation and Transformation"
-    ]
+    ],
+    "short_description": "Creativity and innovation frameworks: ideation tools, CENTER model, transformative practices."
   },
   {
     "sheet": "Training Program",
@@ -4230,7 +4562,8 @@
       "Product and Innovation",
       "Product Innovation",
       "Innovation Management"
-    ]
+    ],
+    "short_description": "Innovation management principles: idea generation, strategy, and implementation tools."
   },
   {
     "sheet": "Training Program",
@@ -4243,7 +4576,8 @@
       "Product and Innovation",
       "Product Innovation",
       "Social Business Model and Planning for Social Innovation"
-    ]
+    ],
+    "short_description": "Social business modeling/planning: Business Model Canvas, organizational form, funding."
   },
   {
     "sheet": "Training Program",
@@ -4256,7 +4590,8 @@
       "Product and Innovation",
       "Product Innovation",
       "Healthcare Innovation: Need/Opportunity Identification"
-    ]
+    ],
+    "short_description": "Healthcare innovation: need identification, stakeholder engagement, and opportunity validation."
   },
   {
     "sheet": "Training Program",
@@ -4269,7 +4604,8 @@
       "Professional Skills",
       "Public Speaking",
       "Successful Presentation "
-    ]
+    ],
+    "short_description": "Practical presentation strategies: overcoming fear, designing visuals, and persuasive delivery."
   },
   {
     "sheet": "Training Program",
@@ -4282,7 +4618,8 @@
       "Professional Skills",
       "Public Speaking",
       "Speaking to Persuade: Motivating audiences with solid arguments and moving language"
-    ]
+    ],
+    "short_description": "Persuasive speaking: argument structure and emotional appeal for NGO action."
   },
   {
     "sheet": "Training Program",
@@ -4295,7 +4632,8 @@
       "Professional Skills",
       "Public Speaking",
       "Introduction to Public Speaking"
-    ]
+    ],
+    "short_description": "Foundational public speaking: structure, voice modulation, and audience engagement."
   },
   {
     "sheet": "Training Program",
@@ -4308,7 +4646,8 @@
       "Professional Skills",
       "Public Speaking",
       "HarvardX: Rhetoric: The Art of Persuasive Writing and Public Speaking "
-    ]
+    ],
+    "short_description": "Rhetorical principles, persuasive writing, and public speaking strategies mastery."
   },
   {
     "sheet": "Training Program",
@@ -4321,7 +4660,8 @@
       "Professional Skills",
       "Idea Pitching",
       "Public Speaking and Presentations"
-    ]
+    ],
+    "short_description": "Foundational public speaking: structure, vocal variety, and slide design for pitches."
   },
   {
     "sheet": "Training Program",
@@ -4334,7 +4674,8 @@
       "Professional Skills",
       "Idea Pitching",
       "How to Sell: An Overview of Fundamental Selling Techniques"
-    ]
+    ],
+    "short_description": "Fundamental selling techniques: process analysis, cold calling, and overcoming objections."
   },
   {
     "sheet": "Training Program",
@@ -4347,7 +4688,8 @@
       "Professional Skills",
       "Idea Pitching",
       "Speaking and Presenting: Pitches and Persuasion"
-    ]
+    ],
+    "short_description": "Persuasive speaking/presentation: storytelling, expression range, and confident negotiation."
   },
   {
     "sheet": "Training Program",
@@ -4360,7 +4702,8 @@
       "Professional Skills",
       "Idea Pitching",
       "Influencing People"
-    ]
+    ],
+    "short_description": "Influence/persuasion tactics: building relationships and protecting from manipulation."
   },
   {
     "sheet": "Training Program",
@@ -4373,7 +4716,8 @@
       "Professional Skills",
       "Idea Pitching",
       "Introduction to Public Speaking"
-    ]
+    ],
+    "short_description": "Speech composition/delivery focusing on rhetorical structure and pitch confidence."
   },
   {
     "sheet": "Training Program",
@@ -4386,7 +4730,8 @@
       "Professional Skills",
       "Presentation Design",
       "Work Smarter with Microsoft PowerPoint"
-    ]
+    ],
+    "short_description": "Advanced PowerPoint features, template customization, and presentation flow optimization."
   },
   {
     "sheet": "Training Program",
@@ -4399,7 +4744,8 @@
       "Professional Skills",
       "Presentation Design",
       "Present with Purpose: Create/Deliver Effective Presentations"
-    ]
+    ],
+    "short_description": "Presentation design/delivery: impactful decks, storytelling, and managing nerves."
   },
   {
     "sheet": "Training Program",
@@ -4412,7 +4758,8 @@
       "Professional Skills",
       "Presentation Design",
       "Designing and Formatting a Presentation in PowerPoint"
-    ]
+    ],
+    "short_description": "PowerPoint 365 project: theme, formatting, table insertion, and finalizing decks."
   },
   {
     "sheet": "Training Program",
@@ -4425,7 +4772,8 @@
       "Professional Skills",
       "Presentation Design",
       "Effective Business Presentations with Powerpoint"
-    ]
+    ],
+    "short_description": "Data-driven storytelling in PowerPoint: structure, design, and professional delivery."
   },
   {
     "sheet": "Training Program",
@@ -4438,7 +4786,8 @@
       "Professional Skills",
       "Presentation Design",
       "Successful Presentation"
-    ]
+    ],
+    "short_description": "Public speaking fundamentals: mastering fear, presentation formula, verbal/non-verbal skills."
   },
   {
     "sheet": "Training Program",
@@ -4451,7 +4800,8 @@
       "Professional Skills",
       "Presentation Design",
       "Create and Design Digital Products using Canva"
-    ]
+    ],
+    "short_description": "Canva digital product design: covers, templates, protection, and watermarking."
   },
   {
     "sheet": "Training Program",
@@ -4464,7 +4814,8 @@
       "Professional Skills",
       "Project and Program Management",
       "Fundamentals of Project Planning and Management "
-    ]
+    ],
+    "short_description": "Hypothesis-driven planning, risk analysis, earned value, and stakeholder engagement."
   },
   {
     "sheet": "Training Program",
@@ -4477,7 +4828,8 @@
       "Professional Skills",
       "Project and Program Management",
       "IBM Project Management Basics "
-    ]
+    ],
+    "short_description": "Project initiation, planning, execution, monitoring, and closing (IBM best practices)."
   },
   {
     "sheet": "Training Program",
@@ -4490,7 +4842,8 @@
       "Professional Skills",
       "Project and Program Management",
       "Foundations of Project Management"
-    ]
+    ],
+    "short_description": "Foundational PM concepts: roles, life cycle, methodologies, and culture impact."
   },
   {
     "sheet": "Training Program",
@@ -4503,7 +4856,8 @@
       "Professional Skills",
       "Project and Program Management",
       "Project Management Essentials"
-    ]
+    ],
+    "short_description": "Core PM principles: communication, leadership, planning, and software selection."
   },
   {
     "sheet": "Training Program",
@@ -4516,7 +4870,8 @@
       "Professional Skills",
       "Project and Program Management",
       "Agile Project Management"
-    ]
+    ],
+    "short_description": "Agile PM: philosophy, Scrum ceremonies, backlog, sprint planning, and coaching."
   },
   {
     "sheet": "Training Program",
@@ -4529,7 +4884,8 @@
       "Professional Skills",
       "Project and Program Management",
       "Introduction to Project Management"
-    ]
+    ],
+    "short_description": "Project management fundamentals: definitions, methodologies, roles, and career paths."
   },
   {
     "sheet": "Training Program",
@@ -4542,7 +4898,8 @@
       "Professional Skills",
       "Project and Program Management",
       "Create a Project Management Tracker using Microsoft Excel"
-    ]
+    ],
+    "short_description": "Excel for PM project: creating, formatting, and tracking spreadsheets/workbooks."
   },
   {
     "sheet": "Training Program",
@@ -4555,7 +4912,8 @@
       "Professional Skills",
       "Operational Excellence ",
       "Operations Excellence Specialization"
-    ]
+    ],
+    "short_description": "Operational strategy, process optimization, Lean tools, and Six Sigma basics."
   },
   {
     "sheet": "Training Program",
@@ -4568,7 +4926,8 @@
       "Professional Skills",
       "Operational Excellence ",
       "Lean Management Fundamentals"
-    ]
+    ],
+    "short_description": "Lean principles: identifying waste, tools (Kaizen, Kanban), and leadership role."
   },
   {
     "sheet": "Training Program",
@@ -4581,7 +4940,8 @@
       "Professional Skills",
       "Operational Excellence ",
       "Lean Management Course"
-    ]
+    ],
+    "short_description": "Lean principles/tools: TPS, JIT, 7 wastes, 5S, Kaizen, Kanban, and metrics."
   },
   {
     "sheet": "Training Program",
@@ -4594,7 +4954,8 @@
       "Professional Skills",
       "Social Entrepreneurship and Innovation",
       "Creating Change through Social Entrepreneurship"
-    ]
+    ],
+    "short_description": "Social problem definition, solution development, business model, and impact measurement."
   },
   {
     "sheet": "Training Program",
@@ -4607,7 +4968,8 @@
       "Professional Skills",
       "Social Entrepreneurship and Innovation",
       "Social Entrepreneurship and Systems Change"
-    ]
+    ],
+    "short_description": "Systems thinking in social entrepreneurship: collaboration, policy advocacy, scaling solutions."
   },
   {
     "sheet": "case-studies",
@@ -4626,7 +4988,8 @@
     "full_text": "- Learning Link Foundation (Keyword: Operational Excellence)\nThumbnail Header: Tech Integration Scales Field Operations\nHeader- Strategic Platform Adoption Enables LLF to Centralize Over 160 Projects and Drive Unprecedented Operational Scale Across India\nQuick Facts\nSummary\nImpact Numbers\n90% Data Accuracy\n50% Faster Processes\n160+ Projects Centralized\nAbout the Organisation\nLearning Links Foundation (LLF) is a non-profit organization working to strengthen both formal and non-formal education in...",
     "word_count": 1288,
     "industry": "Education",
-    "problem_type": "Digital Transformation"
+    "problem_type": "Digital Transformation",
+    "short_description": "Salesforce centralized 160+ projects, boosting LLF data accuracy and efficiency."
   },
   {
     "sheet": "case-studies",
@@ -4645,7 +5008,8 @@
     "full_text": "- Farmers for Forest (Keyword: Impact Measurement)\nThumbnail Header: Smart Stack Enables Agroforestry Scale\nHeader - F4F's Hybrid Tech Stack Revolutionizes Agroforestry Monitoring and Programmatic Scale\nQuick Facts\nSummary\nImpact Highlights\n90%+ Data Accuracy.\n10X Faster Monitoring\n5-State Expansion\nAbout Farmers for Forests\nFounded in December 2019, Farmers for Forests (F4F) is a pioneering organization dedicated to fostering climate resilience and sustainable livelihoods through tech-enabled a...",
     "word_count": 1014,
     "industry": "Technology",
-    "problem_type": "Operational Excellence"
+    "problem_type": "Operational Excellence",
+    "short_description": "Hybrid tech stack, AI/GIS, enables scalable, verifiable agroforestry monitoring and impact."
   },
   {
     "sheet": "case-studies",
@@ -4664,7 +5028,8 @@
     "full_text": "- I-Saksham (Keyword: Leadership Development)\nThumbnail Header: Scaling Grassroot Leadership with Purpose Built AI\nHeader - Scaling Grassroot Leadership with Purpose Built AI\nQuick facts\nSummary\nImpact Numbers\n50% increase in mentoring coverage\n17% reduction in per-fellow mentoring cost\n30% boost in buddy efficiency\nAbout the Organisation\nI-Saksham is a grassroots nonprofit working to empower young women from marginalized communities as edu-leaders, equipping them to deliver quality education an...",
     "word_count": 639,
     "industry": "Education",
-    "problem_type": "Operational Excellence"
+    "problem_type": "Operational Excellence",
+    "short_description": "AI-assisted mentoring streamlined peer coaching, boosting coverage and efficiency by 30%."
   },
   {
     "sheet": "case-studies",
@@ -4683,7 +5048,8 @@
     "full_text": "- Vipla Foundation (Keyword: Early Childhood Edtech)\nThumbnail Header: Digital Enablement for Early Childhood Education\nHeader: Reimagining Balwadi Program - Digital Enablement for Early Childhood Education\nQuick Facts\nQ\nSummary\nImpact Numbers\n91% Teachers used app regularly\n31% increase in Student attendance\n10% increase in Continuous Learning Evaluation scores\nAbout the Organisation\nVipla Foundation, formerly Save The Children India, has worked for over three decades to support inclusive devel...",
     "word_count": 650,
     "industry": "Education",
-    "problem_type": "Impact Measurement"
+    "problem_type": "Impact Measurement",
+    "short_description": "UMANG mobile app streamlined data/support, boosting student attendance 31% in Balwadis."
   },
   {
     "sheet": "case-studies",
@@ -4702,7 +5068,8 @@
     "full_text": "- Akshay Patra (Keyword:Supply Chain Optimization)\nThumbnail Header: Optimizing Operations to Feed Millions\nQuick Facts\nSummary\nImpact numbers\n2.35M Meals Daily\n4 Billion+ Meals Served\n19 Geographies Optimized, Cost\nAbout The Akshaya Patra Foundation\nA not-for-profit organization headquartered in Bengaluru, India. It strives to eliminate classroom hunger by implementing the Mid-Day Meal Scheme in government schools and government-aided schools, aiming to counter malnutrition and support the righ...",
     "word_count": 1274,
     "industry": "Education",
-    "problem_type": "Operational Excellence"
+    "problem_type": "Operational Excellence",
+    "short_description": "ERP/Mobile apps digitized supply chain, improving efficiency and compliance."
   },
   {
     "sheet": "case-studies",
@@ -4721,7 +5088,8 @@
     "full_text": "- Anudip (Keyword:Digital Skilling & Employability)\nThumbnail Header: Skilling with Smart Systems\nHeader: Scaling Inclusive Digital Livelihoods Through Technology & AI\nQuick Facts\nSummary\nImpact numbers\n70%+ Placement Rate\n20x Faster Job Matching\n90+ Centers Digitized\nAbout The Anudip\nAnudip creates digital livelihoods for underserved communities through technology and by combining 21st century skills with Artificial Intelligence (AI) applications. Since their inception in 2007, Anudip has impac...",
     "word_count": 1557,
     "industry": "Education",
-    "problem_type": "Operational Excellence"
+    "problem_type": "Operational Excellence",
+    "short_description": "Hybrid tech ecosystem amplified human capacity, enhancing learner journeys and placement rate."
   },
   {
     "sheet": "case-studies",
@@ -4740,7 +5108,8 @@
     "full_text": "- Lend a Hand India (Keyword:Vocational Education Digitization)\nThumbnail Header: Scaling Vocational Education\nHeaders: Scaling Vocational Education: Lend a Hand's Digital Transformation\nQuick Facts\nSummary\nImpact numbers\n25+ State Reach\n99%+ Faster Deployments\nDays-to-Minutes Analytics\nAbout Lend A Hand India (LAHI)\nA not-for-profit organization headquartered in Pune, India works at the intersection of education and livelihood to provide youth employment and entrepreneurial opportunities. Lend ...",
     "word_count": 937,
     "industry": "Technology",
-    "problem_type": "Digital Transformation"
+    "problem_type": "Digital Transformation",
+    "short_description": "Lighthouse custom software enabled real-time vocational education monitoring across 25+ states."
   },
   {
     "sheet": "case-studies",
@@ -4759,7 +5128,8 @@
     "full_text": "- FMCH (Keyword:Public Health Program Delivery)\nThumbnail Header: Digitizing Nutrition for Scalable Impact\nFMCH: Digitizing Nutrition for Scaling Impact\nQuick Facts\nSummary\nImpact numbers\n3x increase in families reached.\n77% of SAM/MAM children moved to the healthy category.\n21% drop in missed high-risk visits\nProblem Statement\nFMCH faced challenges in scaling its nutrition programs while maintaining quality due to inconsistent counseling, ineffective scheduling, and fragmented data. Field offic...",
     "word_count": 1118,
     "industry": "Healthcare",
-    "problem_type": "Operational Excellence"
+    "problem_type": "Operational Excellence",
+    "short_description": "NuTree app digitized nutrition counseling, resulting in 3x reach and better health outcomes."
   },
   {
     "sheet": "case-studies",
@@ -4778,7 +5148,8 @@
     "full_text": ": Educate Girls (Keyword: Precision Targeting)\nThumbnail Header: Predictive Targeting to Enroll Girls\nHeaders: Predictive tech to identify and target high-need geographies for out-of-school girl enrolment\nQuick Facts\nSummary\nImpact numbers\n1.56 million girls enrolled in just 6 years\n7x faster impact compared to the previous model\n90% model accuracy with major cost and time savings\nAbout Educate Girls\nEducate Girls is a non-profit working in India’s rural and educationally backward districts to i...",
     "word_count": 726,
     "industry": "Education",
-    "problem_type": "Operational Excellence"
+    "problem_type": "Operational Excellence",
+    "short_description": "ML model achieved 90% accuracy, enabling precision targeting for girl enrollment 7x faster."
   },
   {
     "sheet": "case-studies",
@@ -4797,7 +5168,8 @@
     "full_text": ": Educate Girls (Keyword: Operational Excellence)\nThumbnail Header: GIS-Powered Planning for Field Efficiency\nHeader: GIS for Targeted Expansion: Spatial intelligence to identify underserved geographies and optimize resource deployment\nQuick Facts\nSummary\nImpact numbers\n1.56 million girls enrolled in just 6 years\n7x faster impact compared to the previous model\n90% model accuracy with major cost and time savings\nAbout Educate Girls\nEducate Girls is a non-profit working in India’s rural and educat...",
     "word_count": 925,
     "industry": "Technology",
-    "problem_type": "Operational Excellence"
+    "problem_type": "Operational Excellence",
+    "short_description": "GIS platform streamlined planning, automating cluster generation and optimizing field routes."
   },
   {
     "sheet": "case-studies",
@@ -4816,6 +5188,7 @@
     "full_text": ": ARMMAN\nThumbnail Header: Transforming Last-Mile Health Digitally\nAdvancing Reduction in Mortality and Morbidity of Mothers,  Children and Neonates\nKeyword :Public Health Program Delivery\nQuick Facts\nSummary\nImpact numbers\n0 maternal deaths among identified high-risk pregnancies (2023–24) due to digital escalation.\n90% follow-up for high-risk pregnancies identified by the app.\n100% digital field data collection achieved by 2021.\nAbout ARMMAN\nARMMAN is a non-profit organization  leveraging techn...",
     "word_count": 672,
     "industry": "Technology",
-    "problem_type": "Operational Excellence"
+    "problem_type": "Operational Excellence",
+    "short_description": "Custom mobile app enabled 100% digital data, eliminating maternal deaths in high-risk cases."
   }
 ]

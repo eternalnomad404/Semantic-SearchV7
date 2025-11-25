@@ -27,8 +27,8 @@ sheet_configs = [
         "filename": "tools.xlsx",
         "sheet_name": "Cleaned Sheet",  # Changed from "tools" to actual sheet name
         "embed_cols": [0, 1, 2, 4],
-        "display_cols": [0, 1, 2],
-        "column_headers": ["Category", "Sub-Category", "Name of Tool"],
+        "display_cols": [0, 1, 2, 16],  # Added column Q (index 16) for short_description
+        "column_headers": ["Category", "Sub-Category", "Name of Tool", "short_description"],
         "skip_rows": 0,  # No need to skip rows in cleaned sheet
         "max_rows": 231
     },
@@ -36,8 +36,8 @@ sheet_configs = [
         "filename": "service-providers.xlsx",
         "sheet_name": "Service Provider Profiles",
         "embed_cols": [0, 1],
-        "display_cols": [0],
-        "column_headers": ["Name of Service Provider"],
+        "display_cols": [0, 14],  # Added column O (index 14) for short_description
+        "column_headers": ["Name of Service Provider", "short_description"],
         "skip_rows": 0,
         "max_rows": 25
     },
@@ -45,15 +45,15 @@ sheet_configs = [
         "filename": "training-courses.xlsx",
         "sheet_name": "Training Program",
         "embed_cols": [8, 10, 2, 1, 0],
-        "display_cols": [0, 1, 2],
-        "column_headers": ["Skill", "Topic", "Course Title"],
+        "display_cols": [0, 1, 2, 14],  # Added column O (index 14) for short_description
+        "column_headers": ["Skill", "Topic", "Course Title", "short_description"],
         "skip_rows": 0,
         "max_rows": 110
     },
     {
         "type": "case_studies",
         "filename": "case_studies_metadata.json",
-        "embed_fields": ["title", "industry", "problem_type", "summary"],  # Removed full_text, focused on GROQ summary
+        "embed_fields": ["title", "industry", "problem_type", "summary"],  # Removed full_text, focused on GROQ summary, NOT including short_description
         "display_fields": ["title", "industry", "problem_type"],
         "column_headers": ["Title", "Industry", "Problem Type"]
     }
@@ -112,7 +112,8 @@ for config in sheet_configs:
                     "full_text": cs.get("full_text", "")[:500] + "..." if len(cs.get("full_text", "")) > 500 else cs.get("full_text", ""),
                     "word_count": cs.get("word_count", 0),
                     "industry": cs.get("industry", ""),
-                    "problem_type": cs.get("problem_type", "")
+                    "problem_type": cs.get("problem_type", ""),
+                    "short_description": cs.get("short_description", "")  # Add short_description
                 }
                 all_metadata.append(metadata_entry)
                 all_texts.append(embed_text)
@@ -163,10 +164,16 @@ for config in sheet_configs:
         raw_texts.extend(texts)
 
         for row_data in display_data:
+            # Extract short_description (last item in row_data based on our config)
+            short_desc = row_data[-1] if len(row_data) > 0 else ""
+            # Remove short_description from values array (keep only display fields)
+            values_without_short_desc = row_data[:-1] if len(row_data) > 1 else row_data
+            
             metadata_entry = {
                 "sheet": config["sheet_name"],
-                "column_headers": config["column_headers"],
-                "values": row_data
+                "column_headers": config["column_headers"][:-1],  # Exclude short_description from headers
+                "values": values_without_short_desc,
+                "short_description": short_desc  # Add as separate field
             }
             all_metadata.append(metadata_entry)
 
