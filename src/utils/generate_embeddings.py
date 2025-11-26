@@ -113,6 +113,10 @@ for config in sheet_configs:
             print(f"Loaded {len(case_studies)} case studies from {config['filename']}")
             
             for cs in case_studies:
+                # Extract and clean the organization name from title
+                case_study_title = cs.get("title", "")
+                clean_org_name = case_study_title.replace('- ', '').split('(')[0].strip()
+                
                 # Create embedding text from multiple fields
                 embed_text_parts = []
                 for field in config["embed_fields"]:
@@ -122,8 +126,9 @@ for config in sheet_configs:
                 
                 embed_text = " ".join(embed_text_parts)
                 
-                # Enhance embedding text with explicit case study keywords for better semantic matching
-                embed_text = f"case study case studies success story impact story {embed_text}"
+                # Prioritize organization name by placing it first, then add case study keywords
+                # This ensures direct name searches match strongly while maintaining thematic discoverability
+                embed_text = f"{clean_org_name} {clean_org_name} {clean_org_name} case study {embed_text}"
                 
                 # Create display data
                 display_data = []
