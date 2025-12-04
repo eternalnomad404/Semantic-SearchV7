@@ -103,11 +103,11 @@ def transform_result_to_api_format(result: Dict[str, Any], rank: int) -> SearchR
         # For service providers, use the provider name (index 0)
         display_header = values[0] if len(values) >= 1 else ' | '.join(values)
     
-    # Generate URL
-    url = search_engine._generate_result_url(result)
+    # Get URL from metadata (API provides this directly)
+    url = metadata.get('url', 'https://dt4si.com/')
     
-    # Extract slug from the generated URL
-    slug = extract_slug_from_url(url)
+    # Get slug from metadata (API provides this directly)
+    slug = metadata.get('slug', extract_slug_from_url(url))
     
     # Create metadata object
     result_metadata = SearchResultMetadata(

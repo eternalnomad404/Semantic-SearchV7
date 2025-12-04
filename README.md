@@ -50,47 +50,32 @@ Money.
 semantic-search/
 ├── src/                          # Source code
 │   ├── api/                      # FastAPI REST API
-│   │   ├── __init__.py
 │   │   ├── main.py              # API endpoints
 │   │   └── models.py            # Pydantic models
 │   ├── core/                     # Core functionality
-│   │   ├── __init__.py
 │   │   └── search_engine.py     # Search algorithm
 │   ├── ui/                       # User interfaces
-│   │   ├── __init__.py
 │   │   └── streamlit_app.py     # Streamlit UI
 │   └── utils/                    # Utilities
-│       ├── __init__.py
-│       ├── generate_embeddings.py
-│       └── process_case_studies.py
-├── data/                         # Data files
-│   ├── tools.xlsx
-│   ├── service-providers.xlsx
-│   ├── training-courses.xlsx
-│   ├── Case-Studies.docx
-│   └── case_studies_metadata.json
+│       ├── fetch_data_from_apis.py   # API data fetcher
+│       ├── generate_embeddings.py    # Embedding generator
+│       └── fetch_external_images.py  # Image fetcher
+├── data/                         # API cache files (JSON)
+│   ├── tools_data.json
+│   ├── services_data.json
+│   ├── courses_data.json
+│   ├── case_studies_data.json
+│   └── slug_to_image_mapping.json
 ├── vectorstore/                  # Generated embeddings
 │   ├── faiss_index.index        # FAISS vector index
 │   ├── metadata.json            # Document metadata
 │   └── tfidf.pkl                # TF-IDF vectors
 ├── docker/                       # Docker configuration
-│   ├── Dockerfile
-│   ├── docker-compose.yml
-│   └── .dockerignore
 ├── scripts/                      # Build & deployment scripts
-│   ├── build.bat
-│   ├── build.sh
-│   ├── docker-build.bat
-│   ├── docker-build.sh
-│   ├── ec2-setup.sh
-│   └── run-api.bat
 ├── docs/                         # Documentation
-│   ├── DEPLOYMENT.md
-│   └── DOCKER.md
 ├── main.py                       # API entry point
 ├── streamlit_app.py             # UI entry point
 ├── requirements.txt
-├── .env.example
 └── README.md
 ```
 
@@ -129,13 +114,19 @@ semantic-search/
 4. **Set up environment variables**
    ```bash
    cp .env.example .env
-   # Edit .env and add your GROQ_API_KEY (optional, for case study processing)
+   # Edit .env if needed
    ```
 
-5. **Generate embeddings** (if not already done)
+5. **Fetch data from live API and generate embeddings**
    ```bash
+   # Step 1: Fetch fresh data from DT4SI APIs
+   python src/utils/fetch_data_from_apis.py
+   
+   # Step 2: Generate embeddings from cached data
    python src/utils/generate_embeddings.py
    ```
+   
+   **Note:** Step 1 requires internet to fetch from live APIs. Step 2 works offline using cached JSON files.
 
 ## 🎮 Running the Application
 
@@ -246,15 +237,36 @@ pytest tests/
 - **Models** (`src/api/models.py`): Pydantic data models
 - **Utilities** (`src/utils/`): Data processing scripts
 
-### Generating New Embeddings
+### Updating Search Data
+
+When content is updated in your database, refresh the search system:
 
 ```bash
-# Process case studies from Word doc
-python src/utils/process_case_studies.py
+# Step 1: Fetch fresh data from DT4SI live APIs
+python src/utils/fetch_data_from_apis.py
 
-# Generate FAISS embeddings
+# Step 2: Generate new embeddings
 python src/utils/generate_embeddings.py
+
+# Step 3: Restart your services
+# Press Ctrl+C to stop, then restart:
+python main.py              # For API
+streamlit run streamlit_app.py  # For UI
 ```
+
+**API Endpoints Used:**
+- `https://dt4si.com/api/v1/tools`
+- `https://dt4si.com/api/v1/services`
+- `https://dt4si.com/api/v1/courses`
+- `https://dt4si.com/api/v1/case-studies`
+
+**What Gets Updated:**
+- Tools: 199 items → `data/tools_data.json`
+- Services: 22 items → `data/services_data.json`
+- Courses: 107 items → `data/courses_data.json`
+- Case Studies: 14 items → `data/case_studies_data.json`
+
+The system fetches data from live APIs and caches it locally. Embeddings are then generated from the cached data, allowing offline regeneration without repeated API calls.
 
 ## 🐳 Docker Deployment
 
@@ -276,16 +288,17 @@ docker-compose down
 
 ## ⚙️ Configuration
 
-Configuration is managed through environment variables:
+Configuration is managed through environment variables in `.env` file (optional):
 
 ```bash
-# .env file
-GROQ_API_KEY=your_api_key_here  # Optional: for case study processing
+# .env file (all optional)
 MODEL_NAME=all-MiniLM-L6-v2
 INDEX_PATH=vectorstore/faiss_index.index
 METADATA_PATH=vectorstore/metadata.json
 TFIDF_PATH=vectorstore/tfidf.pkl
 ```
+
+**Note:** The system fetches data directly from DT4SI APIs. No API keys required for data fetching.
 
 ## 📖 Additional Documentation
 

@@ -39,21 +39,6 @@ class SemanticSearcher:
                  tfidf_path: str = "vectorstore/tfidf.pkl",
                  model_name: str = "all-MiniLM-L6-v2"):
         
-        # Define case study URLs mapping
-        self.case_study_urls = {
-            "learning link foundation": "https://dt4si.com/case-studies/learning-link-foundation",
-            "farmers for forest": "https://dt4si.com/case-studies/farmer-for-forest", 
-            "i-saksham": "https://dt4si.com/case-studies/i-saksham",
-            "vipla foundation": "https://dt4si.com/case-studies/vipla-foundation",
-            "educate girls predictive targeting to enroll girls": "https://dt4si.com/case-studies/educate-girls-predictive-targeting-to-enroll-girls",
-            "the akshaya patra foundation": "https://dt4si.com/case-studies/the-akshaya-patra-foundation",
-            "armman": "https://dt4si.com/case-studies/armman",
-            "lend a hand india": "https://dt4si.com/case-studies/lend-a-hand-india",
-            "anudip": "https://dt4si.com/case-studies/anudip",
-            "fmch": "https://dt4si.com/case-studies/fmch",
-            "educate girls": "https://dt4si.com/case-studies/educate-girls"
-        }
-        
         if not os.path.exists(index_path):
             raise FileNotFoundError(f"FAISS index not found at {index_path}")
         self.index = faiss.read_index(index_path)
@@ -76,66 +61,6 @@ class SemanticSearcher:
         # Initialize GROQ client lazily (only when needed) - NOT USED ANYMORE
         # Keeping for backward compatibility in case other code references it
         self.groq_client = None
-
-    def _create_url_slug(self, text: str) -> str:
-        """Convert text to URL-friendly slug."""
-        # Convert to lowercase
-        slug = text.lower()
-        # Replace spaces and special characters with hyphens
-        slug = re.sub(r'[^a-z0-9\s-]', '', slug)
-        slug = re.sub(r'\s+', '-', slug)
-        # Remove multiple hyphens
-        slug = re.sub(r'-+', '-', slug)
-        # Remove leading/trailing hyphens
-        slug = slug.strip('-')
-        return slug
-    
-    def _generate_result_url(self, result: dict) -> str:
-        """Generate appropriate URL for each result based on category."""
-        sheet_name = result['metadata'].get('sheet', '').lower()
-        values = result['metadata'].get('values', [])
-        
-        try:
-            # Tools - from "Cleaned Sheet"
-            if 'cleaned sheet' in sheet_name and len(values) >= 3:
-                tool_name = str(values[2]).strip()  # "Name of Tool" is at index 2
-                slug = self._create_url_slug(tool_name)
-                return f"https://dt4si.com/tools/{slug}"
-            
-            # Service Providers - from "Service Provider Profiles"  
-            elif 'service provider profiles' in sheet_name and len(values) >= 1:
-                provider_name = str(values[0]).strip()  # "Name of Service Provider" is at index 0
-                slug = self._create_url_slug(provider_name)
-                return f"https://dt4si.com/services/{slug}"
-            
-            # Courses - from "Training Program"
-            elif 'training program' in sheet_name and len(values) >= 3:
-                course_title = str(values[2]).strip()  # "Course Title" is at index 2
-                slug = self._create_url_slug(course_title)
-                return f"https://dt4si.com/courses/{slug}"
-            
-            # Case Studies - use predefined URLs
-            elif 'case-studies' in sheet_name or 'case study' in sheet_name:
-                if len(values) >= 1:
-                    case_study_title = str(values[0]).strip().lower()
-                    # Clean up the title for matching
-                    case_study_title = case_study_title.replace('- ', '').replace('(keyword:', '').split('(')[0].strip()
-                    
-                    # Find matching URL from predefined list
-                    for key, url in self.case_study_urls.items():
-                        if key in case_study_title or case_study_title in key:
-                            return url
-                    
-                    # Fallback: create generic case study URL
-                    slug = self._create_url_slug(case_study_title)
-                    return f"https://dt4si.com/case-studies/{slug}"
-            
-            # Fallback for any unmatched items
-            return "https://dt4si.com/"
-            
-        except Exception as e:
-            print(f"Error generating URL: {e}")
-            return "https://dt4si.com/"
 
     def get_stats(self) -> Dict[str, Any]:
         """Get search engine statistics"""

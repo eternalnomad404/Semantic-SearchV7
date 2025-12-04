@@ -47,8 +47,8 @@ def main() -> None:
                         header = ' | '.join(res['metadata'].get('values', []))
                         source_sheet = res['metadata'].get('sheet', 'Unknown')
                         
-                        # Generate URL for this result
-                        result_url = searcher._generate_result_url(res)
+                        # Get URL from metadata (API provides this directly)
+                        result_url = res['metadata'].get('url', 'https://dt4si.com/')
                         
                         # Determine category type and display info based on source
                         if "case-studies" in source_sheet.lower():

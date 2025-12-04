@@ -3,7 +3,6 @@ print("Script started...")
 import json
 import faiss
 import os
-import re
 from sentence_transformers import SentenceTransformer
 from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
@@ -11,15 +10,6 @@ import pickle
 
 # Setup output directory
 os.makedirs("vectorstore", exist_ok=True)
-
-def create_url_slug(text: str) -> str:
-    """Convert text to URL-friendly slug (same logic as search_engine.py)"""
-    slug = text.lower()
-    slug = re.sub(r'[^a-z0-9\s-]', '', slug)
-    slug = re.sub(r'\s+', '-', slug)
-    slug = re.sub(r'-+', '-', slug)
-    slug = slug.strip('-')
-    return slug
 
 # Clear previous vectorstore
 if os.path.exists("vectorstore/faiss_index.index"):
