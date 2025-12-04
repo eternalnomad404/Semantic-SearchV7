@@ -8,7 +8,7 @@ Usage: python src/utils/fetch_data_from_apis.py
 import requests
 import json
 import os
-from typing import Dict, List, Any
+from typing import Dict, List, Any, Tuple
 
 # API Configuration
 API_BASE_URL = "https://dt4si.com/api/v1"
@@ -78,8 +78,73 @@ def fetch_from_api(endpoint: str, category: str) -> List[Dict[str, Any]]:
         raise
 
 
+def compare_data(old_data: List[Dict], new_data: List[Dict], category: str) -> Tuple[int, int, int]:
+    """
+    Compare old and new data to detect changes
+    
+    Returns:
+        Tuple of (added_count, removed_count, modified_count)
+    """
+    # Create sets of IDs/slugs for comparison
+    old_ids = set()
+    old_items = {}
+    
+    for item in old_data:
+        item_id = item.get('id') or item.get('slug') or item.get('title', '')
+        old_ids.add(item_id)
+        old_items[item_id] = item
+    
+    new_ids = set()
+    new_items = {}
+    
+    for item in new_data:
+        item_id = item.get('id') or item.get('slug') or item.get('title', '')
+        new_ids.add(item_id)
+        new_items[item_id] = item
+    
+    # Calculate differences
+    added = new_ids - old_ids
+    removed = old_ids - new_ids
+    
+    # Check for modifications in common items
+    modified = 0
+    common_ids = old_ids & new_ids
+    for item_id in common_ids:
+        if old_items[item_id] != new_items[item_id]:
+            modified += 1
+    
+    return len(added), len(removed), modified
+
+
 def save_to_file(data: List[Dict], filepath: str, category: str):
-    """Save fetched data to JSON file"""
+    """Save fetched data to JSON file and show changes"""
+    # Load old data if exists
+    old_data = []
+    if os.path.exists(filepath):
+        try:
+            with open(filepath, 'r', encoding='utf-8') as f:
+                old_data = json.load(f)
+        except:
+            pass
+    
+    # Compare and show changes
+    if old_data:
+        added, removed, modified = compare_data(old_data, data, category)
+        
+        if added > 0 or removed > 0 or modified > 0:
+            print(f"   📝 Changes detected:")
+            if added > 0:
+                print(f"      ➕ {added} new items added")
+            if removed > 0:
+                print(f"      ➖ {removed} items removed")
+            if modified > 0:
+                print(f"      ✏️  {modified} items modified")
+        else:
+            print(f"   ✔️  No changes detected")
+    else:
+        print(f"   📝 First time fetch - {len(data)} items")
+    
+    # Save new data
     try:
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
