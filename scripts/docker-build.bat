@@ -13,8 +13,8 @@ set FULL_IMAGE_NAME=%IMAGE_NAME%:%TAG%
 echo 🐳 Building Docker image: %FULL_IMAGE_NAME%
 
 REM Check if we're in the right directory
-if not exist "Dockerfile" (
-    echo ❌ Error: Dockerfile not found. Please run this script from the project root directory.
+if not exist "docker\Dockerfile" (
+    echo ❌ Error: Dockerfile not found in docker\ directory. Please run this script from the project root directory.
     exit /b 1
 )
 
@@ -39,7 +39,7 @@ if not exist "vectorstore" (
 
 REM Build the Docker image
 echo 📦 Building Docker image...
-docker build -t "%FULL_IMAGE_NAME%" .
+docker build -f docker\Dockerfile -t "%FULL_IMAGE_NAME%" .
 
 if %ERRORLEVEL% equ 0 (
     echo ✅ Docker image built successfully: %FULL_IMAGE_NAME%
