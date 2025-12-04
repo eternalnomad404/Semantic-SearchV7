@@ -1,36 +1,16 @@
 print("Script started...")
 
-import pandas as pd
 import json
 import faiss
 import os
 import re
 from sentence_transformers import SentenceTransformer
 from sklearn.feature_extraction.text import TfidfVectorizer
-from fuzzywuzzy import fuzz
 import numpy as np
 import pickle
 
 # Setup output directory
 os.makedirs("vectorstore", exist_ok=True)
-
-# Load image mapping if available
-IMAGE_MAPPING_FILE = "data/slug_to_image_mapping.json"
-slug_to_image = {}
-
-if os.path.exists(IMAGE_MAPPING_FILE):
-    try:
-        with open(IMAGE_MAPPING_FILE, 'r', encoding='utf-8') as f:
-            image_data = json.load(f)
-            slug_to_image = image_data.get('mapping', {})
-            print(f"✅ Loaded {len(slug_to_image)} image mappings from external API")
-    except Exception as e:
-        print(f"⚠️  Warning: Could not load image mappings: {e}")
-        slug_to_image = {}
-else:
-    print(f"⚠️  Image mapping file not found: {IMAGE_MAPPING_FILE}")
-    print("   Run 'python src/utils/fetch_external_images.py' to fetch images")
-
 
 def create_url_slug(text: str) -> str:
     """Convert text to URL-friendly slug (same logic as search_engine.py)"""
@@ -49,43 +29,13 @@ if os.path.exists("vectorstore/metadata.json"):
 if os.path.exists("vectorstore/tfidf.pkl"):
     os.remove("vectorstore/tfidf.pkl")
 
-# Sheet configurations with row boundaries
-sheet_configs = [
-    {
-        "filename": "tools.xlsx",
-        "sheet_name": "Cleaned Sheet",  # Changed from "tools" to actual sheet name
-        "embed_cols": [0, 1, 2, 4],
-        "display_cols": [0, 1, 2, 16],  # Added column Q (index 16) for short_description
-        "column_headers": ["Category", "Sub-Category", "Name of Tool", "short_description"],
-        "skip_rows": 0,  # No need to skip rows in cleaned sheet
-        "max_rows": 231
-    },
-    {
-        "filename": "service-providers.xlsx",
-        "sheet_name": "Service Provider Profiles",
-        "embed_cols": [0, 1],
-        "display_cols": [0, 14],  # Added column O (index 14) for short_description
-        "column_headers": ["Name of Service Provider", "short_description"],
-        "skip_rows": 0,
-        "max_rows": 25
-    },
-    {
-        "filename": "training-courses.xlsx",
-        "sheet_name": "Training Program",
-        "embed_cols": [8, 10, 2, 1, 0],
-        "display_cols": [0, 1, 2, 14],  # Added column O (index 14) for short_description
-        "column_headers": ["Skill", "Topic", "Course Title", "short_description"],
-        "skip_rows": 0,
-        "max_rows": 110
-    },
-    {
-        "type": "case_studies",
-        "filename": "case_studies_metadata.json",
-        "embed_fields": ["title", "industry", "problem_type", "summary"],  # Removed full_text, focused on GROQ summary, NOT including short_description
-        "display_fields": ["title", "industry", "problem_type"],
-        "column_headers": ["Title", "Industry", "Problem Type"]
-    }
-]
+# API Data file paths
+API_DATA_FILES = {
+    "tools": "data/tools_data.json",
+    "services": "data/services_data.json",
+    "courses": "data/courses_data.json",
+    "case_studies": "data/case_studies_data.json"
+}
 
 # Initialize data containers
 all_texts = []
@@ -95,165 +45,190 @@ raw_texts = []  # For TF-IDF
 # Load embedding model
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
-# Process each sheet
-for config in sheet_configs:
-    # Handle case studies differently
-    if config.get("type") == "case_studies":
-        filepath = os.path.join("data", config["filename"])
+print("\n" + "="*80)
+print("📚 LOADING DATA FROM API CACHE FILES")
+print("="*80)
+
+# ============================================================================
+# 1. PROCESS TOOLS
+# ============================================================================
+tools_file = API_DATA_FILES["tools"]
+if os.path.exists(tools_file):
+    with open(tools_file, 'r', encoding='utf-8') as f:
+        tools_data = json.load(f)
+    
+    print(f"\n✅ Loaded {len(tools_data)} tools from {tools_file}")
+    
+    for tool in tools_data:
+        # Extract fields for embedding
+        # API fields: category (array), sub_category (array), title, long_description
+        category = ' '.join(tool.get('category', [])) if isinstance(tool.get('category'), list) else tool.get('category', '')
+        sub_category = ' '.join(tool.get('sub_category', [])) if isinstance(tool.get('sub_category'), list) else tool.get('sub_category', '')
+        title = tool.get('title', '')
+        long_desc = tool.get('long_description', '')
         
-        if not os.path.exists(filepath):
-            print(f"Case studies file not found: {filepath}")
-            continue
-            
-        try:
-            # Load case studies metadata
-            with open(filepath, 'r', encoding='utf-8') as f:
-                case_studies = json.load(f)
-            
-            print(f"Loaded {len(case_studies)} case studies from {config['filename']}")
-            
-            for cs in case_studies:
-                # Extract and clean the organization name from title
-                case_study_title = cs.get("title", "")
-                clean_org_name = case_study_title.replace('- ', '').split('(')[0].strip()
-                
-                # Create embedding text from multiple fields
-                embed_text_parts = []
-                for field in config["embed_fields"]:
-                    if field in cs and cs[field]:
-                        text = str(cs[field])
-                        embed_text_parts.append(text)
-                
-                embed_text = " ".join(embed_text_parts)
-                
-                # Prioritize organization name by placing it first, then add case study keywords
-                # This ensures direct name searches match strongly while maintaining thematic discoverability
-                embed_text = f"{clean_org_name} {clean_org_name} {clean_org_name} case study {embed_text}"
-                
-                # Create display data
-                display_data = []
-                for field in config["display_fields"]:
-                    display_data.append(cs.get(field, ""))
-                
-                # Get image from slug mapping for case studies
-                image_path = None
-                case_study_title = cs.get("title", "")
-                if case_study_title:
-                    # Clean the title to match slug format
-                    clean_title = case_study_title.replace('- ', '').split('(')[0].strip()
-                    slug = create_url_slug(clean_title)
-                    image_path = slug_to_image.get(slug)
-                
-                # Store metadata
-                metadata_entry = {
-                    "sheet": "case-studies",
-                    "column_headers": config["column_headers"],
-                    "values": display_data,
-                    "case_study_id": cs.get("id"),
-                    "summary": cs.get("summary", ""),
-                    "full_text": cs.get("full_text", "")[:500] + "..." if len(cs.get("full_text", "")) > 500 else cs.get("full_text", ""),
-                    "word_count": cs.get("word_count", 0),
-                    "industry": cs.get("industry", ""),
-                    "problem_type": cs.get("problem_type", ""),
-                    "short_description": cs.get("short_description", ""),  # Add short_description
-                    "image": image_path  # Add image path from external API
-                }
-                all_metadata.append(metadata_entry)
-                all_texts.append(embed_text)
-                raw_texts.append(embed_text)
-                
-                # Debug: Print first case study details
-                if cs.get("id") == 1:
-                    print(f"DEBUG: Case study 1 embed text preview: {embed_text[:200]}...")
-            
-        except Exception as e:
-            print(f"Error processing case studies: {e}")
-            continue
-    else:
-        # Original Excel processing logic
-        filepath = os.path.join("data", config["filename"])
-
-        if not os.path.exists(filepath):
-            print(f"File not found: {filepath}")
-            continue
-
-        try:
-            # Read Excel with proper sheet and skip_rows handling
-            if "skip_rows" in config and config["skip_rows"] > 0:
-                # Skip metadata rows if needed
-                df = pd.read_excel(filepath, sheet_name=config["sheet_name"], header=0, skiprows=config["skip_rows"], nrows=config["max_rows"])
-            else:
-                # Normal reading (for cleaned sheets with proper headers)
-                df = pd.read_excel(filepath, sheet_name=config["sheet_name"], header=0, nrows=config["max_rows"])
-            print(f"Loaded {len(df)} rows from {config['filename']} sheet '{config['sheet_name']}' (max: {config['max_rows']})")
-        except Exception as e:
-            print(f"Error reading {filepath}: {e}")
-            continue
-
-        # Remove the old skip_row logic since we now use skiprows in read_excel
-
-        try:
-            embed_df = df.iloc[:, config["embed_cols"]]
-            display_df = df.iloc[:, config["display_cols"]]
-        except IndexError:
-            print(f"Column indices out of range in {config['filename']}")
-            continue
-
-        # Convert to clean strings and join for embedding
-        texts = embed_df.fillna("").astype(str).agg(" ".join, axis=1).tolist()
-        display_data = display_df.fillna("").astype(str).values.tolist()
+        # Create embedding text (same order as Excel: category, sub_category, title, description)
+        embed_text = f"{category} {sub_category} {title} {long_desc}"
         
-        # Store raw texts for TF-IDF
-        raw_texts.extend(texts)
+        # Create metadata entry
+        metadata_entry = {
+            "sheet": "Cleaned Sheet",  # Keep same sheet name for compatibility
+            "column_headers": ["Category", "Sub-Category", "Name of Tool"],
+            "values": [category, sub_category, title],
+            "short_description": tool.get('short_description', ''),
+            "image": tool.get('image', ''),
+            "url": tool.get('url', ''),
+            "slug": tool.get('slug', '')
+        }
+        
+        all_metadata.append(metadata_entry)
+        all_texts.append(embed_text)
+        raw_texts.append(embed_text)
 
-        for row_data in display_data:
-            # Extract short_description (last item in row_data based on our config)
-            short_desc = row_data[-1] if len(row_data) > 0 else ""
-            # Remove short_description from values array (keep only display fields)
-            values_without_short_desc = row_data[:-1] if len(row_data) > 1 else row_data
-            
-            # Generate slug for image lookup based on category
-            image_path = None
-            sheet_name_lower = config["sheet_name"].lower()
-            
-            if "cleaned sheet" in sheet_name_lower or "tools" in sheet_name_lower:
-                # Tools: use Name of Tool (index 2 in embed_cols, but index 2 in values after removal)
-                tool_name = values_without_short_desc[2] if len(values_without_short_desc) >= 3 else ""
-                if tool_name:
-                    slug = create_url_slug(str(tool_name))
-                    image_path = slug_to_image.get(slug)
-                    
-            elif "service provider" in sheet_name_lower:
-                # Services: use Name of Service Provider (index 0)
-                provider_name = values_without_short_desc[0] if len(values_without_short_desc) >= 1 else ""
-                if provider_name:
-                    slug = create_url_slug(str(provider_name))
-                    image_path = slug_to_image.get(slug)
-                    
-            elif "training" in sheet_name_lower:
-                # Courses: use Course Title (index 2)
-                course_title = values_without_short_desc[2] if len(values_without_short_desc) >= 3 else ""
-                if course_title:
-                    slug = create_url_slug(str(course_title))
-                    image_path = slug_to_image.get(slug)
-            
-            metadata_entry = {
-                "sheet": config["sheet_name"],
-                "column_headers": config["column_headers"][:-1],  # Exclude short_description from headers
-                "values": values_without_short_desc,
-                "short_description": short_desc,  # Add as separate field
-                "image": image_path  # Add image path from external API
-            }
-            all_metadata.append(metadata_entry)
+else:
+    print(f"⚠️  Tools data file not found: {tools_file}")
 
-        all_texts.extend(texts)
+# ============================================================================
+# 2. PROCESS SERVICES
+# ============================================================================
+services_file = API_DATA_FILES["services"]
+if os.path.exists(services_file):
+    with open(services_file, 'r', encoding='utf-8') as f:
+        services_data = json.load(f)
+    
+    print(f"✅ Loaded {len(services_data)} services from {services_file}")
+    
+    for service in services_data:
+        # Extract fields for embedding
+        # API fields: title, long_description
+        title = service.get('title', '')
+        long_desc = service.get('long_description', '')
+        
+        # Create embedding text
+        embed_text = f"{title} {long_desc}"
+        
+        # Create metadata entry
+        metadata_entry = {
+            "sheet": "Service Provider Profiles",  # Keep same sheet name
+            "column_headers": ["Name of Service Provider"],
+            "values": [title],
+            "short_description": service.get('short_description', ''),
+            "image": service.get('image', ''),
+            "url": service.get('url', ''),
+            "slug": service.get('slug', '')
+        }
+        
+        all_metadata.append(metadata_entry)
+        all_texts.append(embed_text)
+        raw_texts.append(embed_text)
 
-# Generate and save embeddings
-print(f"Generating embeddings for {len(all_texts)} rows...")
+else:
+    print(f"⚠️  Services data file not found: {services_file}")
+
+# ============================================================================
+# 3. PROCESS COURSES
+# ============================================================================
+courses_file = API_DATA_FILES["courses"]
+if os.path.exists(courses_file):
+    with open(courses_file, 'r', encoding='utf-8') as f:
+        courses_data = json.load(f)
+    
+    print(f"✅ Loaded {len(courses_data)} courses from {courses_file}")
+    
+    for course in courses_data:
+        # Extract fields for embedding
+        # API fields: explore_by_skill, topic, title, long_description, tools_techniques_covered
+        skill = course.get('explore_by_skill', '')
+        topic = course.get('topic', '')
+        title = course.get('title', '')
+        long_desc = course.get('long_description', '')
+        tools_covered = course.get('tools_techniques_covered', '')
+        
+        # Create embedding text (same order as Excel: skill, topic, title, description, tools)
+        embed_text = f"{tools_covered} {long_desc} {title} {topic} {skill}"
+        
+        # Create metadata entry
+        metadata_entry = {
+            "sheet": "Training Program",  # Keep same sheet name
+            "column_headers": ["Skill", "Topic", "Course Title"],
+            "values": [skill, topic, title],
+            "short_description": course.get('short_description', ''),
+            "image": course.get('image', ''),
+            "url": course.get('url', ''),
+            "slug": course.get('slug', '')
+        }
+        
+        all_metadata.append(metadata_entry)
+        all_texts.append(embed_text)
+        raw_texts.append(embed_text)
+
+else:
+    print(f"⚠️  Courses data file not found: {courses_file}")
+
+# ============================================================================
+# 4. PROCESS CASE STUDIES
+# ============================================================================
+case_studies_file = API_DATA_FILES["case_studies"]
+if os.path.exists(case_studies_file):
+    with open(case_studies_file, 'r', encoding='utf-8') as f:
+        case_studies_data = json.load(f)
+    
+    print(f"✅ Loaded {len(case_studies_data)} case studies from {case_studies_file}")
+    
+    for cs in case_studies_data:
+        # Extract and clean the organization name from title
+        case_study_title = cs.get("title", "")
+        # Extract org name (everything before the first colon)
+        clean_org_name = case_study_title.split(':')[0].strip()
+        
+        # Extract fields for embedding
+        # API fields: title, keyword (replaces industry+problem_type), long_description (replaces summary)
+        title = cs.get('title', '')
+        keyword = cs.get('keyword', '')  # NEW: replaces industry + problem_type
+        long_desc = cs.get('long_description', '')  # Replaces summary
+        
+        # Prioritize organization name by placing it first, then add case study keywords
+        # This ensures direct name searches match strongly while maintaining thematic discoverability
+        embed_text = f"{clean_org_name} {clean_org_name} {clean_org_name} case study {title} {keyword} {long_desc}"
+        
+        # Create display data
+        display_data = [title, keyword]  # NEW: displaying keyword instead of separate industry/problem_type
+        
+        # Store metadata
+        metadata_entry = {
+            "sheet": "case-studies",
+            "column_headers": ["Title", "Keywords"],  # CHANGED: Now uses Keywords
+            "values": display_data,
+            "case_study_id": cs.get('id'),
+            "summary": long_desc,  # Store long_description as summary
+            "word_count": len(long_desc.split()) if long_desc else 0,
+            "keyword": keyword,  # NEW: Store keyword field
+            "short_description": cs.get('short_description', ''),
+            "image": cs.get('image', ''),
+            "url": cs.get('url', ''),
+            "slug": cs.get('slug', '')
+        }
+        
+        all_metadata.append(metadata_entry)
+        all_texts.append(embed_text)
+        raw_texts.append(embed_text)
+        
+        # Debug: Print first case study details
+        if cs.get("id") == 1:
+            print(f"DEBUG: Case study {cs.get('id')} embed text preview: {embed_text[:200]}...")
+
+else:
+    print(f"⚠️  Case studies data file not found: {case_studies_file}")
+
+# ============================================================================
+# GENERATE AND SAVE EMBEDDINGS
+# ============================================================================
+print(f"\n{'='*80}")
+print(f"🔄 Generating embeddings for {len(all_texts)} items...")
 embeddings = model.encode(all_texts)
 
 # Generate TF-IDF vectors
-print("Generating TF-IDF vectors...")
+print("🔄 Generating TF-IDF vectors...")
 tfidf = TfidfVectorizer(
     max_features=1000,
     stop_words='english',
@@ -278,9 +253,8 @@ index = faiss.IndexFlatL2(dim)
 index.add(embeddings)
 faiss.write_index(index, "vectorstore/faiss_index.index")
 
-print(f"FAISS index built with {len(all_texts)} entries.")
-print(f"TF-IDF vectors generated with {tfidf_vectors.shape[1]} features.")
-print("Row boundaries applied:")
-print("  - Sheet 1: 231 rows")
-print("  - Sheet 2: 25 rows") 
-print("  - Sheet 3: 110 rows")
+print(f"✅ FAISS index built with {len(all_texts)} entries.")
+print(f"✅ TF-IDF vectors generated with {tfidf_vectors.shape[1]} features.")
+print("="*80)
+print("✨ Embeddings generation complete!")
+print("="*80)
