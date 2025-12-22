@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "description": "Metadata for golden dataset version 1.0",
+  "created_date": "2025-12-23",
+  "total_queries": 0,
+  "total_judgments": 0,
+  "evaluation_metrics": [
+    "ndcg@10",
+    "map@10", 
+    "precision@5",
+    "recall@10"
+  ],
+  "data_source": "placeholder_source",
+  "notes": "Initial placeholder structure for golden dataset"
+}

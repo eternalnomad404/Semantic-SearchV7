@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "description": "Expected search results for evaluation queries",
+  "created_date": "2025-12-23",
+  "results": [
+    {
+      "query_id": "placeholder_001",
+      "expected_results": [
+        {
+          "rank": 1,
+          "document_id": "doc_placeholder_001",
+          "relevance_score": 1.0
+        }
+      ]
+    }
+  ]
+}

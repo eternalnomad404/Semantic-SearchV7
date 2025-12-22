@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "description": "Human relevance judgments for query-document pairs",
+  "created_date": "2025-12-23",
+  "judgments": [
+    {
+      "query_id": "placeholder_001",
+      "document_id": "doc_placeholder_001",
+      "relevance_label": "highly_relevant",
+      "relevance_score": 3,
+      "annotator_id": "evaluator_placeholder"
+    }
+  ],
+  "relevance_scale": {
+    "0": "not_relevant",
+    "1": "slightly_relevant", 
+    "2": "moderately_relevant",
+    "3": "highly_relevant"
+  }
+}

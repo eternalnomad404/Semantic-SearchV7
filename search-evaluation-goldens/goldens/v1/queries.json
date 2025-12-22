@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "description": "Test queries for search evaluation",
+  "created_date": "2025-12-23",
+  "queries": [
+    {
+      "id": "placeholder_001",
+      "query": "sample query",
+      "intent": "informational",
+      "difficulty": "easy"
+    }
+  ]
+}
