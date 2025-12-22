@@ -4,11 +4,456 @@
   "created_date": "2025-12-23",
   "judgments": [
     {
-      "query_id": "placeholder_001",
-      "document_id": "doc_placeholder_001",
-      "relevance_label": "highly_relevant",
-      "relevance_score": 3,
-      "annotator_id": "evaluator_placeholder"
+      "query_id": "q001",
+      "query": "digital tools for NGOs",
+      "results": [
+        {
+          "id": "tool_235",
+          "title": "Avni",
+          "category": "tool",
+          "relevance_score": 3,
+          "reason": "Open-source field service and data collection platform specifically designed for NGOs with offline capabilities, directly addressing core NGO operational needs."
+        },
+        {
+          "id": "tool_230",
+          "title": "Asana",
+          "category": "tool",
+          "relevance_score": 3,
+          "reason": "Work management platform widely adopted by NGOs for task tracking, project planning, and team collaboration."
+        },
+        {
+          "id": "tool_60",
+          "title": "Glific",
+          "category": "tool",
+          "relevance_score": 3,
+          "reason": "Open-source WhatsApp chatbot platform specifically designed for NGOs to engage communities and manage programs."
+        },
+        {
+          "id": "tool_189",
+          "title": "CommCare by Dimagi",
+          "category": "tool",
+          "relevance_score": 3,
+          "reason": "Mobile platform designed for frontline workers in health and development sectors, widely used by NGOs for data collection and service delivery."
+        },
+        {
+          "id": "tool_100",
+          "title": "Daanveda",
+          "category": "tool",
+          "relevance_score": 3,
+          "reason": "Donor and fundraising CRM specifically built for Indian NGOs with compliance and donation tracking features."
+        },
+        {
+          "id": "tool_90",
+          "title": "ERP4Impact",
+          "category": "tool",
+          "relevance_score": 3,
+          "reason": "ERP solution specifically tailored for social sector organizations and nonprofits, managing projects, finance, HR, and donor relationships."
+        },
+        {
+          "id": "tool_173",
+          "title": "Dalgo",
+          "category": "tool",
+          "relevance_score": 3,
+          "reason": "Open-source data platform developed specifically to help nonprofits manage and analyze data from multiple sources."
+        },
+        {
+          "id": "tool_226",
+          "title": "Basecamp",
+          "category": "tool",
+          "relevance_score": 2,
+          "reason": "Team collaboration tool suitable for NGO project coordination, though not specifically designed for the nonprofit sector."
+        },
+        {
+          "id": "tool_221",
+          "title": "ClickUp",
+          "category": "tool",
+          "relevance_score": 2,
+          "reason": "All-in-one work management platform that NGOs can use for tasks, docs, and goals tracking."
+        },
+        {
+          "id": "tool_229",
+          "title": "Collaborate",
+          "category": "tool",
+          "relevance_score": 2,
+          "reason": "Project management software by Platform Commons specifically for social-impact work planning and tracking."
+        },
+        {
+          "id": "tool_122",
+          "title": "Ally",
+          "category": "tool",
+          "relevance_score": 2,
+          "reason": "Mentorship platform by Platform Commons designed for social impact fellowship and mentorship programs."
+        },
+        {
+          "id": "tool_120",
+          "title": "Better Together",
+          "category": "tool",
+          "relevance_score": 2,
+          "reason": "Platform by Platform Commons designed to foster collaboration within the social impact sector."
+        },
+        {
+          "id": "tool_183",
+          "title": "Google Form",
+          "category": "tool",
+          "relevance_score": 2,
+          "reason": "Free survey and data collection tool widely used by NGOs for feedback, registration, and monitoring."
+        },
+        {
+          "id": "tool_224",
+          "title": "Avaza",
+          "category": "tool",
+          "relevance_score": 2,
+          "reason": "Project management suite with time tracking and invoicing useful for NGO operations, though more service-business focused."
+        },
+        {
+          "id": "tool_144",
+          "title": "Canva",
+          "category": "tool",
+          "relevance_score": 2,
+          "reason": "Design platform widely used by NGOs for creating social media graphics, presentations, and marketing materials."
+        },
+        {
+          "id": "tool_106",
+          "title": "Give India",
+          "category": "tool",
+          "relevance_score": 1,
+          "reason": "Donation platform for verified Indian NGOs, useful for fundraising but serves donors primarily."
+        },
+        {
+          "id": "tool_103",
+          "title": "Fuel a dream",
+          "category": "tool",
+          "relevance_score": 1,
+          "reason": "Crowdfunding platform that NGOs can use for raising funds, though not NGO-specific."
+        },
+        {
+          "id": "tool_175",
+          "title": "Google Analytics",
+          "category": "tool",
+          "relevance_score": 1,
+          "reason": "Web analytics service that NGOs can use to track website traffic and campaign performance."
+        },
+        {
+          "id": "tool_153",
+          "title": "Buffer",
+          "category": "tool",
+          "relevance_score": 1,
+          "reason": "Social media scheduling tool that NGOs can use for content management across platforms."
+        },
+        {
+          "id": "tool_208",
+          "title": "Dropbox",
+          "category": "tool",
+          "relevance_score": 1,
+          "reason": "Cloud storage service useful for NGO file sharing and collaboration, though not sector-specific."
+        },
+        {
+          "id": "tool_210",
+          "title": "Calendly",
+          "category": "tool",
+          "relevance_score": 1,
+          "reason": "Meeting scheduling tool that NGO staff can use for coordinating appointments and meetings."
+        },
+        {
+          "id": "tool_112",
+          "title": "Beehive",
+          "category": "tool",
+          "relevance_score": 1,
+          "reason": "HRMS platform that NGOs can adapt for employee lifecycle and payroll management."
+        }
+      ]
+    },
+    {
+      "query_id": "q002",
+      "query": "technology solutions for nonprofits",
+      "results": [
+        {
+          "id": "service_28",
+          "title": "10x Impact Labs",
+          "category": "service_provider",
+          "relevance_score": 3,
+          "reason": "Partners specifically with nonprofits, CSRs, and philanthropies to implement technology, AI, and MEL solutions with advisory and implementation support."
+        },
+        {
+          "id": "service_4",
+          "title": "EdZola Technologies",
+          "category": "service_provider",
+          "relevance_score": 3,
+          "reason": "Tech4Good company building customizable low-code technology solutions specifically for nonprofits, offering tech consultation and custom app development."
+        },
+        {
+          "id": "service_3",
+          "title": "Project Tech4Dev",
+          "category": "service_provider",
+          "relevance_score": 3,
+          "reason": "Tech enablement nonprofit empowering NGOs with open-source platforms like Glific and Dalgo, fractional CxO programs, and technology capacity building."
+        },
+        {
+          "id": "service_13",
+          "title": "Platform Commons",
+          "category": "service_provider",
+          "relevance_score": 3,
+          "reason": "Co-creates integrated digital platforms for nonprofits including MEL systems, nonprofit ERPs, and volunteer management tools to drive social impact."
+        },
+        {
+          "id": "service_12",
+          "title": "Tech4Good Community",
+          "category": "service_provider",
+          "relevance_score": 3,
+          "reason": "Strengthens tech capabilities of grassroots nonprofits through tech maturity assessment, capacity building, and open-source system implementation."
+        },
+        {
+          "id": "service_8",
+          "title": "Tekdi technologies private limited",
+          "category": "service_provider",
+          "relevance_score": 3,
+          "reason": "Purpose-driven technology company building scalable solutions for nonprofits, specializing in DPI, DPG, and GenAI for societal transformation."
+        },
+        {
+          "id": "service_14",
+          "title": "Kenpath Technologies Private Limited",
+          "category": "service_provider",
+          "relevance_score": 3,
+          "reason": "AI-first engineering partner building technology platforms for governments, nonprofits, and social enterprises with focus on inclusive, multilingual solutions."
+        },
+        {
+          "id": "tool_235",
+          "title": "Avni",
+          "category": "tool",
+          "relevance_score": 3,
+          "reason": "Open-source field service platform specifically designed for nonprofit data collection and field operations with offline capabilities."
+        },
+        {
+          "id": "tool_90",
+          "title": "ERP4Impact",
+          "category": "tool",
+          "relevance_score": 3,
+          "reason": "Comprehensive ERP solution tailored for nonprofits covering project management, finance, HR, and donor management."
+        },
+        {
+          "id": "tool_173",
+          "title": "Dalgo",
+          "category": "tool",
+          "relevance_score": 3,
+          "reason": "Open-source data platform developed for nonprofits to manage, analyze, and generate insights from multiple data sources."
+        },
+        {
+          "id": "service_5",
+          "title": "Dhwani Rural Information Systems Private Limited",
+          "category": "service_provider",
+          "relevance_score": 2,
+          "reason": "Social impact-focused technology consulting firm empowering nonprofits through digital transformation."
+        },
+        {
+          "id": "service_11",
+          "title": "Tech for Social Good",
+          "category": "service_provider",
+          "relevance_score": 2,
+          "reason": "Technology startup helping NGOs adopt and implement Zoho platforms and offering custom web-based software solutions."
+        },
+        {
+          "id": "service_9",
+          "title": "Navadithi Solutions",
+          "category": "service_provider",
+          "relevance_score": 2,
+          "reason": "Full-stack IT services company delivering scalable solutions and supporting social impact organizations with technology needs."
+        },
+        {
+          "id": "service_16",
+          "title": "Synergy Connect Data Innovations Private Limited",
+          "category": "service_provider",
+          "relevance_score": 2,
+          "reason": "Technology partner providing ERP solutions for nonprofit and CSR digital transformation."
+        },
+        {
+          "id": "service_6",
+          "title": "Think201 Creative Studio LLP",
+          "category": "service_provider",
+          "relevance_score": 2,
+          "reason": "Sector-agnostic technology and design company crafting custom digital solutions for diverse industries including nonprofits."
+        },
+        {
+          "id": "tool_60",
+          "title": "Glific",
+          "category": "tool",
+          "relevance_score": 2,
+          "reason": "Open-source WhatsApp platform specifically designed for nonprofit engagement and program management."
+        },
+        {
+          "id": "tool_189",
+          "title": "CommCare by Dimagi",
+          "category": "tool",
+          "relevance_score": 2,
+          "reason": "Mobile platform for frontline workers widely used in nonprofit health and development programs."
+        },
+        {
+          "id": "service_2",
+          "title": "Studio Subu",
+          "category": "service_provider",
+          "relevance_score": 1,
+          "reason": "Provides creative communication solutions for social impact organizations, though primarily design-focused rather than technology implementation."
+        },
+        {
+          "id": "service_24",
+          "title": "Digital For Nonprofits (D4NP)",
+          "category": "service_provider",
+          "relevance_score": 1,
+          "reason": "Leverages technology grants and digital tools to support nonprofits with digital marketing and data insights."
+        },
+        {
+          "id": "service_19",
+          "title": "Litmus ink",
+          "category": "service_provider",
+          "relevance_score": 1,
+          "reason": "Creative communications agency blending design and technology, working with development sector organizations."
+        },
+        {
+          "id": "tool_229",
+          "title": "Collaborate",
+          "category": "tool",
+          "relevance_score": 1,
+          "reason": "Project management platform designed for social-impact organizations by Platform Commons."
+        },
+        {
+          "id": "tool_230",
+          "title": "Asana",
+          "category": "tool",
+          "relevance_score": 1,
+          "reason": "Work management platform used by nonprofits, though not specifically designed for the sector."
+        },
+        {
+          "id": "service_10",
+          "title": "Radics",
+          "category": "service_provider",
+          "relevance_score": 1,
+          "reason": "Applied learning sciences lab developing evidence-based edtech solutions for education NGOs, narrowly focused on education sector."
+        },
+        {
+          "id": "tool_197",
+          "title": "Frappe Framework",
+          "category": "tool",
+          "relevance_score": 1,
+          "reason": "Low-code framework that nonprofits can use to build custom ERP solutions, though requires technical expertise."
+        }
+      ]
+    },
+    {
+      "query_id": "q003",
+      "query": "best digital tools for social impact organizations",
+      "results": [
+        {
+          "id": "tool_235",
+          "title": "Avni",
+          "category": "tool",
+          "relevance_score": 3,
+          "reason": "Open-source platform specifically designed for social impact field operations with offline data collection, validated across multiple social sector programs."
+        },
+        {
+          "id": "tool_60",
+          "title": "Glific",
+          "category": "tool",
+          "relevance_score": 3,
+          "reason": "Open-source WhatsApp platform built specifically for NGOs and social impact organizations to engage communities at scale."
+        },
+        {
+          "id": "tool_189",
+          "title": "CommCare by Dimagi",
+          "category": "tool",
+          "relevance_score": 3,
+          "reason": "Proven mobile platform for frontline workers in health and development, widely recognized as best practice in social impact sector."
+        },
+        {
+          "id": "tool_90",
+          "title": "ERP4Impact",
+          "category": "tool",
+          "relevance_score": 3,
+          "reason": "Comprehensive ERP specifically designed for social sector organizations, addressing unique nonprofit operational needs."
+        },
+        {
+          "id": "tool_173",
+          "title": "Dalgo",
+          "category": "tool",
+          "relevance_score": 3,
+          "reason": "Open-source data platform built for nonprofits to manage complex data and generate program insights effectively."
+        },
+        {
+          "id": "tool_230",
+          "title": "Asana",
+          "category": "tool",
+          "relevance_score": 2,
+          "reason": "Industry-leading work management platform widely adopted by social impact organizations for project coordination."
+        },
+        {
+          "id": "tool_100",
+          "title": "Daanveda",
+          "category": "tool",
+          "relevance_score": 2,
+          "reason": "Donor and fundraising CRM built for Indian NGOs, addressing critical fundraising and compliance needs."
+        },
+        {
+          "id": "tool_229",
+          "title": "Collaborate",
+          "category": "tool",
+          "relevance_score": 2,
+          "reason": "Project management platform by Platform Commons designed specifically for social-impact work."
+        },
+        {
+          "id": "tool_122",
+          "title": "Ally",
+          "category": "tool",
+          "relevance_score": 2,
+          "reason": "Mentorship software platform designed for social impact programs managing fellowships and mentorship at scale."
+        },
+        {
+          "id": "tool_221",
+          "title": "ClickUp",
+          "category": "tool",
+          "relevance_score": 2,
+          "reason": "Comprehensive work management platform suitable for social impact organizations needing integrated task and goal tracking."
+        },
+        {
+          "id": "tool_120",
+          "title": "Better Together",
+          "category": "tool",
+          "relevance_score": 2,
+          "reason": "Collaboration platform specifically designed for social-impact sector organizations by Platform Commons."
+        },
+        {
+          "id": "tool_183",
+          "title": "Google Form",
+          "category": "tool",
+          "relevance_score": 1,
+          "reason": "Free, accessible data collection tool widely used by social impact organizations for surveys and monitoring."
+        },
+        {
+          "id": "tool_144",
+          "title": "Canva",
+          "category": "tool",
+          "relevance_score": 1,
+          "reason": "User-friendly design platform widely adopted by social impact organizations for creating communication materials."
+        },
+        {
+          "id": "tool_226",
+          "title": "Basecamp",
+          "category": "tool",
+          "relevance_score": 1,
+          "reason": "Well-established team collaboration tool suitable for social impact organizations needing simple project coordination."
+        },
+        {
+          "id": "tool_175",
+          "title": "Google Analytics",
+          "category": "tool",
+          "relevance_score": 1,
+          "reason": "Essential web analytics tool for social impact organizations tracking website engagement and campaign effectiveness."
+        },
+        {
+          "id": "tool_64",
+          "title": "Google Cloud",
+          "category": "tool",
+          "relevance_score": 1,
+          "reason": "Comprehensive cloud platform that social impact organizations can leverage, with nonprofit grants available."
+        }
+      ]
     }
   ],
   "relevance_scale": {

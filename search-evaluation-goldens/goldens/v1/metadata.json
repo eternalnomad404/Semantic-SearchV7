@@ -2,14 +2,21 @@
   "version": "1.0",
   "description": "Metadata for golden dataset version 1.0",
   "created_date": "2025-12-23",
-  "total_queries": 0,
-  "total_judgments": 0,
+  "last_updated": "2025-12-23",
+  "total_queries": 3,
+  "total_judgments": 62,
   "evaluation_metrics": [
     "ndcg@10",
     "map@10", 
     "precision@5",
     "recall@10"
   ],
-  "data_source": "placeholder_source",
-  "notes": "Initial placeholder structure for golden dataset"
+  "data_source": "data/tools_data.json, data/services_data.json, data/courses_data.json, data/case_studies_data.json",
+  "query_domains": [
+    "digital tools for NGOs",
+    "technology solutions for nonprofits",
+    "social impact digital tools"
+  ],
+  "coverage_approach": "Broad queries include long-tail results (relevance=1) to maximize recall. Strict scoring at top ranks (relevance=3), generous in tail.",
+  "notes": "Initial golden dataset with 3 queries focused on NGO/nonprofit technology solutions. Query 1 and 2 have 22-24 results each (broad), Query 3 has 16 results (medium-specific). Relevance based on user intent and sector alignment."
 }

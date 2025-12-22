@@ -4,10 +4,22 @@
   "created_date": "2025-12-23",
   "queries": [
     {
-      "id": "placeholder_001",
-      "query": "sample query",
+      "id": "q001",
+      "query": "digital tools for NGOs",
       "intent": "informational",
-      "difficulty": "easy"
+      "difficulty": "medium"
+    },
+    {
+      "id": "q002",
+      "query": "technology solutions for nonprofits",
+      "intent": "informational",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q003",
+      "query": "best digital tools for social impact organizations",
+      "intent": "informational",
+      "difficulty": "medium"
     }
   ]
 }

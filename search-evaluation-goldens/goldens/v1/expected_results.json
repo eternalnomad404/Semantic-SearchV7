@@ -4,13 +4,83 @@
   "created_date": "2025-12-23",
   "results": [
     {
-      "query_id": "placeholder_001",
+      "query_id": "q001",
+      "query": "digital tools for NGOs",
       "expected_results": [
-        {
-          "rank": 1,
-          "document_id": "doc_placeholder_001",
-          "relevance_score": 1.0
-        }
+        {"rank": 1, "document_id": "tool_235", "document_title": "Avni", "category": "tool", "relevance_score": 3},
+        {"rank": 2, "document_id": "tool_230", "document_title": "Asana", "category": "tool", "relevance_score": 3},
+        {"rank": 3, "document_id": "tool_60", "document_title": "Glific", "category": "tool", "relevance_score": 3},
+        {"rank": 4, "document_id": "tool_189", "document_title": "CommCare by Dimagi", "category": "tool", "relevance_score": 3},
+        {"rank": 5, "document_id": "tool_100", "document_title": "Daanveda", "category": "tool", "relevance_score": 3},
+        {"rank": 6, "document_id": "tool_90", "document_title": "ERP4Impact", "category": "tool", "relevance_score": 3},
+        {"rank": 7, "document_id": "tool_173", "document_title": "Dalgo", "category": "tool", "relevance_score": 3},
+        {"rank": 8, "document_id": "tool_226", "document_title": "Basecamp", "category": "tool", "relevance_score": 2},
+        {"rank": 9, "document_id": "tool_221", "document_title": "ClickUp", "category": "tool", "relevance_score": 2},
+        {"rank": 10, "document_id": "tool_229", "document_title": "Collaborate", "category": "tool", "relevance_score": 2},
+        {"rank": 11, "document_id": "tool_122", "document_title": "Ally", "category": "tool", "relevance_score": 2},
+        {"rank": 12, "document_id": "tool_120", "document_title": "Better Together", "category": "tool", "relevance_score": 2},
+        {"rank": 13, "document_id": "tool_183", "document_title": "Google Form", "category": "tool", "relevance_score": 2},
+        {"rank": 14, "document_id": "tool_224", "document_title": "Avaza", "category": "tool", "relevance_score": 2},
+        {"rank": 15, "document_id": "tool_144", "document_title": "Canva", "category": "tool", "relevance_score": 2},
+        {"rank": 16, "document_id": "tool_106", "document_title": "Give India", "category": "tool", "relevance_score": 1},
+        {"rank": 17, "document_id": "tool_103", "document_title": "Fuel a dream", "category": "tool", "relevance_score": 1},
+        {"rank": 18, "document_id": "tool_175", "document_title": "Google Analytics", "category": "tool", "relevance_score": 1},
+        {"rank": 19, "document_id": "tool_153", "document_title": "Buffer", "category": "tool", "relevance_score": 1},
+        {"rank": 20, "document_id": "tool_208", "document_title": "Dropbox", "category": "tool", "relevance_score": 1},
+        {"rank": 21, "document_id": "tool_210", "document_title": "Calendly", "category": "tool", "relevance_score": 1},
+        {"rank": 22, "document_id": "tool_112", "document_title": "Beehive", "category": "tool", "relevance_score": 1}
+      ]
+    },
+    {
+      "query_id": "q002",
+      "query": "technology solutions for nonprofits",
+      "expected_results": [
+        {"rank": 1, "document_id": "service_28", "document_title": "10x Impact Labs", "category": "service_provider", "relevance_score": 3},
+        {"rank": 2, "document_id": "service_4", "document_title": "EdZola Technologies", "category": "service_provider", "relevance_score": 3},
+        {"rank": 3, "document_id": "service_3", "document_title": "Project Tech4Dev", "category": "service_provider", "relevance_score": 3},
+        {"rank": 4, "document_id": "service_13", "document_title": "Platform Commons", "category": "service_provider", "relevance_score": 3},
+        {"rank": 5, "document_id": "service_12", "document_title": "Tech4Good Community", "category": "service_provider", "relevance_score": 3},
+        {"rank": 6, "document_id": "service_8", "document_title": "Tekdi technologies private limited", "category": "service_provider", "relevance_score": 3},
+        {"rank": 7, "document_id": "service_14", "document_title": "Kenpath Technologies Private Limited", "category": "service_provider", "relevance_score": 3},
+        {"rank": 8, "document_id": "tool_235", "document_title": "Avni", "category": "tool", "relevance_score": 3},
+        {"rank": 9, "document_id": "tool_90", "document_title": "ERP4Impact", "category": "tool", "relevance_score": 3},
+        {"rank": 10, "document_id": "tool_173", "document_title": "Dalgo", "category": "tool", "relevance_score": 3},
+        {"rank": 11, "document_id": "service_5", "document_title": "Dhwani Rural Information Systems Private Limited", "category": "service_provider", "relevance_score": 2},
+        {"rank": 12, "document_id": "service_11", "document_title": "Tech for Social Good", "category": "service_provider", "relevance_score": 2},
+        {"rank": 13, "document_id": "service_9", "document_title": "Navadithi Solutions", "category": "service_provider", "relevance_score": 2},
+        {"rank": 14, "document_id": "service_16", "document_title": "Synergy Connect Data Innovations Private Limited", "category": "service_provider", "relevance_score": 2},
+        {"rank": 15, "document_id": "service_6", "document_title": "Think201 Creative Studio LLP", "category": "service_provider", "relevance_score": 2},
+        {"rank": 16, "document_id": "tool_60", "document_title": "Glific", "category": "tool", "relevance_score": 2},
+        {"rank": 17, "document_id": "tool_189", "document_title": "CommCare by Dimagi", "category": "tool", "relevance_score": 2},
+        {"rank": 18, "document_id": "service_2", "document_title": "Studio Subu", "category": "service_provider", "relevance_score": 1},
+        {"rank": 19, "document_id": "service_24", "document_title": "Digital For Nonprofits (D4NP)", "category": "service_provider", "relevance_score": 1},
+        {"rank": 20, "document_id": "service_19", "document_title": "Litmus ink", "category": "service_provider", "relevance_score": 1},
+        {"rank": 21, "document_id": "tool_229", "document_title": "Collaborate", "category": "tool", "relevance_score": 1},
+        {"rank": 22, "document_id": "tool_230", "document_title": "Asana", "category": "tool", "relevance_score": 1},
+        {"rank": 23, "document_id": "service_10", "document_title": "Radics", "category": "service_provider", "relevance_score": 1},
+        {"rank": 24, "document_id": "tool_197", "document_title": "Frappe Framework", "category": "tool", "relevance_score": 1}
+      ]
+    },
+    {
+      "query_id": "q003",
+      "query": "best digital tools for social impact organizations",
+      "expected_results": [
+        {"rank": 1, "document_id": "tool_235", "document_title": "Avni", "category": "tool", "relevance_score": 3},
+        {"rank": 2, "document_id": "tool_60", "document_title": "Glific", "category": "tool", "relevance_score": 3},
+        {"rank": 3, "document_id": "tool_189", "document_title": "CommCare by Dimagi", "category": "tool", "relevance_score": 3},
+        {"rank": 4, "document_id": "tool_90", "document_title": "ERP4Impact", "category": "tool", "relevance_score": 3},
+        {"rank": 5, "document_id": "tool_173", "document_title": "Dalgo", "category": "tool", "relevance_score": 3},
+        {"rank": 6, "document_id": "tool_230", "document_title": "Asana", "category": "tool", "relevance_score": 2},
+        {"rank": 7, "document_id": "tool_100", "document_title": "Daanveda", "category": "tool", "relevance_score": 2},
+        {"rank": 8, "document_id": "tool_229", "document_title": "Collaborate", "category": "tool", "relevance_score": 2},
+        {"rank": 9, "document_id": "tool_122", "document_title": "Ally", "category": "tool", "relevance_score": 2},
+        {"rank": 10, "document_id": "tool_221", "document_title": "ClickUp", "category": "tool", "relevance_score": 2},
+        {"rank": 11, "document_id": "tool_120", "document_title": "Better Together", "category": "tool", "relevance_score": 2},
+        {"rank": 12, "document_id": "tool_183", "document_title": "Google Form", "category": "tool", "relevance_score": 1},
+        {"rank": 13, "document_id": "tool_144", "document_title": "Canva", "category": "tool", "relevance_score": 1},
+        {"rank": 14, "document_id": "tool_226", "document_title": "Basecamp", "category": "tool", "relevance_score": 1},
+        {"rank": 15, "document_id": "tool_175", "document_title": "Google Analytics", "category": "tool", "relevance_score": 1},
+        {"rank": 16, "document_id": "tool_64", "document_title": "Google Cloud", "category": "tool", "relevance_score": 1}
       ]
     }
   ]
