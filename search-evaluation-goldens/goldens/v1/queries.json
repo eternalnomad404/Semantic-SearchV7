@@ -20,6 +20,144 @@
       "query": "best digital tools for social impact organizations",
       "intent": "informational",
       "difficulty": "medium"
+    },
+    {
+      "id": "q004",
+      "query": "free or low-cost tools for NGOs",
+      "intent": "informational",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q005",
+      "query": "digital transformation resources for nonprofits",
+      "intent": "informational",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q006",
+      "query": "tools to manage NGO operations",
+      "intent": "informational",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q007",
+      "query": "technology platforms for social sector organizations",
+      "intent": "informational",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q008",
+      "query": "beginner-friendly digital tools for NGOs",
+      "intent": "informational",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q009",
+      "query": "CRM tools for NGOs",
+      "intent": "informational",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q010",
+      "query": "data collection tools for nonprofits",
+      "intent": "informational",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q011",
+      "query": "project management tools for social impact teams",
+      "intent": "informational",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q012",
+      "query": "monitoring and evaluation tools for NGOs",
+      "intent": "informational",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q013",
+      "query": "learning management systems for education NGOs",
+      "intent": "informational",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q014",
+      "query": "communication and collaboration tools for nonprofit teams",
+      "intent": "informational",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q015",
+      "query": "finance and accounting tools for NGOs",
+      "intent": "informational",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q016",
+      "query": "AI tools useful for social impact organizations",
+      "intent": "informational",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q017",
+      "query": "data analytics tools for nonprofits",
+      "intent": "informational",
+      "difficulty": "medium"
+    },
+    {
+      "id": "q018",
+      "query": "tools to digitize field operations for NGOs",
+      "intent": "informational",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q019",
+      "query": "digital transformation consultants for NGOs",
+      "intent": "informational",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q020",
+      "query": "technology implementation partners for nonprofits",
+      "intent": "informational",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q021",
+      "query": "software development service providers for social sector",
+      "intent": "informational",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q022",
+      "query": "data analytics service providers for NGOs",
+      "intent": "informational",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q023",
+      "query": "IT support services for nonprofits",
+      "intent": "informational",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q024",
+      "query": "digital strategy consulting for social impact organizations",
+      "intent": "informational",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q025",
+      "query": "agencies helping NGOs with technology adoption",
+      "intent": "informational",
+      "difficulty": "easy"
+    },
+    {
+      "id": "q026",
+      "query": "service providers for NGO MIS implementation",
+      "intent": "informational",
+      "difficulty": "easy"
     }
   ]
 }

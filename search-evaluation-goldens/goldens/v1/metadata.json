@@ -3,8 +3,8 @@
   "description": "Metadata for golden dataset version 1.0",
   "created_date": "2025-12-23",
   "last_updated": "2025-12-23",
-  "total_queries": 3,
-  "total_judgments": 62,
+  "total_queries": 26,
+  "total_judgments": 298,
   "evaluation_metrics": [
     "ndcg@10",
     "map@10", 
@@ -15,8 +15,18 @@
   "query_domains": [
     "digital tools for NGOs",
     "technology solutions for nonprofits",
-    "social impact digital tools"
+    "social impact digital tools",
+    "CRM and donor management",
+    "data collection and field operations",
+    "project management and collaboration",
+    "monitoring and evaluation",
+    "learning management systems",
+    "finance and accounting",
+    "AI and data analytics",
+    "digital transformation consulting",
+    "technology implementation services",
+    "software development and IT support"
   ],
-  "coverage_approach": "Broad queries include long-tail results (relevance=1) to maximize recall. Strict scoring at top ranks (relevance=3), generous in tail.",
-  "notes": "Initial golden dataset with 3 queries focused on NGO/nonprofit technology solutions. Query 1 and 2 have 22-24 results each (broad), Query 3 has 16 results (medium-specific). Relevance based on user intent and sector alignment."
+  "coverage_approach": "Broad queries include long-tail results (relevance=1) to maximize recall. Strict scoring at top ranks (relevance=3), generous in tail. Specific queries (CRM, LMS, M&E) have 6-9 results. Service provider queries have 5-8 results.",
+  "notes": "Golden dataset with 26 queries covering the full spectrum of NGO/nonprofit technology ecosystem. Queries 1-3 are broad (15-24 results each), queries 4-18 are tool-focused (6-15 results each covering specific categories), queries 19-26 are service provider-focused (5-8 results each). Relevance based on user intent, sector alignment, and functional fit. Mixed categories allowed where query doesn't specify category."
 }

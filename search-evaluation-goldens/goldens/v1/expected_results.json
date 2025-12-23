@@ -82,6 +82,342 @@
         {"rank": 15, "document_id": "tool_175", "document_title": "Google Analytics", "category": "tool", "relevance_score": 1},
         {"rank": 16, "document_id": "tool_64", "document_title": "Google Cloud", "category": "tool", "relevance_score": 1}
       ]
+    },
+    {
+      "query_id": "q004",
+      "query": "free or low-cost tools for NGOs",
+      "expected_results": [
+        {"rank": 1, "document_id": "tool_60", "document_title": "Glific", "category": "tool", "relevance_score": 3},
+        {"rank": 2, "document_id": "tool_235", "document_title": "Avni", "category": "tool", "relevance_score": 3},
+        {"rank": 3, "document_id": "tool_173", "document_title": "Dalgo", "category": "tool", "relevance_score": 3},
+        {"rank": 4, "document_id": "tool_183", "document_title": "Google Form", "category": "tool", "relevance_score": 3},
+        {"rank": 5, "document_id": "tool_64", "document_title": "Google Cloud", "category": "tool", "relevance_score": 3},
+        {"rank": 6, "document_id": "tool_197", "document_title": "Frappe Framework", "category": "tool", "relevance_score": 3},
+        {"rank": 7, "document_id": "tool_175", "document_title": "Google Analytics", "category": "tool", "relevance_score": 2},
+        {"rank": 8, "document_id": "tool_144", "document_title": "Canva", "category": "tool", "relevance_score": 2},
+        {"rank": 9, "document_id": "tool_208", "document_title": "Dropbox", "category": "tool", "relevance_score": 2},
+        {"rank": 10, "document_id": "tool_230", "document_title": "Asana", "category": "tool", "relevance_score": 2},
+        {"rank": 11, "document_id": "tool_221", "document_title": "ClickUp", "category": "tool", "relevance_score": 2},
+        {"rank": 12, "document_id": "tool_229", "document_title": "Collaborate", "category": "tool", "relevance_score": 1},
+        {"rank": 13, "document_id": "tool_210", "document_title": "Calendly", "category": "tool", "relevance_score": 1},
+        {"rank": 14, "document_id": "tool_153", "document_title": "Buffer", "category": "tool", "relevance_score": 1},
+        {"rank": 15, "document_id": "tool_226", "document_title": "Basecamp", "category": "tool", "relevance_score": 1}
+      ]
+    },
+    {
+      "query_id": "q005",
+      "query": "digital transformation resources for nonprofits",
+      "expected_results": [
+        {"rank": 1, "document_id": "service_28", "document_title": "10x Impact Labs", "category": "service_provider", "relevance_score": 3},
+        {"rank": 2, "document_id": "service_3", "document_title": "Project Tech4Dev", "category": "service_provider", "relevance_score": 3},
+        {"rank": 3, "document_id": "service_4", "document_title": "EdZola Technologies", "category": "service_provider", "relevance_score": 3},
+        {"rank": 4, "document_id": "service_12", "document_title": "Tech4Good Community", "category": "service_provider", "relevance_score": 3},
+        {"rank": 5, "document_id": "service_13", "document_title": "Platform Commons", "category": "service_provider", "relevance_score": 3},
+        {"rank": 6, "document_id": "service_24", "document_title": "Digital For Nonprofits (D4NP)", "category": "service_provider", "relevance_score": 3},
+        {"rank": 7, "document_id": "tool_90", "document_title": "ERP4Impact", "category": "tool", "relevance_score": 2},
+        {"rank": 8, "document_id": "tool_173", "document_title": "Dalgo", "category": "tool", "relevance_score": 2},
+        {"rank": 9, "document_id": "tool_235", "document_title": "Avni", "category": "tool", "relevance_score": 2},
+        {"rank": 10, "document_id": "service_8", "document_title": "Tekdi technologies private limited", "category": "service_provider", "relevance_score": 2},
+        {"rank": 11, "document_id": "service_5", "document_title": "Dhwani Rural Information Systems Private Limited", "category": "service_provider", "relevance_score": 2},
+        {"rank": 12, "document_id": "service_14", "document_title": "Kenpath Technologies Private Limited", "category": "service_provider", "relevance_score": 1},
+        {"rank": 13, "document_id": "service_11", "document_title": "Tech for Social Good", "category": "service_provider", "relevance_score": 1},
+        {"rank": 14, "document_id": "tool_60", "document_title": "Glific", "category": "tool", "relevance_score": 1},
+        {"rank": 15, "document_id": "tool_189", "document_title": "CommCare by Dimagi", "category": "tool", "relevance_score": 1}
+      ]
+    },
+    {
+      "query_id": "q006",
+      "query": "tools to manage NGO operations",
+      "expected_results": [
+        {"rank": 1, "document_id": "tool_90", "document_title": "ERP4Impact", "category": "tool", "relevance_score": 3},
+        {"rank": 2, "document_id": "tool_230", "document_title": "Asana", "category": "tool", "relevance_score": 3},
+        {"rank": 3, "document_id": "tool_221", "document_title": "ClickUp", "category": "tool", "relevance_score": 3},
+        {"rank": 4, "document_id": "tool_100", "document_title": "Daanveda", "category": "tool", "relevance_score": 3},
+        {"rank": 5, "document_id": "tool_173", "document_title": "Dalgo", "category": "tool", "relevance_score": 3},
+        {"rank": 6, "document_id": "tool_226", "document_title": "Basecamp", "category": "tool", "relevance_score": 2},
+        {"rank": 7, "document_id": "tool_229", "document_title": "Collaborate", "category": "tool", "relevance_score": 2},
+        {"rank": 8, "document_id": "tool_224", "document_title": "Avaza", "category": "tool", "relevance_score": 2},
+        {"rank": 9, "document_id": "tool_197", "document_title": "Frappe Framework", "category": "tool", "relevance_score": 2},
+        {"rank": 10, "document_id": "tool_235", "document_title": "Avni", "category": "tool", "relevance_score": 2},
+        {"rank": 11, "document_id": "tool_60", "document_title": "Glific", "category": "tool", "relevance_score": 1},
+        {"rank": 12, "document_id": "tool_189", "document_title": "CommCare by Dimagi", "category": "tool", "relevance_score": 1},
+        {"rank": 13, "document_id": "tool_175", "document_title": "Google Analytics", "category": "tool", "relevance_score": 1},
+        {"rank": 14, "document_id": "tool_208", "document_title": "Dropbox", "category": "tool", "relevance_score": 1}
+      ]
+    },
+    {
+      "query_id": "q007",
+      "query": "technology platforms for social sector organizations",
+      "expected_results": [
+        {"rank": 1, "document_id": "tool_90", "document_title": "ERP4Impact", "category": "tool", "relevance_score": 3},
+        {"rank": 2, "document_id": "tool_235", "document_title": "Avni", "category": "tool", "relevance_score": 3},
+        {"rank": 3, "document_id": "tool_173", "document_title": "Dalgo", "category": "tool", "relevance_score": 3},
+        {"rank": 4, "document_id": "tool_60", "document_title": "Glific", "category": "tool", "relevance_score": 3},
+        {"rank": 5, "document_id": "tool_189", "document_title": "CommCare by Dimagi", "category": "tool", "relevance_score": 3},
+        {"rank": 6, "document_id": "tool_197", "document_title": "Frappe Framework", "category": "tool", "relevance_score": 3},
+        {"rank": 7, "document_id": "service_28", "document_title": "10x Impact Labs", "category": "service_provider", "relevance_score": 2},
+        {"rank": 8, "document_id": "service_13", "document_title": "Platform Commons", "category": "service_provider", "relevance_score": 2},
+        {"rank": 9, "document_id": "tool_230", "document_title": "Asana", "category": "tool", "relevance_score": 2},
+        {"rank": 10, "document_id": "tool_100", "document_title": "Daanveda", "category": "tool", "relevance_score": 2},
+        {"rank": 11, "document_id": "service_3", "document_title": "Project Tech4Dev", "category": "service_provider", "relevance_score": 1},
+        {"rank": 12, "document_id": "service_8", "document_title": "Tekdi technologies private limited", "category": "service_provider", "relevance_score": 1},
+        {"rank": 13, "document_id": "tool_64", "document_title": "Google Cloud", "category": "tool", "relevance_score": 1}
+      ]
+    },
+    {
+      "query_id": "q008",
+      "query": "beginner-friendly digital tools for NGOs",
+      "expected_results": [
+        {"rank": 1, "document_id": "tool_183", "document_title": "Google Form", "category": "tool", "relevance_score": 3},
+        {"rank": 2, "document_id": "tool_144", "document_title": "Canva", "category": "tool", "relevance_score": 3},
+        {"rank": 3, "document_id": "tool_208", "document_title": "Dropbox", "category": "tool", "relevance_score": 3},
+        {"rank": 4, "document_id": "tool_230", "document_title": "Asana", "category": "tool", "relevance_score": 3},
+        {"rank": 5, "document_id": "tool_210", "document_title": "Calendly", "category": "tool", "relevance_score": 3},
+        {"rank": 6, "document_id": "tool_221", "document_title": "ClickUp", "category": "tool", "relevance_score": 2},
+        {"rank": 7, "document_id": "tool_153", "document_title": "Buffer", "category": "tool", "relevance_score": 2},
+        {"rank": 8, "document_id": "tool_226", "document_title": "Basecamp", "category": "tool", "relevance_score": 2},
+        {"rank": 9, "document_id": "tool_175", "document_title": "Google Analytics", "category": "tool", "relevance_score": 2},
+        {"rank": 10, "document_id": "tool_60", "document_title": "Glific", "category": "tool", "relevance_score": 1},
+        {"rank": 11, "document_id": "tool_100", "document_title": "Daanveda", "category": "tool", "relevance_score": 1},
+        {"rank": 12, "document_id": "tool_229", "document_title": "Collaborate", "category": "tool", "relevance_score": 1}
+      ]
+    },
+    {
+      "query_id": "q009",
+      "query": "CRM tools for NGOs",
+      "expected_results": [
+        {"rank": 1, "document_id": "tool_100", "document_title": "Daanveda", "category": "tool", "relevance_score": 3},
+        {"rank": 2, "document_id": "tool_90", "document_title": "ERP4Impact", "category": "tool", "relevance_score": 3},
+        {"rank": 3, "document_id": "tool_122", "document_title": "Ally", "category": "tool", "relevance_score": 3},
+        {"rank": 4, "document_id": "tool_120", "document_title": "Better Together", "category": "tool", "relevance_score": 3},
+        {"rank": 5, "document_id": "tool_60", "document_title": "Glific", "category": "tool", "relevance_score": 2},
+        {"rank": 6, "document_id": "tool_197", "document_title": "Frappe Framework", "category": "tool", "relevance_score": 1},
+        {"rank": 7, "document_id": "tool_230", "document_title": "Asana", "category": "tool", "relevance_score": 1}
+      ]
+    },
+    {
+      "query_id": "q010",
+      "query": "data collection tools for nonprofits",
+      "expected_results": [
+        {"rank": 1, "document_id": "tool_235", "document_title": "Avni", "category": "tool", "relevance_score": 3},
+        {"rank": 2, "document_id": "tool_189", "document_title": "CommCare by Dimagi", "category": "tool", "relevance_score": 3},
+        {"rank": 3, "document_id": "tool_191", "document_title": "KoboToolbox", "category": "tool", "relevance_score": 3},
+        {"rank": 4, "document_id": "tool_183", "document_title": "Google Form", "category": "tool", "relevance_score": 3},
+        {"rank": 5, "document_id": "tool_190", "document_title": "SurveyCTO", "category": "tool", "relevance_score": 3},
+        {"rank": 6, "document_id": "tool_173", "document_title": "Dalgo", "category": "tool", "relevance_score": 2},
+        {"rank": 7, "document_id": "tool_60", "document_title": "Glific", "category": "tool", "relevance_score": 2},
+        {"rank": 8, "document_id": "tool_193", "document_title": "ODK", "category": "tool", "relevance_score": 2},
+        {"rank": 9, "document_id": "tool_90", "document_title": "ERP4Impact", "category": "tool", "relevance_score": 1}
+      ]
+    },
+    {
+      "query_id": "q011",
+      "query": "project management tools for social impact teams",
+      "expected_results": [
+        {"rank": 1, "document_id": "tool_230", "document_title": "Asana", "category": "tool", "relevance_score": 3},
+        {"rank": 2, "document_id": "tool_221", "document_title": "ClickUp", "category": "tool", "relevance_score": 3},
+        {"rank": 3, "document_id": "tool_226", "document_title": "Basecamp", "category": "tool", "relevance_score": 3},
+        {"rank": 4, "document_id": "tool_229", "document_title": "Collaborate", "category": "tool", "relevance_score": 3},
+        {"rank": 5, "document_id": "tool_224", "document_title": "Avaza", "category": "tool", "relevance_score": 3},
+        {"rank": 6, "document_id": "tool_90", "document_title": "ERP4Impact", "category": "tool", "relevance_score": 2},
+        {"rank": 7, "document_id": "tool_235", "document_title": "Avni", "category": "tool", "relevance_score": 1},
+        {"rank": 8, "document_id": "tool_173", "document_title": "Dalgo", "category": "tool", "relevance_score": 1}
+      ]
+    },
+    {
+      "query_id": "q012",
+      "query": "monitoring and evaluation tools for NGOs",
+      "expected_results": [
+        {"rank": 1, "document_id": "tool_173", "document_title": "Dalgo", "category": "tool", "relevance_score": 3},
+        {"rank": 2, "document_id": "tool_235", "document_title": "Avni", "category": "tool", "relevance_score": 3},
+        {"rank": 3, "document_id": "tool_189", "document_title": "CommCare by Dimagi", "category": "tool", "relevance_score": 3},
+        {"rank": 4, "document_id": "tool_90", "document_title": "ERP4Impact", "category": "tool", "relevance_score": 3},
+        {"rank": 5, "document_id": "tool_191", "document_title": "KoboToolbox", "category": "tool", "relevance_score": 2},
+        {"rank": 6, "document_id": "tool_190", "document_title": "SurveyCTO", "category": "tool", "relevance_score": 2},
+        {"rank": 7, "document_id": "tool_175", "document_title": "Google Analytics", "category": "tool", "relevance_score": 1},
+        {"rank": 8, "document_id": "tool_183", "document_title": "Google Form", "category": "tool", "relevance_score": 1}
+      ]
+    },
+    {
+      "query_id": "q013",
+      "query": "learning management systems for education NGOs",
+      "expected_results": [
+        {"rank": 1, "document_id": "tool_94", "document_title": "Gurucool LMS", "category": "tool", "relevance_score": 3},
+        {"rank": 2, "document_id": "tool_95", "document_title": "iPrep", "category": "tool", "relevance_score": 3},
+        {"rank": 3, "document_id": "tool_99", "document_title": "EdPrime", "category": "tool", "relevance_score": 3},
+        {"rank": 4, "document_id": "tool_97", "document_title": "Teachmint", "category": "tool", "relevance_score": 2},
+        {"rank": 5, "document_id": "tool_96", "document_title": "Diksha", "category": "tool", "relevance_score": 2},
+        {"rank": 6, "document_id": "tool_98", "document_title": "Edviron", "category": "tool", "relevance_score": 1}
+      ]
+    },
+    {
+      "query_id": "q014",
+      "query": "communication and collaboration tools for nonprofit teams",
+      "expected_results": [
+        {"rank": 1, "document_id": "tool_229", "document_title": "Collaborate", "category": "tool", "relevance_score": 3},
+        {"rank": 2, "document_id": "tool_60", "document_title": "Glific", "category": "tool", "relevance_score": 3},
+        {"rank": 3, "document_id": "tool_230", "document_title": "Asana", "category": "tool", "relevance_score": 2},
+        {"rank": 4, "document_id": "tool_221", "document_title": "ClickUp", "category": "tool", "relevance_score": 2},
+        {"rank": 5, "document_id": "tool_226", "document_title": "Basecamp", "category": "tool", "relevance_score": 2},
+        {"rank": 6, "document_id": "tool_208", "document_title": "Dropbox", "category": "tool", "relevance_score": 2},
+        {"rank": 7, "document_id": "tool_210", "document_title": "Calendly", "category": "tool", "relevance_score": 2},
+        {"rank": 8, "document_id": "tool_153", "document_title": "Buffer", "category": "tool", "relevance_score": 1},
+        {"rank": 9, "document_id": "tool_144", "document_title": "Canva", "category": "tool", "relevance_score": 1}
+      ]
+    },
+    {
+      "query_id": "q015",
+      "query": "finance and accounting tools for NGOs",
+      "expected_results": [
+        {"rank": 1, "document_id": "tool_90", "document_title": "ERP4Impact", "category": "tool", "relevance_score": 3},
+        {"rank": 2, "document_id": "tool_197", "document_title": "Frappe Framework", "category": "tool", "relevance_score": 3},
+        {"rank": 3, "document_id": "tool_173", "document_title": "Dalgo", "category": "tool", "relevance_score": 2},
+        {"rank": 4, "document_id": "tool_100", "document_title": "Daanveda", "category": "tool", "relevance_score": 2},
+        {"rank": 5, "document_id": "tool_230", "document_title": "Asana", "category": "tool", "relevance_score": 1},
+        {"rank": 6, "document_id": "tool_221", "document_title": "ClickUp", "category": "tool", "relevance_score": 1}
+      ]
+    },
+    {
+      "query_id": "q016",
+      "query": "AI tools useful for social impact organizations",
+      "expected_results": [
+        {"rank": 1, "document_id": "tool_60", "document_title": "Glific", "category": "tool", "relevance_score": 3},
+        {"rank": 2, "document_id": "tool_173", "document_title": "Dalgo", "category": "tool", "relevance_score": 3},
+        {"rank": 3, "document_id": "tool_189", "document_title": "CommCare by Dimagi", "category": "tool", "relevance_score": 2},
+        {"rank": 4, "document_id": "tool_235", "document_title": "Avni", "category": "tool", "relevance_score": 2},
+        {"rank": 5, "document_id": "tool_64", "document_title": "Google Cloud", "category": "tool", "relevance_score": 2},
+        {"rank": 6, "document_id": "tool_175", "document_title": "Google Analytics", "category": "tool", "relevance_score": 1},
+        {"rank": 7, "document_id": "tool_144", "document_title": "Canva", "category": "tool", "relevance_score": 1}
+      ]
+    },
+    {
+      "query_id": "q017",
+      "query": "data analytics tools for nonprofits",
+      "expected_results": [
+        {"rank": 1, "document_id": "tool_173", "document_title": "Dalgo", "category": "tool", "relevance_score": 3},
+        {"rank": 2, "document_id": "tool_175", "document_title": "Google Analytics", "category": "tool", "relevance_score": 3},
+        {"rank": 3, "document_id": "tool_90", "document_title": "ERP4Impact", "category": "tool", "relevance_score": 3},
+        {"rank": 4, "document_id": "tool_235", "document_title": "Avni", "category": "tool", "relevance_score": 2},
+        {"rank": 5, "document_id": "tool_189", "document_title": "CommCare by Dimagi", "category": "tool", "relevance_score": 2},
+        {"rank": 6, "document_id": "tool_64", "document_title": "Google Cloud", "category": "tool", "relevance_score": 2},
+        {"rank": 7, "document_id": "tool_197", "document_title": "Frappe Framework", "category": "tool", "relevance_score": 1}
+      ]
+    },
+    {
+      "query_id": "q018",
+      "query": "tools to digitize field operations for NGOs",
+      "expected_results": [
+        {"rank": 1, "document_id": "tool_235", "document_title": "Avni", "category": "tool", "relevance_score": 3},
+        {"rank": 2, "document_id": "tool_189", "document_title": "CommCare by Dimagi", "category": "tool", "relevance_score": 3},
+        {"rank": 3, "document_id": "tool_60", "document_title": "Glific", "category": "tool", "relevance_score": 3},
+        {"rank": 4, "document_id": "tool_191", "document_title": "KoboToolbox", "category": "tool", "relevance_score": 3},
+        {"rank": 5, "document_id": "tool_190", "document_title": "SurveyCTO", "category": "tool", "relevance_score": 2},
+        {"rank": 6, "document_id": "tool_193", "document_title": "ODK", "category": "tool", "relevance_score": 2},
+        {"rank": 7, "document_id": "tool_173", "document_title": "Dalgo", "category": "tool", "relevance_score": 2},
+        {"rank": 8, "document_id": "tool_90", "document_title": "ERP4Impact", "category": "tool", "relevance_score": 1}
+      ]
+    },
+    {
+      "query_id": "q019",
+      "query": "digital transformation consultants for NGOs",
+      "expected_results": [
+        {"rank": 1, "document_id": "service_28", "document_title": "10x Impact Labs", "category": "service_provider", "relevance_score": 3},
+        {"rank": 2, "document_id": "service_24", "document_title": "Digital For Nonprofits (D4NP)", "category": "service_provider", "relevance_score": 3},
+        {"rank": 3, "document_id": "service_3", "document_title": "Project Tech4Dev", "category": "service_provider", "relevance_score": 3},
+        {"rank": 4, "document_id": "service_12", "document_title": "Tech4Good Community", "category": "service_provider", "relevance_score": 2},
+        {"rank": 5, "document_id": "service_13", "document_title": "Platform Commons", "category": "service_provider", "relevance_score": 2},
+        {"rank": 6, "document_id": "service_4", "document_title": "EdZola Technologies", "category": "service_provider", "relevance_score": 1},
+        {"rank": 7, "document_id": "service_8", "document_title": "Tekdi technologies private limited", "category": "service_provider", "relevance_score": 1}
+      ]
+    },
+    {
+      "query_id": "q020",
+      "query": "technology implementation partners for nonprofits",
+      "expected_results": [
+        {"rank": 1, "document_id": "service_8", "document_title": "Tekdi technologies private limited", "category": "service_provider", "relevance_score": 3},
+        {"rank": 2, "document_id": "service_3", "document_title": "Project Tech4Dev", "category": "service_provider", "relevance_score": 3},
+        {"rank": 3, "document_id": "service_4", "document_title": "EdZola Technologies", "category": "service_provider", "relevance_score": 3},
+        {"rank": 4, "document_id": "service_14", "document_title": "Kenpath Technologies Private Limited", "category": "service_provider", "relevance_score": 3},
+        {"rank": 5, "document_id": "service_5", "document_title": "Dhwani Rural Information Systems Private Limited", "category": "service_provider", "relevance_score": 3},
+        {"rank": 6, "document_id": "service_28", "document_title": "10x Impact Labs", "category": "service_provider", "relevance_score": 2},
+        {"rank": 7, "document_id": "service_16", "document_title": "Synergy Connect Data Innovations Private Limited", "category": "service_provider", "relevance_score": 2},
+        {"rank": 8, "document_id": "service_9", "document_title": "Navadithi Solutions", "category": "service_provider", "relevance_score": 1}
+      ]
+    },
+    {
+      "query_id": "q021",
+      "query": "software development service providers for social sector",
+      "expected_results": [
+        {"rank": 1, "document_id": "service_8", "document_title": "Tekdi technologies private limited", "category": "service_provider", "relevance_score": 3},
+        {"rank": 2, "document_id": "service_14", "document_title": "Kenpath Technologies Private Limited", "category": "service_provider", "relevance_score": 3},
+        {"rank": 3, "document_id": "service_4", "document_title": "EdZola Technologies", "category": "service_provider", "relevance_score": 3},
+        {"rank": 4, "document_id": "service_5", "document_title": "Dhwani Rural Information Systems Private Limited", "category": "service_provider", "relevance_score": 3},
+        {"rank": 5, "document_id": "service_16", "document_title": "Synergy Connect Data Innovations Private Limited", "category": "service_provider", "relevance_score": 2},
+        {"rank": 6, "document_id": "service_3", "document_title": "Project Tech4Dev", "category": "service_provider", "relevance_score": 2},
+        {"rank": 7, "document_id": "service_9", "document_title": "Navadithi Solutions", "category": "service_provider", "relevance_score": 1}
+      ]
+    },
+    {
+      "query_id": "q022",
+      "query": "data analytics service providers for NGOs",
+      "expected_results": [
+        {"rank": 1, "document_id": "service_16", "document_title": "Synergy Connect Data Innovations Private Limited", "category": "service_provider", "relevance_score": 3},
+        {"rank": 2, "document_id": "service_28", "document_title": "10x Impact Labs", "category": "service_provider", "relevance_score": 3},
+        {"rank": 3, "document_id": "service_5", "document_title": "Dhwani Rural Information Systems Private Limited", "category": "service_provider", "relevance_score": 2},
+        {"rank": 4, "document_id": "service_3", "document_title": "Project Tech4Dev", "category": "service_provider", "relevance_score": 2},
+        {"rank": 5, "document_id": "service_8", "document_title": "Tekdi technologies private limited", "category": "service_provider", "relevance_score": 1},
+        {"rank": 6, "document_id": "service_14", "document_title": "Kenpath Technologies Private Limited", "category": "service_provider", "relevance_score": 1}
+      ]
+    },
+    {
+      "query_id": "q023",
+      "query": "IT support services for nonprofits",
+      "expected_results": [
+        {"rank": 1, "document_id": "service_14", "document_title": "Kenpath Technologies Private Limited", "category": "service_provider", "relevance_score": 3},
+        {"rank": 2, "document_id": "service_8", "document_title": "Tekdi technologies private limited", "category": "service_provider", "relevance_score": 3},
+        {"rank": 3, "document_id": "service_11", "document_title": "Tech for Social Good", "category": "service_provider", "relevance_score": 2},
+        {"rank": 4, "document_id": "service_3", "document_title": "Project Tech4Dev", "category": "service_provider", "relevance_score": 2},
+        {"rank": 5, "document_id": "service_9", "document_title": "Navadithi Solutions", "category": "service_provider", "relevance_score": 1}
+      ]
+    },
+    {
+      "query_id": "q024",
+      "query": "digital strategy consulting for social impact organizations",
+      "expected_results": [
+        {"rank": 1, "document_id": "service_28", "document_title": "10x Impact Labs", "category": "service_provider", "relevance_score": 3},
+        {"rank": 2, "document_id": "service_24", "document_title": "Digital For Nonprofits (D4NP)", "category": "service_provider", "relevance_score": 3},
+        {"rank": 3, "document_id": "service_3", "document_title": "Project Tech4Dev", "category": "service_provider", "relevance_score": 3},
+        {"rank": 4, "document_id": "service_13", "document_title": "Platform Commons", "category": "service_provider", "relevance_score": 2},
+        {"rank": 5, "document_id": "service_12", "document_title": "Tech4Good Community", "category": "service_provider", "relevance_score": 2},
+        {"rank": 6, "document_id": "service_4", "document_title": "EdZola Technologies", "category": "service_provider", "relevance_score": 1}
+      ]
+    },
+    {
+      "query_id": "q025",
+      "query": "agencies helping NGOs with technology adoption",
+      "expected_results": [
+        {"rank": 1, "document_id": "service_28", "document_title": "10x Impact Labs", "category": "service_provider", "relevance_score": 3},
+        {"rank": 2, "document_id": "service_3", "document_title": "Project Tech4Dev", "category": "service_provider", "relevance_score": 3},
+        {"rank": 3, "document_id": "service_12", "document_title": "Tech4Good Community", "category": "service_provider", "relevance_score": 3},
+        {"rank": 4, "document_id": "service_24", "document_title": "Digital For Nonprofits (D4NP)", "category": "service_provider", "relevance_score": 3},
+        {"rank": 5, "document_id": "service_8", "document_title": "Tekdi technologies private limited", "category": "service_provider", "relevance_score": 2},
+        {"rank": 6, "document_id": "service_4", "document_title": "EdZola Technologies", "category": "service_provider", "relevance_score": 2},
+        {"rank": 7, "document_id": "service_11", "document_title": "Tech for Social Good", "category": "service_provider", "relevance_score": 1},
+        {"rank": 8, "document_id": "service_13", "document_title": "Platform Commons", "category": "service_provider", "relevance_score": 1}
+      ]
+    },
+    {
+      "query_id": "q026",
+      "query": "service providers for NGO MIS implementation",
+      "expected_results": [
+        {"rank": 1, "document_id": "service_8", "document_title": "Tekdi technologies private limited", "category": "service_provider", "relevance_score": 3},
+        {"rank": 2, "document_id": "service_14", "document_title": "Kenpath Technologies Private Limited", "category": "service_provider", "relevance_score": 3},
+        {"rank": 3, "document_id": "service_5", "document_title": "Dhwani Rural Information Systems Private Limited", "category": "service_provider", "relevance_score": 3},
+        {"rank": 4, "document_id": "service_3", "document_title": "Project Tech4Dev", "category": "service_provider", "relevance_score": 2},
+        {"rank": 5, "document_id": "service_4", "document_title": "EdZola Technologies", "category": "service_provider", "relevance_score": 2},
+        {"rank": 6, "document_id": "service_16", "document_title": "Synergy Connect Data Innovations Private Limited", "category": "service_provider", "relevance_score": 1},
+        {"rank": 7, "document_id": "service_28", "document_title": "10x Impact Labs", "category": "service_provider", "relevance_score": 1}
+      ]
     }
   ]
 }
