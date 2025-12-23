@@ -8,6 +8,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
 import pickle
 
+# Import the data loader utility
+from data_loader import load_category_data
+
 # Setup output directory
 os.makedirs("vectorstore", exist_ok=True)
 
@@ -19,14 +22,6 @@ if os.path.exists("vectorstore/metadata.json"):
 if os.path.exists("vectorstore/tfidf.pkl"):
     os.remove("vectorstore/tfidf.pkl")
 
-# API Data file paths
-API_DATA_FILES = {
-    "tools": "data/tools_data.json",
-    "services": "data/services_data.json",
-    "courses": "data/courses_data.json",
-    "case_studies": "data/case_studies_data.json"
-}
-
 # Initialize data containers
 all_texts = []
 all_metadata = []
@@ -36,18 +31,15 @@ raw_texts = []  # For TF-IDF
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
 print("\n" + "="*80)
-print("📚 LOADING DATA FROM API CACHE FILES")
+print("📚 LOADING DATA FROM SPLIT FILES")
 print("="*80)
 
 # ============================================================================
 # 1. PROCESS TOOLS
 # ============================================================================
-tools_file = API_DATA_FILES["tools"]
-if os.path.exists(tools_file):
-    with open(tools_file, 'r', encoding='utf-8') as f:
-        tools_data = json.load(f)
-    
-    print(f"\n✅ Loaded {len(tools_data)} tools from {tools_file}")
+try:
+    tools_data = load_category_data("tools")
+    print(f"\n✅ Loaded {len(tools_data)} tools from data/tools/")
     
     for tool in tools_data:
         # Extract fields for embedding
@@ -75,18 +67,15 @@ if os.path.exists(tools_file):
         all_texts.append(embed_text)
         raw_texts.append(embed_text)
 
-else:
-    print(f"⚠️  Tools data file not found: {tools_file}")
+except FileNotFoundError as e:
+    print(f"⚠️  {e}")
 
 # ============================================================================
 # 2. PROCESS SERVICES
 # ============================================================================
-services_file = API_DATA_FILES["services"]
-if os.path.exists(services_file):
-    with open(services_file, 'r', encoding='utf-8') as f:
-        services_data = json.load(f)
-    
-    print(f"✅ Loaded {len(services_data)} services from {services_file}")
+try:
+    services_data = load_category_data("services")
+    print(f"✅ Loaded {len(services_data)} services from data/service_providers/")
     
     for service in services_data:
         # Extract fields for embedding
@@ -112,18 +101,15 @@ if os.path.exists(services_file):
         all_texts.append(embed_text)
         raw_texts.append(embed_text)
 
-else:
-    print(f"⚠️  Services data file not found: {services_file}")
+except FileNotFoundError as e:
+    print(f"⚠️  {e}")
 
 # ============================================================================
 # 3. PROCESS COURSES
 # ============================================================================
-courses_file = API_DATA_FILES["courses"]
-if os.path.exists(courses_file):
-    with open(courses_file, 'r', encoding='utf-8') as f:
-        courses_data = json.load(f)
-    
-    print(f"✅ Loaded {len(courses_data)} courses from {courses_file}")
+try:
+    courses_data = load_category_data("courses")
+    print(f"✅ Loaded {len(courses_data)} courses from data/courses/")
     
     for course in courses_data:
         # Extract fields for embedding
@@ -152,18 +138,15 @@ if os.path.exists(courses_file):
         all_texts.append(embed_text)
         raw_texts.append(embed_text)
 
-else:
-    print(f"⚠️  Courses data file not found: {courses_file}")
+except FileNotFoundError as e:
+    print(f"⚠️  {e}")
 
 # ============================================================================
 # 4. PROCESS CASE STUDIES
 # ============================================================================
-case_studies_file = API_DATA_FILES["case_studies"]
-if os.path.exists(case_studies_file):
-    with open(case_studies_file, 'r', encoding='utf-8') as f:
-        case_studies_data = json.load(f)
-    
-    print(f"✅ Loaded {len(case_studies_data)} case studies from {case_studies_file}")
+try:
+    case_studies_data = load_category_data("case_studies")
+    print(f"✅ Loaded {len(case_studies_data)} case studies from data/case_studies/")
     
     for cs in case_studies_data:
         # Extract and clean the organization name from title
@@ -207,8 +190,8 @@ if os.path.exists(case_studies_file):
         if cs.get("id") == 1:
             print(f"DEBUG: Case study {cs.get('id')} embed text preview: {embed_text[:200]}...")
 
-else:
-    print(f"⚠️  Case studies data file not found: {case_studies_file}")
+except FileNotFoundError as e:
+    print(f"⚠️  {e}")
 
 # ============================================================================
 # GENERATE AND SAVE EMBEDDINGS

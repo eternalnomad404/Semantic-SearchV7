@@ -1,0 +1,576 @@
+[
+  {
+    "id": 232,
+    "title": "3D AI Studio",
+    "short_description": "Generates textured, exportable 3D models from prompts or reference images with image-to-3D, remeshing, and texturing.",
+    "long_description": "3D AI Studio allows users to input natural language prompts or upload reference images, and the platform generates textured, exportable 3D models (in formats like FBX/GLB) ready for use in games, AR/VR, or design pipelines. It provides features such as image-to-3D conversion, remeshing/LOD generation, AI texturing, and integrates into production workflows. A credit-based subscription model gives you access to generation capacity, queue priority and asset ownership rights. It’s built for both individual creators and studios to accelerate development of 3D assets with fewer technical barriers.",
+    "image": "/uploads/1764310830_daistudio.jpg",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/3d-ai-studio",
+    "slug": "3d-ai-studio",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "3D Design"
+    ]
+  },
+  {
+    "id": 66,
+    "title": "AWS",
+    "short_description": "Amazon's broad cloud services platform for compute, storage, databases, analytics, and more.",
+    "long_description": "Amazon Web Services (AWS) is a comprehensive, broadly adopted, and widely used cloud platform. It offers over 200 fully featured services from data centers globally, including computing power, storage, databases, analytics, networking, mobile, developer tools, and enterprise applications.",
+    "image": "/uploads/1764313524_aws.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/aws",
+    "slug": "aws",
+    "category": [
+      "Data & Analytics"
+    ],
+    "sub_category": [
+      "Cloud Services"
+    ]
+  },
+  {
+    "id": 122,
+    "title": "Ally",
+    "short_description": "Mentorship platform for matching, scheduling, and tracking mentor‚Äìmentee sessions.",
+    "long_description": "Ally is a mentorship software platform by Platform Commons designed to automate solutions such as mentor‑mentee matching and session management to simplify tasks such as scheduling and recording sessions, tracking progress, collecting feedback, and generating engagement reports, all in one place.",
+    "image": "/uploads/1764313383_ally.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ally",
+    "slug": "ally",
+    "category": [
+      "Learning & Development"
+    ],
+    "sub_category": [
+      "Fellowship Management"
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Alteryx",
+    "short_description": "Drag-and-drop platform for data prep, blending, and advanced analytics.",
+    "long_description": "Alteryx is a data analytics platform that offers tools for data preparation, blending, and advanced analytics. It enables users to perform tasks such as predictive modeling, geospatial analysis, and reporting through a visual interface, often aiming to automate data workflows.",
+    "image": "/uploads/1764313442_alteryx.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/alteryx",
+    "slug": "alteryx",
+    "category": [
+      "Data & Analytics"
+    ],
+    "sub_category": [
+      "Data Analysis"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Amazon Code Whisperer/Amazon Q",
+    "short_description": "AWS AI code companion that generates code suggestions in IDEs.",
+    "long_description": "Amazon CodeWhisperer is an AI-powered coding companion that generates code suggestions in real-time within integrated development environments (IDEs). Amazon Q is a generative AI-powered assistant for work that can answer questions, summarize content, and generate content.",
+    "image": "/uploads/1764321916_aws.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/amazon-code-whispereramazon-q",
+    "slug": "amazon-code-whispereramazon-q",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "AI Assistant"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Amazon Comprehend",
+    "short_description": "Managed NLP service for entity extraction, sentiment, and key phrases.",
+    "long_description": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning to find insights and relationships in text. It can identify entities, key phrases, language, sentiment, and other elements within textual data.",
+    "image": "/uploads/1764321942_aws.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/amazon-comprehend",
+    "slug": "amazon-comprehend",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Text Generation"
+    ]
+  },
+  {
+    "id": 176,
+    "title": "Apache Superset",
+    "short_description": "Open-source BI and visualization web app for SQL data.",
+    "long_description": "Superset is an open-source business intelligence web application for data exploration and visualization. It allows users to connect to various SQL-based databases and create interactive dashboards, supporting data analysis and reporting.",
+    "image": "/uploads/1764313459_apache-superset.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/apache-superset",
+    "slug": "apache-superset",
+    "category": [
+      "Data & Analytics"
+    ],
+    "sub_category": [
+      "Data Management"
+    ]
+  },
+  {
+    "id": 230,
+    "title": "Asana",
+    "short_description": "Work management app for tasks, projects, and cross-team workflows.",
+    "long_description": "Asana is a web and mobile work management platform designed to help teams organize, track, and manage their work. It provides features for task management, project planning, and collaboration to ensure clear responsibilities and progress tracking.",
+    "image": "/uploads/1764313486_asana.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/asana",
+    "slug": "asana",
+    "category": [
+      "Project & Task Management"
+    ],
+    "sub_category": [
+      "Task Management"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "AssemblyAI",
+    "short_description": "Speech-to-text and audio-intelligence APIs (transcription, moderation, diarization, etc.).",
+    "long_description": "AssemblyAI is an AI company that provides API-based speech-to-text services. It offers advanced audio intelligence features like speaker diarization, content moderation, and summarization for processing spoken language.",
+    "image": "/uploads/1764313499_assemblyai.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/assemblyai",
+    "slug": "assemblyai",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "AI Transcription"
+    ]
+  },
+  {
+    "id": 224,
+    "title": "Avaza",
+    "short_description": "Suite for projects, time tracking, expenses, and invoicing.",
+    "long_description": "Avaza is a cloud-based software suite that combines project management, time tracking, expense management, invoicing, and quoting into one platform. It is designed to help service-based businesses manage their projects and financials.",
+    "image": "/uploads/1764329203_avaza.jpg",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/avaza",
+    "slug": "avaza",
+    "category": [
+      "Project & Task Management"
+    ],
+    "sub_category": [
+      "Task Management"
+    ]
+  },
+  {
+    "id": 235,
+    "title": "Avni",
+    "short_description": "Offline-capable mobile data collection and field-service platform.",
+    "long_description": "Avni is an open‑source field service and data collection platform by Samanvay Research and Development Foundation designed to automate solutions such as offline‑capable mobile data capture and field‑worker management to simplify tasks such as survey creation, data quality validation, real‑time progress monitoring, and impact reporting, all in one place.",
+    "image": "/uploads/1764310786_avni.jpg",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/avni",
+    "slug": "avni",
+    "category": [
+      "Monitoring and Evaluation"
+    ],
+    "sub_category": [
+      "Data Collection"
+    ]
+  },
+  {
+    "id": 226,
+    "title": "Basecamp",
+    "short_description": "Simple team collaboration tool with to-dos, chat, and files.",
+    "long_description": "Basecamp is a web-based project management and team collaboration tool. It provides features for message boards, to-do lists, schedules, document sharing, and group chat, aiming to simplify communication and project organization for teams.",
+    "image": "/uploads/1764313540_basecamp.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/basecamp",
+    "slug": "basecamp",
+    "category": [
+      "Project & Task Management"
+    ],
+    "sub_category": [
+      "Task Management"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Beautiful.ai",
+    "short_description": "Presentation tool that auto-applies good slide design while you add content.",
+    "long_description": "Beautiful.ai is an AI-powered presentation software that helps users create visually appealing and professional presentations. It uses artificial intelligence to automatically apply design best practices, ensuring consistent and elegant slide layouts.",
+    "image": "/uploads/1764313559_Beautifulai.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/beautifulai",
+    "slug": "beautifulai",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Presentation Generation"
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Beehive",
+    "short_description": "HRMS for lifecycle, attendance, payroll, and performance.",
+    "long_description": "Beehive is a complete web‑based HRMS platform by BeeHive Productivity Catalysts designed to automate solutions such as employee lifecycle management and attendance tracking to simplify tasks such as recruitment, onboarding, payroll processing, performance monitoring, and separation workflows, all in one place.",
+    "image": "/uploads/1764315705_beehive.jfif",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/beehive",
+    "slug": "beehive",
+    "category": [
+      "Human Resources"
+    ],
+    "sub_category": [
+      "Attendance & Payroll Management"
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Better Together",
+    "short_description": "Collaboration and community platform for social-impact organisations.",
+    "long_description": "Better Together is a platform offered by Platform Commons, designed to foster collaboration and community engagement within the social impact sector. It provides tools and frameworks to connect organizations, share resources, and facilitate collective action for common goals.",
+    "image": "/uploads/1764313743_bettertogether.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/better-together",
+    "slug": "better-together",
+    "category": [
+      "Learning & Development"
+    ],
+    "sub_category": [
+      "Fellowship Management"
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Big Query",
+    "short_description": "Serverless data warehouse for large-scale SQL analytics.",
+    "long_description": "Google BigQuery is a fully managed, serverless data warehouse designed for analyzing large datasets using SQL. It allows users to run complex queries, store and manage vast amounts of data, and integrate with various data analytics and business intelligence tools.",
+    "image": "/uploads/1764314064_googlebigquery.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/big-query",
+    "slug": "big-query",
+    "category": [
+      "Monitoring and Evaluation",
+      "Office Automation"
+    ],
+    "sub_category": [
+      "Reporting & Dashboarding",
+      "Digital Infrastructure"
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Bigin",
+    "short_description": "Zoho \tLightweight pipeline-centric CRM for small businesses.",
+    "long_description": "Bigin by Zoho CRM is a pipeline-centric CRM software designed specifically for small businesses. It focuses on simplifying lead management, deal tracking, and contact organization to help small teams manage their sales processes effectively.",
+    "image": "/uploads/1764321869_biginbyzoho.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/bigin",
+    "slug": "bigin",
+    "category": [
+      "Fundraising"
+    ],
+    "sub_category": [
+      "CRM/Grant/Donor Management"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Bolt New",
+    "short_description": "StackBlitz\tLow-code framework for rapidly building web applications with AI assistance.",
+    "long_description": "An AI‑powered development tool that allows users to build web apps or prototypes by describing what they want in natural language; it generates code, UI and backend scaffolding to accelerate app development",
+    "image": "/uploads/1764313793_boltnew.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/bolt-new",
+    "slug": "bolt-new",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Low-Code/No-Code Development"
+    ]
+  },
+  {
+    "id": 153,
+    "title": "Buffer",
+    "short_description": "Social media scheduler and analytics tool for multiple platforms.",
+    "long_description": "Buffer is a versatile social media management platform designed to automate solutions like content scheduling and multi‑platform publishing to simplify tasks such as drafting posts, queue management, team collaboration, engagement tracking, and analytics reporting, all in one place.",
+    "image": "/uploads/1764313810_buffer.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/buffer",
+    "slug": "buffer",
+    "category": [
+      "Marketing & Communication"
+    ],
+    "sub_category": [
+      "Social Media & Community Engagement"
+    ]
+  },
+  {
+    "id": 210,
+    "title": "Calendly",
+    "short_description": "Meeting scheduling tool that syncs with calendars via shared links.",
+    "long_description": "Calendly is an automated scheduling software that simplifies the process of booking meetings and appointments. It allows users to set their availability and share links, enabling others to book times directly into their calendar without back-and-forth emails.",
+    "image": "/uploads/1764329215_clandly.jpg",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/calendly",
+    "slug": "calendly",
+    "category": [
+      "Office Automation"
+    ],
+    "sub_category": [
+      "Scheduling"
+    ]
+  },
+  {
+    "id": 144,
+    "title": "Canva",
+    "short_description": "Drag-and-drop design tool for social graphics, presentations, and more.",
+    "long_description": "Canva is a graphic design platform that allows users to create a wide range of visual content, including presentations, social media graphics, posters, and documents. It provides a drag-and-drop interface with templates and design elements.<br>With Canva you can design stunning social media posts and coordinate them across your platforms including Facebook, Instagram, Twitter, and LinkedIn.",
+    "image": "/uploads/1764313822_canva.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/canva",
+    "slug": "canva",
+    "category": [
+      "Marketing & Communication"
+    ],
+    "sub_category": [
+      "Image and Video Editing"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Canva AI",
+    "short_description": "AI-enhanced design suite for graphics, documents, presentations, and videos.",
+    "long_description": "Canva AI is an AI‑enhanced design and content creation platform that helps users produce professional visuals, documents, and multimedia assets quickly and easily. It offers tools for graphic design, text generation, image editing, presentations, and video content, suitable for individuals, businesses, and nonprofits of all sizes.",
+    "image": "/uploads/1764313839_canvaaitools.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/canva-ai",
+    "slug": "canva-ai",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Presentation Generation"
+    ]
+  },
+  {
+    "id": 233,
+    "title": "Canva’s AI 3D Model Generator",
+    "short_description": "Simple browser tool inside Canva to create AI-generated 3D assets from text.",
+    "long_description": "A more accessible, browser-based tool embedded in the popular design suite Canva, allowing text → 3D assets via AI",
+    "image": "/uploads/1764328411_canva.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/canvas-ai-3d-model-generator",
+    "slug": "canvas-ai-3d-model-generator",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "3D Design"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "ChartPixel",
+    "short_description": "AI assistant for data cleaning, charting, stats, and quick insight generation.",
+    "long_description": "ChartPixel is an AI‑powered data analysis platform designed to automate solutions such as data cleaning and visualization to simplify tasks such as creating interactive charts, running statistical tests and forecasts, generating written insights, and exporting presentations, all in one place.",
+    "image": "/uploads/1764313867_chartpixel.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/chartpixel",
+    "slug": "chartpixel",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Data Visualization"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Chat CSV",
+    "short_description": "Interface to query CSV data using natural language instead of manual formulas/SQL.",
+    "long_description": "Chat CSV is a tool that allows users to chat with their CSV files using natural language. It leverages AI to enable users to ask questions about their data in a CSV file and receive insights without needing to write complex queries.",
+    "image": "/uploads/1764313883_chatcsv.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/chat-csv",
+    "slug": "chat-csv",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Data Analysis"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "ChatGPT",
+    "short_description": "General-purpose conversational AI for Q&A, drafting, image, video creations, and coding help.",
+    "long_description": "ChatGPT is an AI-powered conversational agent developed by OpenAI. It is designed to understand and generate human-like text based on the prompts it receives, capable of engaging in diverse conversations, providing information, and generating creative content.",
+    "image": "/uploads/1764313898_Chatgbt.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/chatgpt",
+    "slug": "chatgpt",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "AI Assistant",
+      "Image & Video Generation"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Claude",
+    "short_description": "Conversational AI focused on helpful, safe, and coherent long-form reasoning and writing.",
+    "long_description": "Claude is a large language model developed by Anthropic, designed to be helpful, harmless, and honest. It focuses on conversational AI, text generation, and reasoning tasks, aiming to provide coherent and contextually relevant responses.",
+    "image": "/uploads/1764313950_claude.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/claude",
+    "slug": "claude",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "AI Assistant"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Clearscope",
+    "short_description": "SEO content optimization tool that suggests keywords and topics for a focus term.",
+    "long_description": "Clearscope is an AI-powered content optimization platform that helps content creators and SEO professionals write relevant and high-ranking content. It analyzes top-ranking content for a given keyword and provides recommendations for topics and keywords to include.",
+    "image": "/uploads/1764314020_Frame.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/clearscope",
+    "slug": "clearscope",
+    "category": [
+      "Marketing & Communication"
+    ],
+    "sub_category": [
+      "Website Management"
+    ]
+  },
+  {
+    "id": 89,
+    "title": "ClickTime",
+    "short_description": "Time and expense tracking tool for projects and budgets.",
+    "long_description": "ClickTime is a time and expense tracking software that helps businesses manage employee hours, project costs, and budgeting. It provides tools for timesheet management, expense reporting, and data analysis to improve project profitability and operational efficiency.",
+    "image": "/uploads/1764313961_clicktime.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/clicktime",
+    "slug": "clicktime",
+    "category": [
+      "Finance and Accounts"
+    ],
+    "sub_category": [
+      "Resource Management"
+    ]
+  },
+  {
+    "id": 221,
+    "title": "ClickUp",
+    "short_description": "All-in-one work management platform for tasks, docs, and goals.",
+    "long_description": "ClickUp is a cloud-based project management and productivity platform. It offers a wide range of features for task management, project planning, team collaboration, document creation, and goal tracking, aiming to be an all-in-one workspace.",
+    "image": "/uploads/1764313971_clickup.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/clickup",
+    "slug": "clickup",
+    "category": [
+      "Project & Task Management"
+    ],
+    "sub_category": [
+      "Task Management"
+    ]
+  },
+  {
+    "id": 229,
+    "title": "Collaborate",
+    "short_description": "Project management tool for planning, assigning, and tracking social-impact work.",
+    "long_description": "Collaborate is a project management software platform by Platform Commons designed to automate solutions such as project planning and task assignment to simplify tasks such as progress tracking, team collaboration, resource allocation, and reporting, all in one place.",
+    "image": "/uploads/1764334832_C++.svg",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/collaborate",
+    "slug": "collaborate",
+    "category": [
+      "Project & Task Management"
+    ],
+    "sub_category": [
+      "Task Management"
+    ]
+  },
+  {
+    "id": 189,
+    "title": "CommCare by Dimagi",
+    "short_description": "Mobile platform for frontline worker apps, data collection, and client tracking.",
+    "long_description": "CommCare is a mobile platform designed for frontline workers in various sectors, including health and development. It enables organizations to build custom applications for data collection, client tracking, service delivery, and reporting, supporting offline functionality and adaptable workflows.",
+    "image": "/uploads/1764334745_Dimagi.svg",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/commcare-by-dimagi",
+    "slug": "commcare-by-dimagi",
+    "category": [
+      "Monitoring and Evaluation"
+    ],
+    "sub_category": [
+      "Data Collection"
+    ]
+  },
+  {
+    "id": 196,
+    "title": "Commons.farm",
+    "short_description": "Platform Commons module for digitizing farmer workflows and transactions.",
+    "long_description": "Commons.farm is a platform within the broader \"Platform Commons\" initiative, designed to support the agricultural sector. It provides digital infrastructure and applications to facilitate interactions between ground workforce professionals and farmers, managing processes like farmer onboarding, crop planning, inventory, and transactions, with a focus on improving agricultural workflows.",
+    "image": "/uploads/1764334792_commons.svg",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/commonsfarm",
+    "slug": "commonsfarm",
+    "category": [
+      "Office Automation"
+    ],
+    "sub_category": [
+      "Digital Infrastructure"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Copilot",
+    "short_description": "AI assistant inside Microsoft 365 to draft, summarize, and automate tasks.",
+    "long_description": "Microsoft Copilot is an AI assistant integrated into Microsoft 365 apps. It helps users draft documents, summarize content, analyze data, and automate repetitive tasks through simple natural language commands.",
+    "image": "/uploads/1764323951_gitHub-copilot.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/copilot-microsoft",
+    "slug": "copilot-microsoft",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "AI Assistant"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Copy.ai",
+    "short_description": "AI tool to generate marketing copy, blogs, and social posts from prompts and templates.",
+    "long_description": "Copy.ai is an AI-powered content generation tool that helps users create marketing copy, blog posts, social media content, and other written materials. It leverages artificial intelligence to generate text based on user inputs and templates.",
+    "image": "/uploads/1764334299_Untitled design.svg",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/copyai",
+    "slug": "copyai",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Text Generation"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "D-ID",
+    "short_description": "AI service to turn images and text into talking, animated digital humans.",
+    "long_description": "D-ID is an AI technology company specializing in creating realistic and expressive digital humans from images or text. It offers tools for generating talking avatars and animating faces from still images, often used for video creation and virtual presenters.",
+    "image": "/uploads/1764334641_DID.svg",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/d-id",
+    "slug": "d-id",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Image & Video Generation"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "DALL-E 3",
+    "short_description": "Image generation model that creates detailed images from natural-language prompts.",
+    "long_description": "DALL-E 3 is a powerful AI model developed by OpenAI that generates images from text descriptions. It can create diverse and detailed visuals based on natural language prompts, often demonstrating creativity and conceptual understanding.",
+    "image": "/uploads/1764334874_7.svg",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/dall-e-3",
+    "slug": "dall-e-3",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Image & Video Generation"
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Daanveda",
+    "short_description": "Donor and fundraising CRM for Indian NGOs.",
+    "long_description": "Daanveda is a donor and fundraising management platform built for Indian NGOs. It provides features like donation tracking, receipts, and compliance management.",
+    "image": "/uploads/1764334898_DaanVeda.svg",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/daanveda",
+    "slug": "daanveda",
+    "category": [
+      "Fundraising"
+    ],
+    "sub_category": [
+      "CRM/Grant/Donor Management",
+      "Crowdfunding"
+    ]
+  }
+]

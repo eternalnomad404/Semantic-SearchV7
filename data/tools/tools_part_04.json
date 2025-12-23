@@ -1,0 +1,577 @@
+[
+  {
+    "id": 11,
+    "title": "Midjourney",
+    "short_description": "AI system that produces stylistic, artistic images from text prompts.",
+    "long_description": "Midjourney is an independent research lab that produces an artificial intelligence program that creates images from text descriptions. It is known for generating visually distinctive and often artistic images.",
+    "image": "/uploads/1764315138_midjourney.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/midjourney",
+    "slug": "midjourney",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Image & Video Generation"
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Milaap",
+    "short_description": "Crowdfunding platform for medical, personal, and social causes.",
+    "long_description": "Milaap by Milaap is a crowdfunding platform that provides individuals and organizations with a way to raise funds for personal needs, medical emergencies, education, and social causes. It offers features like campaign creation, payment gateway integration, and donor management, managed via an online dashboard.",
+    "image": "/uploads/1764315125_milaap.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/milaap",
+    "slug": "milaap",
+    "category": [
+      "Fundraising"
+    ],
+    "sub_category": [
+      "Crowdfunding"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "MindsDB",
+    "short_description": "Open-source layer that lets you run ML models directly from databases/SQL.",
+    "long_description": "MindsDB is an open-source AI layer for databases that allows users to leverage machine learning capabilities directly within their databases. It enables users to build, train, and deploy AI models to answer questions and predict outcomes from their data.",
+    "image": "/uploads/1764315112_mindsdb.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/mindsdb",
+    "slug": "mindsdb",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Data Analysis"
+    ]
+  },
+  {
+    "id": 222,
+    "title": "Monday.com",
+    "short_description": "Work OS for boards, automation, and project coordination.",
+    "long_description": "Monday.com is a work operating system (Work OS) that enables organizations to manage tasks, projects, and teamwork. It uses customizable boards to help teams plan, track, and deliver work, supporting collaboration and workflow automation.",
+    "image": "/uploads/1764315100_monday.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/mondaycom",
+    "slug": "mondaycom",
+    "category": [
+      "Project & Task Management"
+    ],
+    "sub_category": [
+      "Task Management"
+    ]
+  },
+  {
+    "id": 123,
+    "title": "Moodle",
+    "short_description": "Open-source LMS for building and running online courses.",
+    "long_description": "Moodle is a free and open-source learning management system (LMS) that provides a platform for online education. It allows educators to create private websites filled with dynamic courses that extend learning anytime, anywhere, supporting various educational activities and content types.",
+    "image": "/uploads/1764315086_moodle.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/moodle",
+    "slug": "moodle",
+    "category": [
+      "Learning & Development"
+    ],
+    "sub_category": [
+      "Learning Management System"
+    ]
+  },
+  {
+    "id": 211,
+    "title": "Motion",
+    "short_description": "AI calendar and task planner that auto-schedules work and meetings.",
+    "long_description": "Motion is an AI-powered scheduling and calendar app that helps users manage their time and tasks efficiently. It automates meeting scheduling, blocks out focus time, and plans daily schedules to optimize productivity.",
+    "image": "/uploads/1764315075_motion.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/motion",
+    "slug": "motion",
+    "category": [
+      "Office Automation"
+    ],
+    "sub_category": [
+      "Scheduling"
+    ]
+  },
+  {
+    "id": 201,
+    "title": "Nagios",
+    "short_description": "Open-source monitoring and alerting system for infrastructure and apps.",
+    "long_description": "Nagios is an open-source monitoring system that monitors systems, networks, and infrastructure. It provides monitoring and alerting services for servers, switches, applications, and services, ensuring that critical infrastructure components are functioning correctly.",
+    "image": "/uploads/1764315062_nagios.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/nagios",
+    "slug": "nagios",
+    "category": [
+      "Office Automation"
+    ],
+    "sub_category": [
+      "Digital Infrastructure"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Napkin AI",
+    "short_description": "AI assistant for writing and ideation that helps outline, refine, and clarify drafts.",
+    "long_description": "Napkin AI is an AI-powered writing assistant. It helps users capture, organize, and refine ideas by generating outlines, suggesting improvements, and ensuring clarity and coherence throughout drafts.",
+    "image": "/uploads/1764315048_napkin.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/napkin-ai",
+    "slug": "napkin-ai",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Presentation Generation"
+    ]
+  },
+  {
+    "id": 219,
+    "title": "New Relic",
+    "short_description": "Observability and APM platform for apps and infrastructure.",
+    "long_description": "New Relic is the observability and application performance monitoring module within the broader New Relic Inc. software intelligence platform. It provides functionalities for real-time telemetry data collection, infrastructure monitoring, distributed tracing, error analytics, custom dashboards, and alerting within an integrated DevOps and site reliability engineering (SRE) environment.",
+    "image": "/uploads/1764315030_new-relic.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/new-relic",
+    "slug": "new-relic",
+    "category": [
+      "Project & Task Management"
+    ],
+    "sub_category": [
+      "Agile"
+    ]
+  },
+  {
+    "id": 206,
+    "title": "Notion",
+    "short_description": "All-in-one workspace for notes, docs, databases, and projects.",
+    "long_description": "Notion is a versatile workspace application used for a wide range of purposes, including note-taking, project management, task tracking, knowledge management, and team collaboration",
+    "image": "/uploads/1764315011_notion.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/notion",
+    "slug": "notion",
+    "category": [
+      "Office Automation",
+      "Project & Task Management"
+    ],
+    "sub_category": [
+      "Document and Knowledge Management",
+      "Task Management"
+    ]
+  },
+  {
+    "id": 141,
+    "title": "Olive Video Editor",
+    "short_description": "Open-source non-linear video editor with node-based compositing.",
+    "long_description": "Olive Video Editor is a free, open‑source non‑linear video editing application designed to provide extensive control over video production workflows like node‑based compositing and integrated OpenColorIO color management to simplify tasks such as handling diverse media formats, building complex timelines, and leveraging AI‑assisted editing features, all in one place.",
+    "image": "/uploads/1764314972_olive-video-editor.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/olive-video-editor",
+    "slug": "olive-video-editor",
+    "category": [
+      "Marketing & Communication"
+    ],
+    "sub_category": [
+      "Image and Video Editing"
+    ]
+  },
+  {
+    "id": 205,
+    "title": "OneDrive",
+    "short_description": "Microsoft's cloud file storage with Office integration.",
+    "long_description": "OneDrive is a cloud storage service provided by Microsoft that allows users to store files and personal data. It enables syncing files across devices, sharing documents, and collaborating with others, often integrating with Microsoft Office applications.",
+    "image": "/uploads/1764314959_onedrive.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/onedrive",
+    "slug": "onedrive",
+    "category": [
+      "Office Automation"
+    ],
+    "sub_category": [
+      "Document and Knowledge Management"
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Oracle Cloud Infrastructure (OCI)",
+    "short_description": "Oracle's cloud services for compute, storage, networking, and databases.",
+    "long_description": "Oracle Cloud Infrastructure is a comprehensive suite of cloud services built on Oracle’s globally distributed network. It offers a range of services including compute, storage, networking, database, and developer tools.",
+    "image": "/uploads/1764325962_oracle.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/oracle-cloud-infrastructure-oci",
+    "slug": "oracle-cloud-infrastructure-oci",
+    "category": [
+      "Data & Analytics"
+    ],
+    "sub_category": [
+      "Cloud Services"
+    ]
+  },
+  {
+    "id": 130,
+    "title": "Orchard (Formerly Campus Cloud)",
+    "short_description": "School ERP and SIS for attendance, assessment, and communication.",
+    "long_description": "Orchard (formerly Campus Cloud) is a school ERP and student information system by Platform Commons designed to automate solutions such as attendance management and assessment workflows to simplify tasks such as class scheduling, learner performance monitoring, data consolidation, and stakeholder communication, all in one place",
+    "image": "/uploads/1764329575_platformcommons.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/orchard-formerly-campus-cloud",
+    "slug": "orchard-formerly-campus-cloud",
+    "category": [
+      "Learning & Development"
+    ],
+    "sub_category": [
+      "Training & Development"
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Paybooks",
+    "short_description": "Cloud payroll and basic HR for Indian businesses.",
+    "long_description": "Paybooks is a cloud-based payroll and HR management software for businesses. It provides features for processing salaries, managing statutory compliances, leave management, and employee self-service, aiming to simplify payroll operations.",
+    "image": "/uploads/1764326042_paybooks.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/paybooks",
+    "slug": "paybooks",
+    "category": [
+      "Human Resources"
+    ],
+    "sub_category": [
+      "Attendance & Payroll Management"
+    ]
+  },
+  {
+    "id": 118,
+    "title": "People Hub",
+    "short_description": "People Hub\tHR platform with admin, performance, and employee self-service.",
+    "long_description": "People Hub is a human resources management platform that offers solutions for HR administration, employee self-service, performance management, and communication. It aims to centralize HR data and streamline various HR processes for organizations.",
+    "image": "/uploads/1764314915_peoplehub.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/people-hub",
+    "slug": "people-hub",
+    "category": [
+      "Human Resources"
+    ],
+    "sub_category": [
+      "Recruitment"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Perplexity",
+    "short_description": "AI-native answer engine that gives cited, conversational responses to web queries.",
+    "long_description": "Perplexity is an AI-powered search and answer engine that provides accurate, cited responses across a wide range of topics using large language models.",
+    "image": "/uploads/1764314896_perplexity.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/perplexity",
+    "slug": "perplexity",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "AI Assistant"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Play.ht",
+    "short_description": "Text-to-speech platform to turn written content into audio in many voices.",
+    "long_description": "Play.ht is an AI-powered text-to-speech generator and audio article publishing platform. It allows users to convert text into natural-sounding voices and create audio versions of articles, often for accessibility or content repurposing.",
+    "image": "/uploads/1764314847_playai.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/playht",
+    "slug": "playht",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Audio, Voice & Music Generation"
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Power BI",
+    "short_description": "Microsoft BI tool for data modeling and interactive dashboards.",
+    "long_description": "Microsoft Power BI is a business intelligence platform that allows users to connect to various data sources, transform data, and create interactive visualizations and reports. It supports data analysis to help organizations monitor performance and gain insights.",
+    "image": "/uploads/1764314834_powerbi.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/power-bi",
+    "slug": "power-bi",
+    "category": [
+      "Data & Analytics",
+      "Monitoring and Evaluation"
+    ],
+    "sub_category": [
+      "Data Analysis",
+      "Reporting & Dashboarding"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Prezi",
+    "short_description": "Non-linear, zoomable presentation tool for visual storytelling.",
+    "long_description": "Prezi is a cloud-based presentation software that uses a single, zoomable canvas instead of traditional slides. It allows users to create dynamic and non-linear presentations, fostering visual storytelling and engaging audiences.",
+    "image": "/uploads/1764314823_prezi.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/prezi",
+    "slug": "prezi",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Presentation Generation"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "ProWritingAid",
+    "short_description": "Style and grammar checker with deeper readability and writing analysis.",
+    "long_description": "ProWritingAid is a writing enhancement software that provides comprehensive feedback on grammar, style, readability, and originality. It helps writers improve their prose by offering suggestions for various aspects of writing.",
+    "image": "/uploads/1764314807_prowritingaid.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/prowritingaid",
+    "slug": "prowritingaid",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Text Generation"
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Realbooks",
+    "short_description": "Cloud accounting for SMEs with inventory and billing.",
+    "long_description": "Realbooks is a cloud-based accounting software designed for small and medium-sized businesses. It provides features for financial accounting, inventory management, billing, and reporting, aiming to simplify financial management and compliance.",
+    "image": "/uploads/1764314786_realbooks.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/realbooks",
+    "slug": "realbooks",
+    "category": [
+      "Finance and Accounts"
+    ],
+    "sub_category": [
+      "Payroll Management"
+    ]
+  },
+  {
+    "id": 212,
+    "title": "Reclaim.ai",
+    "short_description": "Smart calendar that auto-blocks time for tasks and habits.",
+    "long_description": "Reclaim.ai is an AI-powered smart calendar assistant that helps users manage their time by automatically scheduling tasks, habits, and meetings. It aims to optimize schedules by finding the best times for various activities based on priorities and availability.",
+    "image": "/uploads/1764314764_reclaimai.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/reclaimai",
+    "slug": "reclaimai",
+    "category": [
+      "Office Automation"
+    ],
+    "sub_category": [
+      "Scheduling"
+    ]
+  },
+  {
+    "id": 217,
+    "title": "Redmine",
+    "short_description": "Web-based project management and issue tracker with Gantt and wiki.",
+    "long_description": "Redmine is a flexible project management web application. It provides features for issue tracking, project planning, Gantt charts, calendars, news, documents, forums, wikis, and repository integration, supporting various project management methodologies.",
+    "image": "/uploads/1764314748_redmine.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/redmine",
+    "slug": "redmine",
+    "category": [
+      "Project & Task Management"
+    ],
+    "sub_category": [
+      "Agile"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Rev AI",
+    "short_description": "Speech-to-text and NLP APIs for transcription and audio analysis.",
+    "long_description": "Rev AI is an AI-powered speech-to-text and natural language processing (NLP) platform that provides services for transcription, captioning, and sentiment analysis. It enables businesses to convert audio and video into text for various applications.",
+    "image": "/uploads/1764314737_revai.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/rev-ai",
+    "slug": "rev-ai",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "AI Transcription"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "Rossum",
+    "short_description": "Intelligent document processing platform for extracting data from invoices and similar documents.",
+    "long_description": "Rossum is an AI-powered intelligent document processing platform that automates data extraction from documents like invoices, purchase orders, and receipts. It uses artificial intelligence to accurately capture and process information from various document types.",
+    "image": "/uploads/1764314717_rossum.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/rossum",
+    "slug": "rossum",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Agent Building"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Runway",
+    "short_description": "Creative AI suite for video editing, image generation, and 3D content creation.",
+    "long_description": "Runway is an AI research company that provides a suite of AI-powered creative tools for video editing, image generation, and 3D content creation. It focuses on empowering creators with generative AI capabilities for various artistic and production tasks.",
+    "image": "/uploads/1764314702_runway.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/runway",
+    "slug": "runway",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "3D Design",
+      "Image & Video Generation"
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Salesforce",
+    "short_description": "Cloud CRM suite for sales, service, marketing, and more.",
+    "long_description": "Salesforce is a cloud-based customer relationship management (CRM) platform. It offers a collection of applications designed to help organizations manage and enhance their engagements with customers across different operational areas, including sales, customer service, marketing, e-commerce, and information technology. The platform aims to consolidate customer information, automate workflows, provide analytical capabilities, and support business processes.",
+    "image": "/uploads/1764314687_salesforce.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/salesforce-1",
+    "slug": "salesforce-1",
+    "category": [
+      "Fundraising"
+    ],
+    "sub_category": [
+      "CRM/Grant/Donor Management"
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Salesforce CRM",
+    "short_description": "Cloud CRM suite for sales, service, marketing, and more.",
+    "long_description": "Salesforce CRM is a cloud-based customer relationship management (CRM) platform. It offers a collection of applications designed to help organizations manage and enhance their engagements with customers across different operational areas, including sales, customer service, marketing, e-commerce, and information technology. The platform aims to consolidate customer information, automate workflows, provide analytical capabilities, and support business processes.",
+    "image": "/uploads/1764326177_salesforce.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/salesforce-crm",
+    "slug": "salesforce-crm",
+    "category": [
+      "Fundraising"
+    ],
+    "sub_category": [
+      "CRM/Grant/Donor Management"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Sarvam AI",
+    "short_description": "India-focused generative AI stack for speech, chat, and LLMs across Indian languages.",
+    "long_description": "A home-grown generative AI platform enabling multilingual conversational and voice-based solutions across 10+ Indian languages. It provides functionalities for building multilingual, voice‑enabled AI agents (voice & WhatsApp), speech-to-text, text-to-speech, Indic large language models like Sarvam‑2B and Shuka, translation, developer APIs, and open-source tools—all tailored for India’s linguistic diversity in an integrated generative AI environment",
+    "image": "/uploads/1764314677_sarvam.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/sarvam-ai",
+    "slug": "sarvam-ai",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Agent Building"
+    ]
+  },
+  {
+    "id": 138,
+    "title": "SendGrid",
+    "short_description": "Cloud email delivery platform for transactional and marketing emails.",
+    "long_description": "SendGrid is a cloud-based email platform that provides services for sending transactional and marketing emails. It offers tools for email delivery, scalability, and analytics, used by developers and marketers to manage email communications.",
+    "image": "/uploads/1764314664_sendgrid.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/sendgrid",
+    "slug": "sendgrid",
+    "category": [
+      "Marketing & Communication"
+    ],
+    "sub_category": [
+      "Email Marketing"
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Slack",
+    "short_description": "Channel-based messaging app for team communication and integrations.",
+    "long_description": "Slack is a channel-based messaging platform designed for team communication and collaboration. It allows users to create channels for specific topics, share files, integrate with other apps, and communicate in real-time.",
+    "image": "/uploads/1764314647_slack.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/slack",
+    "slug": "slack",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Workflow Automation"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "SlideShare",
+    "short_description": "Hosting site for presentations, documents, and videos for public or private sharing.",
+    "long_description": "SlideShare is a hosting service for professional content, including presentations, infographics, documents, and videos. It allows users to upload and share their content, making it discoverable and viewable online.",
+    "image": "/uploads/1764314634_slideshare.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/slideshare",
+    "slug": "slideshare",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Presentation Generation"
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Sloyd",
+    "short_description": "Generative AI platform for fast 3D modeling from simple parameters and prompts.",
+    "long_description": "Sloyd is a generative AI platform for 3D modeling. It allows users to create 3D assets quickly and efficiently by generating models based on simple parameters and descriptions, aiming to simplify 3D content creation.",
+    "image": "/uploads/1764314621_sloyd.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/sloyd",
+    "slug": "sloyd",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "3D Design"
+    ]
+  },
+  {
+    "id": 225,
+    "title": "Smart Sheets",
+    "short_description": "Spreadsheet-like work management and automation platform.",
+    "long_description": "Smartsheet is a work management platform that uses a spreadsheet-like interface for collaborative work management. It helps teams manage and automate various types of work, including project planning, task tracking, and resource management.",
+    "image": "/uploads/1764314606_smartsheet.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/smart-sheets",
+    "slug": "smart-sheets",
+    "category": [
+      "Project & Task Management"
+    ],
+    "sub_category": [
+      "Task Management"
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Social Integrated Platform",
+    "short_description": "Integrated CSR and social-impact ERP for funds, projects, M&E, and learning.",
+    "long_description": "Social Integrated Platform is a cloud-based ERP solution that digitizes and integrates CSR fund management, project management, monitoring & evaluation, NGO compliance, learning management, and analytics into a unified platform for social impact organizations.",
+    "image": "/uploads/1764337985_1764331817_synergy-connect.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/social-integrated-platform",
+    "slug": "social-integrated-platform",
+    "category": [
+      "Fundraising"
+    ],
+    "sub_category": [
+      "CRM/Grant/Donor Management"
+    ]
+  },
+  {
+    "id": 152,
+    "title": "Socioboard",
+    "short_description": "Open-source social media management and content marketing tool.",
+    "long_description": "Socioboard is an open-source social media management and content marketing platform that streamlines social media operations with scheduling, automation, analytics, and team collaboration across multiple channels from a unified dashboard.",
+    "image": "/uploads/1764314578_socioboard.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/socioboard",
+    "slug": "socioboard",
+    "category": [
+      "Marketing & Communication"
+    ],
+    "sub_category": [
+      "Social Media & Community Engagement"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Soundraw",
+    "short_description": "AI tool to generate custom background music by selecting mood and style.",
+    "long_description": "Soundraw is an AI music generator that allows users to create custom music quickly and easily. It provides tools to generate unique soundtracks by selecting mood, genre, and length, without needing musical expertise.",
+    "image": "/uploads/1764326254_soundraw.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/soundraw",
+    "slug": "soundraw",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Audio, Voice & Music Generation"
+    ]
+  }
+]

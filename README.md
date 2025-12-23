@@ -59,12 +59,20 @@ semantic-search/
 │   └── utils/                    # Utilities
 │       ├── fetch_data_from_apis.py   # API data fetcher
 │       ├── generate_embeddings.py    # Embedding generator
+│       ├── data_loader.py            # Multi-file data loader
 │       └── fetch_external_images.py  # Image fetcher
-├── data/                         # API cache files (JSON)
-│   ├── tools_data.json
-│   ├── services_data.json
-│   ├── courses_data.json
-│   ├── case_studies_data.json
+├── data/                         # Split API data (JSON files organized by category)
+│   ├── tools/                   # Tools data (split into multiple files)
+│   │   ├── tools_part_01.json
+│   │   ├── tools_part_02.json
+│   │   └── ...
+│   ├── service_providers/       # Service provider data
+│   │   └── providers_part_01.json
+│   ├── courses/                 # Course data (split into multiple files)
+│   │   ├── courses_part_01.json
+│   │   └── ...
+│   ├── case_studies/            # Case study data
+│   │   └── case_studies_part_01.json
 │   └── slug_to_image_mapping.json
 ├── vectorstore/                  # Generated embeddings
 │   ├── faiss_index.index        # FAISS vector index
@@ -76,6 +84,8 @@ semantic-search/
 ├── main.py                       # API entry point
 ├── streamlit_app.py             # UI entry point
 ├── requirements.txt
+├── verify_refactor.py           # Verification script for data structure
+├── REFACTOR_SUMMARY.md          # Technical documentation of storage refactor
 └── README.md
 ```
 
@@ -261,12 +271,12 @@ streamlit run streamlit_app.py  # For UI
 - `https://dt4si.com/api/v1/case-studies`
 
 **What Gets Updated:**
-- Tools: 199 items → `data/tools_data.json`
-- Services: 22 items → `data/services_data.json`
-- Courses: 107 items → `data/courses_data.json`
-- Case Studies: 14 items → `data/case_studies_data.json`
+- Tools: 199 items → `data/tools/` (6 split files)
+- Services: 22 items → `data/service_providers/` (1 file)
+- Courses: 108 items → `data/courses/` (3 split files)
+- Case Studies: 14 items → `data/case_studies/` (1 file)
 
-The system fetches data from live APIs and caches it locally. Embeddings are then generated from the cached data, allowing offline regeneration without repeated API calls.
+The system fetches data from live APIs and caches it locally in structured folders with split JSON files (each under 600 lines for better tooling support). Embeddings are then generated from the cached data, allowing offline regeneration without repeated API calls.
 
 ## 🐳 Docker Deployment
 

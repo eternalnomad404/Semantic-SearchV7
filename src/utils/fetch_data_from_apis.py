@@ -9,6 +9,7 @@ import requests
 import json
 import os
 from typing import Dict, List, Any, Tuple
+from pathlib import Path
 
 # API Configuration
 API_BASE_URL = "https://dt4si.com/api/v1"
@@ -23,12 +24,26 @@ API_ENDPOINTS = {
 DATA_DIR = "data"
 os.makedirs(DATA_DIR, exist_ok=True)
 
-# Output file paths
-OUTPUT_FILES = {
-    "tools": os.path.join(DATA_DIR, "tools_data.json"),
-    "services": os.path.join(DATA_DIR, "services_data.json"),
-    "courses": os.path.join(DATA_DIR, "courses_data.json"),
-    "case_studies": os.path.join(DATA_DIR, "case_studies_data.json")
+# Output folder paths for split data
+OUTPUT_FOLDERS = {
+    "tools": os.path.join(DATA_DIR, "tools"),
+    "services": os.path.join(DATA_DIR, "service_providers"),
+    "courses": os.path.join(DATA_DIR, "courses"),
+    "case_studies": os.path.join(DATA_DIR, "case_studies")
+}
+
+# Create output folders
+for folder in OUTPUT_FOLDERS.values():
+    os.makedirs(folder, exist_ok=True)
+
+# Records per file target (aiming for ~600 lines per file)
+# Based on analysis: tools ~15 lines/rec, courses ~12, services ~9, case_studies ~10
+# Being conservative to ensure no file exceeds 600 lines
+RECORDS_PER_FILE = {
+    "tools": 38,          # ~38 records = ~577 lines (safer)
+    "courses": 49,        # ~49 records = ~588 lines
+    "services": 66,       # ~66 records = ~600 lines
+    "case_studies": 59    # ~59 records = ~596 lines
 }
 
 
@@ -116,14 +131,27 @@ def compare_data(old_data: List[Dict], new_data: List[Dict], category: str) -> T
     return len(added), len(removed), modified
 
 
-def save_to_file(data: List[Dict], filepath: str, category: str):
-    """Save fetched data to JSON file and show changes"""
-    # Load old data if exists
+def save_to_split_files(data: List[Dict], category: str):
+    """
+    Save fetched data to multiple JSON files in category folder.
+    
+    Splits data into chunks to keep each file under ~600 lines while
+    maintaining semantic units (complete records).
+    
+    Args:
+        data: List of records to save
+        category: Category name (tools, services, courses, case_studies)
+    """
+    folder_path = OUTPUT_FOLDERS[category]
+    records_per_file = RECORDS_PER_FILE[category]
+    
+    # Load existing data from all files in the folder for comparison
     old_data = []
-    if os.path.exists(filepath):
+    existing_files = list(Path(folder_path).glob("*.json"))
+    for existing_file in existing_files:
         try:
-            with open(filepath, 'r', encoding='utf-8') as f:
-                old_data = json.load(f)
+            with open(existing_file, 'r', encoding='utf-8') as f:
+                old_data.extend(json.load(f))
         except:
             pass
     
@@ -144,14 +172,44 @@ def save_to_file(data: List[Dict], filepath: str, category: str):
     else:
         print(f"   📝 First time fetch - {len(data)} items")
     
-    # Save new data
-    try:
-        with open(filepath, 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
-        print(f"   💾 Saved to {filepath}")
-    except Exception as e:
-        print(f"   ❌ Failed to save {category}: {e}")
-        raise
+    # Clear old files
+    for old_file in existing_files:
+        try:
+            os.remove(old_file)
+        except:
+            pass
+    
+    # Split data into chunks and save
+    total_files = (len(data) + records_per_file - 1) // records_per_file
+    
+    for i in range(0, len(data), records_per_file):
+        chunk = data[i:i + records_per_file]
+        file_num = (i // records_per_file) + 1
+        
+        # Generate filename with zero-padded number
+        if category == "services":
+            filename = f"providers_part_{file_num:02d}.json"
+        else:
+            filename = f"{category}_part_{file_num:02d}.json"
+        
+        filepath = os.path.join(folder_path, filename)
+        
+        try:
+            with open(filepath, 'w', encoding='utf-8') as f:
+                json.dump(chunk, f, indent=2, ensure_ascii=False)
+        except Exception as e:
+            print(f"   ❌ Failed to save {filepath}: {e}")
+            raise
+    
+    print(f"   💾 Saved {len(data)} records to {total_files} file(s) in {folder_path}/")
+
+
+def save_to_file(data: List[Dict], filepath: str, category: str):
+    """
+    DEPRECATED: Legacy function for backward compatibility.
+    Now redirects to save_to_split_files.
+    """
+    save_to_split_files(data, category)
 
 
 def main():
@@ -169,14 +227,17 @@ def main():
             # Fetch from API
             data = fetch_from_api(endpoint, category)
             
-            # Save to file
-            output_file = OUTPUT_FILES[category]
-            save_to_file(data, output_file, category)
+            # Save to split files in category folder
+            save_to_split_files(data, category)
+            
+            folder_path = OUTPUT_FOLDERS[category]
+            file_count = len(list(Path(folder_path).glob("*.json")))
             
             summary[category] = {
                 "status": "success",
                 "count": len(data),
-                "file": output_file
+                "files": file_count,
+                "folder": folder_path
             }
             
         except Exception as e:
@@ -193,7 +254,7 @@ def main():
     
     for category, info in summary.items():
         if info["status"] == "success":
-            print(f"✅ {category.upper()}: {info['count']} items → {info['file']}")
+            print(f"✅ {category.upper()}: {info['count']} items → {info['files']} file(s) in {info['folder']}/")
         else:
             print(f"❌ {category.upper()}: FAILED - {info['error']}")
     

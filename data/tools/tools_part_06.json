@@ -1,0 +1,138 @@
+[
+  {
+    "id": 187,
+    "title": "Zoho Forms",
+    "short_description": "Online form builder integrated with Zoho apps.",
+    "long_description": "Zoho Forms is an online form builder that allows users to create and publish web forms for various purposes, including data collection, registrations, and feedback. It offers features for customizing forms, managing submissions, and integrating with other Zoho applications.",
+    "image": "/uploads/1764328124_zoho-forma.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/zoho-forms",
+    "slug": "zoho-forms",
+    "category": [
+      "Monitoring and Evaluation"
+    ],
+    "sub_category": [
+      "Data Collection"
+    ]
+  },
+  {
+    "id": 119,
+    "title": "Zoho One",
+    "short_description": "Suite of 50+ integrated business apps (CRM, finance, HR, etc.).",
+    "long_description": "Zoho One is a comprehensive suite of over 50 integrated business applications that covers various aspects of business operations, including CRM, finance, HR, marketing, collaboration, and IT. It aims to provide a unified platform for running an entire business.",
+    "image": "/uploads/1764328144_zoho-one.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/zoho-one",
+    "slug": "zoho-one",
+    "category": [
+      "Human Resources"
+    ],
+    "sub_category": [
+      "Recruitment"
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Zoho Payroll",
+    "short_description": "Cloud payroll for salary processing and statutory compliance.",
+    "long_description": "Zoho Payroll is a cloud-based payroll management software that helps businesses process salaries, manage statutory compliances, and handle employee payments. It automates payroll calculations and tax deductions to ensure accuracy and compliance.",
+    "image": "/uploads/1764328161_zoho-payroll.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/zoho-payroll",
+    "slug": "zoho-payroll",
+    "category": [
+      "Finance and Accounts"
+    ],
+    "sub_category": [
+      "Payroll Management"
+    ]
+  },
+  {
+    "id": 111,
+    "title": "Zoho People",
+    "short_description": "Cloud HRMS for employee records, leave, and performance.",
+    "long_description": "Zoho People is a cloud-based human resource management system (HRMS) that helps organizations manage their entire HR operations. It includes features for employee database management, leave and attendance tracking, performance management, and payroll integration.",
+    "image": "/uploads/1764328176_zoho-people.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/zoho-people",
+    "slug": "zoho-people",
+    "category": [
+      "Human Resources"
+    ],
+    "sub_category": [
+      "Attendance & Payroll Management",
+      "Recruitment"
+    ]
+  },
+  {
+    "id": 228,
+    "title": "Zoho Projects",
+    "short_description": "Project management tool with tasks, Gantt, and timesheets.",
+    "long_description": "Zoho Projects is a cloud-based project management software that helps teams plan projects, track tasks, collaborate, and monitor progress. It offers features for Gantt charts, timesheets, issue tracking, and reporting.",
+    "image": "/uploads/1764328190_zoho-projects.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/zoho-projects",
+    "slug": "zoho-projects",
+    "category": [
+      "Project & Task Management"
+    ],
+    "sub_category": [
+      "Task Management"
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Zoko",
+    "short_description": "WhatsApp-based platform for managing customer conversations and sales.",
+    "long_description": "Zoko is a WhatsApp Business Platform solution that helps businesses manage customer conversations and sales on WhatsApp. It offers features like shared inboxes, automated messages, and analytics to streamline WhatsApp communication.",
+    "image": "/uploads/1764328203_zoko.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/zoko",
+    "slug": "zoko",
+    "category": [
+      "Chatbot"
+    ],
+    "sub_category": [
+      "Chatbot"
+    ]
+  },
+  {
+    "id": 102,
+    "title": "danamojo",
+    "short_description": "Digital donations and fundraising platform for NGOs.",
+    "long_description": "Danamojo is a digital fundraising platform specifically designed for non-profit organizations. It provides tools for online donation collection, campaign management, and donor engagement, aiming to simplify the fundraising process for charities and social enterprises.",
+    "image": "/uploads/1764328217_danamojo.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/danamojo",
+    "slug": "danamojo",
+    "category": [
+      "Fundraising"
+    ],
+    "sub_category": [
+      "Crowdfunding"
+    ]
+  },
+  {
+    "id": 129,
+    "title": "mLearn",
+    "short_description": "Mobile-first learning platform by Dhwani RIS for training and content delivery.",
+    "long_description": "mLearn is an educational platform developed by Dhwani RIS. It is designed to facilitate learning and knowledge dissemination, often leveraging mobile technology to deliver training content and educational resources to users in the field or in various learning environments.",
+    "image": "/uploads/1764328254_mLearn.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/mlearn",
+    "slug": "mlearn",
+    "category": [
+      "Learning & Development"
+    ],
+    "sub_category": [
+      "Training & Development"
+    ]
+  },
+  {
+    "id": 184,
+    "title": "mWater",
+    "short_description": "Platform for water and sanitation data collection and mapping.",
+    "long_description": "mWater is a platform focused on water and sanitation data collection and management. It provides tools for mobile data collection in the field, mapping water points, and monitoring water quality, aiming to support water and sanitation initiatives globally.",
+    "image": "/uploads/1764328294_mwater.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/mwater",
+    "slug": "mwater",
+    "category": [
+      "Monitoring and Evaluation"
+    ],
+    "sub_category": [
+      "Data Collection"
+    ]
+  }
+]

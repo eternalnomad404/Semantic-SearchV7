@@ -1,0 +1,122 @@
+[
+  {
+    "id": 91,
+    "title": "Social Business Model and Planning for Social Innovation",
+    "short_description": "Social business modeling/planning: Business Model Canvas, organizational form, funding.",
+    "long_description": "This course introduces learners to social business modeling and planning, focusing on Business Model Canvas application, organizational form selection, and funding strategies. Understanding this is crucial because structured business modeling and planning underpin sustainable and impactful social ventures in today’s entrepreneurial landscape.",
+    "image": "/uploads/courses/1763630057_82.png",
+    "url": "https://dt4si.com/online-courses-for-non-profits/social-business-model-and-planning-for-social-innovation",
+    "slug": "social-business-model-and-planning-for-social-innovation",
+    "explore_by_skill": "Product and Innovation",
+    "topic": "Product Innovation",
+    "tools_techniques_covered": "Business Model Canvas"
+  },
+  {
+    "id": 4,
+    "title": "Social Entrepreneurship and Systems Change",
+    "short_description": "Systems thinking in social entrepreneurship: collaboration, policy advocacy, scaling solutions.",
+    "long_description": "This course introduces learners to systems thinking in social entrepreneurship, focusing on collaboration strategies, policy advocacy, and scaling systemic solutions. Understanding these is crucial because it enables social workers to create change at the systemic level, influencing policies and ecosystems. (LinkedIn)",
+    "image": "/uploads/courses/1763631592_109.png",
+    "url": "https://dt4si.com/online-courses-for-non-profits/social-entrepreneurship-and-systems-change",
+    "slug": "social-entrepreneurship-and-systems-change",
+    "explore_by_skill": "Professional Skills",
+    "topic": "Social Entrepreneurship and Innovation",
+    "tools_techniques_covered": "Systems Thinking Frameworks, Collaborative Tools, Policy Advocacy Strategies (LinkedIn)"
+  },
+  {
+    "id": 94,
+    "title": "Speaking and Presenting: Pitches and Persuasion",
+    "short_description": "Persuasive speaking/presentation: storytelling, expression range, and confident negotiation.",
+    "long_description": "This course introduces learners to persuasive speaking and presentation skills, focusing on inspiring with “informed hope,” leveraging storytelling as an entrepreneurial superpower, expanding gesture and expression range, and boosting creativity in negotiation. Understanding these skills is crucial because clear, confident communication drives influence and leadership today.",
+    "image": "/uploads/courses/1763630453_91.png",
+    "url": "https://dt4si.com/online-courses-for-non-profits/speaking-and-presenting-pitches-and-persuasion",
+    "slug": "speaking-and-presenting-pitches-and-persuasion",
+    "explore_by_skill": "Professional Skills",
+    "topic": "Idea Pitching",
+    "tools_techniques_covered": "Storytelling frameworks, persuasion techniques"
+  },
+  {
+    "id": 59,
+    "title": "Speaking to Persuade: Motivating audiences with solid arguments and moving language",
+    "short_description": "Persuasive speaking: argument structure and emotional appeal for NGO action.",
+    "long_description": "This course introduces learners to persuasive speaking, focusing on argument structure and emotional appeal. Understanding this is crucial because persuasive communication motivates action and support for NGO initiatives.",
+    "image": "/uploads/courses/1763631460_85.png",
+    "url": "https://dt4si.com/online-courses-for-non-profits/speaking-to-persuade-motivating-audiences-with-solid-arguments-and-moving-language",
+    "slug": "speaking-to-persuade-motivating-audiences-with-solid-arguments-and-moving-language",
+    "explore_by_skill": "Professional Skills",
+    "topic": "Public Speaking",
+    "tools_techniques_covered": "Communication, Verbal Communication Skills, Storytelling, Planning, Persuasive Communication"
+  },
+  {
+    "id": 58,
+    "title": "Successful Presentation",
+    "short_description": "Practical presentation strategies: overcoming fear, designing visuals, and persuasive delivery.",
+    "long_description": "This course introduces learners to practical presentation strategies, focusing on overcoming fear, designing visual aids, and delivering persuasive talks. Understanding this is crucial because successful presentations can influence decisions, foster leadership presence, and inspire action in professional environments. (MOOC List, Class Central)",
+    "image": "/uploads/courses/1763630639_96.png",
+    "url": "https://dt4si.com/online-courses-for-non-profits/successful-presentation",
+    "slug": "successful-presentation",
+    "explore_by_skill": "Professional Skills",
+    "topic": "Public Speaking",
+    "tools_techniques_covered": "Verbal Communication Skillsm, Adaptability, Persuasive Communication, Drive Engagement"
+  },
+  {
+    "id": 16,
+    "title": "The Full-Stack",
+    "short_description": "Full-stack web development: Django, HTML/CSS/JS, cloud for production applications.",
+    "long_description": "This course introduces learners to full-stack web development using Django, HTML, CSS, JavaScript, and cloud concepts, focusing on building, deploying, and integrating both front-end and back-end components. Understanding this is crucial for developers to deliver complete, production-ready applications.",
+    "image": "/uploads/courses/1763632738_15.png",
+    "url": "https://dt4si.com/online-courses-for-non-profits/the-full-stack",
+    "slug": "the-full-stack",
+    "explore_by_skill": "Website/App Development",
+    "topic": "Full-Stack Development",
+    "tools_techniques_covered": "Django, Python, HTML, CSS, JavaScript, MySQL"
+  },
+  {
+    "id": 45,
+    "title": "The Strategy of Content Marketing",
+    "short_description": "Content marketing frameworks, editorial planning, and storytelling techniques.",
+    "long_description": "Covers content marketing frameworks, editorial planning, and storytelling techniques—crucial because compelling content boosts NGO brand awareness and donor engagement.",
+    "image": "/uploads/courses/1763631773_63.png",
+    "url": "https://dt4si.com/online-courses-for-non-profits/the-strategy-of-content-marketing",
+    "slug": "the-strategy-of-content-marketing",
+    "explore_by_skill": "Social and Digital Media",
+    "topic": "Digital Marketing",
+    "tools_techniques_covered": "Content calendars, WordPress"
+  },
+  {
+    "id": 112,
+    "title": "UX Design Career Guide: Essential Skills for Growth, Success",
+    "short_description": "Strategic UX planning, career pathways, and fundamental skills for success in UX.",
+    "long_description": "This course introduces learners to strategic UX planning, career pathways, and fundamental UX skills. Understanding these elements is crucial because career-focused guidance helps learners build the competencies needed to succeed in UX roles. ",
+    "image": "/uploads/courses/1764843475_24.png",
+    "url": "https://dt4si.com/online-courses-for-non-profits/ux-design-career-guide-essential-skills-for-growth-success",
+    "slug": "ux-design-career-guide-essential-skills-for-growth-success",
+    "explore_by_skill": "Website/App Development",
+    "topic": "UI/UX",
+    "tools_techniques_covered": "User Research & Personas, UI & Visual Design"
+  },
+  {
+    "id": 63,
+    "title": "Work Smarter with Microsoft PowerPoint",
+    "short_description": "Advanced PowerPoint features, template customization, and presentation flow optimization.",
+    "long_description": "This course introduces learners to advanced PowerPoint features, template customization, and presentation flow optimization. Understanding this is crucial because NGOs need to create professional decks quickly when opportunities arise.",
+    "image": "/uploads/courses/1763630660_97.png",
+    "url": "https://dt4si.com/online-courses-for-non-profits/work-smarter-with-microsoft-powerpoint",
+    "slug": "work-smarter-with-microsoft-powerpoint",
+    "explore_by_skill": "Professional Skills",
+    "topic": "Presentation Design",
+    "tools_techniques_covered": "Microsoft PowerPoint"
+  },
+  {
+    "id": 48,
+    "title": "YouTube Editing: Enhance Videos",
+    "short_description": "YouTube editing techniques: pacing, transitions, audio enhancement, and viewer retention.",
+    "long_description": "This project introduces learners to YouTube-specific editing techniques, focusing on pacing, transitions, audio enhancement, visual design, and viewer retention. Understanding this is crucial because polished video content is key to audience engagement on digital platforms.",
+    "image": "/uploads/courses/1763632028_66.png",
+    "url": "https://dt4si.com/online-courses-for-non-profits/youtube-editing-enhance-videos",
+    "slug": "youtube-editing-enhance-videos",
+    "explore_by_skill": "Social and Digital Media",
+    "topic": "Video Editing",
+    "tools_techniques_covered": "Basic video editing tools (learner’s choice)"
+  }
+]
