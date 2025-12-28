@@ -107,24 +107,24 @@ def render_overview_screen(data: Dict):
     st.divider()
     
     # Relevance score distribution
-    st.subheader("Relevance Score Distribution")
+    st.subheader("Relevance Score Distribution (1-10 Scale)")
     relevance_dist = get_relevance_distribution(data)
     
     col1, col2 = st.columns(2)
     
     with col1:
-        # Display as metrics
-        for score in [3, 2, 1]:
-            count = relevance_dist.get(score, 0)
-            label_map = {3: "Highly Relevant", 2: "Moderately Relevant", 1: "Weakly Relevant"}
-            st.metric(f"{label_map[score]} (Score {score})", count)
+        # Display as metrics for top tiers
+        st.metric("Excellent (9-10)", sum(relevance_dist.get(s, 0) for s in [9, 10]))
+        st.metric("Strong (7-8)", sum(relevance_dist.get(s, 0) for s in [7, 8]))
+        st.metric("Moderate (5-6)", sum(relevance_dist.get(s, 0) for s in [5, 6]))
+        st.metric("Weak/Edge (1-4)", sum(relevance_dist.get(s, 0) for s in [1, 2, 3, 4]))
     
     with col2:
         # Display as DataFrame for easy reading
         rel_df = pd.DataFrame([
             {"Relevance Score": score, "Count": relevance_dist.get(score, 0), 
              "Percentage": f"{relevance_dist.get(score, 0) / metadata['total_judgments'] * 100:.1f}%"}
-            for score in [3, 2, 1]
+            for score in range(10, 0, -1) if relevance_dist.get(score, 0) > 0
         ])
         st.dataframe(rel_df, hide_index=True, use_container_width=True)
     
@@ -218,16 +218,23 @@ def render_query_view_screen(data: Dict):
     
     # Display results in compact expander format similar to original UI
     for result in query_results["expected_results"]:
-        # Emoji and label based on relevance
-        if result["relevance_score"] == 3:
+        # Emoji and label based on relevance (1-10 scale)
+        score = result["relevance_score"]
+        if score >= 9:
             emoji = "🟢"
-            relevance_label = "High"
-        elif result["relevance_score"] == 2:
+            relevance_label = "Excellent"
+        elif score >= 7:
             emoji = "🟡"
-            relevance_label = "Medium"
-        else:
+            relevance_label = "Strong"
+        elif score >= 5:
+            emoji = "🔵"
+            relevance_label = "Moderate"
+        elif score >= 3:
             emoji = "⚪"
-            relevance_label = "Low"
+            relevance_label = "Weak"
+        else:
+            emoji = "⚫"
+            relevance_label = "Edge-case"
         
         # Category emoji
         category_emoji = "🛠️" if result["category"] == "tool" else (
@@ -236,7 +243,7 @@ def render_query_view_screen(data: Dict):
         ))
         
         # Compact expander with title, category, and relevance
-        expander_title = f"{category_emoji} {result['category'].replace('_', ' ').title()}: {result['document_title']} (Relevance: {result['relevance_score']}/3 {emoji})"
+        expander_title = f"{category_emoji} {result['category'].replace('_', ' ').title()}: {result['document_title']} (Relevance: {result['relevance_score']}/10 {emoji})"
         
         with st.expander(expander_title):
             col1, col2 = st.columns([2, 1])
@@ -249,7 +256,7 @@ def render_query_view_screen(data: Dict):
             with col2:
                 st.markdown("#### Ranking Info")
                 st.write(f"**Rank:** {result['rank']}")
-                st.write(f"**Relevance:** {result['relevance_score']}/3 ({relevance_label})")
+                st.write(f"**Relevance:** {result['relevance_score']}/10 ({relevance_label})")
             
             # Show reasoning if available
             reason = reason_map.get(result["document_id"], "")
@@ -262,15 +269,22 @@ def render_comparison_screen(data: Dict):
     st.header("📐 Ranking Quality vs Coverage Analysis")
     
     st.info("""
-    **Understanding the Golden Dataset:**
+    **Understanding the Golden Dataset (1-10 Scoring):**
     
     - **Query Relevance (Coverage):** Focuses on ensuring comprehensive recall, including 
-      long-tail results (relevance=1) that may be tangentially relevant.
+      long-tail results (scores 1-4) that may be tangentially relevant.
     
     - **Ranking Quality:** Emphasizes precision at top ranks, ensuring the most relevant 
-      items (relevance=3) appear first.
+      items (scores 9-10) appear first.
     
     This view helps you understand the balance between broad coverage and strict ranking quality.
+    
+    **Scoring Guide:**
+    - 9-10: Excellent - Direct, highly valuable match
+    - 7-8: Strong - Clearly useful but not perfect
+    - 5-6: Moderate - Supports or complements intent
+    - 3-4: Weak - Plausible but long-tail relevance
+    - 1-2: Edge-case - Include only if defensible
     """)
     
     st.divider()
@@ -295,12 +309,13 @@ def render_comparison_screen(data: Dict):
                 rel_counts = Counter(r["relevance_score"] for r in result_set["expected_results"])
                 
                 st.write(f"**Total Results:** {total_results}")
-                st.write(f"- Highly Relevant (3): {rel_counts.get(3, 0)}")
-                st.write(f"- Moderately Relevant (2): {rel_counts.get(2, 0)}")
-                st.write(f"- Weakly Relevant (1): {rel_counts.get(1, 0)}")
+                st.write(f"- Excellent (9-10): {sum(rel_counts.get(s, 0) for s in [9, 10])}")
+                st.write(f"- Strong (7-8): {sum(rel_counts.get(s, 0) for s in [7, 8])}")
+                st.write(f"- Moderate (5-6): {sum(rel_counts.get(s, 0) for s in [5, 6])}")
+                st.write(f"- Weak/Edge (1-4): {sum(rel_counts.get(s, 0) for s in [1, 2, 3, 4])}")
                 
-                # Show tail results (relevance=1)
-                tail_results = [r for r in result_set["expected_results"] if r["relevance_score"] == 1]
+                # Show tail results (relevance<=4)
+                tail_results = [r for r in result_set["expected_results"] if r["relevance_score"] <= 4]
                 
                 if tail_results:
                     st.write(f"\n**Long-Tail Results ({len(tail_results)} items):**")
@@ -396,10 +411,10 @@ def render_filters_analysis_screen(data: Dict):
     with col2:
         # Relevance filter
         selected_relevance = st.multiselect(
-            "Filter by Relevance Score:",
-            options=[3, 2, 1],
-            default=[3, 2, 1],
-            format_func=lambda x: f"{x} - {'High' if x == 3 else ('Medium' if x == 2 else 'Low')}"
+            "Filter by Relevance Score (1-10):",
+            options=list(range(1, 11)),
+            default=list(range(1, 11)),
+            format_func=lambda x: f"{x} - {'Excellent' if x >= 9 else ('Strong' if x >= 7 else ('Moderate' if x >= 5 else ('Weak' if x >= 3 else 'Edge')))}"
         )
     
     st.divider()

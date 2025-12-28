@@ -5,6 +5,7 @@ Web interface for searching across tools, services, courses, and case studies
 
 import streamlit as st
 from src.core.search_engine import SemanticSearcher, get_git_commit_hash
+from src.core.evaluation import SearchEvaluator
 
 
 @st.cache_resource
@@ -135,6 +136,227 @@ def main() -> None:
                                     st.write(f"🔍 TF-IDF: {res['tfidf_score']:.3f} (30%)")
                 else:
                     st.info(f"No results found for your query. Try different search terms or be more specific.")
+
+    # ========================================================================
+    # SEARCH EVALUATION SECTION
+    # ========================================================================
+    st.markdown("---")
+    st.markdown("## 📊 Search Evaluation")
+    st.markdown("Evaluate search system performance using the golden dataset (26 test queries)")
+    
+    # Create columns for button and info
+    eval_col1, eval_col2 = st.columns([1, 2])
+    
+    with eval_col1:
+        if st.button("🔄 Recalculate Search Accuracy", type="primary", use_container_width=True):
+            # Store flag to trigger evaluation
+            st.session_state.run_evaluation = True
+    
+    with eval_col2:
+        st.info("Click to run all 26 evaluation queries and compute metrics")
+    
+    # Run evaluation if button was clicked
+    if st.session_state.get('run_evaluation', False):
+        st.markdown("---")
+        
+        # Create placeholder for progress updates
+        progress_container = st.empty()
+        status_container = st.empty()
+        
+        try:
+            # Show initial progress
+            with status_container:
+                st.info("🔄 Initializing evaluation system...")
+            
+            # Initialize evaluator
+            evaluator = SearchEvaluator()
+            
+            with status_container:
+                st.info("✅ Evaluator initialized. Starting query evaluation...")
+            
+            # Create progress bar
+            progress_bar = progress_container.progress(0)
+            
+            # Run evaluation with progress updates
+            results_list = []
+            total_queries = len(evaluator.queries)
+            
+            for i, query_data in enumerate(evaluator.queries, 1):
+                # Flexible handling of query ID
+                query_id = query_data.get('id') or query_data.get('query_id', f'q{i:03d}')
+                query_text = query_data.get('query', '')
+                
+                # Update progress
+                progress_percentage = (i - 1) / total_queries
+                progress_bar.progress(progress_percentage)
+                
+                with status_container:
+                    st.info(f"🔍 Evaluating query {i}/{total_queries}: \"{query_text[:50]}...\"")
+                
+                # Evaluate query
+                result = evaluator.evaluate_query(query_text, query_id, searcher, k=10)
+                
+                # Add query_id and query_text to result
+                result['query_id'] = query_id
+                result['query_text'] = query_text
+                
+                results_list.append(result)
+                
+                # Print to terminal (verbose logging)
+                print(f"[{i}/{total_queries}] {query_id}: P@10={result['precision_at_k']:.3f}, R@10={result['recall_at_k']:.3f}, NDCG@10={result['ndcg_at_k']:.3f}")
+            
+            # Complete progress
+            progress_bar.progress(1.0)
+            
+            with status_container:
+                st.info("📊 Calculating aggregated metrics...")
+            
+            # Calculate aggregated metrics
+            mean_precision = sum(r['precision_at_k'] for r in results_list) / len(results_list)
+            mean_recall = sum(r['recall_at_k'] for r in results_list) / len(results_list)
+            mean_ndcg = sum(r['ndcg_at_k'] for r in results_list) / len(results_list)
+            final_accuracy = (0.5 * mean_ndcg) + (0.25 * mean_precision) + (0.25 * mean_recall)
+            
+            results = {
+                'total_queries': len(results_list),
+                'k': 10,
+                'mean_precision_at_k': mean_precision,
+                'mean_recall_at_k': mean_recall,
+                'mean_ndcg_at_k': mean_ndcg,
+                'final_accuracy_score': final_accuracy,
+                'per_query_results': results_list
+            }
+            
+            # Store results in session state
+            st.session_state.evaluation_results = results
+            st.session_state.run_evaluation = False  # Reset flag
+            
+            # Clear progress displays
+            progress_container.empty()
+            status_container.empty()
+            
+            # Show success message
+            st.success("✅ Evaluation completed successfully!")
+            
+            # Print summary to terminal
+            print("\n" + "="*80)
+            print("EVALUATION COMPLETE")
+            print("="*80)
+            print(f"Final Accuracy: {final_accuracy:.4f} ({final_accuracy*100:.2f}%)")
+            print(f"Precision@10:   {mean_precision:.4f} ({mean_precision*100:.2f}%)")
+            print(f"Recall@10:      {mean_recall:.4f} ({mean_recall*100:.2f}%)")
+            print(f"NDCG@10:        {mean_ndcg:.4f} ({mean_ndcg*100:.2f}%)")
+            print("="*80 + "\n")
+            
+        except Exception as e:
+            # Clear progress displays
+            progress_container.empty()
+            status_container.empty()
+            
+            st.error(f"❌ Evaluation failed: {str(e)}")
+            st.exception(e)
+            st.session_state.run_evaluation = False
+            
+            # Print error to terminal
+            import traceback
+            print("\n" + "="*80)
+            print("EVALUATION ERROR")
+            print("="*80)
+            traceback.print_exc()
+            print("="*80 + "\n")
+    
+    # Display results if available
+    if st.session_state.get('evaluation_results'):
+        results = st.session_state.evaluation_results
+        
+        st.markdown("### 🎯 Evaluation Results")
+        
+        # Display final accuracy prominently
+        final_accuracy = results['final_accuracy_score']
+        st.markdown(f"#### 🏆 **Final Accuracy Score: {final_accuracy:.4f}** ({final_accuracy*100:.2f}%)")
+        
+        # Display formula
+        with st.expander("📐 Formula Details"):
+            st.markdown(f"""
+            **Final Accuracy = 0.5 × NDCG@10 + 0.25 × Precision@10 + 0.25 × Recall@10**
+            
+            - 0.5 × {results['mean_ndcg_at_k']:.4f} (NDCG@10)
+            - 0.25 × {results['mean_precision_at_k']:.4f} (Precision@10)
+            - 0.25 × {results['mean_recall_at_k']:.4f} (Recall@10)
+            - **= {final_accuracy:.4f}**
+            """)
+        
+        # Create metrics columns
+        metric_col1, metric_col2, metric_col3 = st.columns(3)
+        
+        with metric_col1:
+            st.metric(
+                label="📊 Mean Precision@10",
+                value=f"{results['mean_precision_at_k']:.4f}",
+                delta=f"{results['mean_precision_at_k']*100:.2f}%"
+            )
+        
+        with metric_col2:
+            st.metric(
+                label="📊 Mean Recall@10",
+                value=f"{results['mean_recall_at_k']:.4f}",
+                delta=f"{results['mean_recall_at_k']*100:.2f}%"
+            )
+        
+        with metric_col3:
+            st.metric(
+                label="📊 Mean NDCG@10",
+                value=f"{results['mean_ndcg_at_k']:.4f}",
+                delta=f"{results['mean_ndcg_at_k']*100:.2f}%"
+            )
+        
+        # Add progress bars for visual representation
+        st.markdown("#### 📈 Metric Visualization")
+        
+        progress_col1, progress_col2 = st.columns(2)
+        
+        with progress_col1:
+            st.markdown("**Precision@10**")
+            st.progress(results['mean_precision_at_k'])
+            
+            st.markdown("**Recall@10**")
+            st.progress(results['mean_recall_at_k'])
+        
+        with progress_col2:
+            st.markdown("**NDCG@10**")
+            st.progress(results['mean_ndcg_at_k'])
+            
+            st.markdown("**Final Accuracy**")
+            st.progress(final_accuracy)
+        
+        # Show per-query results in expander
+        with st.expander(f"📋 Per-Query Results ({results['total_queries']} queries)"):
+            st.markdown("Detailed metrics for each evaluation query:")
+            
+            # Create a table of results
+            query_data = []
+            for qr in results['per_query_results']:
+                # Get query text with fallback
+                query_text = qr.get('query_text', '') or qr.get('query', '') or 'N/A'
+                query_display = (query_text[:50] + '...') if len(query_text) > 50 else query_text
+                
+                # Get query ID with fallback
+                query_id = qr.get('query_id', '') or 'N/A'
+                
+                query_data.append({
+                    'Query ID': query_id,
+                    'Query': query_display,
+                    'Precision@10': f"{qr.get('precision_at_k', 0.0):.4f}",
+                    'Recall@10': f"{qr.get('recall_at_k', 0.0):.4f}",
+                    'NDCG@10': f"{qr.get('ndcg_at_k', 0.0):.4f}",
+                    'Retrieved': qr.get('retrieved_count', 0),
+                    'Relevant': qr.get('relevant_count', 0)
+                })
+            
+            st.dataframe(query_data, use_container_width=True, hide_index=True)
+        
+        st.markdown("---")
+        st.info(f"✅ Evaluated {results['total_queries']} queries with K={results['k']}")
 
     with st.sidebar:
         st.markdown("### About")

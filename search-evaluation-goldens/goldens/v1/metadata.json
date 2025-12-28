@@ -1,17 +1,25 @@
 {
   "version": "1.0",
-  "description": "Metadata for golden dataset version 1.0",
-  "created_date": "2025-12-23",
-  "last_updated": "2025-12-23",
+  "description": "Metadata for golden dataset version 1.0 with 1-10 relevance scoring",
+  "created_date": "2025-12-24",
+  "last_updated": "2025-12-24",
   "total_queries": 26,
-  "total_judgments": 298,
+  "total_judgments": 2009,
+  "relevance_scale": "1-10 (10 = highest relevance)",
+  "relevance_guidelines": {
+    "9-10": "Direct, highly valuable match; ideal result",
+    "7-8": "Strong, clearly useful but not perfect",
+    "5-6": "Moderately useful; supports or complements intent",
+    "3-4": "Weak but plausible; long-tail relevance",
+    "1-2": "Edge-case relevance; include only if defensible"
+  },
   "evaluation_metrics": [
     "ndcg@10",
-    "map@10", 
+    "map@10",
     "precision@5",
     "recall@10"
   ],
-  "data_source": "data/tools_data.json, data/services_data.json, data/courses_data.json, data/case_studies_data.json",
+  "data_source": "data/tools/*.json, data/service_providers/*.json, data/courses/*.json, data/case_studies/*.json",
   "query_domains": [
     "digital tools for NGOs",
     "technology solutions for nonprofits",
@@ -27,6 +35,6 @@
     "technology implementation services",
     "software development and IT support"
   ],
-  "coverage_approach": "Broad queries include long-tail results (relevance=1) to maximize recall. Strict scoring at top ranks (relevance=3), generous in tail. Specific queries (CRM, LMS, M&E) have 6-9 results. Service provider queries have 5-8 results.",
-  "notes": "Golden dataset with 26 queries covering the full spectrum of NGO/nonprofit technology ecosystem. Queries 1-3 are broad (15-24 results each), queries 4-18 are tool-focused (6-15 results each covering specific categories), queries 19-26 are service provider-focused (5-8 results each). Relevance based on user intent, sector alignment, and functional fit. Mixed categories allowed where query doesn't specify category."
+  "coverage_approach": "Comprehensive evaluation with 1-10 relevance scoring. Broad queries (q001-q008) include extensive results spanning multiple relevance tiers. Specific tool queries (q009-q018) focus on category-specific matches with scores 3-10. Service provider queries (q019-q026) emphasize provider capabilities with scores 5-10. No artificial caps on result counts—relevance determines inclusion.",
+  "notes": "Regenerated golden dataset with comprehensive 1-10 relevance scoring replacing previous 1-3 scale. All 26 queries processed with 2,009 total judgments. Relevance evaluated solely from query text and item descriptions without pre-classifying user intent. Mixed categories expected for ambiguous queries. Scores 9-10 represent ideal matches, 7-8 strong matches, 5-6 moderate utility, 3-4 weak/long-tail relevance, and 1-2 edge cases."
 }
