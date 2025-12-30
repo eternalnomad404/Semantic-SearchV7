@@ -162,6 +162,12 @@ def render_query_view_screen(data: Dict):
     """Screen 2: Query-Level Inspection."""
     st.header("🔍 Query-Level View")
     
+    # Initialize search engine to get actual URLs
+    from src.core.search_engine import SemanticSearcher
+    if 'searcher' not in st.session_state:
+        st.session_state.searcher = SemanticSearcher()
+    searcher = st.session_state.searcher
+    
     # Query selector
     queries = data["queries"]["queries"]
     query_options = {f"{q['id']}: {q['query']}": q for q in queries}
@@ -211,6 +217,23 @@ def render_query_view_screen(data: Dict):
     st.divider()
     st.subheader(f"Expected Results ({len(query_results['expected_results'])} items)")
     
+    # Fetch actual search results to get URLs
+    actual_results, _ = searcher.search(selected_query['query'], k=50, min_score=0.0)
+    
+    # Create a mapping from document_title to URL by searching all metadata
+    import json
+    with open('vectorstore/metadata.json', 'r', encoding='utf-8') as f:
+        all_metadata = json.load(f)
+    
+    # Build title-to-URL mapping from all metadata
+    url_map = {}
+    for metadata_item in all_metadata:
+        values = metadata_item.get('values', [])
+        # Try different positions for the title
+        for val in values:
+            if val and isinstance(val, str):
+                url_map[val.strip()] = metadata_item.get('url', 'https://dt4si.com/')
+    
     # Create a mapping from document_id to reason
     reason_map = {}
     if query_judgments:
@@ -239,12 +262,16 @@ def render_query_view_screen(data: Dict):
         # Compact expander with title, category, and relevance
         expander_title = f"{category_emoji} {result['category'].replace('_', ' ').title()}: {result['document_title']} (Relevance: {result['relevance_score']}/3 {emoji})"
         
+        # Get URL for this document by matching title
+        doc_url = url_map.get(result['document_title'].strip(), 'https://dt4si.com/')
+        clickable_title = f"[{result['document_title']}]({doc_url})"
+        
         with st.expander(expander_title):
             col1, col2 = st.columns([2, 1])
             
             with col1:
                 st.markdown("#### Details")
-                st.write(f"**Title:** {result['document_title']}")
+                st.markdown(f"**Title:** {clickable_title}")
                 st.write(f"**Category:** {result['category'].replace('_', ' ').title()}")
             
             with col2:
