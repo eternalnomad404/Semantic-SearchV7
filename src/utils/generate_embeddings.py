@@ -60,7 +60,9 @@ try:
             "short_description": tool.get('short_description', ''),
             "image": tool.get('image', ''),
             "url": tool.get('url', ''),
-            "slug": tool.get('slug', '')
+            "slug": tool.get('slug', ''),
+            "id": tool.get('id', ''),
+            "category": "tool"
         }
         
         all_metadata.append(metadata_entry)
@@ -179,7 +181,9 @@ try:
             "short_description": cs.get('short_description', ''),
             "image": cs.get('image', ''),
             "url": cs.get('url', ''),
-            "slug": cs.get('slug', '')
+            "slug": cs.get('slug', ''),
+            "id": cs.get('id', ''),
+            "category": "case_study"
         }
         
         all_metadata.append(metadata_entry)

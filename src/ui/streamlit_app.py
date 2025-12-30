@@ -142,7 +142,7 @@ def main() -> None:
     # ========================================================================
     st.markdown("---")
     st.markdown("## 📊 Search Evaluation")
-    st.markdown("Evaluate search system performance using the golden dataset (26 test queries)")
+    st.markdown("Evaluate search system performance using the golden dataset (42 test queries with 1-3 relevance scale)")
     
     # Create columns for button and info
     eval_col1, eval_col2 = st.columns([1, 2])
@@ -153,7 +153,7 @@ def main() -> None:
             st.session_state.run_evaluation = True
     
     with eval_col2:
-        st.info("Click to run all 26 evaluation queries and compute metrics")
+        st.info("Click to run all 42 evaluation queries and compute metrics")
     
     # Run evaluation if button was clicked
     if st.session_state.get('run_evaluation', False):
@@ -194,7 +194,7 @@ def main() -> None:
                     st.info(f"🔍 Evaluating query {i}/{total_queries}: \"{query_text[:50]}...\"")
                 
                 # Evaluate query
-                result = evaluator.evaluate_query(query_text, query_id, searcher, k=10)
+                result = evaluator.evaluate_query(query_text, query_id, searcher, k=5)
                 
                 # Add query_id and query_text to result
                 result['query_id'] = query_id
@@ -202,8 +202,8 @@ def main() -> None:
                 
                 results_list.append(result)
                 
-                # Print to terminal (verbose logging)
-                print(f"[{i}/{total_queries}] {query_id}: P@10={result['precision_at_k']:.3f}, R@10={result['recall_at_k']:.3f}, NDCG@10={result['ndcg_at_k']:.3f}")
+                # Print to terminal (verbose logging with debug info)
+                print(f"[{i}/{total_queries}] {query_id}: P@5={result['precision_at_k']:.3f}, R@5={result['recall_at_k']:.3f}, NDCG@5={result['ndcg_at_k']:.3f} | Retrieved={result['retrieved_count']}, Matched={result.get('matched_count', 0)}/{result['relevant_count']}")
             
             # Complete progress
             progress_bar.progress(1.0)
@@ -219,7 +219,7 @@ def main() -> None:
             
             results = {
                 'total_queries': len(results_list),
-                'k': 10,
+                'k': 5,
                 'mean_precision_at_k': mean_precision,
                 'mean_recall_at_k': mean_recall,
                 'mean_ndcg_at_k': mean_ndcg,
@@ -243,9 +243,9 @@ def main() -> None:
             print("EVALUATION COMPLETE")
             print("="*80)
             print(f"Final Accuracy: {final_accuracy:.4f} ({final_accuracy*100:.2f}%)")
-            print(f"Precision@10:   {mean_precision:.4f} ({mean_precision*100:.2f}%)")
-            print(f"Recall@10:      {mean_recall:.4f} ({mean_recall*100:.2f}%)")
-            print(f"NDCG@10:        {mean_ndcg:.4f} ({mean_ndcg*100:.2f}%)")
+            print(f"Precision@5:    {mean_precision:.4f} ({mean_precision*100:.2f}%)")
+            print(f"Recall@5:       {mean_recall:.4f} ({mean_recall*100:.2f}%)")
+            print(f"NDCG@5:         {mean_ndcg:.4f} ({mean_ndcg*100:.2f}%)")
             print("="*80 + "\n")
             
         except Exception as e:
@@ -278,11 +278,11 @@ def main() -> None:
         # Display formula
         with st.expander("📐 Formula Details"):
             st.markdown(f"""
-            **Final Accuracy = 0.5 × NDCG@10 + 0.25 × Precision@10 + 0.25 × Recall@10**
+            **Final Accuracy = 0.5 × NDCG@5 + 0.25 × Precision@5 + 0.25 × Recall@5**
             
-            - 0.5 × {results['mean_ndcg_at_k']:.4f} (NDCG@10)
-            - 0.25 × {results['mean_precision_at_k']:.4f} (Precision@10)
-            - 0.25 × {results['mean_recall_at_k']:.4f} (Recall@10)
+            - 0.5 × {results['mean_ndcg_at_k']:.4f} (NDCG@5)
+            - 0.25 × {results['mean_precision_at_k']:.4f} (Precision@5)
+            - 0.25 × {results['mean_recall_at_k']:.4f} (Recall@5)
             - **= {final_accuracy:.4f}**
             """)
         
@@ -291,21 +291,21 @@ def main() -> None:
         
         with metric_col1:
             st.metric(
-                label="📊 Mean Precision@10",
+                label="📊 Mean Precision@5",
                 value=f"{results['mean_precision_at_k']:.4f}",
                 delta=f"{results['mean_precision_at_k']*100:.2f}%"
             )
         
         with metric_col2:
             st.metric(
-                label="📊 Mean Recall@10",
+                label="📊 Mean Recall@5",
                 value=f"{results['mean_recall_at_k']:.4f}",
                 delta=f"{results['mean_recall_at_k']*100:.2f}%"
             )
         
         with metric_col3:
             st.metric(
-                label="📊 Mean NDCG@10",
+                label="📊 Mean NDCG@5",
                 value=f"{results['mean_ndcg_at_k']:.4f}",
                 delta=f"{results['mean_ndcg_at_k']*100:.2f}%"
             )
@@ -316,14 +316,14 @@ def main() -> None:
         progress_col1, progress_col2 = st.columns(2)
         
         with progress_col1:
-            st.markdown("**Precision@10**")
+            st.markdown("**Precision@5**")
             st.progress(results['mean_precision_at_k'])
             
-            st.markdown("**Recall@10**")
+            st.markdown("**Recall@5**")
             st.progress(results['mean_recall_at_k'])
         
         with progress_col2:
-            st.markdown("**NDCG@10**")
+            st.markdown("**NDCG@5**")
             st.progress(results['mean_ndcg_at_k'])
             
             st.markdown("**Final Accuracy**")
@@ -346,10 +346,11 @@ def main() -> None:
                 query_data.append({
                     'Query ID': query_id,
                     'Query': query_display,
-                    'Precision@10': f"{qr.get('precision_at_k', 0.0):.4f}",
-                    'Recall@10': f"{qr.get('recall_at_k', 0.0):.4f}",
-                    'NDCG@10': f"{qr.get('ndcg_at_k', 0.0):.4f}",
+                    'Precision@5': f"{qr.get('precision_at_k', 0.0):.4f}",
+                    'Recall@5': f"{qr.get('recall_at_k', 0.0):.4f}",
+                    'NDCG@5': f"{qr.get('ndcg_at_k', 0.0):.4f}",
                     'Retrieved': qr.get('retrieved_count', 0),
+                    'Matched': qr.get('matched_count', 0),
                     'Relevant': qr.get('relevant_count', 0)
                 })
             

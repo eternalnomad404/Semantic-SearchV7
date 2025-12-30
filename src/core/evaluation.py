@@ -37,6 +37,33 @@ class SearchEvaluator:
         self.golden_data_path = Path(golden_data_path)
         self.queries, self.relevance_judgments = self.load_golden_dataset()
         self.slug_to_id_map = self._build_slug_to_id_map()
+        self.title_to_id_map = self._build_title_to_id_map()
+        
+    def _build_title_to_id_map(self) -> Dict[str, str]:
+        """
+        Build mapping from document titles to golden dataset IDs.
+        
+        Returns:
+            Dictionary mapping titles (lowercase) to document IDs
+        """
+        title_map = {}
+        
+        for query_id, judgment in self.relevance_judgments.items():
+            results = judgment.get('results', [])
+            for result in results:
+                doc_id = result.get('id', '')
+                title = result.get('title', '')
+                
+                if doc_id and title:
+                    # Map lowercase title to ID
+                    title_lower = title.lower().strip()
+                    title_map[title_lower] = doc_id
+                    
+                    # Also map simplified version (remove special chars)
+                    title_simple = title_lower.replace('-', ' ').replace('_', ' ')
+                    title_map[title_simple] = doc_id
+        
+        return title_map
         
     def load_golden_dataset(self) -> Tuple[List[Dict], Dict]:
         """
@@ -103,23 +130,72 @@ class SearchEvaluator:
         """
         # Try to get document ID from result metadata
         metadata = result.get('metadata', {})
-        values = metadata.get('values', [])
         
-        # Try different fields for matching
-        if len(values) > 0:
-            # Tools typically have: [Category, Description, Name of Tool, ...]
-            # Courses: [Category, Description, ...]
-            # Providers: [Category, Name, ...]
+        # Get judgment data for this query
+        judgment = self.relevance_judgments.get(query_id, {})
+        golden_results = judgment.get('results', [])
+        
+        # Extract values for matching
+        values = metadata.get('values', [])
+        sheet = metadata.get('sheet', '').lower()
+        slug = metadata.get('slug', '')
+        
+        # Determine category and title based on sheet type
+        if 'case' in sheet and 'stud' in sheet:
+            category = 'case_study'
+            title = values[0] if len(values) > 0 else ''
+        elif 'cleaned sheet' in sheet or 'tool' in sheet:
+            category = 'tool'
+            title = values[2] if len(values) >= 3 else ''
+        elif 'training' in sheet or 'course' in sheet:
+            category = 'course'
+            title = values[2] if len(values) >= 3 else ''
+        elif 'service provider' in sheet:
+            category = 'service_provider'
+            title = values[0] if len(values) > 0 else ''
+        else:
+            category = ''
+            title = values[0] if len(values) > 0 else ''
+        
+        # Method 1: Try exact title match using the title_to_id_map
+        if title:
+            title_lower = title.lower().strip()
+            if title_lower in self.title_to_id_map:
+                matched_id = self.title_to_id_map[title_lower]
+                # Verify it's in this query's golden set
+                if any(gr.get('id') == matched_id for gr in golden_results):
+                    return matched_id
+        
+        # Method 2: Try slug-based matching
+        if slug:
+            # Check if any golden result has a matching title derived from slug
+            slug_title = slug.replace('-', ' ').replace('_', ' ').lower().strip()
+            for gr in golden_results:
+                golden_title = gr.get('title', '').lower().strip()
+                golden_simple = golden_title.replace('-', ' ').replace('_', ' ')
+                if slug_title == golden_simple or slug_title in golden_simple or golden_simple in slug_title:
+                    return gr.get('id', '')
+        
+        # Method 3: Fuzzy title matching against this query's golden results
+        if title:
+            title_lower = title.lower().strip()
+            title_simple = title_lower.replace('-', ' ').replace('_', ' ')
             
-            for val in values:
-                val_str = str(val).lower().strip()
-                if val_str in self.slug_to_id_map:
-                    return self.slug_to_id_map[val_str]
-            
-            # Try combining values
-            combined = '_'.join(str(v).lower().strip() for v in values[:3])
-            if combined in self.slug_to_id_map:
-                return self.slug_to_id_map[combined]
+            for gr in golden_results:
+                golden_title = gr.get('title', '').lower().strip()
+                golden_simple = golden_title.replace('-', ' ').replace('_', ' ')
+                
+                # Exact match
+                if title_lower == golden_title:
+                    return gr.get('id', '')
+                
+                # Simplified match
+                if title_simple == golden_simple:
+                    return gr.get('id', '')
+                
+                # Substring match (either direction)
+                if title_simple in golden_simple or golden_simple in title_simple:
+                    return gr.get('id', '')
         
         return ""
     
@@ -131,32 +207,36 @@ class SearchEvaluator:
         
         Args:
             relevant_ids: Set of relevant document IDs
-            retrieved_ids: List of retrieved document IDs (ordered by rank)
+            retrieved_ids: List of retrieved document IDs (ordered by rank), may contain "" for non-matches
             k: Cutoff position
             
         Returns:
             Precision@K score (0.0 to 1.0)
         """
-        if k == 0 or len(retrieved_ids) == 0:
+        if k == 0:
             return 0.0
         
         # Take only top K results
         top_k = retrieved_ids[:k]
         
-        # Count how many are relevant
-        relevant_count = sum(1 for doc_id in top_k if doc_id in relevant_ids)
+        # Count how many are relevant (ignore empty strings)
+        relevant_count = sum(1 for doc_id in top_k if doc_id and doc_id in relevant_ids)
         
+        # CRITICAL: Always divide by K, not by len(top_k)
         return relevant_count / k
     
     def calculate_recall_at_k(self, relevant_ids: set, retrieved_ids: List[str], k: int) -> float:
         """
         Calculate Recall@K.
         
-        Recall@K = (# of relevant docs in top K) / (total # of relevant docs)
+        Recall@K = (# of relevant docs in top K) / (total # of relevant docs in golden dataset)
+        
+        CRITICAL: The denominator is ALWAYS the total relevant documents in the golden truth,
+        NOT the number of retrieved documents, NOT K itself.
         
         Args:
-            relevant_ids: Set of relevant document IDs
-            retrieved_ids: List of retrieved document IDs (ordered by rank)
+            relevant_ids: Set of ALL relevant document IDs from golden dataset
+            retrieved_ids: List of retrieved document IDs (ordered by rank), may contain "" for non-matches
             k: Cutoff position
             
         Returns:
@@ -168,9 +248,10 @@ class SearchEvaluator:
         # Take only top K results
         top_k = retrieved_ids[:k]
         
-        # Count how many relevant docs were retrieved
-        retrieved_relevant = sum(1 for doc_id in top_k if doc_id in relevant_ids)
+        # Count how many relevant docs were retrieved in top K (ignore empty strings)
+        retrieved_relevant = sum(1 for doc_id in top_k if doc_id and doc_id in relevant_ids)
         
+        # CRITICAL: Divide by TOTAL relevant documents, not by K
         return retrieved_relevant / len(relevant_ids)
     
     def calculate_ndcg_at_k(self, relevance_scores: Dict[str, float], retrieved_ids: List[str], k: int) -> float:
@@ -185,13 +266,13 @@ class SearchEvaluator:
         
         Args:
             relevance_scores: Dict mapping document IDs to relevance scores
-            retrieved_ids: List of retrieved document IDs (ordered by rank)
+            retrieved_ids: List of retrieved document IDs (ordered by rank), may contain "" for non-matches
             k: Cutoff position
             
         Returns:
             NDCG@K score (0.0 to 1.0)
         """
-        if k == 0 or len(retrieved_ids) == 0:
+        if k == 0:
             return 0.0
         
         # Take only top K results
@@ -200,9 +281,11 @@ class SearchEvaluator:
         # Calculate DCG
         dcg = 0.0
         for i, doc_id in enumerate(top_k, start=1):
-            relevance = relevance_scores.get(doc_id, 0.0)
-            # DCG formula: relevance / log2(position + 1)
-            dcg += relevance / math.log2(i + 1)
+            # Ignore empty strings (non-matches)
+            if doc_id:
+                relevance = relevance_scores.get(doc_id, 0.0)
+                # DCG formula: relevance / log2(position + 1)
+                dcg += relevance / math.log2(i + 1)
         
         # Calculate IDCG (ideal DCG with perfect ranking)
         ideal_scores = sorted(relevance_scores.values(), reverse=True)[:k]
@@ -216,7 +299,7 @@ class SearchEvaluator:
         
         return dcg / idcg
     
-    def evaluate_query(self, query_text: str, query_id: str, searcher: SemanticSearcher, k: int = 10) -> Dict[str, Any]:
+    def evaluate_query(self, query_text: str, query_id: str, searcher: SemanticSearcher, k: int = 5) -> Dict[str, Any]:
         """
         Evaluate a single query.
         
@@ -224,7 +307,7 @@ class SearchEvaluator:
             query_text: Query string
             query_id: Query ID for looking up golden data
             searcher: SemanticSearcher instance
-            k: Number of top results to evaluate (default: 10)
+            k: Number of top results to evaluate (default: 5)
             
         Returns:
             Dictionary with metrics:
@@ -233,9 +316,10 @@ class SearchEvaluator:
                 - ndcg_at_k: NDCG@K score
                 - retrieved_count: Number of results retrieved
                 - relevant_count: Total number of relevant documents
+                - matched_count: Number of retrieved docs that matched golden set
         """
-        # Get search results
-        results, _ = searcher.search(query_text, k=k, min_score=0.0)
+        # Get search results (retrieve 10 but evaluate only k)
+        results, _ = searcher.search(query_text, k=10, min_score=0.0)
         
         # Get relevance judgments for this query
         judgment = self.relevance_judgments.get(query_id, {})
@@ -251,15 +335,22 @@ class SearchEvaluator:
             
             if doc_id:
                 relevance_scores[doc_id] = float(relevance_score)
-                if relevance_score > 0:  # Any score > 0 is considered relevant
+                # In 1-3 scale, all scores are relevant (1, 2, 3)
+                if relevance_score > 0:
                     relevant_ids.add(doc_id)
         
-        # Match retrieved results to golden IDs
+        # Match retrieved results to golden IDs - PRESERVE POSITION INFORMATION
+        # Retrieved_ids must be same length as results, with "" for non-matches
         retrieved_ids = []
+        matched_count = 0
         for result in results:
             matched_id = self._match_result_to_golden(result, query_id)
             if matched_id:
                 retrieved_ids.append(matched_id)
+                matched_count += 1
+            else:
+                # CRITICAL: Add empty string to preserve position information
+                retrieved_ids.append("")
         
         # Calculate metrics
         precision = self.calculate_precision_at_k(relevant_ids, retrieved_ids, k)
@@ -270,11 +361,12 @@ class SearchEvaluator:
             'precision_at_k': precision,
             'recall_at_k': recall,
             'ndcg_at_k': ndcg,
-            'retrieved_count': len(retrieved_ids),
-            'relevant_count': len(relevant_ids)
+            'retrieved_count': len(results),
+            'relevant_count': len(relevant_ids),
+            'matched_count': matched_count
         }
     
-    def evaluate_all(self, searcher: SemanticSearcher, k: int = 10, verbose: bool = False) -> Dict[str, Any]:
+    def evaluate_all(self, searcher: SemanticSearcher, k: int = 5, verbose: bool = False) -> Dict[str, Any]:
         """
         Evaluate all queries in golden dataset.
         
@@ -345,11 +437,12 @@ class SearchEvaluator:
             print("=" * 80 + "\n")
         
         return {
-            'mean_precision': mean_precision,
-            'mean_recall': mean_recall,
-            'mean_ndcg': mean_ndcg,
+            'mean_precision_at_k': mean_precision,
+            'mean_recall_at_k': mean_recall,
+            'mean_ndcg_at_k': mean_ndcg,
             'final_accuracy_score': final_accuracy,
             'per_query_results': per_query_results,
+            'query_results': per_query_results,  # Alias for compatibility
             'k': k,
             'total_queries': len(per_query_results)
         }

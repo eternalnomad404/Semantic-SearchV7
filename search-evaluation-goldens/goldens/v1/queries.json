@@ -1,163 +1,49 @@
 {
   "version": "1.0",
-  "description": "Test queries for search evaluation",
-  "created_date": "2025-12-23",
+  "description": "Evaluation queries for semantic + lexical search system testing",
+  "created_date": "2025-12-30",
   "queries": [
-    {
-      "id": "q001",
-      "query": "digital tools for NGOs",
-      "intent": "informational",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q002",
-      "query": "technology solutions for nonprofits",
-      "intent": "informational",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q003",
-      "query": "best digital tools for social impact organizations",
-      "intent": "informational",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q004",
-      "query": "free or low-cost tools for NGOs",
-      "intent": "informational",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q005",
-      "query": "digital transformation resources for nonprofits",
-      "intent": "informational",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q006",
-      "query": "tools to manage NGO operations",
-      "intent": "informational",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q007",
-      "query": "technology platforms for social sector organizations",
-      "intent": "informational",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q008",
-      "query": "beginner-friendly digital tools for NGOs",
-      "intent": "informational",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q009",
-      "query": "CRM tools for NGOs",
-      "intent": "informational",
-      "difficulty": "easy"
-    },
-    {
-      "id": "q010",
-      "query": "data collection tools for nonprofits",
-      "intent": "informational",
-      "difficulty": "easy"
-    },
-    {
-      "id": "q011",
-      "query": "project management tools for social impact teams",
-      "intent": "informational",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q012",
-      "query": "monitoring and evaluation tools for NGOs",
-      "intent": "informational",
-      "difficulty": "easy"
-    },
-    {
-      "id": "q013",
-      "query": "learning management systems for education NGOs",
-      "intent": "informational",
-      "difficulty": "easy"
-    },
-    {
-      "id": "q014",
-      "query": "communication and collaboration tools for nonprofit teams",
-      "intent": "informational",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q015",
-      "query": "finance and accounting tools for NGOs",
-      "intent": "informational",
-      "difficulty": "easy"
-    },
-    {
-      "id": "q016",
-      "query": "AI tools useful for social impact organizations",
-      "intent": "informational",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q017",
-      "query": "data analytics tools for nonprofits",
-      "intent": "informational",
-      "difficulty": "medium"
-    },
-    {
-      "id": "q018",
-      "query": "tools to digitize field operations for NGOs",
-      "intent": "informational",
-      "difficulty": "easy"
-    },
-    {
-      "id": "q019",
-      "query": "digital transformation consultants for NGOs",
-      "intent": "informational",
-      "difficulty": "easy"
-    },
-    {
-      "id": "q020",
-      "query": "technology implementation partners for nonprofits",
-      "intent": "informational",
-      "difficulty": "easy"
-    },
-    {
-      "id": "q021",
-      "query": "software development service providers for social sector",
-      "intent": "informational",
-      "difficulty": "easy"
-    },
-    {
-      "id": "q022",
-      "query": "data analytics service providers for NGOs",
-      "intent": "informational",
-      "difficulty": "easy"
-    },
-    {
-      "id": "q023",
-      "query": "IT support services for nonprofits",
-      "intent": "informational",
-      "difficulty": "easy"
-    },
-    {
-      "id": "q024",
-      "query": "digital strategy consulting for social impact organizations",
-      "intent": "informational",
-      "difficulty": "easy"
-    },
-    {
-      "id": "q025",
-      "query": "agencies helping NGOs with technology adoption",
-      "intent": "informational",
-      "difficulty": "easy"
-    },
-    {
-      "id": "q026",
-      "query": "service providers for NGO MIS implementation",
-      "intent": "informational",
-      "difficulty": "easy"
-    }
+    {"id": "q001", "query": "donor management software", "intent": "tool-specific", "difficulty": "easy"},
+    {"id": "q002", "query": "impact measurement platforms", "intent": "multi-category", "difficulty": "medium"},
+    {"id": "q003", "query": "training management system for NGOs", "intent": "tool-specific", "difficulty": "medium"},
+    {"id": "q004", "query": "how can AI help nonprofits", "intent": "multi-category", "difficulty": "medium"},
+    {"id": "q005", "query": "field data collection mobile app", "intent": "tool-specific", "difficulty": "easy"},
+    {"id": "q006", "query": "partner who can build custom software for social impact", "intent": "service-provider", "difficulty": "medium"},
+    {"id": "q007", "query": "learn data visualization", "intent": "course-focused", "difficulty": "easy"},
+    {"id": "q008", "query": "digitl transformaton case study educaton", "intent": "case-study", "difficulty": "hard"},
+    {"id": "q009", "query": "cloud storage solutions for nonprofits", "intent": "tool-category", "difficulty": "easy"},
+    {"id": "q010", "query": "WhatsApp chatbot platform", "intent": "tool-specific", "difficulty": "easy"},
+    {"id": "q011", "query": "how to measure social impact", "intent": "multi-category", "difficulty": "medium"},
+    {"id": "q012", "query": "project managment software", "intent": "tool-category", "difficulty": "easy"},
+    {"id": "q013", "query": "AwS", "intent": "tool-specific", "difficulty": "easy"},
+    {"id": "q014", "query": "help with digital transformation strategy for grassroots organizations working in education and health sectors across rural India", "intent": "multi-category", "difficulty": "hard"},
+    {"id": "q015", "query": "asdfghjkl", "intent": "gibberish", "difficulty": "invalid"},
+    {"id": "q016", "query": "SMS communication tools", "intent": "tool-ambiguous", "difficulty": "medium"},
+    {"id": "q017", "query": "Python for data analysis course", "intent": "course-focused", "difficulty": "medium"},
+    {"id": "q018", "query": "GIS mapping tools for social impact", "intent": "tool-specific", "difficulty": "medium"},
+    {"id": "q019", "query": "fundraising platforms India", "intent": "tool-specific", "difficulty": "easy"},
+    {"id": "q020", "query": "tech partner for capacity building", "intent": "ambiguous", "difficulty": "medium"},
+    {"id": "q021", "query": "learn how to use Salesforce", "intent": "ambiguous", "difficulty": "medium"},
+    {"id": "q022", "query": "automation workflow", "intent": "multi-category", "difficulty": "medium"},
+    {"id": "q023", "query": "digital marketing training", "intent": "ambiguous", "difficulty": "medium"},
+    {"id": "q024", "query": "agroforestry monitoring technology", "intent": "case-study", "difficulty": "hard"},
+    {"id": "q025", "query": "ERP for nonprofits", "intent": "ambiguous", "difficulty": "medium"},
+    {"id": "q026", "query": "open source survey tool", "intent": "tool-specific", "difficulty": "medium"},
+    {"id": "q027", "query": "SEO optimisation course", "intent": "course-focused", "difficulty": "easy"},
+    {"id": "q028", "query": "zkxqw monitoring mngmt", "intent": "gibberish-partial", "difficulty": "invalid"},
+    {"id": "q029", "query": "cybersecurity", "intent": "multi-category", "difficulty": "easy"},
+    {"id": "q030", "query": "social media scheduling", "intent": "tool-category", "difficulty": "easy"},
+    {"id": "q031", "query": "help me set up a WhatsApp bot for my NGO", "intent": "user-realistic", "difficulty": "medium"},
+    {"id": "q032", "query": "Power BI vs Tableau", "intent": "comparative", "difficulty": "medium"},
+    {"id": "q033", "query": "best CRM for small nonprofits in India", "intent": "user-realistic", "difficulty": "medium"},
+    {"id": "q034", "query": "how Anudip used technology", "intent": "case-study", "difficulty": "easy"},
+    {"id": "q035", "query": "Zoho", "intent": "multi-category", "difficulty": "easy"},
+    {"id": "q036", "query": "video editing for YouTube", "intent": "ambiguous", "difficulty": "medium"},
+    {"id": "q037", "query": "AI ethics training", "intent": "course-focused", "difficulty": "medium"},
+    {"id": "q038", "query": "full-stack developer training", "intent": "course-category", "difficulty": "easy"},
+    {"id": "q039", "query": "Platform Commons products", "intent": "multi-category", "difficulty": "medium"},
+    {"id": "q040", "query": "maternal health mobile app case study", "intent": "case-study", "difficulty": "hard"},
+    {"id": "q041", "query": "consulting firm for nonprofit digital strategy and implementation", "intent": "service-provider", "difficulty": "medium"},
+    {"id": "q042", "query": "lessons learned from scaling social programs with technology", "intent": "case-study", "difficulty": "medium"}
   ]
 }

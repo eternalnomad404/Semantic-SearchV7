@@ -1,17 +1,15 @@
 {
   "version": "1.0",
-  "description": "Metadata for golden dataset version 1.0 with 1-10 relevance scoring",
-  "created_date": "2025-12-24",
-  "last_updated": "2025-12-24",
-  "total_queries": 26,
-  "total_judgments": 2009,
-  "relevance_scale": "1-10 (10 = highest relevance)",
+  "description": "Golden dataset v1 for semantic + lexical search evaluation with 42 queries",
+  "created_date": "2025-12-30",
+  "last_updated": "2025-12-30",
+  "total_queries": 42,
+  "total_judgments": 420,
+  "relevance_scale": "1-3 (3 = highest relevance)",
   "relevance_guidelines": {
-    "9-10": "Direct, highly valuable match; ideal result",
-    "7-8": "Strong, clearly useful but not perfect",
-    "5-6": "Moderately useful; supports or complements intent",
-    "3-4": "Weak but plausible; long-tail relevance",
-    "1-2": "Edge-case relevance; include only if defensible"
+    "3": "Highly relevant - strong match addressing core query intent with direct applicability",
+    "2": "Moderately relevant - valid match that partially addresses query intent or provides complementary value",
+    "1": "Weakly relevant - tangential connection or limited applicability to the query intent"
   },
   "evaluation_metrics": [
     "ndcg@10",
@@ -35,6 +33,6 @@
     "technology implementation services",
     "software development and IT support"
   ],
-  "coverage_approach": "Comprehensive evaluation with 1-10 relevance scoring. Broad queries (q001-q008) include extensive results spanning multiple relevance tiers. Specific tool queries (q009-q018) focus on category-specific matches with scores 3-10. Service provider queries (q019-q026) emphasize provider capabilities with scores 5-10. No artificial caps on result counts—relevance determines inclusion.",
-  "notes": "Regenerated golden dataset with comprehensive 1-10 relevance scoring replacing previous 1-3 scale. All 26 queries processed with 2,009 total judgments. Relevance evaluated solely from query text and item descriptions without pre-classifying user intent. Mixed categories expected for ambiguous queries. Scores 9-10 represent ideal matches, 7-8 strong matches, 5-6 moderate utility, 3-4 weak/long-tail relevance, and 1-2 edge cases."
+  "coverage_approach": "Comprehensive evaluation with 1-3 relevance scoring. Each query includes exactly 10 expected results ranked by relevance. Scores: 3=highly relevant, 2=moderately relevant, 1=weakly relevant. Dataset designed to test precision, recall, ambiguity handling, and robustness across diverse query types and categories.",
+  "notes": "Regenerated golden dataset with new 1-3 relevance scale. All 42 queries evaluated with top-10 results per query. Total of 420 judgments. Queries distributed across all four categories (tools, service_providers, courses, case_studies) with intentional coverage of edge cases, spelling errors, ambiguity, and multi-category scenarios."
 }
