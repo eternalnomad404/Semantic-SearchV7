@@ -354,7 +354,8 @@ class SearchEvaluator:
         
         # Calculate metrics
         precision = self.calculate_precision_at_k(relevant_ids, retrieved_ids, k)
-        recall = self.calculate_recall_at_k(relevant_ids, retrieved_ids, k)
+        # RECALL: Always compare top 10 golden results with top 10 system output
+        recall = self.calculate_recall_at_k(relevant_ids, retrieved_ids, k=10)
         ndcg = self.calculate_ndcg_at_k(relevance_scores, retrieved_ids, k)
         
         return {

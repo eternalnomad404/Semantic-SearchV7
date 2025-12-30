@@ -203,7 +203,7 @@ def main() -> None:
                 results_list.append(result)
                 
                 # Print to terminal (verbose logging with debug info)
-                print(f"[{i}/{total_queries}] {query_id}: P@5={result['precision_at_k']:.3f}, R@5={result['recall_at_k']:.3f}, NDCG@5={result['ndcg_at_k']:.3f} | Retrieved={result['retrieved_count']}, Matched={result.get('matched_count', 0)}/{result['relevant_count']}")
+                print(f"[{i}/{total_queries}] {query_id}: P@5={result['precision_at_k']:.3f}, R@10={result['recall_at_k']:.3f}, NDCG@5={result['ndcg_at_k']:.3f} | Retrieved={result['retrieved_count']}, Matched={result.get('matched_count', 0)}/{result['relevant_count']}")
             
             # Complete progress
             progress_bar.progress(1.0)
@@ -244,7 +244,7 @@ def main() -> None:
             print("="*80)
             print(f"Final Accuracy: {final_accuracy:.4f} ({final_accuracy*100:.2f}%)")
             print(f"Precision@5:    {mean_precision:.4f} ({mean_precision*100:.2f}%)")
-            print(f"Recall@5:       {mean_recall:.4f} ({mean_recall*100:.2f}%)")
+            print(f"Recall@10:      {mean_recall:.4f} ({mean_recall*100:.2f}%)")
             print(f"NDCG@5:         {mean_ndcg:.4f} ({mean_ndcg*100:.2f}%)")
             print("="*80 + "\n")
             
@@ -278,11 +278,11 @@ def main() -> None:
         # Display formula
         with st.expander("📐 Formula Details"):
             st.markdown(f"""
-            **Final Accuracy = 0.5 × NDCG@5 + 0.25 × Precision@5 + 0.25 × Recall@5**
+            **Final Accuracy = 0.5 × NDCG@5 + 0.25 × Precision@5 + 0.25 × Recall@10**
             
             - 0.5 × {results['mean_ndcg_at_k']:.4f} (NDCG@5)
             - 0.25 × {results['mean_precision_at_k']:.4f} (Precision@5)
-            - 0.25 × {results['mean_recall_at_k']:.4f} (Recall@5)
+            - 0.25 × {results['mean_recall_at_k']:.4f} (Recall@10)
             - **= {final_accuracy:.4f}**
             """)
         
@@ -298,7 +298,7 @@ def main() -> None:
         
         with metric_col2:
             st.metric(
-                label="📊 Mean Recall@5",
+                label="📊 Mean Recall@10",
                 value=f"{results['mean_recall_at_k']:.4f}",
                 delta=f"{results['mean_recall_at_k']*100:.2f}%"
             )
@@ -319,7 +319,7 @@ def main() -> None:
             st.markdown("**Precision@5**")
             st.progress(results['mean_precision_at_k'])
             
-            st.markdown("**Recall@5**")
+            st.markdown("**Recall@10**")
             st.progress(results['mean_recall_at_k'])
         
         with progress_col2:
@@ -347,7 +347,7 @@ def main() -> None:
                     'Query ID': query_id,
                     'Query': query_display,
                     'Precision@5': f"{qr.get('precision_at_k', 0.0):.4f}",
-                    'Recall@5': f"{qr.get('recall_at_k', 0.0):.4f}",
+                    'Recall@10': f"{qr.get('recall_at_k', 0.0):.4f}",
                     'NDCG@5': f"{qr.get('ndcg_at_k', 0.0):.4f}",
                     'Retrieved': qr.get('retrieved_count', 0),
                     'Matched': qr.get('matched_count', 0),

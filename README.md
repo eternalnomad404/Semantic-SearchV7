@@ -280,21 +280,54 @@ The system fetches data from live APIs and caches it locally in structured folde
 
 ## 🐳 Docker Deployment
 
-See detailed Docker documentation: [docs/DOCKER.md](docs/DOCKER.md)
+### Quick Start with Docker
 
-### Quick Docker Commands
-
+**Build the image:**
 ```bash
-# Build
-.\scripts\docker-build.bat  # Windows
-./scripts/docker-build.sh   # Linux/Mac
+# Windows
+.\scripts\docker-build.bat
 
-# Run with compose
-cd docker && docker-compose up -d
+# Linux/Mac
+chmod +x scripts/docker-build.sh
+./scripts/docker-build.sh
 
-# Stop
-docker-compose down
+# Or manually
+docker build -t semantic-search:latest -f docker/Dockerfile .
 ```
+
+**Run the application:**
+```bash
+# API Server (FastAPI)
+docker run -p 8000:8000 semantic-search:latest
+
+# Streamlit Web App
+docker run -p 8501:8501 semantic-search:latest streamlit run streamlit_app.py --server.port=8501 --server.address=0.0.0.0
+
+# Both services with Docker Compose
+cd docker && docker-compose up -d
+```
+
+**Access:**
+- API: http://localhost:8000
+- API Docs: http://localhost:8000/docs
+- Streamlit UI: http://localhost:8501
+
+**Stop services:**
+```bash
+cd docker && docker-compose down
+```
+
+### Custom Data Volumes
+
+For development with custom data:
+```bash
+docker run -p 8000:8000 \
+  -v /path/to/your/data:/app/data:ro \
+  -v /path/to/your/vectorstore:/app/vectorstore:ro \
+  semantic-search:latest
+```
+
+See [docs/DOCKER.md](docs/DOCKER.md) for advanced Docker configurations.
 
 ## ⚙️ Configuration
 
@@ -310,10 +343,36 @@ TFIDF_PATH=vectorstore/tfidf.pkl
 
 **Note:** The system fetches data directly from DT4SI APIs. No API keys required for data fetching.
 
+## 🧪 Testing & Evaluation
+
+### Run Evaluation Metrics
+
+The system includes a golden dataset evaluation to measure search quality:
+
+```bash
+# Run full evaluation
+streamlit run streamlit_app.py
+# Navigate to "Evaluation" tab and click "Run Evaluation"
+
+# View golden dataset details
+streamlit run golden_dataset_ui.py
+```
+
+**Metrics:**
+- **Precision@5**: Relevant results in top 5 / 5
+- **Recall@10**: Relevant found in top 10 / Total relevant in golden top 10
+- **NDCG@5**: Normalized Discounted Cumulative Gain (ranking quality)
+- **Final Accuracy**: 0.5 × NDCG@5 + 0.25 × Precision@5 + 0.25 × Recall@10
+
+**Golden Dataset:**
+- 42 evaluation queries
+- Located in: `search-evaluation-goldens/goldens/v1/`
+- See: [search-evaluation-goldens/README.md](search-evaluation-goldens/README.md)
+
 ## 📖 Additional Documentation
 
-- [Deployment Guide](docs/DEPLOYMENT.md)
-- [Docker Guide](docs/DOCKER.md)
+- [Docker Deployment Guide](docs/DOCKER.md)
+- [Golden Dataset Documentation](search-evaluation-goldens/README.md)
 
 ## 🤝 Contributing
 
