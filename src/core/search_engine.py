@@ -169,8 +169,8 @@ class SemanticSearcher:
             # Get TF-IDF score for this document (0-1 range)
             tfidf_score = float(tfidf_similarities[idx]) if idx < len(tfidf_similarities) else 0.0
             
-            # Calculate hybrid score: 70% semantic + 30% TF-IDF
-            hybrid_score = 0.7 * semantic_score + 0.3 * tfidf_score
+            # Calculate hybrid score: 80% semantic + 20% TF-IDF
+            hybrid_score = 0.8 * semantic_score + 0.2 * tfidf_score
             
             # Apply case study boost if searching for case studies
             if boost_case_studies and item.get('sheet') == 'case-studies':
