@@ -3786,24 +3786,11 @@
       "Name of Service Provider"
     ],
     "values": [
-      "10x Impact Labs"
-    ],
-    "short_description": "Partners with nonprofits, CSR initiatives, and philanthropies to enable effective use of technology, AI, and MEL through advisory, implementation, and capacity-building support.",
-    "image": "/uploads/1764338345_10x-impact-labs.jpg",
-    "url": "https://dt4si.com/service-providers-for-non-profits/10x-impact-labs",
-    "slug": "10x-impact-labs"
-  },
-  {
-    "sheet": "Service Provider Profiles",
-    "column_headers": [
-      "Name of Service Provider"
-    ],
-    "values": [
       "DGTL360"
     ],
     "short_description": "Full-service digital agency specializing in design, development, marketing, and analytics services.",
     "image": "/uploads/1764164321_dgtl-360.jpg",
-    "url": "https://dt4si.com/service-providers-for-non-profits/dgtl-360",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/dgtl-360",
     "slug": "dgtl-360"
   },
   {
@@ -3816,7 +3803,7 @@
     ],
     "short_description": "Tech company specializing in custom web-based solutions using Microsoft Technologies.",
     "image": "/uploads/1764164341_designscape-logo.jpg",
-    "url": "https://dt4si.com/service-providers-for-non-profits/designscape",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/designscape",
     "slug": "designscape"
   },
   {
@@ -3829,34 +3816,8 @@
     ],
     "short_description": "Social impact technology consulting firm empowering non-profits via digital transformation.",
     "image": "/uploads/1764164373_dhwani-logo.jpg",
-    "url": "https://dt4si.com/service-providers-for-non-profits/dhwani-rural-information-systems-private-limited",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/dhwani-rural-information-systems-private-limited",
     "slug": "dhwani-rural-information-systems-private-limited"
-  },
-  {
-    "sheet": "Service Provider Profiles",
-    "column_headers": [
-      "Name of Service Provider"
-    ],
-    "values": [
-      "Digital For Nonprofits (D4NP)"
-    ],
-    "short_description": "Digital For Nonprofits (D4NP) leverages technology grants, generative AI, digital marketing and data insights to make nonprofits self‑reliant and accelerate mission awareness and fundraising.",
-    "image": "/uploads/1764331396_digital-for-nonprofits.png",
-    "url": "https://dt4si.com/service-providers-for-non-profits/digital-for-nonprofits-d4np",
-    "slug": "digital-for-nonprofits-d4np"
-  },
-  {
-    "sheet": "Service Provider Profiles",
-    "column_headers": [
-      "Name of Service Provider"
-    ],
-    "values": [
-      "EdZola Technologies"
-    ],
-    "short_description": "A Tech4Good company that builds customizable and scalable low-code technology solutions for nonprofits, helping them save time and cost through tech consultation, custom app development and ongoing support.",
-    "image": "/uploads/1764331414_edzola.png",
-    "url": "https://dt4si.com/service-providers-for-non-profits/edzola-technologies",
-    "slug": "edzola-technologies"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3868,7 +3829,7 @@
     ],
     "short_description": "Generative AI studio helping enterprises strategize, deploy, and scale AI content initiatives.",
     "image": "/uploads/1764331447_greenpepper.png",
-    "url": "https://dt4si.com/service-providers-for-non-profits/greenpepperai",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/greenpepperai",
     "slug": "greenpepperai"
   },
   {
@@ -3881,7 +3842,7 @@
     ],
     "short_description": "Technology company creating bespoke solutions and scaling technology for an inclusive future.",
     "image": "/uploads/1764331481_kenpath.png",
-    "url": "https://dt4si.com/service-providers-for-non-profits/kenpath-technologies-pvt-ltd",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/kenpath-technologies-pvt-ltd",
     "slug": "kenpath-technologies-pvt-ltd"
   },
   {
@@ -3894,7 +3855,7 @@
     ],
     "short_description": "Digital experience services creating brand identities and digital experiences for small businesses.",
     "image": "/uploads/1764331502_Litmus.png",
-    "url": "https://dt4si.com/service-providers-for-non-profits/litmusink",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/litmusink",
     "slug": "litmusink"
   },
   {
@@ -3907,7 +3868,7 @@
     ],
     "short_description": "Logicalwhy helps organizations innovate with technology that builds trust, empathy, and meaningful business relationships for shared success.",
     "image": "/uploads/1764331560_logicalwhy.png",
-    "url": "https://dt4si.com/service-providers-for-non-profits/logicalwhy-consulting-private-limited",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/logicalwhy-consulting-private-limited",
     "slug": "logicalwhy-consulting-private-limited"
   },
   {
@@ -3920,21 +3881,8 @@
     ],
     "short_description": "Tech company providing real-time analytics, security, and off-shore software development.",
     "image": "/uploads/1764331589_microware.png",
-    "url": "https://dt4si.com/service-providers-for-non-profits/microware-computing-and-consulting",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/microware-computing-and-consulting",
     "slug": "microware-computing-and-consulting"
-  },
-  {
-    "sheet": "Service Provider Profiles",
-    "column_headers": [
-      "Name of Service Provider"
-    ],
-    "values": [
-      "Navadithi Solutions"
-    ],
-    "short_description": "A full-stack IT services company delivering scalable software solutions while creating career opportunities for youth and supporting social impact organisations with their technology requirement",
-    "image": "/uploads/1764331604_navadhiti.png",
-    "url": "https://dt4si.com/service-providers-for-non-profits/navadithi-solutions",
-    "slug": "navadithi-solutions"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3946,7 +3894,7 @@
     ],
     "short_description": "Co-creates integrated digital platforms to drive social impact and sector efficiency.",
     "image": "/uploads/1764338446_platform.jpg",
-    "url": "https://dt4si.com/service-providers-for-non-profits/platform-commons",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/platform-commons",
     "slug": "platform-commons"
   },
   {
@@ -3959,21 +3907,8 @@
     ],
     "short_description": "Initiative empowering non-profits with open-source tech, platforms, and leadership support.",
     "image": "/uploads/1764331689_project-tech4dev.png",
-    "url": "https://dt4si.com/service-providers-for-non-profits/project-tech4dev",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/project-tech4dev",
     "slug": "project-tech4dev"
-  },
-  {
-    "sheet": "Service Provider Profiles",
-    "column_headers": [
-      "Name of Service Provider"
-    ],
-    "values": [
-      "Radics"
-    ],
-    "short_description": "An applied learning sciences lab that develops evidence-based learning solutions focused on both cognitive and non-cognitive learning challenges, and runs R&D initiatives with education nonprofits to build empirical evidence and strengthen edtech capacity.",
-    "image": "/uploads/1764331716_radics.png",
-    "url": "https://dt4si.com/service-providers-for-non-profits/radics",
-    "slug": "radics"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3985,21 +3920,8 @@
     ],
     "short_description": "Stotio helps businesses grow faster by using AI and storytelling to create clear, compelling narratives.",
     "image": "/uploads/1764331777_stotio.png",
-    "url": "https://dt4si.com/service-providers-for-non-profits/stotio",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/stotio",
     "slug": "stotio"
-  },
-  {
-    "sheet": "Service Provider Profiles",
-    "column_headers": [
-      "Name of Service Provider"
-    ],
-    "values": [
-      "Studio Subu"
-    ],
-    "short_description": "Provides creative communication solutions to help social impact organisations meet goals related to fundraising, branding, recruitment and program delivery, and has worked with 100+ organisations through services and capacity-building programs.",
-    "image": "/uploads/1764331802_studio-subu.png",
-    "url": "https://dt4si.com/service-providers-for-non-profits/studio-subu",
-    "slug": "studio-subu"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -4011,7 +3933,7 @@
     ],
     "short_description": "Technology partner providing ERP solution for non-profit and CSR digital transformation.",
     "image": "/uploads/1764331817_synergy-connect.png",
-    "url": "https://dt4si.com/service-providers-for-non-profits/synergyconnect-data-innovations-private-limited",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/synergyconnect-data-innovations-private-limited",
     "slug": "synergyconnect-data-innovations-private-limited"
   },
   {
@@ -4024,21 +3946,8 @@
     ],
     "short_description": "SaaS platform automating operations, reporting; offering discounted software, HRMS/LMS.",
     "image": "/uploads/1764331834_tech-for-social-good.png",
-    "url": "https://dt4si.com/service-providers-for-non-profits/tech-for-social-good",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/tech-for-social-good",
     "slug": "tech-for-social-good"
-  },
-  {
-    "sheet": "Service Provider Profiles",
-    "column_headers": [
-      "Name of Service Provider"
-    ],
-    "values": [
-      "Tech4Good Community"
-    ],
-    "short_description": "Works to strengthen the technology capabilities of grassroots nonprofits and social enterprises by assessing tech maturity, building awareness, developing internal capacity and implementing sustainable open-source systems.",
-    "image": "/uploads/1764331862_Tech4Good Community.png",
-    "url": "https://dt4si.com/service-providers-for-non-profits/tech4good-community",
-    "slug": "tech4good-community"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -4050,7 +3959,7 @@
     ],
     "short_description": "IT solutions provider focusing on enterprise-class digital solutions for societal transformation.",
     "image": "/uploads/1764331887_tekdi.png",
-    "url": "https://dt4si.com/service-providers-for-non-profits/tekdi-technologies-private-limited",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/tekdi-technologies-private-limited",
     "slug": "tekdi-technologies-private-limited"
   },
   {
@@ -4063,7 +3972,7 @@
     ],
     "short_description": "Sector-agnostic technology and design company crafting custom digital solutions.",
     "image": "/uploads/1764331902_think201.png",
-    "url": "https://dt4si.com/service-providers-for-non-profits/think201",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/think201",
     "slug": "think201"
   },
   {
@@ -6161,6 +6070,27 @@
       "Keywords"
     ],
     "values": [
+      "I-Saksham: Scaling Grassroot Leadership with Purpose-Built AI",
+      "Leadership Development, Education, Operational Excellence"
+    ],
+    "case_study_id": 18,
+    "summary": "I-Saksham Keywords: Leadership Development, AI, Mentoring, Teacher Training, Edtech, Rural Education, Digital Transformation, Scalability, India Organization: I-Saksham Mission: To empower young women from marginalized communities as \\\"edu-leaders\\\" through a two-year fellowship program. Scale: Has trained 600+ fellows, impacting over 12,000 children. Geography: Rural Bihar. Challenge: I-Saksham's peer coaching \\\"Buddy Talk\\\" process was a bottleneck due to manual, time-intensive feedback cycles, hindering the program's ability to scale. The challenge required a new solution. Solution: The organization implemented an AI-assisted mentoring solution to streamline the \\\"Buddy Talk\\\" process. This innovative projects used a transcription model (Whisper) and a Large Language Model (LLM) like Gemini for summarization, which reduced the operational burden while maintaining a human-centered approach. Key Technologies: Audio Transcription: Whisper AI Summarization: Gemini (LLM) Custom Tools: Custom MIS, WhatsApp Chatbot Cloud & Infrastructure: Azure, AWS Impact: The AI-assisted mentoring solution led to one of their most significant demonstrating a 50% increase in mentoring coverage and a 17% reduction in per-fellow mentoring cost. These positive highlight the power of small, contextual innovations. Learnings: User-centric design is crucial for tech adoption and building trust with frontline staff. AI should be a \\\"co-pilot,\\\" enhancing human work rather than replacing it. Small, contextual innovations can lead to significant systemic change.",
+    "word_count": 205,
+    "keyword": "Leadership Development, Education, Operational Excellence",
+    "short_description": "AI-enabled Mentoring for Stronger Edu-leaders and Resilient Communities.",
+    "image": "/uploads/studies/1770114787_logo_i-sakhsam.png",
+    "url": "https://dt4si.com/digital-transformation-case-studies/i-saksham-ai-enabled-coaching-intelligence-for-programme-scale",
+    "slug": "i-saksham-ai-enabled-coaching-intelligence-for-programme-scale",
+    "id": 18,
+    "category": "case_study"
+  },
+  {
+    "sheet": "case-studies",
+    "column_headers": [
+      "Title",
+      "Keywords"
+    ],
+    "values": [
       "Learning Link Foundation: Tech Integration Scales Field Operations",
       "Operational Excellence, Education, Digital Transformation"
     ],
@@ -6425,6 +6355,27 @@
     "url": "https://dt4si.com/digital-transformation-case-studies/clinton-foundation-ai-enabled-tb-screening-for-community-health-programmes",
     "slug": "clinton-foundation-ai-enabled-tb-screening-for-community-health-programmes",
     "id": 23,
+    "category": "case_study"
+  },
+  {
+    "sheet": "case-studies",
+    "column_headers": [
+      "Title",
+      "Keywords"
+    ],
+    "values": [
+      "demo design case Study",
+      "Frontline Health Worker Support, Maternal Health, AI"
+    ],
+    "case_study_id": 38,
+    "summary": "ARMMAN (Keyword: Frontline Health Worker Support) Keywords: Frontline Health Worker Support, Maternal Health, Neonatal Health, AI, WhatsApp Chatbot, High-Risk Pregnancy, Clinical Decision Support, Multilingual, Voice-Based, Human-in-the-Loop, Auxiliary Nurse-Midwives, Continuous Learning, Protocol-Aligned Guidance Organization: ARMMAN Mission: Reducing preventable maternal and child mortality by addressing delays in care-seeking and gaps in frontline health worker training. Scale: Rolled out to 1,000 ANMs in Uttar Pradesh, pilot with 50 ANMs in Telangana, serving 2,00,000+ pregnant women. Challenge: High-risk pregnancies account for 20-30% of all pregnancies in India but contribute to 70-80% of maternal and neonatal deaths, largely due to poor early identification and management. Frontline health workers, particularly Auxiliary Nurse-Midwives (ANMs), are overburdened, undertrained, and lack timely, context-specific guidance. Infrequent trainings and digital fatigue from using 6-8 different government applications further hinder effective care and clinical decision-making. Solution: ARMMAN developed a multilingual, multimodal AI assistant for Auxiliary Nurse-Midwives, delivered via WhatsApp. The solution provides real-time, protocol-aligned clinical guidance, doubt resolution, and bite-sized learning, supported by a human-in-the-loop escalation pathway to ensure safety, accuracy, and contextual relevance. Key Technologies: WhatsApp-Based AI Assistant: Instant, protocol-aligned clinical guidance embedded in existing workflows. Multilingual & Multimodal Support: Text and audio interactions for accessibility. Human-in-the-Loop Escalation: Safety oversight for complex or out-of-scope queries, handling 19% of cases. Validated Medical Protocols: Grounded in evidence-based antenatal care practices. Bite-Sized Continuous Learning: Embedded into day-to-day practice without added burden. Impact: The AI-enabled assistant has improved frontline confidence with high engagement and scalable clinical support. With deployment to 1,000 ANMs in Uttar Pradesh and 50 ANMs in Telangana serving 2,00,000+ pregnant women, 70% of ANMs have asked at least one question and 85% of activated users have returned for a second conversation. The system has handled over 12,000 real clinical queries with 98% positive user feedback and 97% of responses rated satisfactory by domain experts. The solution resolved approximately 80% of queries without trainer intervention, reducing trainer workload and the need for refresher sessions. Learnings for Others: Supporting Decisions at the Point of Care: Embedding protocol-aligned support within WhatsApp enabled real-time assistance within existing workflows. Scaling with Clinical Safeguards: Human-in-the-loop escalation ensured safety while allowing the solution to scale effectively. Learning Embedded in Daily Practice: Bite-sized learning integrated into routine interactions enabled continuous capacity building without added burden.",
+    "word_count": 375,
+    "keyword": "Frontline Health Worker Support, Maternal Health, AI",
+    "short_description": "WhatsApp-based AI assistant supported ANMs with real-time clinical guidance, strengthening high-risk pregnancy management statewide.",
+    "image": "/uploads/studies/1773728655_logo_1770100386_logo_armman-thumbnail.jpg",
+    "url": "https://dt4si.com/digital-transformation-case-studies/demo-design-case-study",
+    "slug": "demo-design-case-study",
+    "id": 38,
     "category": "case_study"
   }
 ]

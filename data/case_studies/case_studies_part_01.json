@@ -120,6 +120,16 @@
     "keyword": "Leadership Development, Education, Operational Excellence"
   },
   {
+    "id": 18,
+    "title": "I-Saksham: Scaling Grassroot Leadership with Purpose-Built AI",
+    "short_description": "AI-enabled Mentoring for Stronger Edu-leaders and Resilient Communities.",
+    "long_description": "I-Saksham Keywords: Leadership Development, AI, Mentoring, Teacher Training, Edtech, Rural Education, Digital Transformation, Scalability, India Organization: I-Saksham Mission: To empower young women from marginalized communities as \\\"edu-leaders\\\" through a two-year fellowship program. Scale: Has trained 600+ fellows, impacting over 12,000 children. Geography: Rural Bihar. Challenge: I-Saksham's peer coaching \\\"Buddy Talk\\\" process was a bottleneck due to manual, time-intensive feedback cycles, hindering the program's ability to scale. The challenge required a new solution. Solution: The organization implemented an AI-assisted mentoring solution to streamline the \\\"Buddy Talk\\\" process. This innovative projects used a transcription model (Whisper) and a Large Language Model (LLM) like Gemini for summarization, which reduced the operational burden while maintaining a human-centered approach. Key Technologies: Audio Transcription: Whisper AI Summarization: Gemini (LLM) Custom Tools: Custom MIS, WhatsApp Chatbot Cloud & Infrastructure: Azure, AWS Impact: The AI-assisted mentoring solution led to one of their most significant demonstrating a 50% increase in mentoring coverage and a 17% reduction in per-fellow mentoring cost. These positive highlight the power of small, contextual innovations. Learnings: User-centric design is crucial for tech adoption and building trust with frontline staff. AI should be a \\\"co-pilot,\\\" enhancing human work rather than replacing it. Small, contextual innovations can lead to significant systemic change.",
+    "image": "/uploads/studies/1770114787_logo_i-sakhsam.png",
+    "url": "https://dt4si.com/digital-transformation-case-studies/i-saksham-ai-enabled-coaching-intelligence-for-programme-scale",
+    "slug": "i-saksham-ai-enabled-coaching-intelligence-for-programme-scale",
+    "keyword": "Leadership Development, Education, Operational Excellence"
+  },
+  {
     "id": 3,
     "title": "Learning Link Foundation: Tech Integration Scales Field Operations",
     "short_description": "Salesforce centralized 160+ projects, boosting LLF data accuracy and efficiency.",
@@ -248,5 +258,15 @@
     "url": "https://dt4si.com/digital-transformation-case-studies/clinton-foundation-ai-enabled-tb-screening-for-community-health-programmes",
     "slug": "clinton-foundation-ai-enabled-tb-screening-for-community-health-programmes",
     "keyword": "TB Detection, Public Health, AI"
+  },
+  {
+    "id": 38,
+    "title": "demo design case Study",
+    "short_description": "WhatsApp-based AI assistant supported ANMs with real-time clinical guidance, strengthening high-risk pregnancy management statewide.",
+    "long_description": "ARMMAN (Keyword: Frontline Health Worker Support) Keywords: Frontline Health Worker Support, Maternal Health, Neonatal Health, AI, WhatsApp Chatbot, High-Risk Pregnancy, Clinical Decision Support, Multilingual, Voice-Based, Human-in-the-Loop, Auxiliary Nurse-Midwives, Continuous Learning, Protocol-Aligned Guidance Organization: ARMMAN Mission: Reducing preventable maternal and child mortality by addressing delays in care-seeking and gaps in frontline health worker training. Scale: Rolled out to 1,000 ANMs in Uttar Pradesh, pilot with 50 ANMs in Telangana, serving 2,00,000+ pregnant women. Challenge: High-risk pregnancies account for 20-30% of all pregnancies in India but contribute to 70-80% of maternal and neonatal deaths, largely due to poor early identification and management. Frontline health workers, particularly Auxiliary Nurse-Midwives (ANMs), are overburdened, undertrained, and lack timely, context-specific guidance. Infrequent trainings and digital fatigue from using 6-8 different government applications further hinder effective care and clinical decision-making. Solution: ARMMAN developed a multilingual, multimodal AI assistant for Auxiliary Nurse-Midwives, delivered via WhatsApp. The solution provides real-time, protocol-aligned clinical guidance, doubt resolution, and bite-sized learning, supported by a human-in-the-loop escalation pathway to ensure safety, accuracy, and contextual relevance. Key Technologies: WhatsApp-Based AI Assistant: Instant, protocol-aligned clinical guidance embedded in existing workflows. Multilingual & Multimodal Support: Text and audio interactions for accessibility. Human-in-the-Loop Escalation: Safety oversight for complex or out-of-scope queries, handling 19% of cases. Validated Medical Protocols: Grounded in evidence-based antenatal care practices. Bite-Sized Continuous Learning: Embedded into day-to-day practice without added burden. Impact: The AI-enabled assistant has improved frontline confidence with high engagement and scalable clinical support. With deployment to 1,000 ANMs in Uttar Pradesh and 50 ANMs in Telangana serving 2,00,000+ pregnant women, 70% of ANMs have asked at least one question and 85% of activated users have returned for a second conversation. The system has handled over 12,000 real clinical queries with 98% positive user feedback and 97% of responses rated satisfactory by domain experts. The solution resolved approximately 80% of queries without trainer intervention, reducing trainer workload and the need for refresher sessions. Learnings for Others: Supporting Decisions at the Point of Care: Embedding protocol-aligned support within WhatsApp enabled real-time assistance within existing workflows. Scaling with Clinical Safeguards: Human-in-the-loop escalation ensured safety while allowing the solution to scale effectively. Learning Embedded in Daily Practice: Bite-sized learning integrated into routine interactions enabled continuous capacity building without added burden.",
+    "image": "/uploads/studies/1773728655_logo_1770100386_logo_armman-thumbnail.jpg",
+    "url": "https://dt4si.com/digital-transformation-case-studies/demo-design-case-study",
+    "slug": "demo-design-case-study",
+    "keyword": "Frontline Health Worker Support, Maternal Health, AI"
   }
 ]
