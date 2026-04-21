@@ -8,8 +8,16 @@ Usage: python src/utils/fetch_data_from_apis.py
 import requests
 import json
 import os
+import sys
 from typing import Dict, List, Any, Tuple
 from pathlib import Path
+
+# Ensure emoji/log output works on Windows terminals using legacy encodings.
+if hasattr(sys.stdout, "reconfigure"):
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
 
 # API Configuration
 API_BASE_URL = "https://dt4si.com/api/v1"

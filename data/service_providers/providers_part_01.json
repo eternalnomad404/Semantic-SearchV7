@@ -1,152 +1,192 @@
 [
   {
-    "id": 21,
+    "id": 31,
+    "title": "10x Impact Labs",
+    "short_description": "Re-imagining tech, data and design to scale impact. We collaborate with non-profits, philanthropies, social enterprises and governments in the Global South & Pan India.",
+    "long_description": "Re-imagining tech, data and design to scale impact. We collaborate with non-profits, philanthropies, social enterprises and governments in the Global South & Pan India.",
+    "image": "/uploads/1776757159_10x.webp",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/10x-impact-labs",
+    "slug": "10x-impact-labs",
+    "keyword": ""
+  },
+  {
+    "id": 46,
+    "title": "ARTPARK @ IISc (AI & Robotics Technology Park)",
+    "short_description": "AI and robotics research foundation building open digital infrastructure and co-innovation systems for societal impact.",
+    "long_description": "AI and robotics research foundation building open digital infrastructure and co-innovation systems for societal impact.",
+    "image": "/uploads/1776280794_artpark.webp",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/artpark-at-iisc-ai-robotics-technology-park",
+    "slug": "artpark-at-iisc-ai-robotics-technology-park",
+    "keyword": ""
+  },
+  {
+    "id": 48,
+    "title": "Consuma AI (Consuma Technologies Pvt Ltd)",
+    "short_description": "AI-powered research and programme delivery systems for nonprofits and public sector scale.",
+    "long_description": "AI-powered research and programme delivery systems for nonprofits and public sector scale.",
+    "image": "/uploads/1776281298_consuma.webp",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/consuma-ai-consuma-technologies-pvt-ltd",
+    "slug": "consuma-ai-consuma-technologies-pvt-ltd",
+    "keyword": ""
+  },
+  {
+    "id": 49,
     "title": "DGTL360",
-    "short_description": "Full-service digital agency specializing in design, development, marketing, and analytics services.",
-    "long_description": "DGTL360 is a full-service digital agency offering design, development, digital marketing, and analytics services. The organization helps brands and institutions build intuitive digital experiences, strengthen online visibility, and improve customer engagement through data-driven strategies that support sustainable digital growth.",
-    "image": "/uploads/1764164321_dgtl-360.jpg",
+    "short_description": "Helping brands and institutions build intuitive digital experiences, strengthen online visibility, and improve engagement through data-driven and AI-enabled strategies.",
+    "long_description": "Full-service digital agency offering design, development, digital marketing, and analytics services.\r\n\r\nHelping brands and institutions build intuitive digital experiences, strengthen online visibility, and improve engagement through data-driven and AI-enabled strategies.",
+    "image": "/uploads/1776260563_dgtl360.gif",
     "url": "https://dt4si.com/solution-providers-for-non-profits/dgtl-360",
     "slug": "dgtl-360",
-    "keyword": "Grant Management Solutions, Analytics & Visualization, Branding & Design Services, Cloud Infrastructure, Content Creation & Storytelling, Custom Software Development, Data Management, Digital Forms, Digital Strategy & Transformation, EdTech & Learning Platforms, Security & IT Support, Surveys, Technology Consulting & Advisory, UI, UX, Website & Digital Marketing Services, AI & Insights, Capacity Building & Change Enablement, Christel House International, Cloud, Communications & Talent Systems, Content, Data, Design, Digital Strategy & Advisory, Email Marketing, Foundation for Development Initiatives, GTM Strategy, Generative Engine Optmisation, Google Ads, Google Grants, IT & Security, Indian School of Development Management, Learning, Linkedin Ads etc, Meta Ads, Paid Media, Roots Foundation, SM Sehgal Foundation, Social Media Marketing, Software & Platform Development, UX & Digital Presence, analytics services, conversions through intuitive digital experiences, data‑driven growth strategies, development, engagement, marketing,Sector Agnostic, Pan India"
+    "keyword": ""
   },
   {
-    "id": 1,
-    "title": "Designscape Technologies Private Limited",
-    "short_description": "Tech company specializing in custom web-based solutions using Microsoft Technologies.",
-    "long_description": "Designscape Technologies is a digital solutions company providing web development, mobile application development, and cloud hosting services. The organization also supports digital marketing, domain registration, and e-commerce solutions, enabling organizations to build scalable digital platforms and strengthen their online presence and customer engagement.",
-    "image": "/uploads/1764164341_designscape-logo.jpg",
+    "id": 45,
+    "title": "Designscape",
+    "short_description": "End-to-end web-based software and mobile solutions provider with over 25 years of experience and 3,000+ projects delivered.",
+    "long_description": "End-to-end web-based software and mobile solutions provider with over 25 years of experience and 3,000+ projects delivered.",
+    "image": "/uploads/1776236412_1764164341_designscape-logo.jpg",
     "url": "https://dt4si.com/solution-providers-for-non-profits/designscape",
     "slug": "designscape",
-    "keyword": "Custom Software Development, CEQUE, Cloud Hosting, Designscape provides end-to-end Web Solutions, Domain Registration, FMCH India, Kherwadi Social Welfare Association, Mobile App Development, Software & Platform Development, Vipla Foundation, Web Applications, Web Promotions, e-Commerce Support, SDG 3: Good Health, SDG 4: Quality Education, Well-being, Pan India"
+    "keyword": ""
   },
   {
-    "id": 5,
-    "title": "Dhwani Rural Information Systems Private Limited",
-    "short_description": "Social impact technology consulting firm empowering non-profits via digital transformation.",
-    "long_description": "Dhwani Rural Information Systems is a technology consulting firm focused on digital transformation for nonprofits and social enterprises. The organization designs data systems, digital platforms, and monitoring solutions that help development organizations improve program management, data-driven decision-making, and operational efficiency.",
-    "image": "/uploads/1764164373_dhwani-logo.jpg",
-    "url": "https://dt4si.com/solution-providers-for-non-profits/dhwani-rural-information-systems-private-limited",
-    "slug": "dhwani-rural-information-systems-private-limited",
-    "keyword": "Grant Management Solutions, AI & Data Science Solutions, Analytics & Visualization, Capacity Building, Cloud Infrastructure, Custom Software Development, Data Management, Digital Forms, Digital Strategy & Transformation, EdTech & Learning Platforms, Program Automation & Operations Support, Security & IT Support, Stakeholder Facilitation & Adoption Support, Surveys, Technology Consulting & Advisory, Training & Mentorship Programs, CRM, Collaboration Suite, Digital Forms, ERP, Frappe Implementation, Glific, Grant Management Software, Learning Management System, Moodle, Productivity, Surveys, WhatsApp-based Communication Platform, Workflow Automation, Zoho, mForm, mGrant, AI & Insights, Capacity Building & Change Enablement, Cloud, Data, Digital Strategy & Advisory, IT & Security, Learning, PRADAN, Software & Platform Development, TRIF, Tata Trust, empowering nonprofits, social enterprises through digital transformation, Pan India"
+    "id": 32,
+    "title": "Dhwani Rural Information Systems (Dhwani RIS)",
+    "short_description": "Technology solutions for nonprofits, foundations, and CSR initiatives.",
+    "long_description": "Technology solutions for nonprofits, foundations, and CSR initiatives.",
+    "image": "/uploads/1775988385_dhwani.webp",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/dhwani-rural-information-systems-dhwani-ris",
+    "slug": "dhwani-rural-information-systems-dhwani-ris",
+    "keyword": ""
   },
   {
-    "id": 23,
+    "id": 47,
+    "title": "Digital For Nonprofits (D4NP)",
+    "short_description": "Helping nonprofits unlock technology grants, build digital strategy, and integrate AI for sustainable growth.",
+    "long_description": "Helping nonprofits unlock technology grants, build digital strategy, and integrate AI for sustainable growth.",
+    "image": "/uploads/1776239737_digital-for-nonprofits.jpg",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/digital-for-nonprofits-d4np",
+    "slug": "digital-for-nonprofits-d4np",
+    "keyword": ""
+  },
+  {
+    "id": 42,
     "title": "Greenpepper+AI",
-    "short_description": "Generative AI studio helping enterprises strategize, deploy, and scale AI content initiatives.",
-    "long_description": "GreenPepper+AI is a generative AI studio that helps organizations explore and implement artificial intelligence solutions for business and operational transformation. Through advisory engagements, workshops, and transformation sprints, the studio enables enterprises to understand AI opportunities and scale responsible adoption across teams and processes.",
-    "image": "/uploads/1764331447_greenpepper.png",
+    "short_description": "A generative AI studio helping organisations explore, adopt, and scale AI for business and operational transformation.",
+    "long_description": "A generative AI studio helping organisations explore, adopt, and scale AI for business and operational transformation.",
+    "image": "/uploads/1776762988_greenpepper.webp",
     "url": "https://dt4si.com/solution-providers-for-non-profits/greenpepperai",
     "slug": "greenpepperai",
-    "keyword": "Capacity Building, Content Creation & Storytelling, Stakeholder Facilitation & Adoption Support, Training & Mentorship Programs, Capacity Building & Change Enablement, Communications & Talent Systems, Content, ILSS, Learning, Nudge Foundation, The Social Town, deploy, scale AI content initiatives, strategic interventions, strategize, transformation sprints, Sector Agnostic, Pan India"
+    "keyword": ""
   },
   {
-    "id": 14,
+    "id": 43,
     "title": "Kenpath Technologies Private Limited",
-    "short_description": "Technology company creating bespoke solutions and scaling technology for an inclusive future.",
-    "long_description": "Kenpath Technologies is an AI-focused engineering company that builds technology platforms addressing large-scale social challenges. The organization combines artificial intelligence, voice, and computer vision technologies to develop multilingual, accessible solutions across sectors such as agriculture, education, disability inclusion, and climate resilience.",
-    "image": "/uploads/1764331481_kenpath.png",
-    "url": "https://dt4si.com/solution-providers-for-non-profits/kenpath-technologies-pvt-ltd",
-    "slug": "kenpath-technologies-pvt-ltd",
-    "keyword": "Grant Management Solutions, AI & Data Science Solutions, Analytics & Visualization, Custom Software Development, Data Management, Digital Forms, Digital Strategy & Transformation, EdTech & Learning Platforms, Program Automation & Operations Support, Surveys, Technology Consulting & Advisory, IVR systems, Svara, TTS, assistive technologies, calm, frontline workers, government helplines, human-like speech, is their AI-powered text-to-speech, serious, visually impaired users, voice-based applications, AI & Insights, Apurva, ApurvaIDR platform, Capacity Building & Change Enablement, Center for Exponential Change, Centre of Social Solutions, CoSS, Data, Digital Strategy & Advisory, EkStep Foundation, Enable India, IDR, Kenpath blends AI, Learning, Open Inclusion, SELCO Foundation, Software & Platform Development, Technology company creating bespoke solutions, Wadhwani Foundation, climate, community platforms, create meaningful impact, disability inclusion, education, foundations to design, inclusive Our work spans agriculture, multilingual, non-profits, reach last-mile users, social enterprises, voice, Communities, Infrastructure, Innovation, SDG 11: Sustainable Cities, SDG 13: Climate Action, SDG 1: No Poverty, SDG 4: Quality Education, SDG 6: Clean Water, SDG 9: Industry, Sanitation, Sector Agnostic, Pan India"
+    "short_description": "Partnering with governments, enterprises, and mission-driven organisations to design and deploy intelligent systems for large-scale impact.",
+    "long_description": "Partnering with governments, enterprises, and mission-driven organisations to design and deploy intelligent systems for large-scale impact.",
+    "image": "/uploads/1776233965_1764331481_kenpath.png",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/kenpath-technologies-private-limited",
+    "slug": "kenpath-technologies-private-limited",
+    "keyword": ""
   },
   {
-    "id": 19,
-    "title": "Litmus ink",
-    "short_description": "Digital experience services creating brand identities and digital experiences for small businesses.",
-    "long_description": "Litmus Ink is a creative communications agency that integrates design, storytelling, and technology to help organizations communicate ideas effectively. The agency partners with corporates, nonprofits, academic institutions, and startups to develop strategic communication, visual design, and knowledge products that strengthen engagement and impact.",
-    "image": "/uploads/1764331502_Litmus.png",
-    "url": "https://dt4si.com/solution-providers-for-non-profits/litmusink",
-    "slug": "litmusink",
-    "keyword": "Branding & Design Services, Content Creation & Storytelling, Custom Software Development, EdTech & Learning Platforms, UI, UX, Website & Digital Marketing Services, Animation, Branding, Dashboards, Data Collection Tools, Design, LMS, Mobile Applications, Packaging, Print, Production, Social Media, Technology, Videos, Websites, Asha Ventures, Capacity Building & Change Enablement, Communications & Talent Systems, Content, Design, Janaagraha, Learning, Software & Platform Development, The Blended Finance Company, The Education Alliance, UX & Digital Presence, Villgro, academic institutions, communication, development sector organizations, digital experiences for small businesses, eGov Foundation, emerging startups, partnering with global corporates, technology to help organizations think, Sector Agnostic, Pan India"
+    "id": 41,
+    "title": "Litmus Ink",
+    "short_description": "Works with corporates, nonprofits, academic institutions, and startups to develop communication, design, and knowledge products.",
+    "long_description": "A creative communications agency integrating design, storytelling, and technology.\r\nWorks with corporates, nonprofits, academic institutions, and startups to develop communication, design, and knowledge products.",
+    "image": "/uploads/1776229809_1764331502_Litmus.png",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/litmus-ink",
+    "slug": "litmus-ink",
+    "keyword": ""
   },
   {
-    "id": 27,
-    "title": "Logicalwhy consulting Private Limited",
-    "short_description": "Logicalwhy helps organizations innovate with technology that builds trust, empathy, and meaningful business relationships for shared success.",
-    "long_description": "Logicalwhy Consulting is a technology and strategy consulting firm focused on purpose-driven innovation and digital transformation. The organization helps businesses design scalable digital solutions and technology strategies that strengthen collaboration, enable sustainable growth, and build trusted relationships across stakeholders and ecosystems.",
-    "image": "/uploads/1764331560_logicalwhy.png",
+    "id": 40,
+    "title": "Logicalwhy Consulting Private Limited",
+    "short_description": "A technology and strategy consulting firm focused on purpose-driven innovation and digital transformation.",
+    "long_description": "A technology and strategy consulting firm focused on purpose-driven innovation and digital transformation.",
+    "image": "/uploads/1776228811_1764331560_logicalwhy.png",
     "url": "https://dt4si.com/solution-providers-for-non-profits/logicalwhy-consulting-private-limited",
     "slug": "logicalwhy-consulting-private-limited",
-    "keyword": "Grant Management Solutions, Analytics & Visualization, Data Management, Digital Forms, Digital Strategy & Transformation, Surveys, Technology Consulting & Advisory, Salesforce Consulting Services, AI & Insights, Data, Digital Strategy & Advisory, Magicbus, Smile Foundation, Software & Platform Development, empathy, mutual respect, shared success, trust, Pan India"
+    "keyword": ""
   },
   {
-    "id": 17,
+    "id": 44,
     "title": "Microware Computing and Consulting",
-    "short_description": "Tech company providing real-time analytics, security, and off-shore software development.",
-    "long_description": "Microware Computing and Consulting is a technology solutions provider with over two decades of experience serving governments, nonprofits, and enterprises. The company develops analytics platforms, contact center systems, security solutions, and monitoring and evaluation tools that enable organizations to manage operations and data more effectively.",
-    "image": "/uploads/1764331589_microware.png",
+    "short_description": "Builds analytics platforms, contact centre systems, and M&E tools for programme and data management.",
+    "long_description": "Technology solutions provider with 20+ years of experience across governments, nonprofits, and enterprises.\r\n\r\nBuilds analytics platforms, contact centre systems, and M&E tools for programme and data management.",
+    "image": "/uploads/1776762938_microware.webp",
     "url": "https://dt4si.com/solution-providers-for-non-profits/microware-computing-and-consulting",
     "slug": "microware-computing-and-consulting",
-    "keyword": "Grant Management Solutions, AI & Data Science Solutions, Analytics & Visualization, Branding & Design Services, Custom Software Development, Data Management, Digital Forms, EdTech & Learning Platforms, Surveys, Technology Consulting & Advisory, UI, UX, Website & Digital Marketing Services, Avaya, Billing Application, ECHI Loader, GRASP, ISwadesh, Insights, Micro CVCT, Micro charge, Microlytics, Telephony Survey, Tpin Server, ADB, AI & Insights, Aids, Arpan, Azim Premji Philanthropic Initiatives, BRLF, Bapu Trust, Capacity Building & Change Enablement, Clinton Health Access Initiatives, Communications & Talent Systems, Content, Data, Design, Digital Strategy & Advisory, Educate Girls, Europe, FAO, Fairtrade, GIZ, Geroge Institute, Harsha Trust, INGO, India Hiv, Jhpiego, Learning, M&E for banks, Miracle Feet, NGO’s, OXFAM, Pradhan, Reliance Foundation, Save the Children, Software & Platform Development, Srijan, Tata Trust, Tech company providing real-time analytics, The Alliance, UNDP, UNFPA, UNICEF, UNOPS NIPI, UNWomen, UX & Digital Presence, WHO, WOtr, World Bank, as well as security solutions, corporates, off-shore software development, security, utilized by Governments, SDG 10: Reduced Inequalities, SDG 13: Climate Action, SDG 1: No Poverty, SDG 2: Zero Hunger, SDG 3: Good Health, SDG 4: Quality Education, SDG 5: Gender Equality, SDG 6: Clean Water, Sanitation, Well-being, Pan India"
+    "keyword": ""
   },
   {
-    "id": 13,
+    "id": 34,
     "title": "Platform Commons",
-    "short_description": "Co-creates integrated digital platforms to drive social impact and sector efficiency.",
-    "long_description": "Platform Commons builds digital platforms that enable governments, nonprofits, and communities to collaborate and deliver social impact at scale. Its solutions support sectors such as livelihoods, agriculture, education, and civic engagement while strengthening monitoring, volunteer management, and program operations across mission-driven organizations.",
-    "image": "/uploads/1764338446_platform.jpg",
+    "short_description": "Builds digital platforms that enable governments, nonprofits, and communities to collaborate and deliver social impact at scale.",
+    "long_description": "Builds digital platforms that enable governments, nonprofits, and communities to collaborate and deliver social impact at scale.",
+    "image": "/uploads/1776141730_platform-commons.webp",
     "url": "https://dt4si.com/solution-providers-for-non-profits/platform-commons",
     "slug": "platform-commons",
-    "keyword": "Grant Management Solutions, AI & Data Science Solutions, Analytics & Visualization, Branding & Design Services, Capacity Building, Cloud Infrastructure, Content Creation & Storytelling, Custom Software Development, Data Management, Digital Forms, Digital Strategy & Transformation, EdTech & Learning Platforms, Program Automation & Operations Support, Security & IT Support, Stakeholder Facilitation & Adoption Support, Surveys, Technology Consulting & Advisory, Training & Mentorship Programs, UI, UX, Agri, Civic Engagement, Education, Health, AI & Insights, Capacity Building & Change Enablement, Cloud, Communications & Talent Systems, Content, Corporate Volunteering & Giving, Data, Digital Strategy & Advisory, Employment Platform, Evaluation Systems, Fellowship Platform, Fundraising Platform, IT & Security, Learning, Make a Difference, Nonprofit ERPs, Piramal Foundation, SBI Foundation, Skilling, Software & Platform Development, Teach for India, Volunteer Management tools, Volunteer Platform, agriculture, amplify their reach Together, civic engagement have empowered millions, civil societies, driving efficiency, education, governments, optimize operations, sector efficiency, Communities, Economic Growth, Infrastructure, Innovation, Justice, Production, SDG 10: Reduced Inequalities, SDG 11: Sustainable Cities, SDG 12: Responsible Consumption, SDG 13: Climate Action, SDG 15: Life on Land, SDG 16: Peace, SDG 1: No Poverty, SDG 2: Zero Hunger, SDG 3: Good Health, SDG 4: Quality Education, SDG 5: Gender Equality, SDG 8: Decent Work, SDG 9: Industry, Sector Agnostic, Strong Institutions, Well-being, Pan India"
+    "keyword": ""
   },
   {
-    "id": 3,
+    "id": 39,
     "title": "Project Tech4Dev",
-    "short_description": "Initiative empowering non-profits with open-source tech, platforms, and leadership support.",
-    "long_description": "Project Tech4Dev is a nonprofit organization that helps civil society organizations adopt technology and data to improve program outcomes. The initiative builds open-source platforms, deploys fractional technology leadership, and runs sector capacity-building programs including hackathons, sprints, and training cohorts.",
-    "image": "/uploads/1764331689_project-tech4dev.png",
+    "short_description": "A nonprofit that helps civil society organisations adopt technology and data to improve programme outcomes.",
+    "long_description": "A nonprofit that helps civil society organisations adopt technology and data to improve programme outcomes.",
+    "image": "/uploads/1776763062_techdev.webp",
     "url": "https://dt4si.com/solution-providers-for-non-profits/project-tech4dev",
     "slug": "project-tech4dev",
-    "keyword": "AI & Data Science Solutions, Analytics & Visualization, Capacity Building, Custom Software Development, Data Management, Digital Strategy & Transformation, Technology Consulting & Advisory, Training & Mentorship Programs, Avni, Dalgo, Field data collection platform, Glific, Kaapi, Sashakt, AI & Insights, ATE Chandra Foundation, Avni, Capacity Building & Change Enablement, Dalgo, Data, Digital Strategy & Advisory, Learning, Make a Difference, Noora Health, Software & Platform Development, Strengthening sector capacity via hackathons, cohorts, data for measurable, leadership support., platforms, sprints, workshops, Pan India"
+    "keyword": ""
   },
   {
-    "id": 26,
+    "id": 38,
     "title": "Stotio",
-    "short_description": "Stotio helps businesses grow faster by using AI and storytelling to create clear, compelling narratives.",
-    "long_description": "Stotio helps organizations develop strategic growth narratives by combining storytelling frameworks with data, behavioural science, and AI-enabled tools. The platform supports creation of investment decks, sales narratives, brand positioning, and thought leadership content, helping organizations communicate value clearly and strengthen strategic decision-making.",
-    "image": "/uploads/1764331777_stotio.png",
+    "short_description": "Helps organisations develop strategic growth narratives using storytelling frameworks, data, behavioural science, and AI-enabled tools.",
+    "long_description": "Helps organisations develop strategic growth narratives using storytelling frameworks, data, behavioural science, and AI-enabled tools.",
+    "image": "/uploads/1776160223_1764331777_stotio.png",
     "url": "https://dt4si.com/solution-providers-for-non-profits/stotio",
     "slug": "stotio",
-    "keyword": "AI & Data Science Solutions, Analytics & Visualization, Capacity Building, Content Creation & Storytelling, Data Management, Digital Strategy & Transformation, EdTech & Learning Platforms, Technology Consulting & Advisory, Training & Mentorship Programs, Website & Digital Marketing Services, Build growth narratives: a, Data storytelling workshops, Field assessment platform, Thought leadership, b, c, e, f, for internal reviews, for investment from donors, for outreach, impact reports etc, sales efforts d, with data, lasting brands, compelling narratives, data, faster, marketing, sales, science of storytelling, sell better, simpler, storytelling to create clear, tailored training to maximize outcomes, to champion thought leadership, with their original frameworks, Economic Growth, Infrastructure, Innovation, SDG 10: Reduced Inequalities, SDG 8: Decent Work, SDG 9: Industry, Pan India"
+    "keyword": ""
   },
   {
-    "id": 16,
-    "title": "Synergy Connect Data Innovations Private Limited",
-    "short_description": "Technology partner providing ERP solution for non-profit and CSR digital transformation.",
-    "long_description": "SynergyConnect Data Innovations provides technology solutions that support the digital transformation of nonprofits and CSR foundations. Its Social Integrated Platform offers ERP capabilities for program management, reporting, and stakeholder coordination, helping organizations digitize processes and improve operational efficiency and transparency.",
-    "image": "/uploads/1764331817_synergy-connect.png",
-    "url": "https://dt4si.com/solution-providers-for-non-profits/synergyconnect-data-innovations-private-limited",
-    "slug": "synergyconnect-data-innovations-private-limited",
-    "keyword": "Grant Management Solutions, AI & Data Science Solutions, Analytics & Visualization, Branding & Design Services, Capacity Building, Content Creation & Storytelling, Custom Software Development, Data Management, Digital Forms, Digital Strategy & Transformation, EdTech & Learning Platforms, Field Research Design & Execution, Program Automation & Operations Support, Stakeholder Facilitation & Adoption Support, Surveys, Technology Consulting & Advisory, Training & Mentorship Programs, UI, UX, AI & Insights, BAIF, CSR digital transformation., Capacity Building & Change Enablement, Communications & Talent Systems, Content, Data, Digital Strategy & Advisory, Learning, M&E & Field Enablement, NASSCOM, Research, Software & Platform Development, Tata Turst, Infrastructure, Innovation, SDG 1: No Poverty, SDG 2: Zero Hunger, SDG 3: Good Health, SDG 4: Quality Education, SDG 9: Industry, Sector Agnostic, Well-being, Pan India"
+    "id": 37,
+    "title": "SynergyConnect",
+    "short_description": "A SaaS-based platform for nonprofits, CSR foundations, and development sector organisations. Supports programme management, reporting, and data-driven decision-making.",
+    "long_description": "A SaaS-based platform for nonprofits, CSR foundations, and development sector organisations.",
+    "image": "/uploads/1776145043_1764331817_synergy-connect.png",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/synergyconnect",
+    "slug": "synergyconnect",
+    "keyword": ""
   },
   {
-    "id": 11,
+    "id": 36,
     "title": "Tech for Social Good",
-    "short_description": "SaaS platform automating operations, reporting; offering discounted software, HRMS/LMS.",
-    "long_description": "Tech for Social Good is a technology consulting startup that helps nonprofits adopt digital tools to streamline operations and data management. The organization supports implementation of platforms such as Zoho CRM, HR, and finance tools, while also offering proprietary SaaS solutions including school management and HR systems.",
-    "image": "/uploads/1764331834_tech-for-social-good.png",
+    "short_description": "A technology consulting startup supporting nonprofits with digital tools, platform implementation, and SaaS solutions for programme and organisational management.",
+    "long_description": "A technology consulting startup supporting nonprofits with digital tools, platform implementation, and SaaS solutions for programme and organisational management.",
+    "image": "/uploads/1776143745_1764331834_tech-for-social-good.png",
     "url": "https://dt4si.com/solution-providers-for-non-profits/tech-for-social-good",
     "slug": "tech-for-social-good",
-    "keyword": "Grant Management Solutions, Analytics & Visualization, Capacity Building, Data Management, Digital Forms, Digital Strategy & Transformation, Program Automation & Operations Support, Surveys, Technology Consulting & Advisory, Training & Mentorship Programs, HR Software, HRMS, LMS, Learning Center Management System, Learning Management System, School, AI & Insights, AktivAsia, Capacity Building & Change Enablement, Data, Digital Strategy & Advisory, HR Software, HRMS, LMS, Learning, Quest Alliance, Ratna Nidhi Charitable Trust, SaaS platform automating operations, Software & Platform Development, Zoho Bigin Additionally, Zoho Expense, Zoho People, including the School Management System, offering discounted software, reporting, train, Pan India"
+    "keyword": ""
   },
   {
-    "id": 8,
-    "title": "Tekdi technologies private limited",
-    "short_description": "IT solutions provider focusing on enterprise-class digital solutions for societal transformation.",
-    "long_description": "Tekdi Technologies is a technology company that develops scalable digital platforms, digital public infrastructure, and open-source solutions for governments, nonprofits, and enterprises. The organization builds technology systems across sectors such as education, governance, and skilling to enable inclusive, population-scale digital transformation.",
-    "image": "/uploads/1764331887_tekdi.png",
+    "id": 35,
+    "title": "Tekdi Technologies Private Limited",
+    "short_description": "A technology company building scalable digital platforms, digital public infrastructure, and open-source systems for governments, nonprofits, and enterprises.",
+    "long_description": "A technology company building scalable digital platforms, digital public infrastructure, and open-source systems for governments, nonprofits, and enterprises.",
+    "image": "/uploads/1776142771_1764331887_tekdi.png",
     "url": "https://dt4si.com/solution-providers-for-non-profits/tekdi-technologies-private-limited",
     "slug": "tekdi-technologies-private-limited",
-    "keyword": "Grant Management Solutions, AI & Data Science Solutions, Analytics & Visualization, Branding & Design Services, Capacity Building, Cloud Infrastructure, Custom Software Development, Data Management, Digital Forms, Digital Strategy & Transformation, EdTech & Learning Platforms, Program Automation & Operations Support, Security & IT Support, Stakeholder Facilitation & Adoption Support, Surveys, Technology Consulting & Advisory, Training & Mentorship Programs, UI, UX, Using a mobile application, DPI, Digital Public Good, LMS, ONEST integration for, Sunbird Lite - An advanced, Sunbird SaaS - The affordable, a scan, attendance, built on microservices, capacity building, certification at a national scale, content consumption, content distribution at massive scale, customer, data-driven decision-making, enabling contextual, enabling robust user onboarding, event management, featuring a native mobile app, gamification, like assessment scores, nurture relationships, or surveys, partner training, platform for large-scale learning deployments, targeted social impact programs, text, With a product-first approach, AI & Insights, CDPI, COSS, Capacity Building & Change Enablement, Centre for Exponential Change, Cloud, DPG, DPI, Data, Digital Public Goods, Digital Strategy & Advisory, Educate Girls, EkStep Foundation, GenAI, Generative AI, IT & Security, Key Education Foundation, Learning, Piramal Foundation, Piramal Swasthya Management, Pratham Education Foundation, Pratham International, Research Institute, Shikshalokam, Software & Platform Development, Tech Mahindra Foundation, The company specializes in designing, Transform Schools, a legacy of engineering excellence, adaptive learning tools, auctions, delivering secure, eGov Foundation, ensure cost-efficiency, governance, inclusive, nonprofits, open-source, predictive analytics, social enterprises, sustainable solutions that scale, transportation, Clean Energy, Communities, Economic Growth, Infrastructure, Innovation, SDG 10: Reduced Inequalities, SDG 11: Sustainable Cities, SDG 13: Climate Action, SDG 1: No Poverty, SDG 2: Zero Hunger, SDG 3: Good Health, SDG 4: Quality Education, SDG 5: Gender Equality, SDG 7: Affordable, SDG 8: Decent Work, SDG 9: Industry, Sector Agnostic, Well-being, Pan India"
+    "keyword": ""
   },
   {
-    "id": 6,
+    "id": 33,
     "title": "Think201 Creative Studio LLP",
-    "short_description": "Sector-agnostic technology and design company crafting custom digital solutions.",
-    "long_description": "Think201 Creative Studio is a technology and design company that builds digital products, platforms, and user experiences for organizations across sectors. By combining design thinking with technology development, the studio helps organizations translate innovative ideas into functional digital solutions and scalable digital platforms.",
-    "image": "/uploads/1764331902_think201.png",
-    "url": "https://dt4si.com/solution-providers-for-non-profits/think201",
-    "slug": "think201",
-    "keyword": "AI & Data Science Solutions, Branding & Design Services, Cloud Infrastructure, Content Creation & Storytelling, Custom Software Development, Digital Strategy & Transformation, Security & IT Support, Technology Consulting & Advisory, UI, UX, Website & Digital Marketing Services, AI & Insights, Avni, CGAP, Cloud, Communications & Talent Systems, Content, Dalberg, Dalgo, Data, Design, Digital Strategy & Advisory, ESMP, IT & Security, Indus Action, Milaan Foundation, Saajha, Sector-agnostic technology, Software & Platform Development, Think201 is a sector-agnostic technology, UX & Digital Presence, WorldBank, design company, Sector Agnostic, Pan India"
+    "short_description": "A technology and design company building digital products, platforms, and user experiences across sectors.",
+    "long_description": "A technology and design company building digital products, platforms, and user experiences across sectors.",
+    "image": "/uploads/1775988464_think21.webp",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/think201-creative-studio-llp",
+    "slug": "think201-creative-studio-llp",
+    "keyword": ""
   }
 ]

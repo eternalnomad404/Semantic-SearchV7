@@ -3,10 +3,18 @@ print("Script started...")
 import json
 import faiss
 import os
+import sys
 from sentence_transformers import SentenceTransformer
 from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
 import pickle
+
+# Ensure emoji/log output works on Windows terminals using legacy encodings.
+if hasattr(sys.stdout, "reconfigure"):
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
 
 # Import the data loader utility
 from data_loader import load_category_data

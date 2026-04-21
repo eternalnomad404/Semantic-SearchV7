@@ -1,42 +1,12 @@
 [
   {
-    "id": 187,
-    "title": "Zoho Forms",
-    "short_description": "Online form builder integrated with Zoho apps.",
-    "long_description": "Zoho Forms is an online form builder that allows users to create and publish web forms for various purposes, including data collection, registrations, and feedback. It offers features for customizing forms, managing submissions, and integrating with other Zoho applications.",
-    "image": "/uploads/1764328124_zoho-forma.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits/zoho-forms",
-    "slug": "zoho-forms",
-    "category": [
-      "Monitoring and Evaluation"
-    ],
-    "sub_category": [
-      "Data Collection"
-    ]
-  },
-  {
-    "id": 119,
-    "title": "Zoho One",
-    "short_description": "Suite of 50+ integrated business apps (CRM, finance, HR, etc.).",
-    "long_description": "Zoho One is a comprehensive suite of over 50 integrated business applications that covers various aspects of business operations, including CRM, finance, HR, marketing, collaboration, and IT. It aims to provide a unified platform for running an entire business.",
-    "image": "/uploads/1764328144_zoho-one.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits/zoho-one",
-    "slug": "zoho-one",
-    "category": [
-      "Human Resources"
-    ],
-    "sub_category": [
-      "Recruitment"
-    ]
-  },
-  {
-    "id": 79,
-    "title": "Zoho Payroll",
-    "short_description": "Cloud payroll for salary processing and statutory compliance.",
-    "long_description": "Zoho Payroll is a cloud-based payroll management software that helps businesses process salaries, manage statutory compliances, and handle employee payments. It automates payroll calculations and tax deductions to ensure accuracy and compliance.",
-    "image": "/uploads/1764328161_zoho-payroll.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits/zoho-payroll",
-    "slug": "zoho-payroll",
+    "id": 80,
+    "title": "Zimyo",
+    "short_description": "HR and payroll suite with attendance, leave, and performance.",
+    "long_description": "Zimyo is an HR and payroll software platform that offers solutions for employee management, attendance, leave, payroll, performance, and recruitment. It aims to provide an integrated platform for HR automation and employee engagement.",
+    "image": "/uploads/1764327627_zimyo.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zimyo",
+    "slug": "zimyo",
     "category": [
       "Finance and Accounts"
     ],
@@ -45,18 +15,127 @@
     ]
   },
   {
-    "id": 111,
+    "id": 73,
+    "title": "Zoho Analytics",
+    "short_description": "Self-service BI to connect data sources and build dashboards and reports.",
+    "long_description": "Zoho Analytics is a self-service business intelligence (BI) and data analytics platform. It enables users to easily connect to diverse data sources, prepare, and visualize their data through interactive dashboards and reports. The platform includes features for data preparation, a range of visualization options, and capabilities that assist in identifying insights from data, monitoring performance indicators, and supporting decision-making based on data.",
+    "image": "/uploads/1764327647_zoho-analytics.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-analytics",
+    "slug": "zoho-analytics",
+    "category": [
+      "Data & Analytics"
+    ],
+    "sub_category": [
+      "Data Analysis"
+    ]
+  },
+  {
+    "id": 328,
+    "title": "Zoho Books",
+    "short_description": "Online accounting and GST-compliant financial management for nonprofits and social purpose organisations",
+    "long_description": "Zoho Books is a cloud-based accounting platform used by organisations to manage invoicing, expenses, bank reconciliation, and financial reporting in a single system. It supports GST-compliant workflows in India, enabling organisations to generate invoices, track taxes, and maintain structured financial records.",
+    "image": "/uploads/1776670476_zoho books-1.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-books-1",
+    "slug": "zoho-books-1",
+    "category": [
+      "Finance and Accounts"
+    ],
+    "sub_category": [
+      "Payroll Management"
+    ]
+  },
+  {
+    "id": 284,
+    "title": "Zoho CRM",
+    "short_description": "Customisable CRM for managing donors, beneficiaries, and operations at scale",
+    "long_description": "Zoho CRM is a flexible CRM platform that enables nonprofits to manage relationships, workflows, and data across fundraising, programme delivery, and operations within a single system.",
+    "image": "/uploads/1776335161_Zoho CRM.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-crm-1",
+    "slug": "zoho-crm-1",
+    "category": [
+      "Fundraising"
+    ],
+    "sub_category": [
+      "CRM/Grant/Donor Management"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Zoho Creator",
+    "short_description": "Low-code platform to build custom web/mobile apps with forms, workflows, and basic analytics.",
+    "long_description": "Zoho Creator is a low-code application development platform that allows users to build custom web and mobile applications. It includes features for data collection, workflow automation, business intelligence, and integrations, enabling the creation of tailored business solutions.",
+    "image": "/uploads/1764328093_zoho-creator.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-creator",
+    "slug": "zoho-creator",
+    "category": [
+      "AI Tools",
+      "Office Automation"
+    ],
+    "sub_category": [
+      "Digital Infrastructure",
+      "Low-Code/No-Code Development",
+      "Agent Building"
+    ]
+  },
+  {
+    "id": 290,
+    "title": "Zoho Forms",
+    "short_description": "Online form builder for structured data collection and workflow automation",
+    "long_description": "Zoho Forms is a no-code form builder used to create online forms, collect structured data, and manage workflows such as registrations, applications, and approvals. It is typically used in operational contexts where form submissions are part of a broader process rather than standalone data collection.",
+    "image": "/uploads/1776359850_zoho-forms.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-forms-1",
+    "slug": "zoho-forms-1",
+    "category": [
+      "Monitoring and Evaluation"
+    ],
+    "sub_category": [
+      "Data Collection"
+    ]
+  },
+  {
+    "id": 327,
+    "title": "Zoho One",
+    "short_description": "Integrated business and workforce management suite for nonprofits and social purpose organisations",
+    "long_description": "Zoho One is a cloud-based suite of integrated business applications that enables organisations to manage HR, recruitment, finance, operations, and other functions within a single platform. It includes tools for employee management, hiring, and workforce coordination, while connecting data across multiple organisational processes.",
+    "image": "/uploads/1776516395_zoho-one.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-one",
+    "slug": "zoho-one",
+    "category": [
+      "Human Resources"
+    ],
+    "sub_category": [
+      "HRMS",
+      "Recruitment"
+    ]
+  },
+  {
+    "id": 333,
+    "title": "Zoho Payroll",
+    "short_description": "Payroll and statutory compliance software for nonprofits and organisations in India",
+    "long_description": "Zoho Payroll is a cloud-based payroll system used to manage salary processing, statutory compliance, and employee payouts. It is designed for Indian organisations, with built-in support for tax calculations, payslips, and regulatory filings.",
+    "image": "/uploads/1776679287_zoho payroll.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-payroll-1",
+    "slug": "zoho-payroll-1",
+    "category": [
+      "Finance and Accounts"
+    ],
+    "sub_category": [
+      "Payroll Management"
+    ]
+  },
+  {
+    "id": 326,
     "title": "Zoho People",
-    "short_description": "Cloud HRMS for employee records, leave, and performance.",
-    "long_description": "Zoho People is a cloud-based human resource management system (HRMS) that helps organizations manage their entire HR operations. It includes features for employee database management, leave and attendance tracking, performance management, and payroll integration.",
-    "image": "/uploads/1764328176_zoho-people.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits/zoho-people",
+    "short_description": "HR management system for nonprofits and social purpose organisations",
+    "long_description": "Zoho People is a cloud-based Human Resource Management System (HRMS) that enables organisations to manage employee data, attendance, leave, performance, and HR processes within a single platform. It integrates with other Zoho applications to support payroll, recruitment, and broader workforce management needs.",
+    "image": "/uploads/1776510796_zoho-people.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-people",
     "slug": "zoho-people",
     "category": [
       "Human Resources"
     ],
     "sub_category": [
-      "Attendance & Payroll Management",
+      "HRMS",
       "Recruitment"
     ]
   },
@@ -66,7 +145,7 @@
     "short_description": "Project management tool with tasks, Gantt, and timesheets.",
     "long_description": "Zoho Projects is a cloud-based project management software that helps teams plan projects, track tasks, collaborate, and monitor progress. It offers features for Gantt charts, timesheets, issue tracking, and reporting.",
     "image": "/uploads/1764328190_zoho-projects.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits/zoho-projects",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-projects",
     "slug": "zoho-projects",
     "category": [
       "Project & Task Management"
@@ -76,43 +155,59 @@
     ]
   },
   {
-    "id": 62,
-    "title": "Zoko",
-    "short_description": "WhatsApp-based platform for managing customer conversations and sales.",
-    "long_description": "Zoko is a WhatsApp Business Platform solution that helps businesses manage customer conversations and sales on WhatsApp. It offers features like shared inboxes, automated messages, and analytics to streamline WhatsApp communication.",
-    "image": "/uploads/1764328203_zoko.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits/zoko",
-    "slug": "zoko",
+    "id": 323,
+    "title": "greytHR",
+    "short_description": "HR, payroll, and training management system for nonprofits and social purpose organisations",
+    "long_description": "greytHR is a cloud-based Human Resource Management System (HRMS) that enables organisations to manage payroll, attendance, compliance, and employee records within a single platform. It includes integrated learning capabilities through VioletLMS for tracking staff training alongside core HR operations.",
+    "image": "/uploads/1776506672_greythr.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=greythr-1",
+    "slug": "greythr-1",
     "category": [
-      "Chatbot"
+      "Human Resources"
     ],
     "sub_category": [
-      "Chatbot"
+      "HRMS",
+      "Payroll"
     ]
   },
   {
-    "id": 102,
-    "title": "danamojo",
-    "short_description": "Digital donations and fundraising platform for NGOs.",
-    "long_description": "Danamojo is a digital fundraising platform specifically designed for non-profit organizations. It provides tools for online donation collection, campaign management, and donor engagement, aiming to simplify the fundraising process for charities and social enterprises.",
-    "image": "/uploads/1764328217_danamojo.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits/danamojo",
-    "slug": "danamojo",
+    "id": 280,
+    "title": "mForm",
+    "short_description": "Programme MIS and data collection platform for nonprofits and CSR initiatives",
+    "long_description": "mForm is a low-code programme MIS platform developed by Dhwani RIS. It enables organisations to design structured forms, collect programme data across web and mobile interfaces (including offline environments), and generate dashboards for monitoring, evaluation, and reporting.",
+    "image": "/uploads/1776359453_mform.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=mform-1",
+    "slug": "mform-1",
+    "category": [
+      "Monitoring and Evaluation"
+    ],
+    "sub_category": [
+      "Data Collection"
+    ]
+  },
+  {
+    "id": 270,
+    "title": "mGrant",
+    "short_description": "Grant and donor management platform for nonprofits and CSR programmes",
+    "long_description": "",
+    "image": "/uploads/1776323981_mGrant.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=mgrant-1",
+    "slug": "mgrant-1",
     "category": [
       "Fundraising"
     ],
     "sub_category": [
-      "Crowdfunding"
+      "CRM/Grant/Donor Management"
     ]
   },
   {
-    "id": 129,
-    "title": "mLearn",
-    "short_description": "Mobile-first learning platform by Dhwani RIS for training and content delivery.",
-    "long_description": "mLearn is an educational platform developed by Dhwani RIS. It is designed to facilitate learning and knowledge dissemination, often leveraging mobile technology to deliver training content and educational resources to users in the field or in various learning environments.",
-    "image": "/uploads/1764328254_mLearn.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits/mlearn",
-    "slug": "mlearn",
+    "id": 318,
+    "title": "mLearn (by Dhwani RIS)",
+    "short_description": "Mobile-based learning management system for nonprofits & social purpose organisations",
+    "long_description": "mLearn is a mobile-based learning management system (LMS) developed by Dhwani RIS that enables organisations to deliver, track, and document e-learning courses. It is designed for training and capacity-building programmes, particularly for distributed and field-based teams.",
+    "image": "/uploads/1776577254_mlearn.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=mlearn-by-dhwani-ris",
+    "slug": "mlearn-by-dhwani-ris",
     "category": [
       "Learning & Development"
     ],
@@ -121,13 +216,13 @@
     ]
   },
   {
-    "id": 184,
+    "id": 283,
     "title": "mWater",
-    "short_description": "Platform for water and sanitation data collection and mapping.",
-    "long_description": "mWater is a platform focused on water and sanitation data collection and management. It provides tools for mobile data collection in the field, mapping water points, and monitoring water quality, aiming to support water and sanitation initiatives globally.",
-    "image": "/uploads/1764328294_mwater.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits/mwater",
-    "slug": "mwater",
+    "short_description": "Data collection and monitoring platform for water, sanitation, and public health programmes",
+    "long_description": "<p>mWater is a data collection and monitoring platform designed for organisations working in water, sanitation, and public health. It enables teams to collect field data, map infrastructure and services, and generate dashboards to track programme performance.</p>\r\n\r\n<p>The platform combines mobile data collection with mapping and monitoring, making it suitable for programmes that require location-based tracking and field visibility.</p>",
+    "image": "/uploads/1776359603_mwater.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=mwater-1",
+    "slug": "mwater-1",
     "category": [
       "Monitoring and Evaluation"
     ],
