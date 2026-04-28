@@ -113,6 +113,11 @@ class SemanticSearcher:
             source_emoji = "📚"
             # For courses, use the course title (index 2)
             display_header = values[2] if len(values) >= 3 else ' | '.join(values)
+        elif "insight" in sheet_name.lower():
+            category_type = "INSIGHT"
+            source_emoji = "💡"
+            # For insights, use title (index 0)
+            display_header = values[0] if len(values) >= 1 else ' | '.join(values)
         else:
             category_type = "SERVICE PROVIDER"
             source_emoji = "🏢"
@@ -246,6 +251,9 @@ class SemanticSearcher:
                   'course' in category_val or
                   'education' in category_val):
                 return 'courses'
+            elif ('insight' in sheet_name or
+                  'insights' in sheet_name):
+                return 'insights'
             elif ('service provider profiles' in sheet_name or 
                   'service' in sheet_name or 
                   'provider' in sheet_name or 
@@ -265,6 +273,7 @@ class SemanticSearcher:
         courses_results = []
         service_providers_results = []
         case_studies_results = []
+        insights_results = []
         other_results = []
         
         for result in filtered_results:
@@ -277,6 +286,8 @@ class SemanticSearcher:
                 service_providers_results.append(result)
             elif category == 'case-studies':
                 case_studies_results.append(result)
+            elif category == 'insights':
+                insights_results.append(result)
             else:
                 other_results.append(result)
         
@@ -285,6 +296,7 @@ class SemanticSearcher:
         courses_results.sort(key=lambda x: x['score'], reverse=True)
         service_providers_results.sort(key=lambda x: x['score'], reverse=True)
         case_studies_results.sort(key=lambda x: x['score'], reverse=True)
+        insights_results.sort(key=lambda x: x['score'], reverse=True)
         other_results.sort(key=lambda x: x['score'], reverse=True)
         
         # Create category groups with their highest scores for ranking
@@ -297,6 +309,8 @@ class SemanticSearcher:
             category_groups.append(('service-providers', service_providers_results, service_providers_results[0]['score']))
         if case_studies_results:
             category_groups.append(('case-studies', case_studies_results, case_studies_results[0]['score']))
+        if insights_results:
+            category_groups.append(('insights', insights_results, insights_results[0]['score']))
         if other_results:
             category_groups.append(('other', other_results, other_results[0]['score']))
         

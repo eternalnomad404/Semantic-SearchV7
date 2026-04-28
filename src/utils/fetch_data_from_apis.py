@@ -25,7 +25,8 @@ API_ENDPOINTS = {
     "tools": f"{API_BASE_URL}/tools",
     "services": f"{API_BASE_URL}/services",
     "courses": f"{API_BASE_URL}/courses",
-    "case_studies": f"{API_BASE_URL}/case-studies"
+    "case_studies": f"{API_BASE_URL}/case-studies",
+    "insights": f"{API_BASE_URL}/insights"
 }
 
 # Output directory
@@ -37,7 +38,8 @@ OUTPUT_FOLDERS = {
     "tools": os.path.join(DATA_DIR, "tools"),
     "services": os.path.join(DATA_DIR, "service_providers"),
     "courses": os.path.join(DATA_DIR, "courses"),
-    "case_studies": os.path.join(DATA_DIR, "case_studies")
+    "case_studies": os.path.join(DATA_DIR, "case_studies"),
+    "insights": os.path.join(DATA_DIR, "insights")
 }
 
 # Create output folders
@@ -51,7 +53,8 @@ RECORDS_PER_FILE = {
     "tools": 38,          # ~38 records = ~577 lines (safer)
     "courses": 49,        # ~49 records = ~588 lines
     "services": 66,       # ~66 records = ~600 lines
-    "case_studies": 59    # ~59 records = ~596 lines
+    "case_studies": 59,   # ~59 records = ~596 lines
+    "insights": 40        # conservative default for longer keyword/description fields
 }
 
 

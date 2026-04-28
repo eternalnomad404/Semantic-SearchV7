@@ -25,13 +25,14 @@ class SearchResultMetadata(BaseModel):
     short_description: Optional[str] = Field(None, description="Short description of the item")
     slug: Optional[str] = Field(None, description="URL slug extracted from the resource URL")
     image: Optional[str] = Field(None, description="Image path from external API")
+    raw: Optional[Dict[str, Any]] = Field(None, description="Full raw metadata payload for this result")
 
 
 class SearchResult(BaseModel):
     """Individual search result"""
     rank: int = Field(..., description="Result ranking position")
     title: str = Field(..., description="Display title of the result")
-    category_type: str = Field(..., description="Category type: TOOL, COURSE, SERVICE PROVIDER, or CASE STUDY")
+    category_type: str = Field(..., description="Category type: TOOL, COURSE, SERVICE PROVIDER, CASE STUDY, or INSIGHT")
     url: str = Field(..., description="Clickable URL to the resource")
     score: float = Field(..., description="Combined relevance score (0-1)")
     semantic_score: float = Field(..., description="Semantic similarity score (0-1)")

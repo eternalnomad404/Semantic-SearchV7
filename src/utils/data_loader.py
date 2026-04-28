@@ -26,7 +26,8 @@ CATEGORY_FOLDERS = {
     "tools": PROJECT_ROOT / "data" / "tools",
     "services": PROJECT_ROOT / "data" / "service_providers",
     "courses": PROJECT_ROOT / "data" / "courses",
-    "case_studies": PROJECT_ROOT / "data" / "case_studies"
+    "case_studies": PROJECT_ROOT / "data" / "case_studies",
+    "insights": PROJECT_ROOT / "data" / "insights"
 }
 
 
@@ -38,7 +39,7 @@ def load_category_data(category: str) -> List[Dict[str, Any]]:
     them into a single list, maintaining the order determined by filename sorting.
     
     Args:
-        category: Category name ('tools', 'services', 'courses', 'case_studies')
+        category: Category name ('tools', 'services', 'courses', 'case_studies', 'insights')
         
     Returns:
         List of dictionaries containing all records for the category

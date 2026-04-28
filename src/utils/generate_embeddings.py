@@ -206,6 +206,44 @@ except FileNotFoundError as e:
     print(f"⚠️  {e}")
 
 # ============================================================================
+# 5. PROCESS INSIGHTS
+# ============================================================================
+try:
+    insights_data = load_category_data("insights")
+    print(f"✅ Loaded {len(insights_data)} insights from data/insights/")
+
+    for insight in insights_data:
+        # Extract fields for embedding as requested
+        title = insight.get('title', '')
+        short_desc = insight.get('short_description', '')
+        keyword = insight.get('keyword', '')
+
+        # Embedding input schema: title + short_description + keyword
+        embed_text = f"{title} {short_desc} {keyword}"
+
+        metadata_entry = {
+            "sheet": "Insights",
+            "column_headers": ["Title", "Short Description", "Keyword"],
+            "values": [title, short_desc, keyword],
+            # Preserve all API fields for downstream consumers
+            "id": insight.get('id', ''),
+            "title": title,
+            "short_description": short_desc,
+            "image": insight.get('image', ''),
+            "url": insight.get('url', ''),
+            "slug": insight.get('slug', ''),
+            "keyword": keyword,
+            "category": "insight"
+        }
+
+        all_metadata.append(metadata_entry)
+        all_texts.append(embed_text)
+        raw_texts.append(embed_text)
+
+except FileNotFoundError as e:
+    print(f"⚠️  {e}")
+
+# ============================================================================
 # GENERATE AND SAVE EMBEDDINGS
 # ============================================================================
 print(f"\n{'='*80}")

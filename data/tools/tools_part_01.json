@@ -4,7 +4,7 @@
     "title": "3DAI Studio",
     "short_description": "AI-powered creative platform for NGOs & SPOs",
     "long_description": "3DAI Studio is an AI-powered platform that enables users to generate visuals, 3D models, and creative assets, supporting faster content creation for digital use.",
-    "image": "/uploads/1776071925_header-logo.webp",
+    "image": "/uploads/1777023499_3dai.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=3dai-studio",
     "slug": "3dai-studio",
     "category": [
@@ -19,7 +19,7 @@
     "title": "Ally",
     "short_description": "Mentorship and cohort management platform for nonprofits",
     "long_description": "Ally is a mentorship platform designed for nonprofits and social purpose organisations to manage mentor–mentee programmes, deliver structured learning experiences, and track participant progress across online and offline sessions.",
-    "image": "/uploads/1776613020_ally.webp",
+    "image": "/uploads/1777023616_ally.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=ally-1",
     "slug": "ally-1",
     "category": [
@@ -45,21 +45,6 @@
     ]
   },
   {
-    "id": 6,
-    "title": "Amazon Code Whisperer/Amazon Q",
-    "short_description": "AWS AI code companion that generates code suggestions in IDEs.",
-    "long_description": "Amazon CodeWhisperer is an AI-powered coding companion that generates code suggestions in real-time within integrated development environments (IDEs). Amazon Q is a generative AI-powered assistant for work that can answer questions, summarize content, and generate content.",
-    "image": "/uploads/1776780042_aws-logo.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=amazon-code-whispereramazon-q",
-    "slug": "amazon-code-whispereramazon-q",
-    "category": [
-      "AI Tools"
-    ],
-    "sub_category": [
-      "AI Assistant"
-    ]
-  },
-  {
     "id": 244,
     "title": "Amazon Comprehend",
     "short_description": "A cloud-based NLP service that extracts insights, sentiment, entities, and key phrases from text at scale.",
@@ -79,7 +64,7 @@
     "title": "Amazon Web Services",
     "short_description": "Cloud infrastructure platform for building and scaling digital systems",
     "long_description": "Amazon Web Services (AWS) provides on-demand cloud infrastructure such as servers, storage, and databases. It enables nonprofits to run applications, manage data, and scale digital systems without maintaining physical infrastructure.",
-    "image": "/uploads/1776768084_Amazon Web Services.webp",
+    "image": "/uploads/1777023698_aws.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=amazon-web-services",
     "slug": "amazon-web-services",
     "category": [
@@ -98,10 +83,12 @@
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=apache-superset-1",
     "slug": "apache-superset-1",
     "category": [
-      "Monitoring and Evaluation"
+      "Monitoring and Evaluation",
+      "AI Tools"
     ],
     "sub_category": [
-      "Reporting & Dashboarding"
+      "Reporting & Dashboarding",
+      "Data Analysis"
     ]
   },
   {
@@ -180,13 +167,13 @@
     ]
   },
   {
-    "id": 13,
+    "id": 390,
     "title": "Beautiful.ai",
-    "short_description": "Presentation tool that auto-applies good slide design while you add content.",
-    "long_description": "Beautiful.ai is an AI-powered presentation software that helps users create visually appealing and professional presentations. It uses artificial intelligence to automatically apply design best practices, ensuring consistent and elegant slide layouts.",
-    "image": "/uploads/1764313559_Beautifulai.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=beautifulai",
-    "slug": "beautifulai",
+    "short_description": "AI-assisted presentation design for nonprofits",
+    "long_description": "Beautiful.ai is a presentation design platform that helps nonprofits and social purpose organisations create structured, visually consistent presentations. It uses AI-assisted layout and design suggestions to automatically adjust slides, reducing the need for manual formatting.",
+    "image": "/uploads/1776931172_beautifulai.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=beautifulai-1",
+    "slug": "beautifulai-1",
     "category": [
       "AI Tools"
     ],
@@ -225,23 +212,6 @@
     ]
   },
   {
-    "id": 74,
-    "title": "Big Query",
-    "short_description": "Serverless data warehouse for large-scale SQL analytics.",
-    "long_description": "Google BigQuery is a fully managed, serverless data warehouse designed for analyzing large datasets using SQL. It allows users to run complex queries, store and manage vast amounts of data, and integrate with various data analytics and business intelligence tools.",
-    "image": "/uploads/1764314064_googlebigquery.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=big-query",
-    "slug": "big-query",
-    "category": [
-      "Monitoring and Evaluation",
-      "Office Automation"
-    ],
-    "sub_category": [
-      "Reporting & Dashboarding",
-      "Digital Infrastructure"
-    ]
-  },
-  {
     "id": 276,
     "title": "Bigin by Zoho CRM",
     "short_description": "Relationship management for donors and stakeholders",
@@ -257,28 +227,28 @@
     ]
   },
   {
-    "id": 23,
-    "title": "Bolt New",
-    "short_description": "StackBlitz\tLow-code framework for rapidly building web applications with AI assistance.",
-    "long_description": "An AI‑powered development tool that allows users to build web apps or prototypes by describing what they want in natural language; it generates code, UI and backend scaffolding to accelerate app development",
-    "image": "/uploads/1764313793_boltnew.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=bolt-new",
-    "slug": "bolt-new",
+    "id": 394,
+    "title": "Bolt.new",
+    "short_description": "AI-assisted app and web development for nonprofits",
+    "long_description": "Bolt.new is an AI-powered development tool that enables users to create web applications and interfaces using natural language prompts. It helps nonprofits and social purpose organisations build simple applications, prototypes, and tools without requiring extensive coding expertise.",
+    "image": "/uploads/1776936162_bolt.new.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=boltnew",
+    "slug": "boltnew",
     "category": [
-      "AI Tools"
+      "Office Automation"
     ],
     "sub_category": [
       "Low-Code/No-Code Development"
     ]
   },
   {
-    "id": 153,
+    "id": 396,
     "title": "Buffer",
-    "short_description": "Social media scheduler and analytics tool for multiple platforms.",
-    "long_description": "Buffer is a versatile social media management platform designed to automate solutions like content scheduling and multi‑platform publishing to simplify tasks such as drafting posts, queue management, team collaboration, engagement tracking, and analytics reporting, all in one place.",
-    "image": "/uploads/1764313810_buffer.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=buffer",
-    "slug": "buffer",
+    "short_description": "Social media scheduling and management for nonprofits",
+    "long_description": "Buffer is a social media management platform that helps nonprofits and social purpose organisations plan, schedule, and publish content across multiple social media channels. It enables teams to maintain consistent communication and track performance from a single interface.",
+    "image": "/uploads/1776937670_buffer.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=buffer-1",
+    "slug": "buffer-1",
     "category": [
       "Marketing & Communication"
     ],
@@ -287,13 +257,13 @@
     ]
   },
   {
-    "id": 210,
+    "id": 370,
     "title": "Calendly",
-    "short_description": "Meeting scheduling tool that syncs with calendars via shared links.",
+    "short_description": "Meeting scheduling automation tool for nonprofits and social purpose organisations.",
     "long_description": "Calendly is an automated scheduling software that simplifies the process of booking meetings and appointments. It allows users to set their availability and share links, enabling others to book times directly into their calendar without back-and-forth emails.",
-    "image": "/uploads/1764329215_clandly.jpg",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=calendly",
-    "slug": "calendly",
+    "image": "/uploads/1776862269_calendly.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=calendly-1",
+    "slug": "calendly-1",
     "category": [
       "Office Automation"
     ],
@@ -317,13 +287,13 @@
     ]
   },
   {
-    "id": 144,
+    "id": 409,
     "title": "Canva",
-    "short_description": "Drag-and-drop design tool for social graphics, presentations, and more.",
-    "long_description": "Canva is a graphic design platform that allows users to create a wide range of visual content, including presentations, social media graphics, posters, and documents. It provides a drag-and-drop interface with templates and design elements.<br>With Canva you can design stunning social media posts and coordinate them across your platforms including Facebook, Instagram, Twitter, and LinkedIn.",
-    "image": "/uploads/1764313822_canva.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=canva",
-    "slug": "canva",
+    "short_description": "Design and content creation for nonprofits",
+    "long_description": "Canva is a design platform that helps nonprofits and social purpose organisations create visual content such as social media posts, presentations, posters, and reports. It provides templates, drag-and-drop editing, and collaboration features to support accessible content creation.",
+    "image": "/uploads/1777024200_canva.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=canva-1",
+    "slug": "canva-1",
     "category": [
       "Marketing & Communication"
     ],
@@ -332,26 +302,11 @@
     ]
   },
   {
-    "id": 12,
-    "title": "Canva AI",
-    "short_description": "AI-enhanced design suite for graphics, documents, presentations, and videos.",
-    "long_description": "Canva AI is an AI‑enhanced design and content creation platform that helps users produce professional visuals, documents, and multimedia assets quickly and easily. It offers tools for graphic design, text generation, image editing, presentations, and video content, suitable for individuals, businesses, and nonprofits of all sizes.",
-    "image": "/uploads/1764313839_canvaaitools.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=canva-ai",
-    "slug": "canva-ai",
-    "category": [
-      "AI Tools"
-    ],
-    "sub_category": [
-      "Presentation Generation"
-    ]
-  },
-  {
     "id": 239,
     "title": "Canva AI 3D Model Generator",
     "short_description": "AI-powered design and 3D content creation for NGOs & SPOs.",
     "long_description": "Canva AI 3D Model Generator is part of Canva’s AI-powered design ecosystem, enabling users to create visual content and 3D-style assets quickly within a simple and collaborative platform.",
-    "image": "/uploads/1776073131_canva-main.webp",
+    "image": "/uploads/1777024186_canva.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=canva-ai-3d-model-generator",
     "slug": "canva-ai-3d-model-generator",
     "category": [
@@ -362,13 +317,13 @@
     ]
   },
   {
-    "id": 40,
+    "id": 410,
     "title": "ChartPixel",
-    "short_description": "AI assistant for data cleaning, charting, stats, and quick insight generation.",
-    "long_description": "ChartPixel is an AI‑powered data analysis platform designed to automate solutions such as data cleaning and visualization to simplify tasks such as creating interactive charts, running statistical tests and forecasts, generating written insights, and exporting presentations, all in one place.",
-    "image": "/uploads/1764313867_chartpixel.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=chartpixel",
-    "slug": "chartpixel",
+    "short_description": "AI-assisted data visualisation and insights for nonprofits",
+    "long_description": "ChartPixel is a data analysis tool that helps nonprofits and social purpose organisations upload datasets, generate visualisations, and explore insights using AI-assisted prompts. It enables teams to quickly create charts and summaries without requiring advanced data analysis skills.",
+    "image": "/uploads/1777017288_chartpixel.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=chartpixel-1",
+    "slug": "chartpixel-1",
     "category": [
       "AI Tools"
     ],
@@ -377,13 +332,13 @@
     ]
   },
   {
-    "id": 38,
+    "id": 412,
     "title": "Chat CSV",
-    "short_description": "Interface to query CSV data using natural language instead of manual formulas/SQL.",
-    "long_description": "Chat CSV is a tool that allows users to chat with their CSV files using natural language. It leverages AI to enable users to ask questions about their data in a CSV file and receive insights without needing to write complex queries.",
-    "image": "/uploads/1764313883_chatcsv.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=chat-csv",
-    "slug": "chat-csv",
+    "short_description": "AI-powered data exploration for nonprofits working with spreadsheets",
+    "long_description": "Chat CSV is an AI-powered tool that allows users to analyse and interact with CSV (spreadsheet) data using natural language. Instead of writing formulas or queries, teams can ask questions about their data and get instant insights, summaries, and visualisations. It is useful for nonprofits working with programme data, survey results, or operational datasets.",
+    "image": "/uploads/1777052677_chat-csv.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=chat-csv-1",
+    "slug": "chat-csv-1",
     "category": [
       "AI Tools"
     ],
@@ -396,7 +351,7 @@
     "title": "ChatGPT",
     "short_description": "AI assistant for content creation, research, and workflow support.",
     "long_description": "ChatGPT is an AI-powered conversational agent developed by OpenAI. It is designed to understand and generate human-like text based on the prompts it receives, capable of engaging in diverse conversations, providing information, and generating creative content.",
-    "image": "/uploads/1776429984_chatgpt.webp",
+    "image": "/uploads/1777022378_chatgpt (1).webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=chatgpt-1",
     "slug": "chatgpt-1",
     "category": [
@@ -407,13 +362,13 @@
     ]
   },
   {
-    "id": 42,
+    "id": 427,
     "title": "Claude",
-    "short_description": "Conversational AI focused on helpful, safe, and coherent long-form reasoning and writing.",
-    "long_description": "Claude is a large language model developed by Anthropic, designed to be helpful, harmless, and honest. It focuses on conversational AI, text generation, and reasoning tasks, aiming to provide coherent and contextually relevant responses.",
-    "image": "/uploads/1764313950_claude.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=claude",
-    "slug": "claude",
+    "short_description": "AI assistant for writing, analysis, and content support for nonprofits",
+    "long_description": "Anthropic’s Claude is a conversational AI assistant that helps nonprofits and social purpose organisations generate content, summarise information, and work with documents and data. It supports teams in turning scattered inputs into structured outputs and developing clear, usable narratives within existing workflows.",
+    "image": "/uploads/1777284550_claude.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=claude-1",
+    "slug": "claude-1",
     "category": [
       "AI Tools"
     ],
@@ -422,13 +377,13 @@
     ]
   },
   {
-    "id": 50,
+    "id": 374,
     "title": "Clearscope",
-    "short_description": "SEO content optimization tool that suggests keywords and topics for a focus term.",
-    "long_description": "Clearscope is an AI-powered content optimization platform that helps content creators and SEO professionals write relevant and high-ranking content. It analyzes top-ranking content for a given keyword and provides recommendations for topics and keywords to include.",
-    "image": "/uploads/1764314020_Frame.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=clearscope",
-    "slug": "clearscope",
+    "short_description": "AI-powered content optimisation and SEO platform.",
+    "long_description": "Clearscope helps organisations create high-ranking, relevant content by analysing top search results and providing keyword and content recommendations.",
+    "image": "/uploads/1776863425_clearscope.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=clearscope-1",
+    "slug": "clearscope-1",
     "category": [
       "Marketing & Communication"
     ],
@@ -464,21 +419,6 @@
     ],
     "sub_category": [
       "Task Management"
-    ]
-  },
-  {
-    "id": 255,
-    "title": "Cloud computing and infrastructure platform for NGOs & SPOs",
-    "short_description": "Amazon Web Services (AWS) is a cloud computing platform.",
-    "long_description": "Cloud computing and infrastructure platform for NGOs & SPOs",
-    "image": "/uploads/1776172396_aws.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=cloud-computing-and-infrastructure-platform-for-ngos-spos",
-    "slug": "cloud-computing-and-infrastructure-platform-for-ngos-spos",
-    "category": [
-      "Data & Analytics"
-    ],
-    "sub_category": [
-      "Cloud Services"
     ]
   },
   {
@@ -527,21 +467,6 @@
     ]
   },
   {
-    "id": 47,
-    "title": "Copilot",
-    "short_description": "AI assistant inside Microsoft 365 to draft, summarize, and automate tasks.",
-    "long_description": "Microsoft Copilot is an AI assistant integrated into Microsoft 365 apps. It helps users draft documents, summarize content, analyze data, and automate repetitive tasks through simple natural language commands.",
-    "image": "/uploads/1764323951_gitHub-copilot.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=copilot-microsoft",
-    "slug": "copilot-microsoft",
-    "category": [
-      "AI Tools"
-    ],
-    "sub_category": [
-      "AI Assistant"
-    ]
-  },
-  {
     "id": 245,
     "title": "Copy.ai",
     "short_description": "An AI-powered copywriting tool for generating marketing content, blogs, and social media posts quickly.",
@@ -567,6 +492,85 @@
     "category": [],
     "sub_category": [
       "Image & Video Generation"
+    ]
+  },
+  {
+    "id": 253,
+    "title": "DALL·E 3",
+    "short_description": "DALL·E 3 generates images from text prompts, helping nonprofits create custom visuals quickly without design skills.",
+    "long_description": "DALL·E 3 is an AI-based image generation tool that creates visuals from text prompts. It enables nonprofit organisations to generate custom images for communication, campaigns, and content without requiring design expertise.",
+    "image": "/uploads/1776534400_dalle.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=dalle-3",
+    "slug": "dalle-3",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Image & Video Generation"
+    ]
+  },
+  {
+    "id": 423,
+    "title": "DaanVeda",
+    "short_description": "AI-powered donor intelligence and prospecting platform for NGOs",
+    "long_description": "<p><strong>DaanVeda</strong> is an AI-driven donor intelligence platform designed for Indian NGOs. It enables organisations to <strong>identify potential donors, match with CSR opportunities, and build fundraising proposals</strong> using structured data and AI-supported workflows.</p>\r\n\r\n<p>DaanVeda is <strong>not a crowdfunding or donation marketplace platform</strong>. Its primary role is <strong>donor discovery and prospecting</strong>, with campaign execution and donation workflows as supporting capabilities.</p>",
+    "image": "/uploads/1777274633_daanveda.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=daanveda-1",
+    "slug": "daanveda-1",
+    "category": [
+      "Fundraising"
+    ],
+    "sub_category": [
+      "CRM/Grant/Donor Management",
+      "Crowdfunding"
+    ]
+  },
+  {
+    "id": 407,
+    "title": "Dalgo",
+    "short_description": "Data pipelines and analytics for NGO data systems",
+    "long_description": "Dalgo is a data platform developed by Project Tech4Dev that supports nonprofits in integrating and managing data from multiple sources. It enables organisations to set up data pipelines, prepare datasets, and support reporting and analysis workflows.",
+    "image": "/uploads/1777012667_dalgo.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=dalgo-1",
+    "slug": "dalgo-1",
+    "category": [
+      "AI Tools",
+      "Data & Analytics"
+    ],
+    "sub_category": [
+      "Agent Building",
+      "Data Analysis",
+      "Data Management"
+    ]
+  },
+  {
+    "id": 298,
+    "title": "Danamojo",
+    "short_description": "Digital fundraising and donation management platform for nonprofits",
+    "long_description": "Danamojo is a platform designed for nonprofit organisations in India to collect donations online, run fundraising campaigns, and maintain donor records in a structured way.",
+    "image": "/uploads/1776522547_danamojo.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=danamojo-1",
+    "slug": "danamojo-1",
+    "category": [
+      "Fundraising"
+    ],
+    "sub_category": [
+      "Crowdfunding"
+    ]
+  },
+  {
+    "id": 246,
+    "title": "DeepL",
+    "short_description": "Translation and language support for NGOs and social purpose organisations.",
+    "long_description": "DeepL is an AI-powered machine translation service known for its high-quality and nuanced translations. It uses neural network technology to provide accurate and natural-sounding translations across multiple languages.",
+    "image": "/uploads/1776147971_deepl.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=deepl-1",
+    "slug": "deepl-1",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Text Generation"
     ]
   }
 ]

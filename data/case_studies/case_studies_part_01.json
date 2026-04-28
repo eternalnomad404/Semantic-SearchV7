@@ -7,7 +7,7 @@
     "image": "/uploads/studies/1770100386_logo_armman-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/armman-ai-assisted-clinical-decision-support-for-high-risk-pregnancies",
     "slug": "armman-ai-assisted-clinical-decision-support-for-high-risk-pregnancies",
-    "keyword": "Strengthening Frontline Health Worker Capacity to Reduce Maternal and Neonatal Mortality"
+    "keyword": "Frontline Health Workers, Maternal Health, Neonatal Health, Maternal Mortality Reduction, Newborn Care, Health Worker Capacity Building, Community Health Systems, Skilled Birth Attendance"
   },
   {
     "id": 14,
@@ -15,8 +15,8 @@
     "short_description": "Custom mobile app enabled 100% digital data, eliminating maternal deaths in high-risk cases",
     "long_description": "How ARMMAN leveraged a custom mobile app and automated MIS to enable real-time risk identification, improve last-mile health delivery, and ensure timely intervention for high-risk pregnancies.",
     "image": "/uploads/studies/1764152851_logo_ARMMAN.png",
-    "url": "https://dt4si.com/digital-transformation-case-studies/armman",
-    "slug": "armman",
+    "url": "https://dt4si.com/digital-transformation-case-studies/armman-transforming-last-mile-health-digitally",
+    "slug": "armman-transforming-last-mile-health-digitally",
     "keyword": "Technology, Operational Excellence"
   },
   {
@@ -27,7 +27,7 @@
     "image": "/uploads/studies/1770099311_logo_legsysai-technology-foundation-thumbnail-resized.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/legsysai-ai-powered-courtroom-workflow-automation-for-timely-justice",
     "slug": "legsysai-ai-powered-courtroom-workflow-automation-for-timely-justice",
-    "keyword": "Strengthening Judicial Capacity through Real-Time Transcription and Workflow Automation"
+    "keyword": "AI in Judiciary, Courtroom Automation, Judicial Efficiency, AI Transcription, Legal Tech, Court Workflow Automation, Justice Delivery Systems, Digital Courts"
   },
   {
     "id": 48,
@@ -37,7 +37,7 @@
     "image": "/uploads/studies/1776681202_logo_Anudip Foundation_ Bridging the Skills Gap through an Agentic AI Learning Ecosystem.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/anudip-foundation-bridging-the-skills-gap-through-an-agentic-ai-learning-ecosystem",
     "slug": "anudip-foundation-bridging-the-skills-gap-through-an-agentic-ai-learning-ecosystem",
-    "keyword": "Anudip Foundation is revolutionising vocational training for underserved youth by deploying a multi-layered AI ecosystem that personalises learning at scale and slashes per-learner costs."
+    "keyword": "Agentic AI, AI-Powered Learning Ecosystem, Vocational Training, Skills Development, AI in Education, Workforce Readiness, Digital Skilling, Inclusive Employment"
   },
   {
     "id": 9,
@@ -45,9 +45,9 @@
     "short_description": "Hybrid tech ecosystem amplified human capacity, enhancing learner journeys and placement rate",
     "long_description": "How Anudip built a hybrid digital ecosystem combining LMS, AI tools, and custom platforms like JD-CV Match to streamline learner journeys, enable personalised skilling, and scale job placements efficiently.",
     "image": "/uploads/studies/1764055887_logo_Anudip-2--updated.png",
-    "url": "https://dt4si.com/digital-transformation-case-studies/anudip",
-    "slug": "anudip",
-    "keyword": "Anudip built a hybrid digital ecosystem combining LMS, AI tools, and custom platforms."
+    "url": "https://dt4si.com/digital-transformation-case-studies/anudip-scaling-inclusive-digital-livelihoods-technology-ai",
+    "slug": "anudip-scaling-inclusive-digital-livelihoods-technology-ai",
+    "keyword": "Inclusive Digital Livelihoods, AI in Skilling, Digital Skills Training, AI-Powered Learning Platforms, Workforce Development, Tech-Enabled Livelihoods, Employment Readiness, LMS and AI Ecosystem"
   },
   {
     "id": 28,
@@ -57,7 +57,7 @@
     "image": "/uploads/studies/1770111352_logo_civis-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/civis-ai-enabled-public-consultation-platform-for-policy-making",
     "slug": "civis-ai-enabled-public-consultation-platform-for-policy-making",
-    "keyword": "Strengthening Participatory Law-Making through AI-Enabled Public Consultation"
+    "keyword": "AI in Governance, Public Consultation Platforms, Digital Democracy, Participatory Governance, Civic Technology, Policy Co-Creation, Citizen Engagement, AI for Public Policy"
   },
   {
     "id": 12,
@@ -65,9 +65,9 @@
     "short_description": "GIS platform streamlined planning, automating cluster generation and optimizing field routes",
     "long_description": "How Educate Girls integrated GIS tools like QGIS into its mobile MIS to enable spatial planning, optimize field operations, and improve efficiency through data-driven route planning and clustering.",
     "image": "/uploads/studies/1764164012_logo_Gemini_Generated_Image_dk1igjdk1igjdk1i (1).png",
-    "url": "https://dt4si.com/digital-transformation-case-studies/educate-girls",
-    "slug": "educate-girls",
-    "keyword": "Educate Girls integrated GIS tools like QGIS into its mobile MIS to enable spatial planning, optimize field operations."
+    "url": "https://dt4si.com/digital-transformation-case-studies/educate-girls-gis-powered-planning-field-efficiency",
+    "slug": "educate-girls-gis-powered-planning-field-efficiency",
+    "keyword": "GIS in Education Programs, Spatial Planning, Field Operations Optimization, Data-Driven Planning, GIS Route Optimization, Mobile MIS Integration, Education Program Management, Technology for Social Impact"
   },
   {
     "id": 13,
@@ -77,7 +77,7 @@
     "image": "/uploads/studies/1764152880_logo_CASE-STUDY-9.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/educate-girls-predictive-targeting-to-enroll-girls",
     "slug": "educate-girls-predictive-targeting-to-enroll-girls",
-    "keyword": "Educate Girls leveraged machine learning with public datasets to enable predictive targeting of high-need villages."
+    "keyword": "Machine Learning in Education, Predictive Analytics, Girls’ Education, Data-Driven Targeting, Education Access, AI for Social Impact, Enrollment Optimization, Public Data Analytics"
   },
   {
     "id": 11,
@@ -85,9 +85,9 @@
     "short_description": "NuTree app digitized nutrition counseling, resulting in 3x reach and better health outcomes",
     "long_description": "How FMCH digitized frontline health workflows using mobile-based systems and dashboards to enable real-time tracking, improve service delivery, and scale maternal and child health intervention",
     "image": "/uploads/studies/1764055587_logo_fmch-2.png",
-    "url": "https://dt4si.com/digital-transformation-case-studies/fmch",
-    "slug": "fmch",
-    "keyword": "FMCH digitized frontline health workflows using mobile-based systems and dashboards."
+    "url": "https://dt4si.com/digital-transformation-case-studies/fmch-digitising-nutrition-scalable-impact",
+    "slug": "fmch-digitising-nutrition-scalable-impact",
+    "keyword": "Digital Nutrition Programs, Maternal and Child Health, Frontline Health Digitization, Mobile Health Applications, Nutrition Counseling Platforms, Health Data Dashboards, Community Health Systems, Digital Health Interventions"
   },
   {
     "id": 25,
@@ -97,7 +97,7 @@
     "image": "/uploads/studies/1770120172_logo_logo_F4f.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/farmers-for-forests-ai-enabled-digital-mrv-for-trusted-carbon-markets",
     "slug": "farmers-for-forests-ai-enabled-digital-mrv-for-trusted-carbon-markets",
-    "keyword": "Impact Measurement, Technology, Operational Excellence"
+    "keyword": "Agroforestry Technology, Digital Agriculture Platforms, Agroforestry Monitoring, Climate-Smart Agriculture, Tech for Sustainable Farming, Agricultural Data Systems, Scalable Agroforestry Programs, Environmental Impact Technology"
   },
   {
     "id": 47,
@@ -107,7 +107,7 @@
     "image": "/uploads/studies/1776681616_logo_FuturEd Trust_ Democratising World-Class STEM Learning Through Pedagogy-First AI.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/futured-trust-democratising-world-class-stem-learning-through-pedagogy-first-ai",
     "slug": "futured-trust-democratising-world-class-stem-learning-through-pedagogy-first-ai",
-    "keyword": "By integrating a proven 15-year manual self-learning pedagogy with advanced generative AI, FuturEd Trust is bridging the educational divide in India's government schools, delivering personalised mastery-based learning at a fraction of traditional costs."
+    "keyword": "Pedagogy-First AI, AI in STEM Education, Personalized STEM Learning, Generative AI in Education, Government School EdTech, Mastery-Based Learning, AI-Powered Classrooms, Education Equity"
   },
   {
     "id": 17,
@@ -117,7 +117,7 @@
     "image": "/uploads/studies/1764359400_logo_haqdarshak.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/haqdarshak-digitising-program-management-for-scale-accuracy-accountability",
     "slug": "haqdarshak-digitising-program-management-for-scale-accuracy-accountability",
-    "keyword": "Haqdarshak leveraged the Zoho suite and custom-built systems."
+    "keyword": "Program Management Digitization, Beneficiary Management Systems, Workflow Automation, Financial Process Automation, Data Accuracy and Accountability, Zoho-Based Systems, Operational Efficiency Platforms, Digital Governance Systems"
   },
   {
     "id": 18,
@@ -127,7 +127,7 @@
     "image": "/uploads/studies/1770114787_logo_i-sakhsam.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/i-saksham-ai-enabled-coaching-intelligence-for-programme-scale",
     "slug": "i-saksham-ai-enabled-coaching-intelligence-for-programme-scale",
-    "keyword": "How I-Saksham leveraged AI-assisted tools like Gemini 1.5 and a custom MIS to streamline peer coaching, enabling faster feedback and scalable, human-centered mentoring."
+    "keyword": "AI in Education Leadership, AI-Assisted Mentoring, Grassroots Leadership Development, AI for Teacher Coaching, Education MIS Systems, Community-Based Education, Scalable Mentorship Models, AI for Social Impact"
   },
   {
     "id": 46,
@@ -137,7 +137,7 @@
     "image": "/uploads/studies/1776681785_logo_I-Stem_ Dismantling the _Digital Apartheid_ for People with Disabilities.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/i-stem-dismantling-the-digital-apartheid-for-people-with-disabilities",
     "slug": "i-stem-dismantling-the-digital-apartheid-for-people-with-disabilities",
-    "keyword": "I-Stem is revolutionizing accessibility in India by deploying \"NClude\"—an AI-powered multimodal ecosystem that converts inaccessible content into accessible formats, automates complex digital tasks, and provides personalized career coaching for the 20 million+ people with disabilities (PWDs) in the country."
+    "keyword": "AI for Accessibility, Assistive Technology, Digital Inclusion, Accessibility Platforms, AI for People with Disabilities, Inclusive Technology, Accessible Digital Content, Disability Tech"
   },
   {
     "id": 45,
@@ -147,7 +147,7 @@
     "image": "/uploads/studies/1776681938_logo_Khan Academy.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/khan-academy",
     "slug": "khan-academy",
-    "keyword": "AI tutor delivers personalised, interactive learning support, improving student understanding and teacher productivity at scale."
+    "keyword": "AI Tutor, Personalized Learning, AI in Education, Adaptive Learning Platforms, Digital Learning Tools, Student Learning Support, EdTech Innovation, Teacher Productivity Tools"
   },
   {
     "id": 3,
@@ -155,8 +155,8 @@
     "short_description": "Salesforce centralized 160+ projects, boosting LLF data accuracy and efficiency",
     "long_description": "Strategic Platform Adoption Enables LLF to Centralize Over 160 Projects and Drive Unprecedented Operational Scale Across India",
     "image": "/uploads/studies/1776338392_logo_learning-links-foundation-thumb.webp",
-    "url": "https://dt4si.com/digital-transformation-case-studies/learning-link-foundation",
-    "slug": "learning-link-foundation",
+    "url": "https://dt4si.com/digital-transformation-case-studies/learning-link-foundation-tech-integration-scales-field-operations",
+    "slug": "learning-link-foundation-tech-integration-scales-field-operations",
     "keyword": "Operational Excellence, Education, Digital Transformation"
   },
   {
@@ -165,9 +165,9 @@
     "short_description": "Lighthouse custom software enabled real-time vocational education monitoring across 25+ states",
     "long_description": "How Lend A Hand India leveraged digital platforms and MIS systems to streamline vocational education delivery, enable real-time monitoring, and scale skilling programs across government schools.",
     "image": "/uploads/studies/1764055646_logo_LAHI.png",
-    "url": "https://dt4si.com/digital-transformation-case-studies/lend-a-hand-india",
-    "slug": "lend-a-hand-india",
-    "keyword": "Lend A Hand India leveraged digital platforms and MIS systems"
+    "url": "https://dt4si.com/digital-transformation-case-studies/lend-a-hand-india-scaling-vocational-education",
+    "slug": "lend-a-hand-india-scaling-vocational-education",
+    "keyword": "Vocational Education Technology, Skilling in Government Schools, Education MIS Systems, Digital Program Monitoring, Workforce Skills Development, EdTech for Vocational Training, Scalable Skilling Programs, Education Data Platforms"
   },
   {
     "id": 44,
@@ -177,7 +177,7 @@
     "image": "/uploads/studies/1776682170_logo_Magic Bus India Foundation_ Democratizing Personalized Skilling through Magic AI.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/magic-bus-india-foundation-democratizing-personalized-skilling-through-magic-ai",
     "slug": "magic-bus-india-foundation-democratizing-personalized-skilling-through-magic-ai",
-    "keyword": "Magic Bus is bridging the employability gap for underserved youth by deploying \"Magic AI\"—a high-scale, multilingual voice tutor that provides personalized, judgment-free learning to 10 million young people."
+    "keyword": "AI-Powered Skilling, Voice AI Learning, Personalized Employability Training, AI for Youth Employment, Multilingual Learning Platforms, Digital Skills Development, AI in Workforce Training, Inclusive Skilling Programs"
   },
   {
     "id": 43,
@@ -187,7 +187,7 @@
     "image": "/uploads/studies/1776682901_logo_Myna Mahila Foundation_ Empowering Women’s Health Agency through Generative AI.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/myna-mahila-foundation-empowering-womens-health-agency-through-generative-ai",
     "slug": "myna-mahila-foundation-empowering-womens-health-agency-through-generative-ai",
-    "keyword": "Myna Mahila Foundation is dismantling the wall of silence around sexual and reproductive health (SRH) by providing urban poor women with \"Myna Bolo\"—a confidential, medically accurate, and culturally sensitive AI companion."
+    "keyword": "Generative AI for Health, Sexual and Reproductive Health, AI Health Chatbots, Women’s Health Access, Digital Health for Women, Confidential Health Support, AI for Health Education, Community Health Technology"
   },
   {
     "id": 42,
@@ -197,7 +197,7 @@
     "image": "/uploads/studies/1776683377_logo_nudged-trust-reimagining-early-education.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/nudged-trust-reimagining-early-education-through-ai-powered-parental-engagement",
     "slug": "nudged-trust-reimagining-early-education-through-ai-powered-parental-engagement",
-    "keyword": "NudgED Trust is transforming home-based learning by leveraging AI to bridge the literacy and guidance gap for low-income parents, turning every home into a classroom."
+    "keyword": "AI in Early Childhood Education, Parental Engagement Technology, AI Learning Nudges, Home-Based Learning, Early Literacy Development, AI for Education Access, Conversational Learning Tools, EdTech for Early Education"
   },
   {
     "id": 24,
@@ -207,7 +207,7 @@
     "image": "/uploads/studies/1776317844_logo_Rocket-Learning-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/rocket-learning-ai-driven-worksheet-autocorrection-for-early-learning",
     "slug": "rocket-learning-ai-driven-worksheet-autocorrection-for-early-learning",
-    "keyword": "Strengthening Foundational Learning Outcomes through AI-Enabled Feedback Loops"
+    "keyword": "AI in Early Learning, Worksheet Auto-Correction, Foundational Learning Technology, AI Feedback Systems, Early Childhood Education Technology, Teacher Workload Reduction, AI for Foundational Literacy, Digital Learning Assessment"
   },
   {
     "id": 21,
@@ -217,7 +217,7 @@
     "image": "/uploads/studies/1770103309_logo_seeds-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/seeds-ai-powered-hyperlocal-risk-mapping-for-urban-resilience",
     "slug": "seeds-ai-powered-hyperlocal-risk-mapping-for-urban-resilience",
-    "keyword": "Strengthening Climate Resilience through Predictive, Community-Led Risk Intelligence"
+    "keyword": "AI for Climate Resilience, Hyperlocal Risk Mapping, Climate Risk Prediction, Disaster Risk Reduction, Climate Adaptation Technology, Urban Resilience Planning, AI for Disaster Preparedness, Community-Based Climate Action"
   },
   {
     "id": 15,
@@ -227,7 +227,7 @@
     "image": "/uploads/studies/1764337349_logo_sewa-bharat-digitising-a-grassroots-womens-movement-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/sewa-bharat-digitising-a-grassroots-womens-movement",
     "slug": "sewa-bharat-digitising-a-grassroots-womens-movement",
-    "keyword": "SEWA Bharat enabled organization-wide digital transformation"
+    "keyword": "Digital Transformation for NGOs, Women’s Economic Empowerment, Grassroots Digital Infrastructure, Data and Analytics for Social Impact, AI for Community Organizations, Informal Economy Workers, Digital Tools for Outreach, Technology for Women’s Collectives"
   },
   {
     "id": 22,
@@ -237,7 +237,7 @@
     "image": "/uploads/studies/1770111491_logo_sneha-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/sneha-ai-supported-maternal-and-child-health-guidance-in-urban-settlements",
     "slug": "sneha-ai-supported-maternal-and-child-health-guidance-in-urban-settlements",
-    "keyword": "Strengthening Maternal and Child Health Outcomes in Urban Vulnerable Communities"
+    "keyword": "AI in Maternal Health, Digital Health Assistants, WhatsApp Health Bots, Maternal and Child Health, Voice AI for Health Education, Community Health Technology, Digital Health Awareness, AI for Public Health"
   },
   {
     "id": 16,
@@ -247,7 +247,7 @@
     "image": "/uploads/studies/1764349186_logo_saajha-thumb.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/saajha-scaling-parental-engagement-through-digital-enablement",
     "slug": "saajha-scaling-parental-engagement-through-digital-enablement",
-    "keyword": "Saajha leveraged a WhatsApp-first delivery model, custom apps, and AI-powered tools."
+    "keyword": "Parental Engagement Technology, WhatsApp-Based Learning, Home-Based Education, Foundational Learning Outcomes, AI in Education Programs, Digital Parent Engagement, Data-Driven Learning Programs, EdTech for Foundational Literacy"
   },
   {
     "id": 7,
@@ -255,8 +255,8 @@
     "short_description": "ERP/Mobile apps digitized supply chain, improving efficiency and compliance.",
     "long_description": "Revolutionising the world’s largest NGO-run school meal program through a multi-platform digital ecosystem to ensure precision, quality, and systemic efficiency.",
     "image": "/uploads/studies/1776717715_logo_Akshaya-patra-thumb.webp",
-    "url": "https://dt4si.com/digital-transformation-case-studies/the-akshaya-patra-foundation",
-    "slug": "the-akshaya-patra-foundation",
+    "url": "https://dt4si.com/digital-transformation-case-studies/akshaya-patra-foundation-optimizing-operations-feed-millions",
+    "slug": "akshaya-patra-foundation-optimizing-operations-feed-millions",
     "keyword": "Food Security & Nutrition, Operations & Systems"
   },
   {
@@ -267,7 +267,7 @@
     "image": "/uploads/studies/1770101039_logo_the-apprentice-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/the-apprentice-project-ai-enabled-skill-assessment-at-scale",
     "slug": "the-apprentice-project-ai-enabled-skill-assessment-at-scale",
-    "keyword": "Building Critical Thinking, Creativity, and Decision-Making at Scale through AI"
+    "keyword": "AI in 21st Century Skills, WhatsApp Learning Platforms, AI-Powered Skill Development, Critical Thinking Education, Creativity and Problem-Solving Skills, Digital Learning at Scale, Youth Skill Development, AI in Education Programs"
   },
   {
     "id": 41,
@@ -277,7 +277,7 @@
     "image": "/uploads/studies/1776684198_logo_the-association-of-people-with-disability-apd-ai-powered-universal-accessibility.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/the-association-of-people-with-disability-apd-ai-powered-universal-accessibility",
     "slug": "the-association-of-people-with-disability-apd-ai-powered-universal-accessibility",
-    "keyword": "Crowdsourcing a barrier-free India through AI-driven accessibility audits and real-time mapping."
+    "keyword": "AI for Accessibility, Universal Accessibility, Inclusive Infrastructure, Accessibility Audits, Disability Inclusion Technology, Crowdsourced Accessibility Data, Accessible Urban Planning, AI-Powered Accessibility Mapping"
   },
   {
     "id": 26,
@@ -287,7 +287,7 @@
     "image": "/uploads/studies/1770111705_logo_udhyam-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/udhyam-learning-ai-powered-mentorship-for-student-entrepreneurship",
     "slug": "udhyam-learning-ai-powered-mentorship-for-student-entrepreneurship",
-    "keyword": "Strengthening Entrepreneurial Mindsets at Scale through AI-Enabled Mentorship"
+    "keyword": "AI Mentorship Platforms, Entrepreneurship Education, AI in School Learning, Personalized Learning Support, Student Innovation Programs, AI for Experiential Learning, Entrepreneurial Mindset Development, EdTech for Skill Building"
   },
   {
     "id": 8,
@@ -295,9 +295,9 @@
     "short_description": "UMANG mobile app streamlined data/support, boosting student attendance 31% in Balwadis",
     "long_description": "How Vipla Foundation co-developed the UMANG mobile platform to digitize Balwadi operations, enabling real-time data tracking, improved teaching quality, and scalable early childhood education delivery.",
     "image": "/uploads/studies/1764055678_logo_Vipla-Foundation.png",
-    "url": "https://dt4si.com/digital-transformation-case-studies/vipla-foundation",
-    "slug": "vipla-foundation",
-    "keyword": "Vipla Foundation co-developed the UMANG mobile platform to digitize Balwadi operations"
+    "url": "https://dt4si.com/digital-transformation-case-studies/vipla-foundation-reimagining-balwadi-program-digital-enablement-early-childhood-education",
+    "slug": "vipla-foundation-reimagining-balwadi-program-digital-enablement-early-childhood-education",
+    "keyword": "AI-powered skilling, youth employability, personalised learning, voice-based learning, multilingual AI tutor, digital skilling platform, workforce readiness, underserved youth, conversational AI learning, scalable education technology, employability training, technology-enabled skilling."
   },
   {
     "id": 29,
@@ -307,7 +307,7 @@
     "image": "/uploads/studies/1770111533_logo_vopa-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/vopa-ai-driven-foundational-literacy-and-numeracy-assessment-at-scale",
     "slug": "vopa-ai-driven-foundational-literacy-and-numeracy-assessment-at-scale",
-    "keyword": "Evidence-based FLN Assessments Strengthening Foundational Literacy and Numeracy."
+    "keyword": "AI-driven assessments, foundational literacy and numeracy (FLN), learning assessments, education data analytics, evidence-based education, student learning outcomes, large-scale assessments, education system strengthening, AI in education, data-driven education policy, foundational learning measurement, scalable education assessments."
   },
   {
     "id": 40,
@@ -317,7 +317,7 @@
     "image": "/uploads/studies/1776684498_logo_Vruksh Ecosystem Foundation_ Bridging the Digital Divide with Offline-First Agentic AI.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/vruksh-ecosystem-foundation-bridging-the-digital-divide-with-offline-first-agentic-ai",
     "slug": "vruksh-ecosystem-foundation-bridging-the-digital-divide-with-offline-first-agentic-ai",
-    "keyword": "Vruksh Ecosystem Foundation is democratising high-quality education in connectivity-challenged regions by deploying a multi-model AI architecture that transitions seamlessly between high-capability cloud models and efficient edge-based offline learning."
+    "keyword": "offline-first AI, agentic AI systems, hybrid AI architecture, edge AI learning, low-connectivity education, digital divide in education, AI-powered learning delivery, offline education technology, personalised learning AI, scalable education technology, cloud and edge AI integration, rural digital education solutions."
   },
   {
     "id": 23,
@@ -327,6 +327,6 @@
     "image": "/uploads/studies/1770111673_logo_william-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/clinton-foundation-ai-enabled-tb-screening-for-community-health-programmes",
     "slug": "clinton-foundation-ai-enabled-tb-screening-for-community-health-programmes",
-    "keyword": "Strengthening Early TB Detection by Embedding AI into Government-Led Active Case Finding"
+    "keyword": "AI-powered TB screening, tuberculosis detection, AI in public health, portable X-ray screening, active case finding, early TB diagnosis, health camp innovation, AI-assisted diagnostics, scalable TB screening, public health technology, community health screening, AI for disease detection."
   }
 ]

@@ -23,7 +23,7 @@ def main() -> None:
     )
 
     st.title("🔎 Hybrid Search System")
-    st.markdown("### Search across tools, service providers, training courses, and case studies")
+    st.markdown("### Search across tools, service providers, training courses, case studies, and insights")
     st.markdown("*🤖 Powered by **Semantic Search (70%) + TF-IDF Keyword Matching (30%)**  for the best results*")
 
     # Initialize searcher and handle missing data
@@ -72,6 +72,11 @@ def main() -> None:
                             # For courses, use the course title (index 2)
                             values = res['metadata'].get('values', [])
                             display_header = values[2] if len(values) >= 3 else header
+                        elif "insight" in source_sheet.lower():
+                            category_type = "INSIGHT"
+                            source_emoji = "💡"
+                            values = res['metadata'].get('values', [])
+                            display_header = values[0] if len(values) >= 1 else header
                         else:
                             category_type = "SERVICE PROVIDER"
                             source_emoji = "🏢"
@@ -105,7 +110,7 @@ def main() -> None:
                                     st.write(f"🧠 Semantic: {res['semantic_score']:.3f} (70%)")
                                     st.write(f"🔍 TF-IDF: {res['tfidf_score']:.3f} (30%)")
                         else:
-                            # Display for tools, courses, and service providers
+                            # Display for tools, courses, service providers, and insights
                             with st.expander(f"{source_emoji} {category_type}: {display_header} (Score: {res['score']:.3f})"):
                                 detail_col, score_col = st.columns([2, 1])
                                 with detail_col:
@@ -126,6 +131,12 @@ def main() -> None:
                                         if len(values) >= 2:
                                             st.write(f"**Skill:** {values[0]}")
                                             st.write(f"**Topic:** {values[1]}")
+                                    elif "insight" in source_sheet.lower():  # Insights
+                                        values = res['metadata'].get('values', [])
+                                        if len(values) >= 2 and values[1]:
+                                            st.write(f"**Short Description:** {values[1]}")
+                                        if len(values) >= 3 and values[2]:
+                                            st.write(f"**Keywords:** {values[2]}")
                                     
                                     st.write(f"**Source:** {source_emoji} {source_sheet}")
                                 with score_col:

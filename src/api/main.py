@@ -60,7 +60,7 @@ async def lifespan(app: FastAPI):
 # Create FastAPI app with lifespan manager
 app = FastAPI(
     title="Hybrid Semantic Search API",
-    description="REST API for semantic search across tools, services, courses, and case studies",
+    description="REST API for semantic search across tools, services, courses, case studies, and insights",
     version="1.0.0",
     lifespan=lifespan
 )
@@ -98,6 +98,10 @@ def transform_result_to_api_format(result: Dict[str, Any], rank: int) -> SearchR
         category_type = "COURSE"
         # For courses, use the course title (index 2)
         display_header = values[2] if len(values) >= 3 else ' | '.join(values)
+    elif "insight" in sheet_name.lower():
+        category_type = "INSIGHT"
+        # For insights, use insight title (index 0)
+        display_header = values[0] if len(values) >= 1 else ' | '.join(values)
     else:
         category_type = "SERVICE PROVIDER"
         # For service providers, use the provider name (index 0)
@@ -120,7 +124,8 @@ def transform_result_to_api_format(result: Dict[str, Any], rank: int) -> SearchR
         word_count=metadata.get('word_count'),
         short_description=metadata.get('short_description', ''),  # Add short_description
         slug=slug,  # Add extracted slug
-        image=metadata.get('image')  # Add image path from external API
+        image=metadata.get('image'),  # Add image path from external API
+        raw=metadata
     )
     
     return SearchResult(
@@ -227,6 +232,7 @@ async def search(request: SearchRequest):
     - Service providers
     - Training courses
     - Case studies
+    - Insights
     
     Returns ranked, categorized results with clickable URLs.
     """

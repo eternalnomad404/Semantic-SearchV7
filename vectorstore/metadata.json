@@ -12,7 +12,7 @@
       "3DAI Studio"
     ],
     "short_description": "AI-powered creative platform for NGOs & SPOs",
-    "image": "/uploads/1776071925_header-logo.webp",
+    "image": "/uploads/1777023499_3dai.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=3dai-studio",
     "slug": "3dai-studio",
     "id": 238,
@@ -31,7 +31,7 @@
       "Ally"
     ],
     "short_description": "Mentorship and cohort management platform for nonprofits",
-    "image": "/uploads/1776613020_ally.webp",
+    "image": "/uploads/1777023616_ally.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=ally-1",
     "slug": "ally-1",
     "id": 303,
@@ -54,25 +54,6 @@
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=alteryx-1",
     "slug": "alteryx-1",
     "id": 339,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
-      "AI Tools",
-      "AI Assistant",
-      "Amazon Code Whisperer/Amazon Q"
-    ],
-    "short_description": "AWS AI code companion that generates code suggestions in IDEs.",
-    "image": "/uploads/1776780042_aws-logo.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=amazon-code-whispereramazon-q",
-    "slug": "amazon-code-whispereramazon-q",
-    "id": 6,
     "category": "tool"
   },
   {
@@ -107,7 +88,7 @@
       "Amazon Web Services"
     ],
     "short_description": "Cloud infrastructure platform for building and scaling digital systems",
-    "image": "/uploads/1776768084_Amazon Web Services.webp",
+    "image": "/uploads/1777023698_aws.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=amazon-web-services",
     "slug": "amazon-web-services",
     "id": 337,
@@ -121,8 +102,8 @@
       "Name of Tool"
     ],
     "values": [
-      "Monitoring and Evaluation",
-      "Reporting & Dashboarding",
+      "Monitoring and Evaluation AI Tools",
+      "Reporting & Dashboarding Data Analysis",
       "Apache Superset"
     ],
     "short_description": "Data visualisation and dashboarding for nonprofits & SPOs",
@@ -239,11 +220,11 @@
       "Presentation Generation",
       "Beautiful.ai"
     ],
-    "short_description": "Presentation tool that auto-applies good slide design while you add content.",
-    "image": "/uploads/1764313559_Beautifulai.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=beautifulai",
-    "slug": "beautifulai",
-    "id": 13,
+    "short_description": "AI-assisted presentation design for nonprofits",
+    "image": "/uploads/1776931172_beautifulai.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=beautifulai-1",
+    "slug": "beautifulai-1",
+    "id": 390,
     "category": "tool"
   },
   {
@@ -292,25 +273,6 @@
       "Name of Tool"
     ],
     "values": [
-      "Monitoring and Evaluation Office Automation",
-      "Reporting & Dashboarding Digital Infrastructure",
-      "Big Query"
-    ],
-    "short_description": "Serverless data warehouse for large-scale SQL analytics.",
-    "image": "/uploads/1764314064_googlebigquery.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=big-query",
-    "slug": "big-query",
-    "id": 74,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
       "Fundraising",
       "CRM/Grant/Donor Management",
       "Bigin by Zoho CRM"
@@ -330,15 +292,15 @@
       "Name of Tool"
     ],
     "values": [
-      "AI Tools",
+      "Office Automation",
       "Low-Code/No-Code Development",
-      "Bolt New"
+      "Bolt.new"
     ],
-    "short_description": "StackBlitz\tLow-code framework for rapidly building web applications with AI assistance.",
-    "image": "/uploads/1764313793_boltnew.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=bolt-new",
-    "slug": "bolt-new",
-    "id": 23,
+    "short_description": "AI-assisted app and web development for nonprofits",
+    "image": "/uploads/1776936162_bolt.new.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=boltnew",
+    "slug": "boltnew",
+    "id": 394,
     "category": "tool"
   },
   {
@@ -353,11 +315,11 @@
       "Social Media & Community Engagement",
       "Buffer"
     ],
-    "short_description": "Social media scheduler and analytics tool for multiple platforms.",
-    "image": "/uploads/1764313810_buffer.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=buffer",
-    "slug": "buffer",
-    "id": 153,
+    "short_description": "Social media scheduling and management for nonprofits",
+    "image": "/uploads/1776937670_buffer.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=buffer-1",
+    "slug": "buffer-1",
+    "id": 396,
     "category": "tool"
   },
   {
@@ -372,11 +334,11 @@
       "Scheduling",
       "Calendly"
     ],
-    "short_description": "Meeting scheduling tool that syncs with calendars via shared links.",
-    "image": "/uploads/1764329215_clandly.jpg",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=calendly",
-    "slug": "calendly",
-    "id": 210,
+    "short_description": "Meeting scheduling automation tool for nonprofits and social purpose organisations.",
+    "image": "/uploads/1776862269_calendly.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=calendly-1",
+    "slug": "calendly-1",
+    "id": 370,
     "category": "tool"
   },
   {
@@ -410,30 +372,11 @@
       "Image and Video Editing",
       "Canva"
     ],
-    "short_description": "Drag-and-drop design tool for social graphics, presentations, and more.",
-    "image": "/uploads/1764313822_canva.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=canva",
-    "slug": "canva",
-    "id": 144,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
-      "AI Tools",
-      "Presentation Generation",
-      "Canva AI"
-    ],
-    "short_description": "AI-enhanced design suite for graphics, documents, presentations, and videos.",
-    "image": "/uploads/1764313839_canvaaitools.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=canva-ai",
-    "slug": "canva-ai",
-    "id": 12,
+    "short_description": "Design and content creation for nonprofits",
+    "image": "/uploads/1777024200_canva.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=canva-1",
+    "slug": "canva-1",
+    "id": 409,
     "category": "tool"
   },
   {
@@ -449,7 +392,7 @@
       "Canva AI 3D Model Generator"
     ],
     "short_description": "AI-powered design and 3D content creation for NGOs & SPOs.",
-    "image": "/uploads/1776073131_canva-main.webp",
+    "image": "/uploads/1777024186_canva.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=canva-ai-3d-model-generator",
     "slug": "canva-ai-3d-model-generator",
     "id": 239,
@@ -467,11 +410,11 @@
       "Data Visualization",
       "ChartPixel"
     ],
-    "short_description": "AI assistant for data cleaning, charting, stats, and quick insight generation.",
-    "image": "/uploads/1764313867_chartpixel.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=chartpixel",
-    "slug": "chartpixel",
-    "id": 40,
+    "short_description": "AI-assisted data visualisation and insights for nonprofits",
+    "image": "/uploads/1777017288_chartpixel.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=chartpixel-1",
+    "slug": "chartpixel-1",
+    "id": 410,
     "category": "tool"
   },
   {
@@ -486,11 +429,11 @@
       "Data Analysis",
       "Chat CSV"
     ],
-    "short_description": "Interface to query CSV data using natural language instead of manual formulas/SQL.",
-    "image": "/uploads/1764313883_chatcsv.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=chat-csv",
-    "slug": "chat-csv",
-    "id": 38,
+    "short_description": "AI-powered data exploration for nonprofits working with spreadsheets",
+    "image": "/uploads/1777052677_chat-csv.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=chat-csv-1",
+    "slug": "chat-csv-1",
+    "id": 412,
     "category": "tool"
   },
   {
@@ -506,7 +449,7 @@
       "ChatGPT"
     ],
     "short_description": "AI assistant for content creation, research, and workflow support.",
-    "image": "/uploads/1776429984_chatgpt.webp",
+    "image": "/uploads/1777022378_chatgpt (1).webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=chatgpt-1",
     "slug": "chatgpt-1",
     "id": 252,
@@ -524,11 +467,11 @@
       "AI Assistant",
       "Claude"
     ],
-    "short_description": "Conversational AI focused on helpful, safe, and coherent long-form reasoning and writing.",
-    "image": "/uploads/1764313950_claude.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=claude",
-    "slug": "claude",
-    "id": 42,
+    "short_description": "AI assistant for writing, analysis, and content support for nonprofits",
+    "image": "/uploads/1777284550_claude.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=claude-1",
+    "slug": "claude-1",
+    "id": 427,
     "category": "tool"
   },
   {
@@ -543,11 +486,11 @@
       "Website Management",
       "Clearscope"
     ],
-    "short_description": "SEO content optimization tool that suggests keywords and topics for a focus term.",
-    "image": "/uploads/1764314020_Frame.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=clearscope",
-    "slug": "clearscope",
-    "id": 50,
+    "short_description": "AI-powered content optimisation and SEO platform.",
+    "image": "/uploads/1776863425_clearscope.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=clearscope-1",
+    "slug": "clearscope-1",
+    "id": 374,
     "category": "tool"
   },
   {
@@ -586,25 +529,6 @@
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=clickup-1",
     "slug": "clickup-1",
     "id": 287,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
-      "Data & Analytics",
-      "Cloud Services",
-      "Cloud computing and infrastructure platform for NGOs & SPOs"
-    ],
-    "short_description": "Amazon Web Services (AWS) is a cloud computing platform.",
-    "image": "/uploads/1776172396_aws.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=cloud-computing-and-infrastructure-platform-for-ngos-spos",
-    "slug": "cloud-computing-and-infrastructure-platform-for-ngos-spos",
-    "id": 255,
     "category": "tool"
   },
   {
@@ -662,25 +586,6 @@
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=commonsfarm-1",
     "slug": "commonsfarm-1",
     "id": 338,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
-      "AI Tools",
-      "AI Assistant",
-      "Copilot"
-    ],
-    "short_description": "AI assistant inside Microsoft 365 to draft, summarize, and automate tasks.",
-    "image": "/uploads/1764323951_gitHub-copilot.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=copilot-microsoft",
-    "slug": "copilot-microsoft",
-    "id": 47,
     "category": "tool"
   },
   {
@@ -750,13 +655,13 @@
     "values": [
       "Fundraising",
       "CRM/Grant/Donor Management Crowdfunding",
-      "Daanveda"
+      "DaanVeda"
     ],
-    "short_description": "Donor and fundraising CRM for Indian NGOs.",
-    "image": "/uploads/1764334898_DaanVeda.svg",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=daanveda",
-    "slug": "daanveda",
-    "id": 100,
+    "short_description": "AI-powered donor intelligence and prospecting platform for NGOs",
+    "image": "/uploads/1777274633_daanveda.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=daanveda-1",
+    "slug": "daanveda-1",
+    "id": 423,
     "category": "tool"
   },
   {
@@ -767,15 +672,15 @@
       "Name of Tool"
     ],
     "values": [
-      "Data & Analytics AI Tools",
-      "Data Analysis Data Management Agent Building",
+      "AI Tools Data & Analytics",
+      "Agent Building Data Analysis Data Management",
       "Dalgo"
     ],
-    "short_description": "",
-    "image": "/uploads/1764334924_Dalgo.svg",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=dalgo",
-    "slug": "dalgo",
-    "id": 173,
+    "short_description": "Data pipelines and analytics for NGO data systems",
+    "image": "/uploads/1777012667_dalgo.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=dalgo-1",
+    "slug": "dalgo-1",
+    "id": 407,
     "category": "tool"
   },
   {
@@ -845,13 +750,13 @@
     "values": [
       "Office Automation",
       "Workflow Management",
-      "DeskPro"
+      "Deskpro"
     ],
-    "short_description": "Omnichannel helpdesk for tickets, chat, knowledge base, and automation.",
-    "image": "/uploads/1764324382_deskpro.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=deskpro",
-    "slug": "deskpro",
-    "id": 216,
+    "short_description": "Support workflows for NGOs & SPOs",
+    "image": "/uploads/1777011836_deskpro.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=deskpro-1",
+    "slug": "deskpro-1",
+    "id": 406,
     "category": "tool"
   },
   {
@@ -866,11 +771,11 @@
       "Cloud Services",
       "DigitalOcean"
     ],
-    "short_description": "Developer-friendly cloud with simple pricing for VMs, DBs, and Kubernetes.",
-    "image": "/uploads/1764324412_digitalocean.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=digitalocean",
-    "slug": "digitalocean",
-    "id": 69,
+    "short_description": "Simple cloud platform for hosting applications and managing data",
+    "image": "/uploads/1776862135_digitalocean.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=digitalocean-1",
+    "slug": "digitalocean-1",
+    "id": 344,
     "category": "tool"
   },
   {
@@ -885,11 +790,11 @@
       "Document and Knowledge Management",
       "Document360"
     ],
-    "short_description": "Knowledge-base platform for product docs and SOPs.",
-    "image": "/uploads/1764324428_document360.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=document360",
-    "slug": "document360",
-    "id": 203,
+    "short_description": "Knowledge base and documentation platform for nonprofits and social purpose organisations",
+    "image": "/uploads/1776858379_document360.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=document360-1",
+    "slug": "document360-1",
+    "id": 346,
     "category": "tool"
   },
   {
@@ -904,30 +809,11 @@
       "Document and Knowledge Management",
       "Dropbox"
     ],
-    "short_description": "Cloud storage and file-sync service for individuals and teams.",
-    "image": "/uploads/1764324441_dropbox.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=dropbox",
-    "slug": "dropbox",
-    "id": 208,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
-      "Human Resources",
-      "Recruitment",
-      "ERP Next for HR"
-    ],
-    "short_description": "HR module within ERPNext for employees, payroll, and leave.",
-    "image": "/uploads/1764324521_erpnext.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=erp-next-for-hr",
-    "slug": "erp-next-for-hr",
-    "id": 115,
+    "short_description": "Cloud file storage and sharing platform for nonprofits and social purpose organisations",
+    "image": "/uploads/1776858676_drop-box.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=dropbox-1",
+    "slug": "dropbox-1",
+    "id": 348,
     "category": "tool"
   },
   {
@@ -962,10 +848,29 @@
       "ERPNext"
     ],
     "short_description": "Open-source HR and workforce management system for nonprofits and social purpose organisations",
-    "image": "/uploads/1776499766_erpnext.webp",
+    "image": "/uploads/1777023874_erpnext.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=erpnext",
     "slug": "erpnext",
     "id": 320,
+    "category": "tool"
+  },
+  {
+    "sheet": "Cleaned Sheet",
+    "column_headers": [
+      "Category",
+      "Sub-Category",
+      "Name of Tool"
+    ],
+    "values": [
+      "Learning & Development",
+      "Learning Management System",
+      "EduSystem"
+    ],
+    "short_description": "Digital learning platform with pre-built curriculum for education programmes",
+    "image": "/uploads/1777010529_edusystem.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=edusystem-1",
+    "slug": "edusystem-1",
+    "id": 405,
     "category": "tool"
   },
   {
@@ -995,34 +900,15 @@
       "Name of Tool"
     ],
     "values": [
-      "Learning & Development",
-      "Learning Management System",
-      "Edusystem"
-    ],
-    "short_description": "LMS with curriculum-aligned digital content across school subjects.",
-    "image": "/uploads/1764324580_edusystem.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=edusystem",
-    "slug": "edusystem",
-    "id": 126,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
       "AI Tools",
       "Audio, Voice & Music Generation",
       "ElevenLabs"
     ],
-    "short_description": "AI voice platform for realistic text-to-speech and voice cloning.",
-    "image": "/uploads/1764324623_iielevenlabs.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=elevenlabs",
-    "slug": "elevenlabs",
-    "id": 18,
+    "short_description": "AI voice generation and text-to-speech platform for audio content",
+    "image": "/uploads/1777008987_elevenlabs.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=elevenlabs-1",
+    "slug": "elevenlabs-1",
+    "id": 404,
     "category": "tool"
   },
   {
@@ -1037,11 +923,11 @@
       "Digital Infrastructure",
       "Esper"
     ],
-    "short_description": "Platform to manage fleets of Android devices remotely.",
-    "image": "/uploads/1764324640_esper.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=esper",
-    "slug": "esper",
-    "id": 202,
+    "short_description": "Device management platform for dedicated devices and field operations",
+    "image": "/uploads/1776945760_esper.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=esper-1",
+    "slug": "esper-1",
+    "id": 401,
     "category": "tool"
   },
   {
@@ -1094,11 +980,11 @@
       "Workflow Management",
       "Flux"
     ],
-    "short_description": "Workflow and job orchestration platform with scheduling and event triggers.",
-    "image": "/uploads/1764324690_flux.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=flux",
-    "slug": "flux",
-    "id": 214,
+    "short_description": "Managing workflows and processes across systems",
+    "image": "/uploads/1776862300_flux.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=flux-1",
+    "slug": "flux-1",
+    "id": 350,
     "category": "tool"
   },
   {
@@ -1111,13 +997,13 @@
     "values": [
       "Office Automation",
       "Low-Code/No-Code Development",
-      "Frappe Framework"
+      "Frappe"
     ],
-    "short_description": "Low-code, Python/JS web app framework used for ERPNext.",
-    "image": "/uploads/1764324730_frappe.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=frappe-framework",
-    "slug": "frappe-framework",
-    "id": 197,
+    "short_description": "Open-source application framework for building custom organisational systems in nonprofits & social purpose organisations",
+    "image": "/uploads/1776862412_frappe.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=frappe",
+    "slug": "frappe",
+    "id": 352,
     "category": "tool"
   },
   {
@@ -1151,11 +1037,11 @@
       "Image and Video Editing",
       "GIMP"
     ],
-    "short_description": "Open-source raster graphics editor for image editing and compositing.",
-    "image": "/uploads/1764324780_gimp.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=gimp",
-    "slug": "gimp",
-    "id": 142,
+    "short_description": "Free, open-source image editing software for visual content creation",
+    "image": "/uploads/1777026342_gimp.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=gimp-1",
+    "slug": "gimp-1",
+    "id": 403,
     "category": "tool"
   },
   {
@@ -1170,11 +1056,11 @@
       "Presentation Generation",
       "Gamma"
     ],
-    "short_description": "Tool for creating interactive decks, docs, and simple web pages with smart design defaults.",
-    "image": "/uploads/1764324797_gamma.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=gamma",
-    "slug": "gamma",
-    "id": 17,
+    "short_description": "AI-powered presentation and content creation tool",
+    "image": "/uploads/1776946801_gamma.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=gamma-1",
+    "slug": "gamma-1",
+    "id": 402,
     "category": "tool"
   },
   {
@@ -1208,30 +1094,11 @@
       "AI Assistant",
       "GitHub Copilot"
     ],
-    "short_description": "AI coding assistant that suggests code and functions directly inside supported editors.",
-    "image": "/uploads/1764324831_gitHub-copilot.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=github-copilot",
-    "slug": "github-copilot",
-    "id": 5,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
-      "Fundraising",
-      "Crowdfunding",
-      "Give India"
-    ],
-    "short_description": "Donation platform to give to vetted Indian NGOs with impact tracking.",
-    "image": "/uploads/1764324846_give-india.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=give-india",
-    "slug": "give-india",
-    "id": 106,
+    "short_description": "AI assistant for writing, analysis, and content support for nonprofits",
+    "image": "/uploads/1777285016_github.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=github-copilot-1",
+    "slug": "github-copilot-1",
+    "id": 429,
     "category": "tool"
   },
   {
@@ -1265,11 +1132,11 @@
       "Data Analysis",
       "Google Analytics"
     ],
-    "short_description": "Web analytics service for traffic, behavior, and campaign performance.",
-    "image": "/uploads/1764324880_google-analytics.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-analytics",
-    "slug": "google-analytics",
-    "id": 175,
+    "short_description": "Website analytics platform for understanding user behaviour and improving digital performance.",
+    "image": "/uploads/1776862534_google analytics.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-analytics-1",
+    "slug": "google-analytics-1",
+    "id": 357,
     "category": "tool"
   },
   {
@@ -1303,11 +1170,11 @@
       "Cloud Services",
       "Google Cloud"
     ],
-    "short_description": "Google's cloud platform for compute, storage, data, ML, and developer tools.",
-    "image": "/uploads/1764324923_google-cloud.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-cloud",
-    "slug": "google-cloud",
-    "id": 64,
+    "short_description": "Cloud infrastructure and data platform for analytics, AI, and scalable digital systems",
+    "image": "/uploads/1776862738_google-cloud.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-cloud-1",
+    "slug": "google-cloud-1",
+    "id": 358,
     "category": "tool"
   },
   {
@@ -1323,7 +1190,7 @@
       "Google Forms"
     ],
     "short_description": "A free, browser-based form and survey tool used by NGOs for intake, volunteer registration, and operational data capture.",
-    "image": "/uploads/1776432376_google-form.webp",
+    "image": "/uploads/1777023964_google-form.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-forms",
     "slug": "google-forms",
     "id": 315,
@@ -1341,11 +1208,11 @@
       "Social Media & Community Engagement",
       "Google Groups"
     ],
-    "short_description": "Email-based discussion and forum service by Google.",
-    "image": "/uploads/1764324950_google-groups.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-groups",
-    "slug": "google-groups",
-    "id": 157,
+    "short_description": "Simple group communication for NGOs & SPOs",
+    "image": "/uploads/1777284281_google-groups.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-groups-1",
+    "slug": "google-groups-1",
+    "id": 426,
     "category": "tool"
   },
   {
@@ -1360,11 +1227,11 @@
       "Website Management",
       "Google Lighthouse"
     ],
-    "short_description": "Automated auditing tool for web performance, accessibility, and SEO.",
-    "image": "/uploads/1764324968_google-lighthouse.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-lighthouse",
-    "slug": "google-lighthouse",
-    "id": 163,
+    "short_description": "Website performance, accessibility, and SEO auditing tool",
+    "image": "/uploads/1777024382_google-lighthouse.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-lighthouse-1",
+    "slug": "google-lighthouse-1",
+    "id": 361,
     "category": "tool"
   },
   {
@@ -1398,11 +1265,11 @@
       "Video Conferencing",
       "Google Meet"
     ],
-    "short_description": "Google video-meeting service integrated with Workspace.",
-    "image": "/uploads/1764325003_google-meet.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-meet",
-    "slug": "google-meet",
-    "id": 162,
+    "short_description": "Video conferencing and meetings for nonprofits and distributed teams.",
+    "image": "/uploads/1776941905_google-meet.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-meet-1",
+    "slug": "google-meet-1",
+    "id": 399,
     "category": "tool"
   },
   {
@@ -1418,7 +1285,7 @@
       "Google Sheets"
     ],
     "short_description": "Cloud-based spreadsheet tool for data management and lightweight programme workflows",
-    "image": "/uploads/1776446246_google-sheet.webp",
+    "image": "/uploads/1777024041_google-sheet.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-sheets-1",
     "slug": "google-sheets-1",
     "id": 293,
@@ -1474,30 +1341,11 @@
       "Data Visualization",
       "Graphite"
     ],
-    "short_description": "Developer platform focused on PR stacking, reviews, and workflow automation for engineering teams.",
-    "image": "/uploads/1764325094_graphite.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=graphite",
-    "slug": "graphite",
-    "id": 39,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
-      "Learning & Development",
-      "Learning Management System",
-      "GreytHR Academy"
-    ],
-    "short_description": "Online learning platform focused on HR and payroll upskilling.",
-    "image": "/uploads/1764325135_greythr.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=greythr-academy",
-    "slug": "greythr-academy",
-    "id": 124,
+    "short_description": "Developer workflow automation for NGOs & SPOs",
+    "image": "/uploads/1777135790_graphite.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=graphite-1",
+    "slug": "graphite-1",
+    "id": 417,
     "category": "tool"
   },
   {
@@ -1546,15 +1394,15 @@
       "Name of Tool"
     ],
     "values": [
-      "AI Tools",
-      "Workflow Automation",
+      "Office Automation",
+      "Workflow Management",
       "Hive"
     ],
-    "short_description": "Project management and collaboration tool with tasks, time tracking, and analytics.",
-    "image": "/uploads/1764325189_hive.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=hive",
-    "slug": "hive",
-    "id": 56,
+    "short_description": "Workflow coordination and project tracking for nonprofits",
+    "image": "/uploads/1776867682_hive.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=hive-1",
+    "slug": "hive-1",
+    "id": 378,
     "category": "tool"
   },
   {
@@ -1565,15 +1413,15 @@
       "Name of Tool"
     ],
     "values": [
-      "AI Tools",
-      "Social Media & Scheduling",
+      "Marketing & Communication",
+      "Social Media & Community Engagement",
       "Hootsuite"
     ],
-    "short_description": "Dashboard to schedule, monitor, and analyze social media across channels.",
-    "image": "/uploads/1764325203_hootsuite.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=hootsuite",
-    "slug": "hootsuite",
-    "id": 51,
+    "short_description": "Flexible social media management for nonprofits and social purpose organisations",
+    "image": "/uploads/1777137258_hootsuite.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=hootsuite-1",
+    "slug": "hootsuite-1",
+    "id": 418,
     "category": "tool"
   },
   {
@@ -1626,49 +1474,11 @@
       "Cloud Services",
       "IBM Cloud"
     ],
-    "short_description": "IBM's hybrid-cloud platform with compute plus Watson AI and other services.",
-    "image": "/uploads/1764325390_ibm-cloud.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=ibm-cloud",
-    "slug": "ibm-cloud",
-    "id": 68,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
-      "Marketing & Communication",
-      "Image and Video Editing",
-      "Inkscape"
-    ],
-    "short_description": "Open-source vector graphics editor for illustrations and logos.",
-    "image": "/uploads/1764325413_inkscape.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=inkscape",
-    "slug": "inkscape",
-    "id": 143,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
-      "Office Automation",
-      "Digital Infrastructure",
-      "InsightOne"
-    ],
-    "short_description": "Platform to remotely manage, monitor, and update payment terminals.",
-    "image": "/uploads/1764325427_InsightOne.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=insightone",
-    "slug": "insightone",
-    "id": 195,
+    "short_description": "Enterprise cloud platform for secure and compliant infrastructure, AI, and hybrid cloud systems.",
+    "image": "/uploads/1776863107_ibm-cloud.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=ibm-cloud-1",
+    "slug": "ibm-cloud-1",
+    "id": 365,
     "category": "tool"
   },
   {
@@ -1683,11 +1493,11 @@
       "Social Media & Community Engagement",
       "Instagram"
     ],
-    "short_description": "Visual-first social app for photos, Stories, Reels, and shopping.",
-    "image": "/uploads/1764325442_instagram.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=instagram",
-    "slug": "instagram",
-    "id": 156,
+    "short_description": "Digital storytelling and engagement platform for nonprofits and SPOs",
+    "image": "/uploads/1777283375_instagram.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=instagram-1",
+    "slug": "instagram-1",
+    "id": 422,
     "category": "tool"
   },
   {
@@ -1722,7 +1532,7 @@
       "Jira"
     ],
     "short_description": "Software project tracking for nonprofits",
-    "image": "/uploads/1776334028_jira.webp",
+    "image": "/uploads/1777026223_jira.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=jira-1",
     "slug": "jira-1",
     "id": 281,
@@ -1740,11 +1550,11 @@
       "Video Conferencing",
       "Jitsi Meet"
     ],
-    "short_description": "Open-source video conferencing with browser and mobile apps.",
-    "image": "/uploads/1764325487_jitsi-meet.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=jitsi-meet",
-    "slug": "jitsi-meet",
-    "id": 160,
+    "short_description": "Flexible video meetings for NGOs & SPOs",
+    "image": "/uploads/1776941829_jitsi-meet.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=jitsi-meet-1",
+    "slug": "jitsi-meet-1",
+    "id": 400,
     "category": "tool"
   },
   {
@@ -1759,11 +1569,11 @@
       "Website Management",
       "Joomla"
     ],
-    "short_description": "Open-source CMS for websites and web apps.",
-    "image": "/uploads/1764325502_joomla.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=joomla",
-    "slug": "joomla",
-    "id": 166,
+    "short_description": "Open-source content management system for NGO websites",
+    "image": "/uploads/1776840231_joomla.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=joomla-1",
+    "slug": "joomla-1",
+    "id": 345,
     "category": "tool"
   },
   {
@@ -1779,7 +1589,7 @@
       "Jotform"
     ],
     "short_description": "Simple forms for NGOs & SPOs",
-    "image": "/uploads/1776359330_jotform.webp",
+    "image": "/uploads/1777026145_1776359330_jotform.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=jotform-1",
     "slug": "jotform-1",
     "id": 277,
@@ -1812,25 +1622,6 @@
       "Name of Tool"
     ],
     "values": [
-      "Marketing & Communication",
-      "Video Conferencing",
-      "KUDO"
-    ],
-    "short_description": "Virtual meeting platform with live language interpretation.",
-    "image": "/uploads/1764325709_kudo.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=kudo",
-    "slug": "kudo",
-    "id": 161,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
       "Human Resources",
       "Recruitment HRMS Payroll",
       "Keka HR"
@@ -1850,15 +1641,15 @@
       "Name of Tool"
     ],
     "values": [
-      "Office Automation",
-      "Workflow Management",
+      "Human Resources",
+      "HRMS",
       "Kelsa"
     ],
-    "short_description": "BPM platform for modeling, automating, and monitoring workflows.",
-    "image": "/uploads/1764322358_kelsa@2x.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=kelsa",
-    "slug": "kelsa",
-    "id": 213,
+    "short_description": "HR workflow platform for employee lifecycle and people processes",
+    "image": "/uploads/1776842310_kelsa.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=kelsa-1",
+    "slug": "kelsa-1",
+    "id": 349,
     "category": "tool"
   },
   {
@@ -1892,11 +1683,11 @@
       "Social Media & Scheduling",
       "Later"
     ],
-    "short_description": "Visual planner for scheduling and analyzing social content, especially Instagram/TikTok.",
-    "image": "/uploads/1764314482_later.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=later",
-    "slug": "later",
-    "id": 52,
+    "short_description": "Social media scheduling and content planning",
+    "image": "/uploads/1777137767_later.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=later-1",
+    "slug": "later-1",
+    "id": 419,
     "category": "tool"
   },
   {
@@ -1907,15 +1698,15 @@
       "Name of Tool"
     ],
     "values": [
-      "Data & Analytics Monitoring and Evaluation",
-      "Reporting & Dashboarding Data Analysis",
+      "Data & Analytics",
+      "Data Analysis",
       "Looker Studio"
     ],
-    "short_description": "Free web tool to build shareable dashboards from many data sources.",
-    "image": "/uploads/1764314513_looker-studio.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=looker-studio",
-    "slug": "looker-studio",
-    "id": 77,
+    "short_description": "Lightweight dashboarding tool for real-time data visualisation using Google tools.",
+    "image": "/uploads/1776844471_looker.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=looker-studio-1",
+    "slug": "looker-studio-1",
+    "id": 353,
     "category": "tool"
   },
   {
@@ -1926,15 +1717,15 @@
       "Name of Tool"
     ],
     "values": [
-      "AI Tools",
+      "Office Automation",
       "Low-Code/No-Code Development",
       "Lovable AI"
     ],
-    "short_description": "Lovable\tAI-powered web development tool for building web apps from natural language descriptions.",
-    "image": "/uploads/1764315510_lovable.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=lovable-ai",
-    "slug": "lovable-ai",
-    "id": 24,
+    "short_description": "AI-assisted app building and prototyping for nonprofits",
+    "image": "/uploads/1776867707_lovable.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=lovable-ai-1",
+    "slug": "lovable-ai-1",
+    "id": 372,
     "category": "tool"
   },
   {
@@ -1949,11 +1740,11 @@
       "Document and Knowledge Management",
       "M-Files"
     ],
-    "short_description": "Content and document management platform with metadata-based organization.",
-    "image": "/uploads/1764315336_m-files.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=m-files",
-    "slug": "m-files",
-    "id": 204,
+    "short_description": "Document management system for organising and controlling organisational information in nonprofits and social purpose organisations",
+    "image": "/uploads/1776846009_mfiles.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=m-files-1",
+    "slug": "m-files-1",
+    "id": 354,
     "category": "tool"
   },
   {
@@ -1968,11 +1759,11 @@
       "Outreach and Marketing",
       "Magento"
     ],
-    "short_description": "Open-source-origin e-commerce platform for building online stores.",
-    "image": "/uploads/1764315495_magento.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=magento",
-    "slug": "magento",
-    "id": 149,
+    "short_description": "E-commerce platform for online fundraising and merchandise",
+    "image": "/uploads/1777035080_magento.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=magento-1",
+    "slug": "magento-1",
+    "id": 411,
     "category": "tool"
   },
   {
@@ -1984,14 +1775,14 @@
     ],
     "values": [
       "Marketing & Communication",
-      "Email Marketing Outreach and Marketing",
+      "Outreach and Marketing",
       "Mailchimp"
     ],
-    "short_description": "Email marketing and automation platform with templates and analytics.",
-    "image": "/uploads/1764315473_mailchamp.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=mailchimp",
-    "slug": "mailchimp",
-    "id": 137,
+    "short_description": "Email marketing and outreach platform for donor and supporter communication",
+    "image": "/uploads/1777026495_mailchimp.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=mailchimp-1",
+    "slug": "mailchimp-1",
+    "id": 355,
     "category": "tool"
   },
   {
@@ -2002,15 +1793,15 @@
       "Name of Tool"
     ],
     "values": [
-      "AI Tools",
-      "Workflow Automation",
+      "Office Automation",
+      "Workflow Management",
       "Make"
     ],
-    "short_description": "Visual workflow builder for complex multi-app automations.",
-    "image": "/uploads/1764315443_make.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=make",
-    "slug": "make",
-    "id": 57,
+    "short_description": "Workflow automation and integration for nonprofits.",
+    "image": "/uploads/1776867741_make.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=make-1",
+    "slug": "make-1",
+    "id": 375,
     "category": "tool"
   },
   {
@@ -2026,7 +1817,7 @@
       "MarketMuse"
     ],
     "short_description": "Content optimisation and planning support for NGOs and social purpose organisations.",
-    "image": "/uploads/1776160194_MarketMuse.jpg",
+    "image": "/uploads/1777026616_marketmuse.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=marketmuse-1",
     "slug": "marketmuse-1",
     "id": 249,
@@ -2040,15 +1831,15 @@
       "Name of Tool"
     ],
     "values": [
-      "AI Tools",
-      "Data Analysis",
+      "Monitoring and Evaluation",
+      "Reporting & Dashboarding",
       "Medallia"
     ],
-    "short_description": "Customer and employee experience platform for collecting feedback and analyzing sentiment.",
-    "image": "/uploads/1764315411_medallia.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=medallia",
-    "slug": "medallia",
-    "id": 36,
+    "short_description": "Feedback and experience management for nonprofits",
+    "image": "/uploads/1776867758_medallia.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=medallia-1",
+    "slug": "medallia-1",
+    "id": 377,
     "category": "tool"
   },
   {
@@ -2097,34 +1888,15 @@
       "Name of Tool"
     ],
     "values": [
-      "Marketing & Communication",
-      "Social Media & Community Engagement",
-      "Meta"
-    ],
-    "short_description": "High-level module for Meta's governance, R&D, and ecosystem integration.",
-    "image": "/uploads/1764315359_meta.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=meta-1",
-    "slug": "meta-1",
-    "id": 154,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
       "AI Tools",
       "AI Assistant",
       "Meta AI"
     ],
-    "short_description": "Generative tools across Meta apps for content generation, image editing, and chat.",
-    "image": "/uploads/1764315375_meta ai.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=meta-ai",
-    "slug": "meta-ai",
-    "id": 43,
+    "short_description": "AI assistant and content support for nonprofits",
+    "image": "/uploads/1776867772_meta-ai.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=meta-ai-1",
+    "slug": "meta-ai-1",
+    "id": 379,
     "category": "tool"
   },
   {
@@ -2139,11 +1911,30 @@
       "Cloud Services",
       "Microsoft Azure"
     ],
-    "short_description": "Microsoft's cloud platform for apps, data, AI, and infrastructure.",
-    "image": "/uploads/1764315308_microsoft-azure.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=microsoft-azure",
-    "slug": "microsoft-azure",
-    "id": 65,
+    "short_description": "Platform for managing apps, data, and infrastructure across cloud environments.",
+    "image": "/uploads/1776849811_Microsoft Azure.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=microsoft-azure-1",
+    "slug": "microsoft-azure-1",
+    "id": 356,
+    "category": "tool"
+  },
+  {
+    "sheet": "Cleaned Sheet",
+    "column_headers": [
+      "Category",
+      "Sub-Category",
+      "Name of Tool"
+    ],
+    "values": [
+      "AI Tools",
+      "AI Assistant",
+      "Microsoft Copilot"
+    ],
+    "short_description": "AI assistant for productivity and document workflows in nonprofits",
+    "image": "/uploads/1777014177_Microsoft Copilot.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=microsoft-copilot",
+    "slug": "microsoft-copilot",
+    "id": 408,
     "category": "tool"
   },
   {
@@ -2234,11 +2025,11 @@
       "Data Analysis",
       "MindsDB"
     ],
-    "short_description": "Open-source layer that lets you run ML models directly from databases/SQL.",
-    "image": "/uploads/1764315112_mindsdb.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=mindsdb",
-    "slug": "mindsdb",
-    "id": 37,
+    "short_description": "Machine learning integration for data-driven nonprofits",
+    "image": "/uploads/1776921124_mindsdb.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=mindsdb-1",
+    "slug": "mindsdb-1",
+    "id": 382,
     "category": "tool"
   },
   {
@@ -2272,7 +2063,7 @@
       "Learning Management System",
       "Moodle"
     ],
-    "short_description": "World's Most Widely Used Open-Source Learning Management System for Online Training, Course Delivery, and Organisational Capability Building.",
+    "short_description": "Open-Source Learning Management System for Online Training, Course Delivery, and Capability Building.",
     "image": "/uploads/1776416493_moodle.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=moodle-1",
     "slug": "moodle-1",
@@ -2291,11 +2082,11 @@
       "Scheduling",
       "Motion"
     ],
-    "short_description": "AI calendar and task planner that auto-schedules work and meetings.",
-    "image": "/uploads/1764315075_motion.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=motion",
-    "slug": "motion",
-    "id": 211,
+    "short_description": "AI-powered task, calendar, and project management tool for nonprofits and social purpose organisations.",
+    "image": "/uploads/1776851216_motion.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=motion-1",
+    "slug": "motion-1",
+    "id": 359,
     "category": "tool"
   },
   {
@@ -2311,7 +2102,7 @@
       "Nagios"
     ],
     "short_description": "Open-source IT infrastructure monitoring tool for nonprofits and social purpose organisations",
-    "image": "/uploads/1776777902_nagios.webp",
+    "image": "/uploads/1777026081_nagios.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=nagios-1",
     "slug": "nagios-1",
     "id": 342,
@@ -2329,11 +2120,11 @@
       "Presentation Generation",
       "Napkin AI"
     ],
-    "short_description": "AI assistant for writing and ideation that helps outline, refine, and clarify drafts.",
-    "image": "/uploads/1764315048_napkin.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=napkin-ai",
-    "slug": "napkin-ai",
-    "id": 9,
+    "short_description": "AI-assisted visualisation of ideas and concepts for nonprofits",
+    "image": "/uploads/1776922485_napkin.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=napkin-ai-1",
+    "slug": "napkin-ai-1",
+    "id": 383,
     "category": "tool"
   },
   {
@@ -2348,11 +2139,11 @@
       "Agile",
       "New Relic"
     ],
-    "short_description": "Observability and APM platform for apps and infrastructure.",
-    "image": "/uploads/1764315030_new-relic.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=new-relic",
-    "slug": "new-relic",
-    "id": 219,
+    "short_description": "Application monitoring and observability for nonprofits",
+    "image": "/uploads/1776923013_new-relic.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=new-relic-1",
+    "slug": "new-relic-1",
+    "id": 384,
     "category": "tool"
   },
   {
@@ -2386,11 +2177,11 @@
       "Image and Video Editing",
       "Olive Video Editor"
     ],
-    "short_description": "Open-source non-linear video editor with node-based compositing.",
-    "image": "/uploads/1764314972_olive-video-editor.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=olive-video-editor",
-    "slug": "olive-video-editor",
-    "id": 141,
+    "short_description": "Open-source video editing for nonprofit content creation",
+    "image": "/uploads/1776924588_olive-video-editor.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=olive-video-editor-1",
+    "slug": "olive-video-editor-1",
+    "id": 385,
     "category": "tool"
   },
   {
@@ -2405,11 +2196,11 @@
       "Document and Knowledge Management",
       "OneDrive"
     ],
-    "short_description": "Microsoft's cloud file storage with Office integration.",
-    "image": "/uploads/1764314959_onedrive.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=onedrive",
-    "slug": "onedrive",
-    "id": 205,
+    "short_description": "Cloud file storage and sharing platform within Microsoft ecosystem for nonprofits & social purpose organisations",
+    "image": "/uploads/1777026877_onedrive.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=onedrive-1",
+    "slug": "onedrive-1",
+    "id": 360,
     "category": "tool"
   },
   {
@@ -2424,30 +2215,11 @@
       "Cloud Services",
       "Oracle Cloud Infrastructure (OCI)"
     ],
-    "short_description": "Oracle's cloud services for compute, storage, networking, and databases.",
-    "image": "/uploads/1764325962_oracle.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=oracle-cloud-infrastructure-oci",
-    "slug": "oracle-cloud-infrastructure-oci",
-    "id": 67,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
-      "Learning & Development",
-      "Training & Development",
-      "Orchard (Formerly Campus Cloud)"
-    ],
-    "short_description": "School ERP and SIS for attendance, assessment, and communication.",
-    "image": "/uploads/1764329575_platformcommons.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=orchard-formerly-campus-cloud",
-    "slug": "orchard-formerly-campus-cloud",
-    "id": 130,
+    "short_description": "Cloud platform for running applications, managing databases, and supporting enterprise systems.",
+    "image": "/uploads/1777026773_oracle-cloud-infrastructure.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=oracle-cloud-infrastructure-oci-1",
+    "slug": "oracle-cloud-infrastructure-oci-1",
+    "id": 363,
     "category": "tool"
   },
   {
@@ -2463,7 +2235,7 @@
       "Paybooks"
     ],
     "short_description": "Payroll and HR management system for nonprofits and social purpose organisations.",
-    "image": "/uploads/1776511348_paybooks.webp",
+    "image": "/uploads/1777024632_paybooks.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=paybooks",
     "slug": "paybooks",
     "id": 325,
@@ -2477,53 +2249,15 @@
       "Name of Tool"
     ],
     "values": [
-      "Human Resources",
-      "Recruitment",
-      "People Hub"
-    ],
-    "short_description": "People Hub\tHR platform with admin, performance, and employee self-service.",
-    "image": "/uploads/1764314915_peoplehub.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=people-hub",
-    "slug": "people-hub",
-    "id": 118,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
-      "AI Tools",
-      "AI Assistant",
-      "Perplexity"
-    ],
-    "short_description": "AI-native answer engine that gives cited, conversational responses to web queries.",
-    "image": "/uploads/1764314896_perplexity.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=perplexity",
-    "slug": "perplexity",
-    "id": 46,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
       "AI Tools",
       "Audio, Voice & Music Generation",
-      "Play.ht"
+      "PlayHT"
     ],
-    "short_description": "Text-to-speech platform to turn written content into audio in many voices.",
-    "image": "/uploads/1764314847_playai.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=playht",
-    "slug": "playht",
-    "id": 19,
+    "short_description": "AI voice generation platform for accessibility, multilingual communication, and content creation",
+    "image": "/uploads/1777272319_playai.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=playht-1",
+    "slug": "playht-1",
+    "id": 420,
     "category": "tool"
   },
   {
@@ -2538,11 +2272,11 @@
       "Presentation Generation",
       "Prezi"
     ],
-    "short_description": "Non-linear, zoomable presentation tool for visual storytelling.",
-    "image": "/uploads/1764314823_prezi.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=prezi",
-    "slug": "prezi",
-    "id": 15,
+    "short_description": "Interactive presentations and visual storytelling for nonprofits",
+    "image": "/uploads/1776929961_Prezi-1.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=prezi-1",
+    "slug": "prezi-1",
+    "id": 391,
     "category": "tool"
   },
   {
@@ -2596,7 +2330,7 @@
       "RealBooks"
     ],
     "short_description": "Cloud-based accounting and financial management software for nonprofits and organisations operating in India",
-    "image": "/uploads/1776676162_realbooks.webp",
+    "image": "/uploads/1777295223_realbooks.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=realbooks-1",
     "slug": "realbooks-1",
     "id": 331,
@@ -2614,11 +2348,11 @@
       "Scheduling",
       "Reclaim.ai"
     ],
-    "short_description": "Smart calendar that auto-blocks time for tasks and habits.",
-    "image": "/uploads/1764314764_reclaimai.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=reclaimai",
-    "slug": "reclaimai",
-    "id": 212,
+    "short_description": "AI-powered calendar and time management tool for nonprofits and social purpose organisations",
+    "image": "/uploads/1776857356_Reclaim.ai.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=reclaimai-1",
+    "slug": "reclaimai-1",
+    "id": 369,
     "category": "tool"
   },
   {
@@ -2633,11 +2367,11 @@
       "Agile",
       "Redmine"
     ],
-    "short_description": "Web-based project management and issue tracker with Gantt and wiki.",
-    "image": "/uploads/1764314748_redmine.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=redmine",
-    "slug": "redmine",
-    "id": 217,
+    "short_description": "Structured project and workflow tracking for NGOs managing complex, multi-program operations",
+    "image": "/uploads/1777090865_redmine.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=redmine-1",
+    "slug": "redmine-1",
+    "id": 414,
     "category": "tool"
   },
   {
@@ -2652,11 +2386,11 @@
       "AI Transcription",
       "Rev AI"
     ],
-    "short_description": "Speech-to-text and NLP APIs for transcription and audio analysis.",
-    "image": "/uploads/1764314737_revai.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=rev-ai",
-    "slug": "rev-ai",
-    "id": 29,
+    "short_description": "Speech-to-text transcription and audio analysis for nonprofits",
+    "image": "/uploads/1776945597_Rev AI.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=rev-ai-1",
+    "slug": "rev-ai-1",
+    "id": 392,
     "category": "tool"
   },
   {
@@ -2671,11 +2405,11 @@
       "Agent Building",
       "Rossum"
     ],
-    "short_description": "Intelligent document processing platform for extracting data from invoices and similar documents.",
-    "image": "/uploads/1764314717_rossum.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=rossum",
-    "slug": "rossum",
-    "id": 49,
+    "short_description": "AI-powered document automation for transactional workflows (invoices, finance, operations)",
+    "image": "/uploads/1777091899_rossum.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=rossum-1",
+    "slug": "rossum-1",
+    "id": 415,
     "category": "tool"
   },
   {
@@ -2743,34 +2477,15 @@
       "Name of Tool"
     ],
     "values": [
-      "Fundraising",
-      "CRM/Grant/Donor Management",
-      "Salesforce CRM"
-    ],
-    "short_description": "Cloud CRM suite for sales, service, marketing, and more.",
-    "image": "/uploads/1764326177_salesforce.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=salesforce-crm",
-    "slug": "salesforce-crm",
-    "id": 92,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
       "AI Tools",
-      "Agent Building",
+      "Language & conversational AI",
       "Sarvam AI"
     ],
-    "short_description": "India-focused generative AI stack for speech, chat, and LLMs across Indian languages.",
-    "image": "/uploads/1764314677_sarvam.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=sarvam-ai",
-    "slug": "sarvam-ai",
-    "id": 45,
+    "short_description": "Indian language AI and voice technologies for nonprofits",
+    "image": "/uploads/1776946415_sarvam.ai.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=sarvam-ai-1",
+    "slug": "sarvam-ai-1",
+    "id": 393,
     "category": "tool"
   },
   {
@@ -2785,11 +2500,11 @@
       "Email Marketing",
       "SendGrid"
     ],
-    "short_description": "Cloud email delivery platform for transactional and marketing emails.",
-    "image": "/uploads/1764314664_sendgrid.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=sendgrid",
-    "slug": "sendgrid",
-    "id": 138,
+    "short_description": "Email delivery and communication infrastructure for nonprofits",
+    "image": "/uploads/1777013318_sendgrid.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=sendgrid-1",
+    "slug": "sendgrid-1",
+    "id": 395,
     "category": "tool"
   },
   {
@@ -2800,34 +2515,15 @@
       "Name of Tool"
     ],
     "values": [
-      "AI Tools",
-      "Workflow Automation",
+      "Office Automation",
+      "Workflow Management",
       "Slack"
     ],
-    "short_description": "Channel-based messaging app for team communication and integrations.",
-    "image": "/uploads/1764314647_slack.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=slack",
-    "slug": "slack",
-    "id": 55,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
-      "AI Tools",
-      "Presentation Generation",
-      "SlideShare"
-    ],
-    "short_description": "Hosting site for presentations, documents, and videos for public or private sharing.",
-    "image": "/uploads/1764314634_slideshare.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=slideshare",
-    "slug": "slideshare",
-    "id": 14,
+    "short_description": "Team communication and workflow coordination for nonprofits",
+    "image": "/uploads/1776937386_Slack.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=slack-1",
+    "slug": "slack-1",
+    "id": 397,
     "category": "tool"
   },
   {
@@ -2876,15 +2572,15 @@
       "Name of Tool"
     ],
     "values": [
-      "Fundraising",
-      "CRM/Grant/Donor Management",
+      "Marketing & Communication",
+      "Social Media & Community Engagement",
       "Social Integrated Platform"
     ],
-    "short_description": "Integrated CSR and social-impact ERP for funds, projects, M&E, and learning.",
-    "image": "/uploads/1764337985_1764331817_synergy-connect.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=social-integrated-platform",
-    "slug": "social-integrated-platform",
-    "id": 96,
+    "short_description": "Integrated social media management for nonprofits",
+    "image": "/uploads/1777016632_synergy-connect.png",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=social-integrated-platform-1",
+    "slug": "social-integrated-platform-1",
+    "id": 398,
     "category": "tool"
   },
   {
@@ -2899,11 +2595,11 @@
       "Social Media & Community Engagement",
       "Socioboard"
     ],
-    "short_description": "Open-source social media management and content marketing tool.",
-    "image": "/uploads/1764314578_socioboard.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=socioboard",
-    "slug": "socioboard",
-    "id": 152,
+    "short_description": "Social media management and scheduling for nonprofits",
+    "image": "/uploads/1776931027_socioboard.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=socioboard-1",
+    "slug": "socioboard-1",
+    "id": 386,
     "category": "tool"
   },
   {
@@ -2918,11 +2614,11 @@
       "Audio, Voice & Music Generation",
       "Soundraw"
     ],
-    "short_description": "AI tool to generate custom background music by selecting mood and style.",
-    "image": "/uploads/1764326254_soundraw.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=soundraw",
-    "slug": "soundraw",
-    "id": 20,
+    "short_description": "AI-generated music for nonprofit content and media",
+    "image": "/uploads/1776931058_soundraw.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=soundraw-1",
+    "slug": "soundraw-1",
+    "id": 387,
     "category": "tool"
   },
   {
@@ -2956,11 +2652,11 @@
       "Social Media & Scheduling Outreach and Marketing",
       "Sprout Social"
     ],
-    "short_description": "Full-featured social media management and analytics platform for teams.",
-    "image": "/uploads/1764326336_sprout-social.png",
+    "short_description": "Social media management and outreach platform for engagement and analytics.",
+    "image": "/uploads/1777024741_sprout-social.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=sprout-social",
     "slug": "sprout-social",
-    "id": 53,
+    "id": 362,
     "category": "tool"
   },
   {
@@ -2975,11 +2671,11 @@
       "Website Management",
       "Squarespace"
     ],
-    "short_description": "Hosted website and e-commerce builder with templates.",
-    "image": "/uploads/1764326352_squarespace.png",
+    "short_description": "All-in-one website builder for nonprofits and grassroots organisations",
+    "image": "/uploads/1777024881_squarespace.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=squarespace",
     "slug": "squarespace",
-    "id": 165,
+    "id": 364,
     "category": "tool"
   },
   {
@@ -2994,11 +2690,11 @@
       "Presentation Generation",
       "Stotio"
     ],
-    "short_description": "AI platform for pitch decks and strategic narratives using data-driven storytelling.",
-    "image": "/uploads/1764326370_stotio.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=stotio",
-    "slug": "stotio",
-    "id": 16,
+    "short_description": "AI-powered narrative and content platform for digital transformation",
+    "image": "/uploads/1777282371_stotio.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=stotio-1",
+    "slug": "stotio-1",
+    "id": 428,
     "category": "tool"
   },
   {
@@ -3032,11 +2728,11 @@
       "Email Marketing",
       "Substack"
     ],
-    "short_description": "Publishing platform for email newsletters and paid subscriptions.",
-    "image": "/uploads/1764326404_substack.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=substack",
-    "slug": "substack",
-    "id": 139,
+    "short_description": "Direct newsletter publishing platform",
+    "image": "/uploads/1777276552_substack.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=substack-1",
+    "slug": "substack-1",
+    "id": 425,
     "category": "tool"
   },
   {
@@ -3051,30 +2747,11 @@
       "Audio, Voice & Music Generation",
       "Suno"
     ],
-    "short_description": "AI music generator that creates full songs with vocals from text prompts.",
-    "image": "/uploads/1764326437_Frame.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=suno",
-    "slug": "suno",
-    "id": 21,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
-      "Data & Analytics Monitoring and Evaluation",
-      "Data Analysis Reporting & Dashboarding",
-      "Superset"
-    ],
-    "short_description": "Open-source BI and visualization web app for SQL data.",
-    "image": "/uploads/1764326464_superset.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=superset",
-    "slug": "superset",
-    "id": 78,
+    "short_description": "AI-generated songs and audio content for nonprofits",
+    "image": "/uploads/1776931114_suno.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=suno-1",
+    "slug": "suno-1",
+    "id": 389,
     "category": "tool"
   },
   {
@@ -3109,7 +2786,7 @@
       "Synergy Connect"
     ],
     "short_description": "CRM platform for managing donor, fundraising, and programme data for nonprofits",
-    "image": "/uploads/1776329287_Synergy Connect.webp",
+    "image": "/uploads/1777025860_synergy-connect.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=synergy-connect",
     "slug": "synergy-connect",
     "id": 275,
@@ -3128,48 +2805,10 @@
       "Synergy LMS"
     ],
     "short_description": "Learning and skilling management platform for nonprofits and CSR programmes.",
-    "image": "/uploads/1776749286_synergy-lms.webp",
+    "image": "/uploads/1777025888_synergy-connect.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=synergy-lms",
     "slug": "synergy-lms",
     "id": 312,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
-      "Learning & Development",
-      "Learning Management System",
-      "Synergy Skills and Learning Management"
-    ],
-    "short_description": "Skilling plus LMS platform for batches, assessments, and certifications.",
-    "image": "/uploads/1764337953_1764331817_synergy-connect.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=synergy-skills-and-learning-management",
-    "slug": "synergy-skills-and-learning-management",
-    "id": 127,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
-      "Monitoring and Evaluation",
-      "Data Collection",
-      "Synergy Survey and Analytics"
-    ],
-    "short_description": "Survey and dashboarding tool for M&E and real-time insights.",
-    "image": "/uploads/1764337829_1764331817_synergy-connect.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=synergy-survey-and-analytics",
-    "slug": "synergy-survey-and-analytics",
-    "id": 185,
     "category": "tool"
   },
   {
@@ -3185,7 +2824,7 @@
       "SynergyDonor - Donor Relationship Platform"
     ],
     "short_description": "Donor management platform for tracking donors and campaigns.",
-    "image": "/uploads/1764337905_1764331817_synergy-connect.png",
+    "image": "/uploads/1777025834_synergy-connect.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=synergydonor-donor-relationship-platform",
     "slug": "synergydonor-donor-relationship-platform",
     "id": 97,
@@ -3204,29 +2843,10 @@
       "SynergySurvey"
     ],
     "short_description": "Flexible M&E data collection for NGOs & SPOs",
-    "image": "/uploads/1776360132_synergy-connect.webp",
+    "image": "/uploads/1777025873_synergy-connect.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=synergysurvey",
     "slug": "synergysurvey",
     "id": 296,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
-      "Finance and Accounts",
-      "Payroll Management",
-      "SynergyWorks - Office AutomationSoftware"
-    ],
-    "short_description": "Synergy Connect",
-    "image": "/uploads/1764337922_1764331817_synergy-connect.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=synergyworks-office-automationsoftware",
-    "slug": "synergyworks-office-automationsoftware",
-    "id": 81,
     "category": "tool"
   },
   {
@@ -3241,11 +2861,11 @@
       "Image & Video Generation",
       "Synthesia"
     ],
-    "short_description": "AI video creator that uses avatars and text-to-speech to produce presenter-style videos.",
-    "image": "/uploads/1764326745_synthesia.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=synthesia",
-    "slug": "synthesia",
-    "id": 26,
+    "short_description": "AI video generation platform for structured training and communication content",
+    "image": "/uploads/1777283123_synthesia.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=synthesia-1",
+    "slug": "synthesia-1",
+    "id": 421,
     "category": "tool"
   },
   {
@@ -3279,11 +2899,11 @@
       "Agile",
       "Taiga"
     ],
-    "short_description": "Open-source agile project management (Scrum/Kanban).",
-    "image": "/uploads/1764326777_taiga.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=taiga",
-    "slug": "taiga",
-    "id": 218,
+    "short_description": "Agile project management for NGOs running iterative, collaborative work",
+    "image": "/uploads/1777053448_taiga.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=taiga-1",
+    "slug": "taiga-1",
+    "id": 413,
     "category": "tool"
   },
   {
@@ -3313,34 +2933,15 @@
       "Name of Tool"
     ],
     "values": [
-      "Human Resources Learning & Development",
-      "Attendance & Payroll Management",
-      "Tech for School"
-    ],
-    "short_description": "School platform combining HRMS, LMS, admissions, fees, and communication.",
-    "image": "/uploads/1764326956_tech-for-school.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=tech-for-school",
-    "slug": "tech-for-school",
-    "id": 108,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
       "Marketing & Communication",
       "Outreach and Marketing",
       "Telegram"
     ],
-    "short_description": "Encrypted messaging app with groups, channels, and file sharing.",
-    "image": "/uploads/1764327016_telegram.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=telegram",
-    "slug": "telegram",
-    "id": 145,
+    "short_description": "Community communication and broadcast platform for large-scale outreach.",
+    "image": "/uploads/1776863365_telegram.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=telegram-1",
+    "slug": "telegram-1",
+    "id": 366,
     "category": "tool"
   },
   {
@@ -3393,11 +2994,11 @@
       "Workflow Management",
       "UVDesk"
     ],
-    "short_description": "Helpdesk for tickets, multichannel support, and knowledge base.",
-    "image": "/uploads/1764327047_uvdesk.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=uvdesk",
-    "slug": "uvdesk",
-    "id": 215,
+    "short_description": "Helpdesk and query management for nonprofits and social purpose organisations",
+    "image": "/uploads/1776863559_uvdesk.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=uvdesk-1",
+    "slug": "uvdesk-1",
+    "id": 368,
     "category": "tool"
   },
   {
@@ -3469,11 +3070,11 @@
       "Outreach and Marketing",
       "WhatsApp Business"
     ],
-    "short_description": "WhatsApp variant with business tools for SMEs.",
-    "image": "/uploads/1764327144_whatsapp-business.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=whatsapp-business",
-    "slug": "whatsapp-business",
-    "id": 146,
+    "short_description": "Messaging platform for direct outreach, engagement, and supporter communication",
+    "image": "/uploads/1776940186_whatsapp-business-icon.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=whatsapp-business-1",
+    "slug": "whatsapp-business-1",
+    "id": 347,
     "category": "tool"
   },
   {
@@ -3484,15 +3085,15 @@
       "Name of Tool"
     ],
     "values": [
-      "AI Tools Marketing & Communication",
-      "Email Marketing Low-Code/No-Code Development Website Management",
+      "Marketing & Communication Office Automation",
+      "Website Management Low-Code/No-Code Development",
       "Wix"
     ],
-    "short_description": "Drag-and-drop website builder with templates, hosting, and basic apps, no coding needed.",
-    "image": "/uploads/1764327160_wix.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=wix",
-    "slug": "wix",
-    "id": 140,
+    "short_description": "Drag-and-drop website builder for nonprofits",
+    "image": "/uploads/1777032742_wix.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=wix-1",
+    "slug": "wix-1",
+    "id": 351,
     "category": "tool"
   },
   {
@@ -3524,13 +3125,13 @@
     "values": [
       "Marketing & Communication",
       "Social Media & Community Engagement",
-      "X (previously twitter)"
+      "X"
     ],
-    "short_description": "Social network for short posts with text, images, and video.",
-    "image": "/uploads/1764327232_twitter.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=x-previously-twitter",
-    "slug": "x-previously-twitter",
-    "id": 155,
+    "short_description": "Real-time public communication and advocacy platform for nonprofits and SPOs",
+    "image": "/uploads/1777291132_twitter.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=x",
+    "slug": "x",
+    "id": 431,
     "category": "tool"
   },
   {
@@ -3546,10 +3147,29 @@
       "Xero"
     ],
     "short_description": "Cloud-based accounting and financial management for nonprofits and social purpose organisations.",
-    "image": "/uploads/1776670596_xero-1.webp",
+    "image": "/uploads/1777025341_xero.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=xero-1",
     "slug": "xero-1",
     "id": 329,
+    "category": "tool"
+  },
+  {
+    "sheet": "Cleaned Sheet",
+    "column_headers": [
+      "Category",
+      "Sub-Category",
+      "Name of Tool"
+    ],
+    "values": [
+      "AI Tools",
+      "Data Analysis",
+      "ZAMS"
+    ],
+    "short_description": "AI-powered workflow automation platform for outreach and donor communication coordination",
+    "image": "/uploads/1777093077_zams (1).webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zams-1",
+    "slug": "zams-1",
+    "id": 416,
     "category": "tool"
   },
   {
@@ -3564,11 +3184,11 @@
       "Digital Infrastructure",
       "Zabbix"
     ],
-    "short_description": "Open-source monitoring for servers, networks, and services.",
-    "image": "/uploads/1764327409_zabbix.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zabbix",
-    "slug": "zabbix",
-    "id": 199,
+    "short_description": "Open-source infrastructure monitoring tool for nonprofits and social purpose organisations.",
+    "image": "/uploads/1776859886_zabbix.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zabbix-1",
+    "slug": "zabbix-1",
+    "id": 371,
     "category": "tool"
   },
   {
@@ -3579,34 +3199,15 @@
       "Name of Tool"
     ],
     "values": [
-      "AI Tools",
-      "Data Analysis",
-      "Zams"
-    ],
-    "short_description": "AI-powered platform for managing and optimizing digital marketing campaigns.",
-    "image": "/uploads/1764310858_zams.jpg",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zams",
-    "slug": "zams",
-    "id": 234,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
-      "AI Tools Office Automation",
-      "Workflow Automation Digital Infrastructure",
+      "Office Automation",
+      "Digital Infrastructure Workflow Management",
       "Zapier"
     ],
-    "short_description": "No-code automation platform that connects apps into multi-step workflows ('Zaps').",
-    "image": "/uploads/1764327610_zapier.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zapier",
-    "slug": "zapier",
-    "id": 54,
+    "short_description": "No-code automation platform for connecting apps and workflows for nonprofits and social purpose organisations",
+    "image": "/uploads/1776860378_zapier.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zapier-1",
+    "slug": "zapier-1",
+    "id": 373,
     "category": "tool"
   },
   {
@@ -3617,15 +3218,15 @@
       "Name of Tool"
     ],
     "values": [
-      "Finance and Accounts",
-      "Payroll Management",
+      "Human Resources",
+      "HRMS Payroll",
       "Zimyo"
     ],
-    "short_description": "HR and payroll suite with attendance, leave, and performance.",
-    "image": "/uploads/1764327627_zimyo.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zimyo",
-    "slug": "zimyo",
-    "id": 80,
+    "short_description": "HR, payroll, and employee management platform for organisations in India",
+    "image": "/uploads/1776834036_zimyo.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zimyo-1",
+    "slug": "zimyo-1",
+    "id": 343,
     "category": "tool"
   },
   {
@@ -3640,11 +3241,11 @@
       "Data Analysis",
       "Zoho Analytics"
     ],
-    "short_description": "Self-service BI to connect data sources and build dashboards and reports.",
-    "image": "/uploads/1764327647_zoho-analytics.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-analytics",
-    "slug": "zoho-analytics",
-    "id": 73,
+    "short_description": "Business intelligence platform for advanced data analysis and dashboards",
+    "image": "/uploads/1776874311_Zoho payroll.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-analytics-1",
+    "slug": "zoho-analytics-1",
+    "id": 381,
     "category": "tool"
   },
   {
@@ -3660,7 +3261,7 @@
       "Zoho Books"
     ],
     "short_description": "Online accounting and GST-compliant financial management for nonprofits and social purpose organisations",
-    "image": "/uploads/1776670476_zoho books-1.webp",
+    "image": "/uploads/1777025233_zoho-books.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-books-1",
     "slug": "zoho-books-1",
     "id": 328,
@@ -3693,15 +3294,15 @@
       "Name of Tool"
     ],
     "values": [
-      "AI Tools Office Automation",
-      "Digital Infrastructure Low-Code/No-Code Development Agent Building",
+      "Office Automation",
+      "Agent Building Digital Infrastructure",
       "Zoho Creator"
     ],
-    "short_description": "Low-code platform to build custom web/mobile apps with forms, workflows, and basic analytics.",
-    "image": "/uploads/1764328093_zoho-creator.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-creator",
-    "slug": "zoho-creator",
-    "id": 4,
+    "short_description": "Low-code platform to build custom web and mobile apps for nonprofits and social purpose organisations.",
+    "image": "/uploads/1776873010_zoho creator.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-creator-1",
+    "slug": "zoho-creator-1",
+    "id": 380,
     "category": "tool"
   },
   {
@@ -3755,7 +3356,7 @@
       "Zoho Payroll"
     ],
     "short_description": "Payroll and statutory compliance software for nonprofits and organisations in India",
-    "image": "/uploads/1776679287_zoho payroll.webp",
+    "image": "/uploads/1777025107_zoho-payroll.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-payroll-1",
     "slug": "zoho-payroll-1",
     "id": 333,
@@ -3792,11 +3393,11 @@
       "Task Management",
       "Zoho Projects"
     ],
-    "short_description": "Project management tool with tasks, Gantt, and timesheets.",
-    "image": "/uploads/1764328190_zoho-projects.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-projects",
-    "slug": "zoho-projects",
-    "id": 228,
+    "short_description": "Project management platform for planning, tracking, and team coordination",
+    "image": "/uploads/1777287988_zoho-projects.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-projects-1",
+    "slug": "zoho-projects-1",
+    "id": 430,
     "category": "tool"
   },
   {
@@ -3816,6 +3417,25 @@
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=greythr-1",
     "slug": "greythr-1",
     "id": 323,
+    "category": "tool"
+  },
+  {
+    "sheet": "Cleaned Sheet",
+    "column_headers": [
+      "Category",
+      "Sub-Category",
+      "Name of Tool"
+    ],
+    "values": [
+      "Marketing & Communication",
+      "Image and Video Editing",
+      "inkscape"
+    ],
+    "short_description": "Free, open-source vector design tool for NGOs and SPOs.",
+    "image": "/uploads/1777283802_inkscape.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=inkscape-1",
+    "slug": "inkscape-1",
+    "id": 424,
     "category": "tool"
   },
   {
@@ -3869,7 +3489,7 @@
       "mLearn (by Dhwani RIS)"
     ],
     "short_description": "Mobile-based learning management system for nonprofits & social purpose organisations",
-    "image": "/uploads/1776577254_mlearn.webp",
+    "image": "/uploads/1777015951_dhwani.webp",
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=mlearn-by-dhwani-ris",
     "slug": "mlearn-by-dhwani-ris",
     "id": 318,
@@ -3892,6 +3512,25 @@
     "url": "https://dt4si.com/digital-tools-for-non-profits?tool=mwater-1",
     "slug": "mwater-1",
     "id": 283,
+    "category": "tool"
+  },
+  {
+    "sheet": "Cleaned Sheet",
+    "column_headers": [
+      "Category",
+      "Sub-Category",
+      "Name of Tool"
+    ],
+    "values": [
+      "AI Tools",
+      "AI Assistant",
+      "perplexity"
+    ],
+    "short_description": "AI-powered search and research for nonprofits",
+    "image": "/uploads/1776935159_perplexity.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=perplexity-1",
+    "slug": "perplexity-1",
+    "id": 388,
     "category": "tool"
   },
   {
@@ -5985,12 +5624,12 @@
     ],
     "values": [
       "ARMMAN: AI-Enabled Support for High-Risk Pregnancy Care",
-      "Strengthening Frontline Health Worker Capacity to Reduce Maternal and Neonatal Mortality"
+      "Frontline Health Workers, Maternal Health, Neonatal Health, Maternal Mortality Reduction, Newborn Care, Health Worker Capacity Building, Community Health Systems, Skilled Birth Attendance"
     ],
     "case_study_id": 19,
     "summary": "Strengthening Frontline Health Worker Capacity to Reduce Maternal and Neonatal Mortality",
     "word_count": 11,
-    "keyword": "Strengthening Frontline Health Worker Capacity to Reduce Maternal and Neonatal Mortality",
+    "keyword": "Frontline Health Workers, Maternal Health, Neonatal Health, Maternal Mortality Reduction, Newborn Care, Health Worker Capacity Building, Community Health Systems, Skilled Birth Attendance",
     "short_description": "WhatsApp-based AI assistant supported ANMs with real-time clinical guidance, strengthening high-risk pregnancy management statewide",
     "image": "/uploads/studies/1770100386_logo_armman-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/armman-ai-assisted-clinical-decision-support-for-high-risk-pregnancies",
@@ -6014,8 +5653,8 @@
     "keyword": "Technology, Operational Excellence",
     "short_description": "Custom mobile app enabled 100% digital data, eliminating maternal deaths in high-risk cases",
     "image": "/uploads/studies/1764152851_logo_ARMMAN.png",
-    "url": "https://dt4si.com/digital-transformation-case-studies/armman",
-    "slug": "armman",
+    "url": "https://dt4si.com/digital-transformation-case-studies/armman-transforming-last-mile-health-digitally",
+    "slug": "armman-transforming-last-mile-health-digitally",
     "id": 14,
     "category": "case_study"
   },
@@ -6027,12 +5666,12 @@
     ],
     "values": [
       "Adalat AI: AI-Enabled Courtroom Operations Accelerating Justice Delivery",
-      "Strengthening Judicial Capacity through Real-Time Transcription and Workflow Automation"
+      "AI in Judiciary, Courtroom Automation, Judicial Efficiency, AI Transcription, Legal Tech, Court Workflow Automation, Justice Delivery Systems, Digital Courts"
     ],
     "case_study_id": 27,
     "summary": "Strengthening Judicial Capacity through Real-Time Transcription and Workflow Automation",
     "word_count": 9,
-    "keyword": "Strengthening Judicial Capacity through Real-Time Transcription and Workflow Automation",
+    "keyword": "AI in Judiciary, Courtroom Automation, Judicial Efficiency, AI Transcription, Legal Tech, Court Workflow Automation, Justice Delivery Systems, Digital Courts",
     "short_description": "AI courtroom operating system automated transcription and documentation, significantly speeding case processing and improving judicial efficiency.",
     "image": "/uploads/studies/1770099311_logo_legsysai-technology-foundation-thumbnail-resized.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/legsysai-ai-powered-courtroom-workflow-automation-for-timely-justice",
@@ -6048,12 +5687,12 @@
     ],
     "values": [
       "Anudip Foundation: Bridging the Skills Gap through an Agentic AI Learning Ecosystem",
-      "Anudip Foundation is revolutionising vocational training for underserved youth by deploying a multi-layered AI ecosystem that personalises learning at scale and slashes per-learner costs."
+      "Agentic AI, AI-Powered Learning Ecosystem, Vocational Training, Skills Development, AI in Education, Workforce Readiness, Digital Skilling, Inclusive Employment"
     ],
     "case_study_id": 48,
     "summary": "Anudip Foundation is revolutionising vocational training for underserved youth by deploying a multi-layered AI ecosystem that personalises learning at scale and slashes per-learner costs.",
     "word_count": 24,
-    "keyword": "Anudip Foundation is revolutionising vocational training for underserved youth by deploying a multi-layered AI ecosystem that personalises learning at scale and slashes per-learner costs.",
+    "keyword": "Agentic AI, AI-Powered Learning Ecosystem, Vocational Training, Skills Development, AI in Education, Workforce Readiness, Digital Skilling, Inclusive Employment",
     "short_description": "Agentic AI ecosystem personalises vocational training, reducing costs and improving job readiness at scale",
     "image": "/uploads/studies/1776681202_logo_Anudip Foundation_ Bridging the Skills Gap through an Agentic AI Learning Ecosystem.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/anudip-foundation-bridging-the-skills-gap-through-an-agentic-ai-learning-ecosystem",
@@ -6069,16 +5708,16 @@
     ],
     "values": [
       "Anudip: Scaling Inclusive Digital Livelihoods Through Technology & AI",
-      "Anudip built a hybrid digital ecosystem combining LMS, AI tools, and custom platforms."
+      "Inclusive Digital Livelihoods, AI in Skilling, Digital Skills Training, AI-Powered Learning Platforms, Workforce Development, Tech-Enabled Livelihoods, Employment Readiness, LMS and AI Ecosystem"
     ],
     "case_study_id": 9,
     "summary": "How Anudip built a hybrid digital ecosystem combining LMS, AI tools, and custom platforms like JD-CV Match to streamline learner journeys, enable personalised skilling, and scale job placements efficiently.",
     "word_count": 29,
-    "keyword": "Anudip built a hybrid digital ecosystem combining LMS, AI tools, and custom platforms.",
+    "keyword": "Inclusive Digital Livelihoods, AI in Skilling, Digital Skills Training, AI-Powered Learning Platforms, Workforce Development, Tech-Enabled Livelihoods, Employment Readiness, LMS and AI Ecosystem",
     "short_description": "Hybrid tech ecosystem amplified human capacity, enhancing learner journeys and placement rate",
     "image": "/uploads/studies/1764055887_logo_Anudip-2--updated.png",
-    "url": "https://dt4si.com/digital-transformation-case-studies/anudip",
-    "slug": "anudip",
+    "url": "https://dt4si.com/digital-transformation-case-studies/anudip-scaling-inclusive-digital-livelihoods-technology-ai",
+    "slug": "anudip-scaling-inclusive-digital-livelihoods-technology-ai",
     "id": 9,
     "category": "case_study"
   },
@@ -6090,12 +5729,12 @@
     ],
     "values": [
       "Civic Innovation Foundation: Digitising Public Consultation for Democratic Governance",
-      "Strengthening Participatory Law-Making through AI-Enabled Public Consultation"
+      "AI in Governance, Public Consultation Platforms, Digital Democracy, Participatory Governance, Civic Technology, Policy Co-Creation, Citizen Engagement, AI for Public Policy"
     ],
     "case_study_id": 28,
     "summary": "Strengthening Participatory Law-Making through AI-Enabled Public Consultation",
     "word_count": 7,
-    "keyword": "Strengthening Participatory Law-Making through AI-Enabled Public Consultation",
+    "keyword": "AI in Governance, Public Consultation Platforms, Digital Democracy, Participatory Governance, Civic Technology, Policy Co-Creation, Citizen Engagement, AI for Public Policy",
     "short_description": "AI platform scaled public consultations nationwide, enabling governments to incorporate citizen input into stronger, more inclusive policies",
     "image": "/uploads/studies/1770111352_logo_civis-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/civis-ai-enabled-public-consultation-platform-for-policy-making",
@@ -6111,16 +5750,16 @@
     ],
     "values": [
       "Educate Girls: GIS-Powered Planning for Field Efficiency",
-      "Educate Girls integrated GIS tools like QGIS into its mobile MIS to enable spatial planning, optimize field operations."
+      "GIS in Education Programs, Spatial Planning, Field Operations Optimization, Data-Driven Planning, GIS Route Optimization, Mobile MIS Integration, Education Program Management, Technology for Social Impact"
     ],
     "case_study_id": 12,
     "summary": "How Educate Girls integrated GIS tools like QGIS into its mobile MIS to enable spatial planning, optimize field operations, and improve efficiency through data-driven route planning and clustering.",
     "word_count": 28,
-    "keyword": "Educate Girls integrated GIS tools like QGIS into its mobile MIS to enable spatial planning, optimize field operations.",
+    "keyword": "GIS in Education Programs, Spatial Planning, Field Operations Optimization, Data-Driven Planning, GIS Route Optimization, Mobile MIS Integration, Education Program Management, Technology for Social Impact",
     "short_description": "GIS platform streamlined planning, automating cluster generation and optimizing field routes",
     "image": "/uploads/studies/1764164012_logo_Gemini_Generated_Image_dk1igjdk1igjdk1i (1).png",
-    "url": "https://dt4si.com/digital-transformation-case-studies/educate-girls",
-    "slug": "educate-girls",
+    "url": "https://dt4si.com/digital-transformation-case-studies/educate-girls-gis-powered-planning-field-efficiency",
+    "slug": "educate-girls-gis-powered-planning-field-efficiency",
     "id": 12,
     "category": "case_study"
   },
@@ -6132,12 +5771,12 @@
     ],
     "values": [
       "Educate Girls: Predictive Targeting to Enroll Girls",
-      "Educate Girls leveraged machine learning with public datasets to enable predictive targeting of high-need villages."
+      "Machine Learning in Education, Predictive Analytics, Girls’ Education, Data-Driven Targeting, Education Access, AI for Social Impact, Enrollment Optimization, Public Data Analytics"
     ],
     "case_study_id": 13,
     "summary": "How Educate Girls leveraged machine learning with public datasets to enable predictive targeting of high-need villages, accelerating enrollment of out-of-school girls at scale.",
     "word_count": 23,
-    "keyword": "Educate Girls leveraged machine learning with public datasets to enable predictive targeting of high-need villages.",
+    "keyword": "Machine Learning in Education, Predictive Analytics, Girls’ Education, Data-Driven Targeting, Education Access, AI for Social Impact, Enrollment Optimization, Public Data Analytics",
     "short_description": "ML model achieved 90% accuracy, enabling precision targeting for girl enrollment 7x faster",
     "image": "/uploads/studies/1764152880_logo_CASE-STUDY-9.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/educate-girls-predictive-targeting-to-enroll-girls",
@@ -6153,16 +5792,16 @@
     ],
     "values": [
       "FMCH: Digitising Nutrition for Scalable Impact",
-      "FMCH digitized frontline health workflows using mobile-based systems and dashboards."
+      "Digital Nutrition Programs, Maternal and Child Health, Frontline Health Digitization, Mobile Health Applications, Nutrition Counseling Platforms, Health Data Dashboards, Community Health Systems, Digital Health Interventions"
     ],
     "case_study_id": 11,
     "summary": "How FMCH digitized frontline health workflows using mobile-based systems and dashboards to enable real-time tracking, improve service delivery, and scale maternal and child health intervention",
     "word_count": 25,
-    "keyword": "FMCH digitized frontline health workflows using mobile-based systems and dashboards.",
+    "keyword": "Digital Nutrition Programs, Maternal and Child Health, Frontline Health Digitization, Mobile Health Applications, Nutrition Counseling Platforms, Health Data Dashboards, Community Health Systems, Digital Health Interventions",
     "short_description": "NuTree app digitized nutrition counseling, resulting in 3x reach and better health outcomes",
     "image": "/uploads/studies/1764055587_logo_fmch-2.png",
-    "url": "https://dt4si.com/digital-transformation-case-studies/fmch",
-    "slug": "fmch",
+    "url": "https://dt4si.com/digital-transformation-case-studies/fmch-digitising-nutrition-scalable-impact",
+    "slug": "fmch-digitising-nutrition-scalable-impact",
     "id": 11,
     "category": "case_study"
   },
@@ -6174,12 +5813,12 @@
     ],
     "values": [
       "Farmers for Forest: Smart Stack Enables Agroforestry Scale",
-      "Impact Measurement, Technology, Operational Excellence"
+      "Agroforestry Technology, Digital Agriculture Platforms, Agroforestry Monitoring, Climate-Smart Agriculture, Tech for Sustainable Farming, Agricultural Data Systems, Scalable Agroforestry Programs, Environmental Impact Technology"
     ],
     "case_study_id": 25,
     "summary": "F4F's Hybrid Tech Stack Revolutionizes Agroforestry Monitoring and Programmatic Scale",
     "word_count": 10,
-    "keyword": "Impact Measurement, Technology, Operational Excellence",
+    "keyword": "Agroforestry Technology, Digital Agriculture Platforms, Agroforestry Monitoring, Climate-Smart Agriculture, Tech for Sustainable Farming, Agricultural Data Systems, Scalable Agroforestry Programs, Environmental Impact Technology",
     "short_description": "F4F's Hybrid Tech Stack Revolutionizes Agroforestry Monitoring and Programmatic Scale",
     "image": "/uploads/studies/1770120172_logo_logo_F4f.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/farmers-for-forests-ai-enabled-digital-mrv-for-trusted-carbon-markets",
@@ -6195,12 +5834,12 @@
     ],
     "values": [
       "FuturEd Trust: Democratising World-Class STEM Learning Through Pedagogy-First AI",
-      "By integrating a proven 15-year manual self-learning pedagogy with advanced generative AI, FuturEd Trust is bridging the educational divide in India's government schools, delivering personalised mastery-based learning at a fraction of traditional costs."
+      "Pedagogy-First AI, AI in STEM Education, Personalized STEM Learning, Generative AI in Education, Government School EdTech, Mastery-Based Learning, AI-Powered Classrooms, Education Equity"
     ],
     "case_study_id": 47,
     "summary": "By integrating a proven 15-year manual self-learning pedagogy with advanced generative AI, FuturEd Trust is bridging the educational divide in India's government schools, delivering personalised mastery-based learning at a fraction of traditional costs.",
     "word_count": 33,
-    "keyword": "By integrating a proven 15-year manual self-learning pedagogy with advanced generative AI, FuturEd Trust is bridging the educational divide in India's government schools, delivering personalised mastery-based learning at a fraction of traditional costs.",
+    "keyword": "Pedagogy-First AI, AI in STEM Education, Personalized STEM Learning, Generative AI in Education, Government School EdTech, Mastery-Based Learning, AI-Powered Classrooms, Education Equity",
     "short_description": "Pedagogy-first AI platform delivers personalised STEM learning, improving conceptual understanding in government school classrooms",
     "image": "/uploads/studies/1776681616_logo_FuturEd Trust_ Democratising World-Class STEM Learning Through Pedagogy-First AI.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/futured-trust-democratising-world-class-stem-learning-through-pedagogy-first-ai",
@@ -6216,12 +5855,12 @@
     ],
     "values": [
       "Haqdarshak: Digitising Program Management for Scale, Accuracy & Accountability",
-      "Haqdarshak leveraged the Zoho suite and custom-built systems."
+      "Program Management Digitization, Beneficiary Management Systems, Workflow Automation, Financial Process Automation, Data Accuracy and Accountability, Zoho-Based Systems, Operational Efficiency Platforms, Digital Governance Systems"
     ],
     "case_study_id": 17,
     "summary": "How Haqdarshak leveraged the Zoho suite and custom-built systems to digitize order-to-invoice workflows and beneficiary onboarding, enabling real-time visibility, improved data accuracy, and stronger financial control at scale.",
     "word_count": 28,
-    "keyword": "Haqdarshak leveraged the Zoho suite and custom-built systems.",
+    "keyword": "Program Management Digitization, Beneficiary Management Systems, Workflow Automation, Financial Process Automation, Data Accuracy and Accountability, Zoho-Based Systems, Operational Efficiency Platforms, Digital Governance Systems",
     "short_description": "Streamlining the order-to-invoice process and beneficiary onboarding to strengthen financial management, data credibility, and operational efficiency",
     "image": "/uploads/studies/1764359400_logo_haqdarshak.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/haqdarshak-digitising-program-management-for-scale-accuracy-accountability",
@@ -6237,12 +5876,12 @@
     ],
     "values": [
       "I-Saksham: Scaling Grassroot Leadership with Purpose Built AI",
-      "How I-Saksham leveraged AI-assisted tools like Gemini 1.5 and a custom MIS to streamline peer coaching, enabling faster feedback and scalable, human-centered mentoring."
+      "AI in Education Leadership, AI-Assisted Mentoring, Grassroots Leadership Development, AI for Teacher Coaching, Education MIS Systems, Community-Based Education, Scalable Mentorship Models, AI for Social Impact"
     ],
     "case_study_id": 18,
     "summary": "How I-Saksham leveraged AI-assisted tools like Gemini 1.5 and a custom MIS to streamline peer coaching, enabling faster feedback and scalable, human-centered mentoring.",
     "word_count": 23,
-    "keyword": "How I-Saksham leveraged AI-assisted tools like Gemini 1.5 and a custom MIS to streamline peer coaching, enabling faster feedback and scalable, human-centered mentoring.",
+    "keyword": "AI in Education Leadership, AI-Assisted Mentoring, Grassroots Leadership Development, AI for Teacher Coaching, Education MIS Systems, Community-Based Education, Scalable Mentorship Models, AI for Social Impact",
     "short_description": "AI-enabled Mentoring for Stronger Edu-leaders and Resilient Communities.",
     "image": "/uploads/studies/1770114787_logo_i-sakhsam.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/i-saksham-ai-enabled-coaching-intelligence-for-programme-scale",
@@ -6258,12 +5897,12 @@
     ],
     "values": [
       "I-Stem: Dismantling the \"Digital Apartheid\" for People with Disabilities",
-      "I-Stem is revolutionizing accessibility in India by deploying \"NClude\"—an AI-powered multimodal ecosystem that converts inaccessible content into accessible formats, automates complex digital tasks, and provides personalized career coaching for the 20 million+ people with disabilities (PWDs) in the country."
+      "AI for Accessibility, Assistive Technology, Digital Inclusion, Accessibility Platforms, AI for People with Disabilities, Inclusive Technology, Accessible Digital Content, Disability Tech"
     ],
     "case_study_id": 46,
     "summary": "I-Stem is revolutionizing accessibility in India by deploying \"NClude\"—an AI-powered multimodal ecosystem that converts inaccessible content into accessible formats, automates complex digital tasks, and provides personalized career coaching for the 20 million+ people with disabilities (PWDs) in the country.",
     "word_count": 39,
-    "keyword": "I-Stem is revolutionizing accessibility in India by deploying \"NClude\"—an AI-powered multimodal ecosystem that converts inaccessible content into accessible formats, automates complex digital tasks, and provides personalized career coaching for the 20 million+ people with disabilities (PWDs) in the country.",
+    "keyword": "AI for Accessibility, Assistive Technology, Digital Inclusion, Accessibility Platforms, AI for People with Disabilities, Inclusive Technology, Accessible Digital Content, Disability Tech",
     "short_description": "AI platform converts inaccessible content and automates tasks, enabling independent digital access for persons with disabilities.",
     "image": "/uploads/studies/1776681785_logo_I-Stem_ Dismantling the _Digital Apartheid_ for People with Disabilities.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/i-stem-dismantling-the-digital-apartheid-for-people-with-disabilities",
@@ -6279,12 +5918,12 @@
     ],
     "values": [
       "Khan Academy",
-      "AI tutor delivers personalised, interactive learning support, improving student understanding and teacher productivity at scale."
+      "AI Tutor, Personalized Learning, AI in Education, Adaptive Learning Platforms, Digital Learning Tools, Student Learning Support, EdTech Innovation, Teacher Productivity Tools"
     ],
     "case_study_id": 45,
     "summary": "AI tutor delivers personalised, interactive learning support, improving student understanding and teacher productivity at scale.",
     "word_count": 15,
-    "keyword": "AI tutor delivers personalised, interactive learning support, improving student understanding and teacher productivity at scale.",
+    "keyword": "AI Tutor, Personalized Learning, AI in Education, Adaptive Learning Platforms, Digital Learning Tools, Student Learning Support, EdTech Innovation, Teacher Productivity Tools",
     "short_description": "AI tutor delivers personalised, interactive learning support, improving student understanding and teacher productivity at scale",
     "image": "/uploads/studies/1776681938_logo_Khan Academy.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/khan-academy",
@@ -6308,8 +5947,8 @@
     "keyword": "Operational Excellence, Education, Digital Transformation",
     "short_description": "Salesforce centralized 160+ projects, boosting LLF data accuracy and efficiency",
     "image": "/uploads/studies/1776338392_logo_learning-links-foundation-thumb.webp",
-    "url": "https://dt4si.com/digital-transformation-case-studies/learning-link-foundation",
-    "slug": "learning-link-foundation",
+    "url": "https://dt4si.com/digital-transformation-case-studies/learning-link-foundation-tech-integration-scales-field-operations",
+    "slug": "learning-link-foundation-tech-integration-scales-field-operations",
     "id": 3,
     "category": "case_study"
   },
@@ -6321,16 +5960,16 @@
     ],
     "values": [
       "Lend a Hand India: Scaling Vocational Education",
-      "Lend A Hand India leveraged digital platforms and MIS systems"
+      "Vocational Education Technology, Skilling in Government Schools, Education MIS Systems, Digital Program Monitoring, Workforce Skills Development, EdTech for Vocational Training, Scalable Skilling Programs, Education Data Platforms"
     ],
     "case_study_id": 10,
     "summary": "How Lend A Hand India leveraged digital platforms and MIS systems to streamline vocational education delivery, enable real-time monitoring, and scale skilling programs across government schools.",
     "word_count": 26,
-    "keyword": "Lend A Hand India leveraged digital platforms and MIS systems",
+    "keyword": "Vocational Education Technology, Skilling in Government Schools, Education MIS Systems, Digital Program Monitoring, Workforce Skills Development, EdTech for Vocational Training, Scalable Skilling Programs, Education Data Platforms",
     "short_description": "Lighthouse custom software enabled real-time vocational education monitoring across 25+ states",
     "image": "/uploads/studies/1764055646_logo_LAHI.png",
-    "url": "https://dt4si.com/digital-transformation-case-studies/lend-a-hand-india",
-    "slug": "lend-a-hand-india",
+    "url": "https://dt4si.com/digital-transformation-case-studies/lend-a-hand-india-scaling-vocational-education",
+    "slug": "lend-a-hand-india-scaling-vocational-education",
     "id": 10,
     "category": "case_study"
   },
@@ -6342,12 +5981,12 @@
     ],
     "values": [
       "Magic Bus India Foundation: Democratizing Personalized Skilling through Magic AI",
-      "Magic Bus is bridging the employability gap for underserved youth by deploying \"Magic AI\"—a high-scale, multilingual voice tutor that provides personalized, judgment-free learning to 10 million young people."
+      "AI-Powered Skilling, Voice AI Learning, Personalized Employability Training, AI for Youth Employment, Multilingual Learning Platforms, Digital Skills Development, AI in Workforce Training, Inclusive Skilling Programs"
     ],
     "case_study_id": 44,
     "summary": "Magic Bus is bridging the employability gap for underserved youth by deploying \"Magic AI\"—a high-scale, multilingual voice tutor that provides personalized, judgment-free learning to 10 million young people.",
     "word_count": 28,
-    "keyword": "Magic Bus is bridging the employability gap for underserved youth by deploying \"Magic AI\"—a high-scale, multilingual voice tutor that provides personalized, judgment-free learning to 10 million young people.",
+    "keyword": "AI-Powered Skilling, Voice AI Learning, Personalized Employability Training, AI for Youth Employment, Multilingual Learning Platforms, Digital Skills Development, AI in Workforce Training, Inclusive Skilling Programs",
     "short_description": "AI voice tutor provides personalised skilling and language practice, improving employability for underserved youth",
     "image": "/uploads/studies/1776682170_logo_Magic Bus India Foundation_ Democratizing Personalized Skilling through Magic AI.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/magic-bus-india-foundation-democratizing-personalized-skilling-through-magic-ai",
@@ -6363,12 +6002,12 @@
     ],
     "values": [
       "Myna Mahila Foundation: Empowering Women’s Health Agency through Generative AI",
-      "Myna Mahila Foundation is dismantling the wall of silence around sexual and reproductive health (SRH) by providing urban poor women with \"Myna Bolo\"—a confidential, medically accurate, and culturally sensitive AI companion."
+      "Generative AI for Health, Sexual and Reproductive Health, AI Health Chatbots, Women’s Health Access, Digital Health for Women, Confidential Health Support, AI for Health Education, Community Health Technology"
     ],
     "case_study_id": 43,
     "summary": "Myna Mahila Foundation is dismantling the wall of silence around sexual and reproductive health (SRH) by providing urban poor women with \"Myna Bolo\"—a confidential, medically accurate, and culturally sensitive AI companion.",
     "word_count": 31,
-    "keyword": "Myna Mahila Foundation is dismantling the wall of silence around sexual and reproductive health (SRH) by providing urban poor women with \"Myna Bolo\"—a confidential, medically accurate, and culturally sensitive AI companion.",
+    "keyword": "Generative AI for Health, Sexual and Reproductive Health, AI Health Chatbots, Women’s Health Access, Digital Health for Women, Confidential Health Support, AI for Health Education, Community Health Technology",
     "short_description": "Confidential AI chatbot provides culturally sensitive sexual health guidance, enabling safe and anonymous access",
     "image": "/uploads/studies/1776682901_logo_Myna Mahila Foundation_ Empowering Women’s Health Agency through Generative AI.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/myna-mahila-foundation-empowering-womens-health-agency-through-generative-ai",
@@ -6384,12 +6023,12 @@
     ],
     "values": [
       "NudgED Trust: Reimagining Early Education through AI-Powered Parental Engagement",
-      "NudgED Trust is transforming home-based learning by leveraging AI to bridge the literacy and guidance gap for low-income parents, turning every home into a classroom."
+      "AI in Early Childhood Education, Parental Engagement Technology, AI Learning Nudges, Home-Based Learning, Early Literacy Development, AI for Education Access, Conversational Learning Tools, EdTech for Early Education"
     ],
     "case_study_id": 42,
     "summary": "NudgED Trust is transforming home-based learning by leveraging AI to bridge the literacy and guidance gap for low-income parents, turning every home into a classroom.",
     "word_count": 25,
-    "keyword": "NudgED Trust is transforming home-based learning by leveraging AI to bridge the literacy and guidance gap for low-income parents, turning every home into a classroom.",
+    "keyword": "AI in Early Childhood Education, Parental Engagement Technology, AI Learning Nudges, Home-Based Learning, Early Literacy Development, AI for Education Access, Conversational Learning Tools, EdTech for Early Education",
     "short_description": "AI nudges and conversational tools drive parental engagement, improving home-based early childhood learning outcomes",
     "image": "/uploads/studies/1776683377_logo_nudged-trust-reimagining-early-education.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/nudged-trust-reimagining-early-education-through-ai-powered-parental-engagement",
@@ -6405,12 +6044,12 @@
     ],
     "values": [
       "Rocket Learning: AI Powered Worksheet Autocorrection for Early Learning",
-      "Strengthening Foundational Learning Outcomes through AI-Enabled Feedback Loops"
+      "AI in Early Learning, Worksheet Auto-Correction, Foundational Learning Technology, AI Feedback Systems, Early Childhood Education Technology, Teacher Workload Reduction, AI for Foundational Literacy, Digital Learning Assessment"
     ],
     "case_study_id": 24,
     "summary": "Strengthening Foundational Learning Outcomes through AI-Enabled Feedback Loops",
     "word_count": 8,
-    "keyword": "Strengthening Foundational Learning Outcomes through AI-Enabled Feedback Loops",
+    "keyword": "AI in Early Learning, Worksheet Auto-Correction, Foundational Learning Technology, AI Feedback Systems, Early Childhood Education Technology, Teacher Workload Reduction, AI for Foundational Literacy, Digital Learning Assessment",
     "short_description": "AI-enabled worksheet autocorrection delivered instant feedback to children, reducing frontline workload and strengthening early learning outcomes",
     "image": "/uploads/studies/1776317844_logo_Rocket-Learning-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/rocket-learning-ai-driven-worksheet-autocorrection-for-early-learning",
@@ -6426,12 +6065,12 @@
     ],
     "values": [
       "SEEDS: AI for Resilient Cities: Hyperlocal Risk Mapping for Inclusive Climate Action",
-      "Strengthening Climate Resilience through Predictive, Community-Led Risk Intelligence"
+      "AI for Climate Resilience, Hyperlocal Risk Mapping, Climate Risk Prediction, Disaster Risk Reduction, Climate Adaptation Technology, Urban Resilience Planning, AI for Disaster Preparedness, Community-Based Climate Action"
     ],
     "case_study_id": 21,
     "summary": "Strengthening Climate Resilience through Predictive, Community-Led Risk Intelligence",
     "word_count": 8,
-    "keyword": "Strengthening Climate Resilience through Predictive, Community-Led Risk Intelligence",
+    "keyword": "AI for Climate Resilience, Hyperlocal Risk Mapping, Climate Risk Prediction, Disaster Risk Reduction, Climate Adaptation Technology, Urban Resilience Planning, AI for Disaster Preparedness, Community-Based Climate Action",
     "short_description": "AI-powered hyperlocal risk mapping helped cities predict climate hazards accurately and prioritise protection for vulnerable households",
     "image": "/uploads/studies/1770103309_logo_seeds-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/seeds-ai-powered-hyperlocal-risk-mapping-for-urban-resilience",
@@ -6447,12 +6086,12 @@
     ],
     "values": [
       "SEWA Bharat - Digitising a Grassroots Women’s Movement",
-      "SEWA Bharat enabled organization-wide digital transformation"
+      "Digital Transformation for NGOs, Women’s Economic Empowerment, Grassroots Digital Infrastructure, Data and Analytics for Social Impact, AI for Community Organizations, Informal Economy Workers, Digital Tools for Outreach, Technology for Women’s Collectives"
     ],
     "case_study_id": 15,
     "summary": "How SEWA Bharat enabled organization-wide digital transformation by combining digital infrastructure, analytics, outreach tools, and AI with large-scale capacity building across grassroots teams.",
     "word_count": 23,
-    "keyword": "SEWA Bharat enabled organization-wide digital transformation",
+    "keyword": "Digital Transformation for NGOs, Women’s Economic Empowerment, Grassroots Digital Infrastructure, Data and Analytics for Social Impact, AI for Community Organizations, Informal Economy Workers, Digital Tools for Outreach, Technology for Women’s Collectives",
     "short_description": "SEWA Bharat is a national federation supporting women workers in India’s informal economy",
     "image": "/uploads/studies/1764337349_logo_sewa-bharat-digitising-a-grassroots-womens-movement-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/sewa-bharat-digitising-a-grassroots-womens-movement",
@@ -6468,12 +6107,12 @@
     ],
     "values": [
       "SNEHA: AI-Enabled Maternal & Child Health Information Access",
-      "Strengthening Maternal and Child Health Outcomes in Urban Vulnerable Communities"
+      "AI in Maternal Health, Digital Health Assistants, WhatsApp Health Bots, Maternal and Child Health, Voice AI for Health Education, Community Health Technology, Digital Health Awareness, AI for Public Health"
     ],
     "case_study_id": 22,
     "summary": "Strengthening Maternal and Child Health Outcomes in Urban Vulnerable Communities",
     "word_count": 10,
-    "keyword": "Strengthening Maternal and Child Health Outcomes in Urban Vulnerable Communities",
+    "keyword": "AI in Maternal Health, Digital Health Assistants, WhatsApp Health Bots, Maternal and Child Health, Voice AI for Health Education, Community Health Technology, Digital Health Awareness, AI for Public Health",
     "short_description": "Voice-enabled WhatsApp AI assistant improved maternal health awareness, driving repeated engagement and timely health-seeking behaviours",
     "image": "/uploads/studies/1770111491_logo_sneha-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/sneha-ai-supported-maternal-and-child-health-guidance-in-urban-settlements",
@@ -6489,12 +6128,12 @@
     ],
     "values": [
       "Saajha: Scaling Parental Engagement Through Digital Enablement",
-      "Saajha leveraged a WhatsApp-first delivery model, custom apps, and AI-powered tools."
+      "Parental Engagement Technology, WhatsApp-Based Learning, Home-Based Education, Foundational Learning Outcomes, AI in Education Programs, Digital Parent Engagement, Data-Driven Learning Programs, EdTech for Foundational Literacy"
     ],
     "case_study_id": 16,
     "summary": "How Saajha leveraged a WhatsApp-first delivery model, custom apps, and AI-powered tools to scale parental engagement, enable real-time learning tracking, and improve foundational learning outcomes at scale.",
     "word_count": 27,
-    "keyword": "Saajha leveraged a WhatsApp-first delivery model, custom apps, and AI-powered tools.",
+    "keyword": "Parental Engagement Technology, WhatsApp-Based Learning, Home-Based Education, Foundational Learning Outcomes, AI in Education Programs, Digital Parent Engagement, Data-Driven Learning Programs, EdTech for Foundational Literacy",
     "short_description": "Transforming parent-led learning through WhatsApp-based engagement, adaptive worksheets, and data-driven program delivery",
     "image": "/uploads/studies/1764349186_logo_saajha-thumb.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/saajha-scaling-parental-engagement-through-digital-enablement",
@@ -6518,8 +6157,8 @@
     "keyword": "Food Security & Nutrition, Operations & Systems",
     "short_description": "ERP/Mobile apps digitized supply chain, improving efficiency and compliance.",
     "image": "/uploads/studies/1776717715_logo_Akshaya-patra-thumb.webp",
-    "url": "https://dt4si.com/digital-transformation-case-studies/the-akshaya-patra-foundation",
-    "slug": "the-akshaya-patra-foundation",
+    "url": "https://dt4si.com/digital-transformation-case-studies/akshaya-patra-foundation-optimizing-operations-feed-millions",
+    "slug": "akshaya-patra-foundation-optimizing-operations-feed-millions",
     "id": 7,
     "category": "case_study"
   },
@@ -6531,12 +6170,12 @@
     ],
     "values": [
       "The Apprentice Project: AI-Powered 21st Century Skills At Scale",
-      "Building Critical Thinking, Creativity, and Decision-Making at Scale through AI"
+      "AI in 21st Century Skills, WhatsApp Learning Platforms, AI-Powered Skill Development, Critical Thinking Education, Creativity and Problem-Solving Skills, Digital Learning at Scale, Youth Skill Development, AI in Education Programs"
     ],
     "case_study_id": 20,
     "summary": "Building Critical Thinking, Creativity, and Decision-Making at Scale through AI",
     "word_count": 10,
-    "keyword": "Building Critical Thinking, Creativity, and Decision-Making at Scale through AI",
+    "keyword": "AI in 21st Century Skills, WhatsApp Learning Platforms, AI-Powered Skill Development, Critical Thinking Education, Creativity and Problem-Solving Skills, Digital Learning at Scale, Youth Skill Development, AI in Education Programs",
     "short_description": "AI-powered WhatsApp learning platform enabled large-scale 21st-century skills development with measurable gains in creativity and problem-solving",
     "image": "/uploads/studies/1770101039_logo_the-apprentice-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/the-apprentice-project-ai-enabled-skill-assessment-at-scale",
@@ -6552,12 +6191,12 @@
     ],
     "values": [
       "The Association of People with Disability (APD) + AI-Powered Universal Accessibility",
-      "Crowdsourcing a barrier-free India through AI-driven accessibility audits and real-time mapping."
+      "AI for Accessibility, Universal Accessibility, Inclusive Infrastructure, Accessibility Audits, Disability Inclusion Technology, Crowdsourced Accessibility Data, Accessible Urban Planning, AI-Powered Accessibility Mapping"
     ],
     "case_study_id": 41,
     "summary": "Crowdsourcing a barrier-free India through AI-driven accessibility audits and real-time mapping.",
     "word_count": 11,
-    "keyword": "Crowdsourcing a barrier-free India through AI-driven accessibility audits and real-time mapping.",
+    "keyword": "AI for Accessibility, Universal Accessibility, Inclusive Infrastructure, Accessibility Audits, Disability Inclusion Technology, Crowdsourced Accessibility Data, Accessible Urban Planning, AI-Powered Accessibility Mapping",
     "short_description": "AI-powered audits crowdsource accessibility data, enabling real-time mapping and inclusive infrastructure planning nationwide.",
     "image": "/uploads/studies/1776684198_logo_the-association-of-people-with-disability-apd-ai-powered-universal-accessibility.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/the-association-of-people-with-disability-apd-ai-powered-universal-accessibility",
@@ -6573,12 +6212,12 @@
     ],
     "values": [
       "Udhyam Learning Foundation: Udhyam Saathi – AI Mentor",
-      "Strengthening Entrepreneurial Mindsets at Scale through AI-Enabled Mentorship"
+      "AI Mentorship Platforms, Entrepreneurship Education, AI in School Learning, Personalized Learning Support, Student Innovation Programs, AI for Experiential Learning, Entrepreneurial Mindset Development, EdTech for Skill Building"
     ],
     "case_study_id": 26,
     "summary": "Strengthening Entrepreneurial Mindsets at Scale through AI-Enabled Mentorship",
     "word_count": 8,
-    "keyword": "Strengthening Entrepreneurial Mindsets at Scale through AI-Enabled Mentorship",
+    "keyword": "AI Mentorship Platforms, Entrepreneurship Education, AI in School Learning, Personalized Learning Support, Student Innovation Programs, AI for Experiential Learning, Entrepreneurial Mindset Development, EdTech for Skill Building",
     "short_description": "AI mentor provided personalised project support to students and teachers, increasing engagement, iteration, and curriculum adherence",
     "image": "/uploads/studies/1770111705_logo_udhyam-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/udhyam-learning-ai-powered-mentorship-for-student-entrepreneurship",
@@ -6594,16 +6233,16 @@
     ],
     "values": [
       "Vipla Foundation: Reimagining Balwadi Program - Digital Enablement for Early Childhood Education",
-      "Vipla Foundation co-developed the UMANG mobile platform to digitize Balwadi operations"
+      "AI-powered skilling, youth employability, personalised learning, voice-based learning, multilingual AI tutor, digital skilling platform, workforce readiness, underserved youth, conversational AI learning, scalable education technology, employability training, technology-enabled skilling."
     ],
     "case_study_id": 8,
     "summary": "How Vipla Foundation co-developed the UMANG mobile platform to digitize Balwadi operations, enabling real-time data tracking, improved teaching quality, and scalable early childhood education delivery.",
     "word_count": 25,
-    "keyword": "Vipla Foundation co-developed the UMANG mobile platform to digitize Balwadi operations",
+    "keyword": "AI-powered skilling, youth employability, personalised learning, voice-based learning, multilingual AI tutor, digital skilling platform, workforce readiness, underserved youth, conversational AI learning, scalable education technology, employability training, technology-enabled skilling.",
     "short_description": "UMANG mobile app streamlined data/support, boosting student attendance 31% in Balwadis",
     "image": "/uploads/studies/1764055678_logo_Vipla-Foundation.png",
-    "url": "https://dt4si.com/digital-transformation-case-studies/vipla-foundation",
-    "slug": "vipla-foundation",
+    "url": "https://dt4si.com/digital-transformation-case-studies/vipla-foundation-reimagining-balwadi-program-digital-enablement-early-childhood-education",
+    "slug": "vipla-foundation-reimagining-balwadi-program-digital-enablement-early-childhood-education",
     "id": 8,
     "category": "case_study"
   },
@@ -6615,12 +6254,12 @@
     ],
     "values": [
       "Vowels of the People Association (VOPA): AI & Evidence-based FLN Assessments",
-      "Evidence-based FLN Assessments Strengthening Foundational Literacy and Numeracy."
+      "AI-driven assessments, foundational literacy and numeracy (FLN), learning assessments, education data analytics, evidence-based education, student learning outcomes, large-scale assessments, education system strengthening, AI in education, data-driven education policy, foundational learning measurement, scalable education assessments."
     ],
     "case_study_id": 29,
     "summary": "Strengthening Foundational Literacy and Numeracy through Accurate, Scalable Assessments",
     "word_count": 9,
-    "keyword": "Evidence-based FLN Assessments Strengthening Foundational Literacy and Numeracy.",
+    "keyword": "AI-driven assessments, foundational literacy and numeracy (FLN), learning assessments, education data analytics, evidence-based education, student learning outcomes, large-scale assessments, education system strengthening, AI in education, data-driven education policy, foundational learning measurement, scalable education assessments.",
     "short_description": "AI-driven FLN assessments revealed real learning levels, prompting statewide action to strengthen foundational literacy and numeracy",
     "image": "/uploads/studies/1770111533_logo_vopa-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/vopa-ai-driven-foundational-literacy-and-numeracy-assessment-at-scale",
@@ -6636,12 +6275,12 @@
     ],
     "values": [
       "Vruksh Ecosystem Foundation: Bridging the Digital Divide with Offline-First Agentic AI",
-      "Vruksh Ecosystem Foundation is democratising high-quality education in connectivity-challenged regions by deploying a multi-model AI architecture that transitions seamlessly between high-capability cloud models and efficient edge-based offline learning."
+      "offline-first AI, agentic AI systems, hybrid AI architecture, edge AI learning, low-connectivity education, digital divide in education, AI-powered learning delivery, offline education technology, personalised learning AI, scalable education technology, cloud and edge AI integration, rural digital education solutions."
     ],
     "case_study_id": 40,
     "summary": "Vruksh Ecosystem Foundation is democratising high-quality education in connectivity-challenged regions by deploying a multi-model AI architecture that transitions seamlessly between high-capability cloud models and efficient edge-based offline learning.",
     "word_count": 28,
-    "keyword": "Vruksh Ecosystem Foundation is democratising high-quality education in connectivity-challenged regions by deploying a multi-model AI architecture that transitions seamlessly between high-capability cloud models and efficient edge-based offline learning.",
+    "keyword": "offline-first AI, agentic AI systems, hybrid AI architecture, edge AI learning, low-connectivity education, digital divide in education, AI-powered learning delivery, offline education technology, personalised learning AI, scalable education technology, cloud and edge AI integration, rural digital education solutions.",
     "short_description": "Hybrid AI system ensures uninterrupted, personalised learning delivery in low-connectivity and offline environments.",
     "image": "/uploads/studies/1776684498_logo_Vruksh Ecosystem Foundation_ Bridging the Digital Divide with Offline-First Agentic AI.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/vruksh-ecosystem-foundation-bridging-the-digital-divide-with-offline-first-agentic-ai",
@@ -6657,17 +6296,185 @@
     ],
     "values": [
       "William J Clinton Foundation: AI-enabled Express Health Camps",
-      "Strengthening Early TB Detection by Embedding AI into Government-Led Active Case Finding"
+      "AI-powered TB screening, tuberculosis detection, AI in public health, portable X-ray screening, active case finding, early TB diagnosis, health camp innovation, AI-assisted diagnostics, scalable TB screening, public health technology, community health screening, AI for disease detection."
     ],
     "case_study_id": 23,
     "summary": "Strengthening Early TB Detection by Embedding AI into Government-Led Active Case Finding",
     "word_count": 12,
-    "keyword": "Strengthening Early TB Detection by Embedding AI into Government-Led Active Case Finding",
+    "keyword": "AI-powered TB screening, tuberculosis detection, AI in public health, portable X-ray screening, active case finding, early TB diagnosis, health camp innovation, AI-assisted diagnostics, scalable TB screening, public health technology, community health screening, AI for disease detection.",
     "short_description": "AI-enabled health camps used portable X-rays for rapid TB screening, detecting cases earlier and reducing screening time and cost",
     "image": "/uploads/studies/1770111673_logo_william-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/clinton-foundation-ai-enabled-tb-screening-for-community-health-programmes",
     "slug": "clinton-foundation-ai-enabled-tb-screening-for-community-health-programmes",
     "id": 23,
     "category": "case_study"
+  },
+  {
+    "sheet": "Insights",
+    "column_headers": [
+      "Title",
+      "Short Description",
+      "Keyword"
+    ],
+    "values": [
+      "ILSS Digital Transformation for Social Impact Program",
+      "",
+      ""
+    ],
+    "id": 19,
+    "title": "ILSS Digital Transformation for Social Impact Program",
+    "short_description": "",
+    "image": "1772184205_ilss-digital-transformation-for-social-impact-program-img.jpg",
+    "url": "https://indialeadersforsocialsector.com/the-ilss-digital-transformation-for-social-impact-program/",
+    "slug": "",
+    "keyword": "",
+    "category": "insight"
+  },
+  {
+    "sheet": "Insights",
+    "column_headers": [
+      "Title",
+      "Short Description",
+      "Keyword"
+    ],
+    "values": [
+      "Funding Digital Transformation in Nonprofits: A Conversation with Chetan Kapoor and Ashwin Iyer",
+      "As nonprofits grapple with growing complexity, constrained resources, and rising expectations of impact, digital transformation has emerged as both an opportunity and a challenge.",
+      "This conversation highlights digital transformation in nonprofits, focusing on data-driven decisions, capacity building, and sustainable innovation. Chetan Kapoor and Ashwin Iyer emphasise flexible funding, funder–nonprofit partnerships, depth before scale, and problem-first technology adoption to create replicable, long-term social impact beyond short-term digital solutions."
+    ],
+    "id": 15,
+    "title": "Funding Digital Transformation in Nonprofits: A Conversation with Chetan Kapoor and Ashwin Iyer",
+    "short_description": "As nonprofits grapple with growing complexity, constrained resources, and rising expectations of impact, digital transformation has emerged as both an opportunity and a challenge.",
+    "image": "1771567039_nonprofit-digital-transformation-funding.jpg",
+    "url": "https://leadershipinspired.indialeadersforsocialsector.com/2026/01/29/ilss-conversation-5/",
+    "slug": "",
+    "keyword": "This conversation highlights digital transformation in nonprofits, focusing on data-driven decisions, capacity building, and sustainable innovation. Chetan Kapoor and Ashwin Iyer emphasise flexible funding, funder–nonprofit partnerships, depth before scale, and problem-first technology adoption to create replicable, long-term social impact beyond short-term digital solutions.",
+    "category": "insight"
+  },
+  {
+    "sheet": "Insights",
+    "column_headers": [
+      "Title",
+      "Short Description",
+      "Keyword"
+    ],
+    "values": [
+      "Reimagining Value and Impact in the Social Sector",
+      "In 1879, when the electric light bulb was first demonstrated by the prolific and evolutionary inventor Thomas Edison, the world did not immediately grasp the magnitude of the shift. It was not merely a better candle or just another tool for brighter illumination, but it was the introduction of the transformative power of electricity that would eventually reorganise society, industry, and daily life.",
+      "Digital transformation, social impact, technology adoption, leadership, data-driven decisions, value chain, nonprofit scaling, accountability, governance, capacity building."
+    ],
+    "id": 16,
+    "title": "Reimagining Value and Impact in the Social Sector",
+    "short_description": "In 1879, when the electric light bulb was first demonstrated by the prolific and evolutionary inventor Thomas Edison, the world did not immediately grasp the magnitude of the shift. It was not merely a better candle or just another tool for brighter illumination, but it was the introduction of the transformative power of electricity that would eventually reorganise society, industry, and daily life.",
+    "image": "1771587970_reimagining-social-sector-impact.jpeg",
+    "url": "https://leadershipinspired.indialeadersforsocialsector.com/2026/01/24/cover-story-5/",
+    "slug": "",
+    "keyword": "Digital transformation, social impact, technology adoption, leadership, data-driven decisions, value chain, nonprofit scaling, accountability, governance, capacity building.",
+    "category": "insight"
+  },
+  {
+    "sheet": "Insights",
+    "column_headers": [
+      "Title",
+      "Short Description",
+      "Keyword"
+    ],
+    "values": [
+      "Doing More with Less: Digital Transformation of Nonprofits in India",
+      "Indian nonprofits today face a difficult paradox. Expectations around scale, accountability, and measurable outcomes are rising, while funding, talent, and organisational bandwidth remain constrained.",
+      "Digital transformation, nonprofits in India, social purpose organisations (SPOs), technology adoption, process optimisation, lean thinking, data architecture, AI in nonprofits, cloud solutions, change management, governance, sustainability, impact measurement, donor reporting, operational efficiency, Seva Mandir, Anudip Foundation, mission-driven technology, digital MIS, community engagement, capacity building, scalable systems."
+    ],
+    "id": 17,
+    "title": "Doing More with Less: Digital Transformation of Nonprofits in India",
+    "short_description": "Indian nonprofits today face a difficult paradox. Expectations around scale, accountability, and measurable outcomes are rising, while funding, talent, and organisational bandwidth remain constrained.",
+    "image": "1771567019_digital-transformation-of-nonprofits-in-india.jpg",
+    "url": "https://leadershipinspired.indialeadersforsocialsector.com/2026/01/24/guest-column-edition-5-sanjeev-prasad/",
+    "slug": "",
+    "keyword": "Digital transformation, nonprofits in India, social purpose organisations (SPOs), technology adoption, process optimisation, lean thinking, data architecture, AI in nonprofits, cloud solutions, change management, governance, sustainability, impact measurement, donor reporting, operational efficiency, Seva Mandir, Anudip Foundation, mission-driven technology, digital MIS, community engagement, capacity building, scalable systems.",
+    "category": "insight"
+  },
+  {
+    "sheet": "Insights",
+    "column_headers": [
+      "Title",
+      "Short Description",
+      "Keyword"
+    ],
+    "values": [
+      "From Compliance to Cultural Change: Understanding the Relevance of Personal Data Protection",
+      "India’s Digital Personal Data Protection Act (DPDP Act), which took effect on 13 November 2025, marks a decisive shift from ad hoc data practices to a rights-based legal framework. For social sector organisations working directly with vulnerable communities, the law is not merely a compliance exercise; it is a call to build new habits of care and prudence.",
+      "The Digital Personal Data Protection (DPDP) Act mandates data minimisation, informed and explicit consent, purpose limitation, secure storage, and accountability. Organisations must ensure children’s data protection, vendor compliance, breach readiness within 72 hours, and strong data governance practices. Building a privacy culture through audits, training, and due diligence ensures sustainable legal compliance."
+    ],
+    "id": 18,
+    "title": "From Compliance to Cultural Change: Understanding the Relevance of Personal Data Protection",
+    "short_description": "India’s Digital Personal Data Protection Act (DPDP Act), which took effect on 13 November 2025, marks a decisive shift from ad hoc data practices to a rights-based legal framework. For social sector organisations working directly with vulnerable communities, the law is not merely a compliance exercise; it is a call to build new habits of care and prudence.",
+    "image": "1771567008_compliance-to-cultural-change-data-protection.jpg",
+    "url": "https://leadershipinspired.indialeadersforsocialsector.com/2026/01/22/guest-column-edition-5-deepika-mogilishetty/",
+    "slug": "",
+    "keyword": "The Digital Personal Data Protection (DPDP) Act mandates data minimisation, informed and explicit consent, purpose limitation, secure storage, and accountability. Organisations must ensure children’s data protection, vendor compliance, breach readiness within 72 hours, and strong data governance practices. Building a privacy culture through audits, training, and due diligence ensures sustainable legal compliance.",
+    "category": "insight"
+  },
+  {
+    "sheet": "Insights",
+    "column_headers": [
+      "Title",
+      "Short Description",
+      "Keyword"
+    ],
+    "values": [
+      "From Overwhelmed to Optimised: How Nonprofits Can Reclaim Time with AI Content Tools",
+      "Nonprofit leaders are losing strategic time to repetitive communication work. Learn how ethical, AI-powered content tools help nonprofits reclaim focus, protect leadership judgment, and strengthen mission delivery",
+      ""
+    ],
+    "id": 12,
+    "title": "From Overwhelmed to Optimised: How Nonprofits Can Reclaim Time with AI Content Tools",
+    "short_description": "Nonprofit leaders are losing strategic time to repetitive communication work. Learn how ethical, AI-powered content tools help nonprofits reclaim focus, protect leadership judgment, and strengthen mission delivery",
+    "image": "1771592095_from-overwhelmed-to-optimised-how-nonprofits-can-reclaim-time-with-ai-content-tools-img.jpg",
+    "url": "https://dt4si.com/insights-for-non-profits/ai-content-tools-nonprofits",
+    "slug": "ai-content-tools-nonprofits",
+    "keyword": "",
+    "category": "insight"
+  },
+  {
+    "sheet": "Insights",
+    "column_headers": [
+      "Title",
+      "Short Description",
+      "Keyword"
+    ],
+    "values": [
+      "Should Your Nonprofit Hire, Buy, or Bootstrap Data Analytics? The Founder’s Guide",
+      "A DT4SI-informed guide to nonprofit data analytics on when to hire talent, adopt M&E software or bootstrap impact measurement systems.",
+      "nonprofit data analytics, social impact measurement, data tools for NGOs, M&E tools, impact tracking software, build vs buy analytics"
+    ],
+    "id": 13,
+    "title": "Should Your Nonprofit Hire, Buy, or Bootstrap Data Analytics? The Founder’s Guide",
+    "short_description": "A DT4SI-informed guide to nonprofit data analytics on when to hire talent, adopt M&E software or bootstrap impact measurement systems.",
+    "image": "1771590112_nonprofit-data-analytics-guide.jpg",
+    "url": "https://dt4si.com/insights-for-non-profits/nonprofit-data-analytics-guide",
+    "slug": "nonprofit-data-analytics-guide",
+    "keyword": "nonprofit data analytics, social impact measurement, data tools for NGOs, M&E tools, impact tracking software, build vs buy analytics",
+    "category": "insight"
+  },
+  {
+    "sheet": "Insights",
+    "column_headers": [
+      "Title",
+      "Short Description",
+      "Keyword"
+    ],
+    "values": [
+      "Mapping the Invisible: How AI-Driven 3D Tools Help Us See Social Systems Clearly",
+      "Discover how AI-driven 3D tools, spatial modelling, and digital twins help nonprofits see hidden links between climate, behaviour, and the built environment to make better decisions.",
+      "AI-driven 3D tools, 3D modelling for nonprofits, Spatial modelling, Digital twins, Systems thinking, Social systems, Built environment, Systems visibility"
+    ],
+    "id": 14,
+    "title": "Mapping the Invisible: How AI-Driven 3D Tools Help Us See Social Systems Clearly",
+    "short_description": "Discover how AI-driven 3D tools, spatial modelling, and digital twins help nonprofits see hidden links between climate, behaviour, and the built environment to make better decisions.",
+    "image": "1771591016_ai-3d-social-systems.jpg",
+    "url": "https://dt4si.com/insights-for-non-profits/ai-3d-social-systems",
+    "slug": "ai-3d-social-systems",
+    "keyword": "AI-driven 3D tools, 3D modelling for nonprofits, Spatial modelling, Digital twins, Systems thinking, Social systems, Built environment, Systems visibility",
+    "category": "insight"
   }
 ]
