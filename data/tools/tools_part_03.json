@@ -1,12 +1,73 @@
 [
   {
+    "id": 262,
+    "title": "Gupshup",
+    "short_description": "Messaging infrastructure platform for NGOs & SPOs",
+    "long_description": "Gupshup is a conversational messaging platform that enables organisations to build and deploy communication workflows across channels such as WhatsApp, SMS, and other messaging services.",
+    "image": "/uploads/1777481937_gupshup.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/messaging/gupshup",
+    "slug": "messaging/gupshup",
+    "category": [
+      "Messaging"
+    ],
+    "sub_category": [
+      "WhatsApp",
+      "Broadcast"
+    ]
+  },
+  {
+    "id": 378,
+    "title": "Hive",
+    "short_description": "Workflow coordination and project tracking for nonprofits",
+    "long_description": "Hive is a workflow and project management platform that helps nonprofits and social purpose organisations organise tasks, track progress, and coordinate workflows across teams. It brings together task management, timelines, and communication into a single workspace, supporting structured execution of programmes and internal processes.",
+    "image": "/uploads/1777534016_hive.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/operations/hive",
+    "slug": "operations/hive",
+    "category": [
+      "Office Automation"
+    ],
+    "sub_category": [
+      "Workflow Management"
+    ]
+  },
+  {
+    "id": 418,
+    "title": "Hootsuite",
+    "short_description": "Flexible social media management for nonprofits and social purpose organisations",
+    "long_description": "Hootsuite is a social media management platform that helps nonprofits and social purpose organisations plan content, manage engagement, monitor public conversations, and analyse performance across multiple platforms from a single dashboard.",
+    "image": "/uploads/1777137258_hootsuite.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/hootsuite",
+    "slug": "marketing-and-communication/hootsuite",
+    "category": [
+      "Marketing & Communication"
+    ],
+    "sub_category": [
+      "Social Media & Community Engagement"
+    ]
+  },
+  {
+    "id": 302,
+    "title": "Hotjar",
+    "short_description": "User behaviour analytics tool for website and user experience",
+    "long_description": "<p>Hotjar is a digital experience analytics tool (now part of Contentsquare) that helps organisations understand how users interact with their websites and applications. It provides visual insights into user behaviour through heatmaps, session recordings, and feedback tools.</p>\r\n\r\n<p>It enables teams to move beyond quantitative metrics and understand user behaviour, friction points, and engagement patterns.</p>",
+    "image": "/uploads/1776407942_hotjar.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/hotjar",
+    "slug": "monitoring-and-evaluation/hotjar",
+    "category": [
+      "Monitoring and Evaluation"
+    ],
+    "sub_category": [
+      "Reporting & Dashboarding"
+    ]
+  },
+  {
     "id": 268,
     "title": "HubSpot",
     "short_description": "CRM and engagement platform for managing donor communication and outreach.",
     "long_description": "HubSpot provides tools for customer relationship management (CRM), marketing, sales, and communication, enabling organisations to manage contacts and engagement within a single system.",
     "image": "/uploads/1776322147_HubSpot.jpg",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=hubspot-1",
-    "slug": "hubspot-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/hubspot",
+    "slug": "fundraising/hubspot",
     "category": [
       "Fundraising"
     ],
@@ -20,8 +81,8 @@
     "short_description": "Enterprise cloud platform for secure and compliant infrastructure, AI, and hybrid cloud systems.",
     "long_description": "IBM Cloud is a hybrid‑first cloud platform leveraging IBM’s global data centers and AI heritage. It offers a range of services including virtual servers, Kubernetes, AI/Watson, and blockchain tools.",
     "image": "/uploads/1776863107_ibm-cloud.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=ibm-cloud-1",
-    "slug": "ibm-cloud-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-analytics/ibm-cloud",
+    "slug": "data-analytics/ibm-cloud",
     "category": [
       "Data & Analytics"
     ],
@@ -35,8 +96,8 @@
     "short_description": "Digital storytelling and engagement platform for nonprofits and SPOs",
     "long_description": "Instagram is a widely used social media platform that enables nonprofits and social purpose organisations to communicate their work through visual storytelling, short-form video, and real-time updates.\r\nIt is used to build visibility, engage supporters, and translate programme work into accessible, ongoing public narratives.",
     "image": "/uploads/1777283375_instagram.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=instagram-1",
-    "slug": "instagram-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/instagram",
+    "slug": "marketing-and-communication/instagram",
     "category": [
       "Marketing & Communication"
     ],
@@ -50,13 +111,13 @@
     "short_description": "An AI content generation platform designed for teams to create long-form and marketing content.",
     "long_description": "Jasper is an AI writing assistant that helps users generate content for various purposes, including marketing copy, blog articles, and social media posts. It uses artificial intelligence to create human-like text quickly and efficiently.",
     "image": "/uploads/1776158390_Jasper-logo.jpg",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=jasper-1",
-    "slug": "jasper-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/jasper",
+    "slug": "ai-tools/jasper",
     "category": [
       "AI Tools"
     ],
     "sub_category": [
-      "Text Generation"
+      "AI Writing & Content Generation"
     ]
   },
   {
@@ -64,9 +125,9 @@
     "title": "Jira",
     "short_description": "Software project tracking for nonprofits",
     "long_description": "Jira is a widely used issue tracking and project management software, primarily developed for agile teams. It helps teams plan, track, and manage work and can be adapted for nonprofit organisations managing programmes, operations, and field activities.",
-    "image": "/uploads/1777026223_jira.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=jira-1",
-    "slug": "jira-1",
+    "image": "/uploads/1777446899_jira.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/jira",
+    "slug": "project-and-task-management/jira",
     "category": [
       "Project & Task Management"
     ],
@@ -80,8 +141,8 @@
     "short_description": "Flexible video meetings for NGOs & SPOs",
     "long_description": "Jitsi Meet is a free, open-source video conferencing platform used by nonprofits and social purpose organisations to conduct online meetings, training sessions, and remote collaboration. It works directly in a browser, requires no account, and supports secure communication across distributed teams.",
     "image": "/uploads/1776941829_jitsi-meet.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=jitsi-meet-1",
-    "slug": "jitsi-meet-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/jitsi-meet",
+    "slug": "marketing-and-communication/jitsi-meet",
     "category": [
       "Marketing & Communication"
     ],
@@ -94,9 +155,9 @@
     "title": "Joomla",
     "short_description": "Open-source content management system for NGO websites",
     "long_description": "Joomla is a free, open-source content management system (CMS) that helps organisations build and manage websites without deep coding knowledge. It provides structured content management, user access control, and extensions to expand functionality.",
-    "image": "/uploads/1776840231_joomla.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=joomla-1",
-    "slug": "joomla-1",
+    "image": "/uploads/1777529294_joomla.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/joomla",
+    "slug": "marketing-and-communication/joomla",
     "category": [
       "Marketing & Communication"
     ],
@@ -110,8 +171,8 @@
     "short_description": "Simple forms for NGOs & SPOs",
     "long_description": "Jotform is a no-code form builder used by nonprofits and social purpose organisations to create digital forms for registrations, surveys, and basic data collection workflows. It enables teams to collect and organise data without technical expertise.",
     "image": "/uploads/1777026145_1776359330_jotform.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=jotform-1",
-    "slug": "jotform-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/jotform",
+    "slug": "monitoring-and-evaluation/jotform",
     "category": [
       "Monitoring and Evaluation"
     ],
@@ -124,9 +185,9 @@
     "title": "Journeys of Change",
     "short_description": "Learning journey and outcome tracking platform for nonprofits",
     "long_description": "<p><strong>Journeys of Change</strong> is a programme design platform that helps nonprofits structure fellowship and capacity-building programmes as learning journeys, track participant progression across milestones, and link activities to measurable outcomes.</p>",
-    "image": "/uploads/1776412919_platformcommons.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=journeys-of-change-1",
-    "slug": "journeys-of-change-1",
+    "image": "/uploads/1777455766_platformcommons.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/learning-and-development/journeys-of-change",
+    "slug": "learning-and-development/journeys-of-change",
     "category": [
       "Learning & Development"
     ],
@@ -140,8 +201,8 @@
     "short_description": "HR, payroll, and workforce management system for nonprofits and social purpose organisations",
     "long_description": "Keka HR is a cloud-based Human Resource Management System (HRMS) that enables organisations to manage payroll, attendance, recruitment, performance, and employee records within a single platform. It is designed to automate the full employee lifecycle while supporting statutory compliance and workforce management at scale.",
     "image": "/uploads/1776507856_keka.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=keka-hr",
-    "slug": "keka-hr",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/human-resources/keka-hr",
+    "slug": "human-resources/keka-hr",
     "category": [
       "Human Resources"
     ],
@@ -155,10 +216,10 @@
     "id": 349,
     "title": "Kelsa",
     "short_description": "HR workflow platform for employee lifecycle and people processes",
-    "long_description": "Kelsa is a no-code HR workflow and process management platform that helps organisations design, automate, and monitor people-related operations. It enables teams to streamline HR processes such as employee onboarding, leave approvals, performance workflows, and internal requests—reducing manual coordination and improving visibility across the employee lifecycle.",
+    "long_description": "Kelsa is a no-code HR workflow and process management platform that helps organisations design, automate, and monitor people-related operations. It enables teams to streamline HR processes such as employee onboarding, leave approvals, performance workflows, and internal requests reducing manual coordination and improving visibility across the employee lifecycle.",
     "image": "/uploads/1776842310_kelsa.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=kelsa-1",
-    "slug": "kelsa-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/human-resources/kelsa",
+    "slug": "human-resources/kelsa",
     "category": [
       "Human Resources"
     ],
@@ -170,10 +231,10 @@
     "id": 237,
     "title": "KoboToolbox",
     "short_description": "Open-Source Field Data Collection & M&E Platform for Humanitarian and Development Organisations.",
-    "long_description": "KoboToolbox is a free, open-source data collection platform developed by the Harvard Humanitarian Initiative, widely used by nonprofits, humanitarian agencies, governments, and researchers to collect field data, conduct surveys, and manage monitoring and evaluation (M&E) workflows — even in low-connectivity environments.",
+    "long_description": "KoboToolbox is a free, open-source data collection platform developed by the Harvard Humanitarian Initiative, widely used by nonprofits, humanitarian agencies, governments, and researchers to collect field data, conduct surveys, and manage monitoring and evaluation (M&E) workflows, even in low-connectivity environments.",
     "image": "/uploads/1775982073_1775319006_kobotoolbox-logo.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=kobotoolbox-demo",
-    "slug": "kobotoolbox-demo",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/kobotoolbox",
+    "slug": "monitoring-and-evaluation/kobotoolbox",
     "category": [
       "Monitoring and Evaluation"
     ],
@@ -187,8 +248,8 @@
     "short_description": "Social media scheduling and content planning",
     "long_description": "Later is a social media management platform that helps plan, schedule, and publish content across platforms like Instagram, Facebook, LinkedIn, and Twitter. It enables teams to organise content visually, automate posting, and maintain consistent communication with their audience.",
     "image": "/uploads/1777137767_later.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=later-1",
-    "slug": "later-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/later",
+    "slug": "ai-tools/later",
     "category": [
       "AI Tools"
     ],
@@ -202,8 +263,8 @@
     "short_description": "Lightweight dashboarding tool for real-time data visualisation using Google tools.",
     "long_description": "Looker Studio, previously known as Google Data Studio, is a free, web-based tool designed for data visualization and business intelligence. It empowers users to build interactive dashboards and reports by connecting to a wide array of data sources.",
     "image": "/uploads/1776844471_looker.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=looker-studio-1",
-    "slug": "looker-studio-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-analysis/looker-studio",
+    "slug": "data-analysis/looker-studio",
     "category": [
       "Data & Analytics"
     ],
@@ -217,8 +278,8 @@
     "short_description": "AI-assisted app building and prototyping for nonprofits",
     "long_description": "Lovable AI is an AI-assisted platform that helps nonprofits and social purpose organisations build simple applications, tools, and workflows with minimal coding. It enables teams to create early-stage prototypes using natural language prompts, supporting faster experimentation and iteration.",
     "image": "/uploads/1776867707_lovable.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=lovable-ai-1",
-    "slug": "lovable-ai-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/lovable-ai",
+    "slug": "office-automation/lovable-ai",
     "category": [
       "Office Automation"
     ],
@@ -231,9 +292,9 @@
     "title": "M-Files",
     "short_description": "Document management system for organising and controlling organisational information in nonprofits and social purpose organisations",
     "long_description": "M-Files is a document management system that enables organisations to organise, manage, and control documents and information. It uses a metadata-based approach, allowing documents to be classified and retrieved based on attributes such as project, donor, or document type rather than folder structures.",
-    "image": "/uploads/1776846009_mfiles.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=m-files-1",
-    "slug": "m-files-1",
+    "image": "/uploads/1777531981_m-files.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/m-files",
+    "slug": "office-automation/m-files",
     "category": [
       "Office Automation"
     ],
@@ -247,8 +308,8 @@
     "short_description": "E-commerce platform for online fundraising and merchandise",
     "long_description": "Magento (Adobe Commerce) is an open-source e-commerce platform that enables organisations to build and manage online stores with advanced customisation and scalability. It supports product management, payments, customer accounts, and integrations for large-scale online operations.",
     "image": "/uploads/1777035080_magento.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=magento-1",
-    "slug": "magento-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/magento",
+    "slug": "marketing-and-communication/magento",
     "category": [
       "Marketing & Communication"
     ],
@@ -262,8 +323,8 @@
     "short_description": "Email marketing and outreach platform for donor and supporter communication",
     "long_description": "Mailchimp enables organisations to run structured email outreach campaigns with targeted and automated communication. It also provides analytics to track engagement and measure campaign performance.",
     "image": "/uploads/1777026495_mailchimp.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=mailchimp-1",
-    "slug": "mailchimp-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/mailchimp",
+    "slug": "marketing-and-communication/mailchimp",
     "category": [
       "Marketing & Communication"
     ],
@@ -277,8 +338,8 @@
     "short_description": "Workflow automation and integration for nonprofits.",
     "long_description": "Make is a no-code workflow automation platform that connects apps, systems, and data to automate repetitive operational tasks. It streamlines processes across CRM, finance, communications, and project management, improving efficiency while reducing manual workload.",
     "image": "/uploads/1776867741_make.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=make-1",
-    "slug": "make-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/product-development/make",
+    "slug": "product-development/make",
     "category": [
       "Office Automation"
     ],
@@ -292,13 +353,13 @@
     "short_description": "Content optimisation and planning support for NGOs and social purpose organisations.",
     "long_description": "MarketMuse is an AI-powered content intelligence platform that helps businesses plan, create, and optimize content strategies. It provides insights into content performance, identifies content gaps, and suggests topics to improve search visibility.",
     "image": "/uploads/1777026616_marketmuse.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=marketmuse-1",
-    "slug": "marketmuse-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/marketmuse",
+    "slug": "ai-tools/marketmuse",
     "category": [
       "AI Tools"
     ],
     "sub_category": [
-      "Text Generation"
+      "AI Writing & Content Generation"
     ]
   },
   {
@@ -307,8 +368,8 @@
     "short_description": "Feedback and experience management for nonprofits",
     "long_description": "Medallia is a feedback and experience management platform that helps nonprofits and social purpose organisations collect, analyse, and act on feedback from beneficiaries, donors, staff, and partners. It supports organisations in understanding experiences across programmes and services to inform improvements.",
     "image": "/uploads/1776867758_medallia.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=medallia-1",
-    "slug": "medallia-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-evaluation/medallia",
+    "slug": "monitoring-evaluation/medallia",
     "category": [
       "Monitoring and Evaluation"
     ],
@@ -322,8 +383,8 @@
     "short_description": "Student recruitment and enrolment platform for nonprofits & social purpose organisations",
     "long_description": "Meritto is an AI‑powered operating system for student recruitment and enrollment, offering modules like Enrollment Cloud, Education CRM, Application Platform, and Payment Cloud to streamline admissions and fee collection for educational institutions.",
     "image": "/uploads/1776533102_meritto.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=meritto-2",
-    "slug": "meritto-2",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/meritto",
+    "slug": "fundraising/meritto",
     "category": [
       "Learning & Development"
     ],
@@ -337,8 +398,8 @@
     "short_description": "AI-powered 3D model generation for NGOs and SPOs.",
     "long_description": "Meshy AI is an AI-powered platform that enables users to generate and edit 3D models from text or images, supporting visual content creation for communication, learning, and digital use.",
     "image": "/uploads/1776077879_Meshy AI.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=meshy-ai-1",
-    "slug": "meshy-ai-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/meshy-ai",
+    "slug": "ai-tools/meshy-ai",
     "category": [
       "AI Tools"
     ],
@@ -352,8 +413,8 @@
     "short_description": "AI assistant and content support for nonprofits",
     "long_description": "Meta AI is an artificial intelligence assistant developed by Meta that helps organisations generate content, answer queries, and assist with everyday tasks. It is integrated into platforms such as WhatsApp, Instagram, and Facebook, allowing teams to use AI within tools they already use for communication and outreach.",
     "image": "/uploads/1776867772_meta-ai.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=meta-ai-1",
-    "slug": "meta-ai-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/meta-ai",
+    "slug": "ai-tools/meta-ai",
     "category": [
       "AI Tools"
     ],
@@ -366,9 +427,9 @@
     "title": "Microsoft Azure",
     "short_description": "Platform for managing apps, data, and infrastructure across cloud environments.",
     "long_description": "Microsoft Azure is a cloud platform that helps organisations manage applications, data, and infrastructure across cloud and on-premise systems. It brings together services like storage, analytics, AI, and security in one place, making it easier to run and scale digital operations. For nonprofits, it simplifies data management, supports programme delivery, and reduces dependence on complex local IT setups.",
-    "image": "/uploads/1776849811_Microsoft Azure.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=microsoft-azure-1",
-    "slug": "microsoft-azure-1",
+    "image": "/uploads/1777532516_microsoft-azure.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/microsoft-azure",
+    "slug": "data-and-analytics/microsoft-azure",
     "category": [
       "Data & Analytics"
     ],
@@ -382,8 +443,8 @@
     "short_description": "AI assistant for productivity and document workflows in nonprofits",
     "long_description": "Microsoft’s Microsoft Copilot is an AI assistant integrated into Microsoft tools such as Word, Excel, Outlook, and Teams. It helps nonprofits and social purpose organisations generate content, analyse data, summarise information, and support everyday workflows within familiar applications.",
     "image": "/uploads/1777014177_Microsoft Copilot.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=microsoft-copilot",
-    "slug": "microsoft-copilot",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/microsoft-copilot",
+    "slug": "data-and-analytics/microsoft-copilot",
     "category": [
       "AI Tools"
     ],
@@ -392,13 +453,28 @@
     ]
   },
   {
+    "id": 436,
+    "title": "Microsoft Dynamics 365",
+    "short_description": "ERP, CRM & Enterprise Operations Platform",
+    "long_description": "<p>Microsoft Dynamics 365 is a cloud-based suite of business applications designed for enterprise resource planning (ERP), customer relationship management (CRM), finance, operations, reporting, and workflow coordination.</p>\r\n<p>The platform combines business applications, analytics, automation, and operational management tools within a connected enterprise software ecosystem.</p>",
+    "image": "/uploads/1778157419_microsoft-dynamics-365.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/microsoft-dynamics-365",
+    "slug": "fundraising/microsoft-dynamics-365",
+    "category": [
+      "Fundraising"
+    ],
+    "sub_category": [
+      "CRM/Grant/Donor Management"
+    ]
+  },
+  {
     "id": 304,
     "title": "Microsoft Excel",
     "short_description": "Spreadsheet tool for data management, analysis, and reporting",
     "long_description": "<p>Microsoft Excel is a spreadsheet application developed by Microsoft that enables organisations to organise, analyse, and manage data using tables, formulas, and visualisations.</p>\r\n<p>It is widely used for data entry, calculations, reporting, and basic analytics, making it a foundational tool for programme and operational data management.</p>",
-    "image": "/uploads/1776410050_microsoft-excel.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=microsoft-excel-1",
-    "slug": "microsoft-excel-1",
+    "image": "/uploads/1777454589_microsoft-excel.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/microsoft-excel",
+    "slug": "monitoring-and-evaluation/microsoft-excel",
     "category": [
       "Monitoring and Evaluation"
     ],
@@ -411,9 +487,9 @@
     "title": "Microsoft Power BI",
     "short_description": "Data visualisation and business intelligence for nonprofits & SPOs",
     "long_description": "Microsoft Power BI is a data visualisation and business intelligence tool developed by Microsoft that enables organisations to connect data sources, build interactive dashboards, and generate insights for reporting and decision-making.",
-    "image": "/uploads/1776411490_power-bi.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=microsoft-power-bi",
-    "slug": "microsoft-power-bi",
+    "image": "/uploads/1777455085_power-bi.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/microsoft-power-bi",
+    "slug": "monitoring-and-evaluation/microsoft-power-bi",
     "category": [
       "Monitoring and Evaluation"
     ],
@@ -426,9 +502,9 @@
     "title": "Midjourney",
     "short_description": "Midjourney creates stylised images from text prompts for campaigns and creative use.",
     "long_description": "Midjourney is an AI-based image generation platform that creates visuals from text prompts. It is used to generate stylised images for creative work, campaigns, and digital communication.",
-    "image": "/uploads/1776171579_Midjourney.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=midjourney-1",
-    "slug": "midjourney-1",
+    "image": "/uploads/1777458638_midjourney.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/midjourney",
+    "slug": "ai-tools/midjourney",
     "category": [
       "AI Tools"
     ],
@@ -442,8 +518,8 @@
     "short_description": "Crowdfunding platform for fundraising",
     "long_description": "Milaap is a crowdfunding platform that enables individuals and nonprofit organisations to raise funds online by creating campaigns and reaching donors through the platform. It combines campaign creation, payment collection, and donor discovery in a single system.",
     "image": "/uploads/1776513456_milaap-1.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=milaap-1",
-    "slug": "milaap-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/milaap",
+    "slug": "fundraising/milaap",
     "category": [
       "Fundraising"
     ],
@@ -457,8 +533,8 @@
     "short_description": "Machine learning integration for data-driven nonprofits",
     "long_description": "MindsDB is a machine learning platform that enables nonprofits and social purpose organisations to build predictive models using their existing data. It integrates with databases and data sources, allowing teams to generate predictions directly from their data without building full machine learning systems.",
     "image": "/uploads/1776921124_mindsdb.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=mindsdb-1",
-    "slug": "mindsdb-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/mindsdb",
+    "slug": "ai-tools/mindsdb",
     "category": [
       "AI Tools"
     ],
@@ -471,9 +547,9 @@
     "title": "Monday.com",
     "short_description": "work management platform for nonprofits",
     "long_description": "Monday.com is a cloud-based work operating system that helps organisations manage workflows, projects, and collaboration in one place.",
-    "image": "/uploads/1776338959_monday.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=mondaycom-1",
-    "slug": "mondaycom-1",
+    "image": "/uploads/1777453356_monday.com.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/monday",
+    "slug": "project-and-task-management/monday",
     "category": [
       "Project & Task Management"
     ],
@@ -482,93 +558,18 @@
     ]
   },
   {
-    "id": 311,
-    "title": "Moodle",
-    "short_description": "Open-Source Learning Management System for Online Training, Course Delivery, and Capability Building.",
-    "long_description": "<strong>Moodle</strong> is an open-source learning management system that enables nonprofits to design, deliver, and track structured training programmes across staff, volunteers, and communities at scale.",
-    "image": "/uploads/1776416493_moodle.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=moodle-1",
-    "slug": "moodle-1",
+    "id": 438,
+    "title": "MongoDB",
+    "short_description": "AI-Ready Data Platform for Modern Applications",
+    "long_description": "MongoDB is a document database platform used by organisations to build scalable applications, manage operational data, and support AI-enabled workflows across cloud and self-managed environments.",
+    "image": "/uploads/1778160899_mongodb.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/mongodb",
+    "slug": "data-and-analytics/mongodb",
     "category": [
-      "Learning & Development"
+      "Data & Analytics"
     ],
     "sub_category": [
-      "Learning Management System"
-    ]
-  },
-  {
-    "id": 359,
-    "title": "Motion",
-    "short_description": "AI-powered task, calendar, and project management tool for nonprofits and social purpose organisations.",
-    "long_description": "Motion is an AI-powered smart calendar assistant that helps users manage their time by automatically scheduling tasks, habits, and meetings. It aims to optimize schedules by finding the best times for various activities based on priorities and availability.",
-    "image": "/uploads/1776851216_motion.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=motion-1",
-    "slug": "motion-1",
-    "category": [
-      "Office Automation"
-    ],
-    "sub_category": [
-      "Scheduling"
-    ]
-  },
-  {
-    "id": 342,
-    "title": "Nagios",
-    "short_description": "Open-source IT infrastructure monitoring tool for nonprofits and social purpose organisations",
-    "long_description": "Nagios is an open-source monitoring system for tracking the health and performance of servers, networks, and applications. It provides continuous monitoring and alerting for infrastructure components such as servers, switches, databases, and services, helping organisations ensure system reliability and uptime.",
-    "image": "/uploads/1777026081_nagios.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=nagios-1",
-    "slug": "nagios-1",
-    "category": [
-      "Office Automation"
-    ],
-    "sub_category": [
-      "Digital Infrastructure"
-    ]
-  },
-  {
-    "id": 383,
-    "title": "Napkin AI",
-    "short_description": "AI-assisted visualisation of ideas and concepts for nonprofits",
-    "long_description": "Napkin AI is a tool that helps nonprofits and social purpose organisations turn text, ideas, or notes into simple visual representations such as diagrams, flows, and structured layouts. It supports teams in organising thinking, explaining concepts, and communicating ideas more clearly.",
-    "image": "/uploads/1776922485_napkin.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=napkin-ai-1",
-    "slug": "napkin-ai-1",
-    "category": [
-      "AI Tools"
-    ],
-    "sub_category": [
-      "Presentation Generation"
-    ]
-  },
-  {
-    "id": 384,
-    "title": "New Relic",
-    "short_description": "Application monitoring and observability for nonprofits",
-    "long_description": "New Relic is an observability platform that helps nonprofits and social purpose organisations monitor the performance of their applications, websites, and digital systems. It provides visibility into system health, errors, and usage, enabling teams to identify issues and maintain reliable digital services.",
-    "image": "/uploads/1776923013_new-relic.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=new-relic-1",
-    "slug": "new-relic-1",
-    "category": [
-      "Project & Task Management"
-    ],
-    "sub_category": [
-      "Agile"
-    ]
-  },
-  {
-    "id": 278,
-    "title": "Notion",
-    "short_description": "Collaboration tool for nonprofits and social impact teams",
-    "long_description": "Notion is a workspace application that combines note-taking, databases, project management, and collaboration on a single platform. It enables organisations to organise information, manage workflows, and collaborate in a flexible environment (Notion, Product).",
-    "image": "/uploads/1776332336_nation.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=notion-1",
-    "slug": "notion-1",
-    "category": [
-      "Project & Task Management"
-    ],
-    "sub_category": [
-      "Task Management"
+      "Data Management"
     ]
   }
 ]

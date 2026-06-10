@@ -4,9 +4,9 @@
     "title": "3DAI Studio",
     "short_description": "AI-powered creative platform for NGOs & SPOs",
     "long_description": "3DAI Studio is an AI-powered platform that enables users to generate visuals, 3D models, and creative assets, supporting faster content creation for digital use.",
-    "image": "/uploads/1777023499_3dai.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=3dai-studio",
-    "slug": "3dai-studio",
+    "image": "/uploads/1777525418_3dai.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/3dai-studio",
+    "slug": "ai-tools/3dai-studio",
     "category": [
       "AI Tools"
     ],
@@ -20,8 +20,8 @@
     "short_description": "Mentorship and cohort management platform for nonprofits",
     "long_description": "Ally is a mentorship platform designed for nonprofits and social purpose organisations to manage mentor–mentee programmes, deliver structured learning experiences, and track participant progress across online and offline sessions.",
     "image": "/uploads/1777023616_ally.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=ally-1",
-    "slug": "ally-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/learning-and-development/ally",
+    "slug": "learning-and-development/ally",
     "category": [
       "Learning & Development"
     ],
@@ -35,8 +35,8 @@
     "short_description": "Data analytics platform for nonprofit programme data",
     "long_description": "Alteryx is a data analytics platform that helps nonprofits prepare, combine, and analyse data from multiple sources. It enables teams to automate reporting workflows and generate insights without advanced coding.",
     "image": "/uploads/1776774077_Alteryx.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=alteryx-1",
-    "slug": "alteryx-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/alteryx",
+    "slug": "data-and-analytics/alteryx",
     "category": [
       "Data & Analytics"
     ],
@@ -50,13 +50,13 @@
     "short_description": "A cloud-based NLP service that extracts insights, sentiment, entities, and key phrases from text at scale.",
     "long_description": "Amazon Comprehend is a natural language processing (NLP) service that uses machine learning to find insights and relationships in text. It can identify entities, key phrases, language, sentiment, and other elements within textual data.",
     "image": "/uploads/1776780004_aws-logo.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=amazon-comprehend-1",
-    "slug": "amazon-comprehend-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/amazon-comprehend",
+    "slug": "ai-tools/amazon-comprehend",
     "category": [
       "AI Tools"
     ],
     "sub_category": [
-      "Text Generation"
+      "AI Writing & Content Generation"
     ]
   },
   {
@@ -65,8 +65,8 @@
     "short_description": "Cloud infrastructure platform for building and scaling digital systems",
     "long_description": "Amazon Web Services (AWS) provides on-demand cloud infrastructure such as servers, storage, and databases. It enables nonprofits to run applications, manage data, and scale digital systems without maintaining physical infrastructure.",
     "image": "/uploads/1777023698_aws.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=amazon-web-services",
-    "slug": "amazon-web-services",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/aws",
+    "slug": "data-and-analytics/aws",
     "category": [
       "Data & Analytics"
     ],
@@ -79,9 +79,9 @@
     "title": "Apache Superset",
     "short_description": "Data visualisation and dashboarding for nonprofits & SPOs",
     "long_description": "Apache Superset is an open-source business intelligence and data visualisation tool that enables organisations to explore data, build interactive dashboards, and generate insights for reporting and decision-making.",
-    "image": "/uploads/1776411762_apache-superset.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=apache-superset-1",
-    "slug": "apache-superset-1",
+    "image": "/uploads/1777455258_apache-superset.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/apache-superset",
+    "slug": "monitoring-and-evaluation/apache-superset",
     "category": [
       "Monitoring and Evaluation",
       "AI Tools"
@@ -96,9 +96,9 @@
     "title": "Asana",
     "short_description": "Work management platform for nonprofits",
     "long_description": "Asana is a cloud-based work management platform that helps organisations organise tasks, manage projects, and coordinate work across teams. It enables nonprofit organisations to plan, track, and manage programme work within a structured and collaborative workspace.",
-    "image": "/uploads/1776323652_asana-main-logo.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=asana-1",
-    "slug": "asana-1",
+    "image": "/uploads/1777445909_asana.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/asana",
+    "slug": "project-and-task-management/asana",
     "category": [
       "Project & Task Management"
     ],
@@ -111,9 +111,9 @@
     "title": "AssemblyAI",
     "short_description": "AI speech-to-text and audio analysis",
     "long_description": "AssemblyAI is an API-based tool for speech-to-text and audio analysis, offering features such as speaker diarisation, summarisation, and content moderation.",
-    "image": "/uploads/1776776413_assemblyai.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=assemblyai-1",
-    "slug": "assemblyai-1",
+    "image": "/uploads/1777542302_assemblyai.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/assemblyai",
+    "slug": "ai-tools/assemblyai",
     "category": [
       "AI Tools"
     ],
@@ -126,9 +126,9 @@
     "title": "Avaza",
     "short_description": "Project management and collaboration for nonprofits",
     "long_description": "Avaza is a cloud-based platform that helps organisations manage projects, track tasks, collaborate with teams, and handle time tracking and invoicing within a single system. It can support nonprofit organisations in coordinating programme work and managing team activities.",
-    "image": "/uploads/1776324567_avaza.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=avaza-1",
-    "slug": "avaza-1",
+    "image": "/uploads/1777446076_avaza.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/avaza",
+    "slug": "project-and-task-management/avaza",
     "category": [
       "Project & Task Management"
     ],
@@ -141,9 +141,9 @@
     "title": "Avni",
     "short_description": "Offline-first field data collection and beneficiary tracking platform for NGOs",
     "long_description": "<p>Avni is an open-source, offline-first platform designed for NGOs and social programmes in India to collect field data, track beneficiaries over time, and monitor programme delivery.</p>\r\n\r\n<p>It enables organisations to design custom forms, collect data without internet access, and sync to a central dashboard. Unlike standard survey tools, Avni supports <strong>longitudinal tracking</strong>, allowing programmes to follow the same individual, household, or asset across multiple visits.</p>",
-    "image": "/uploads/1776326388_avni.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=avni-1",
-    "slug": "avni-1",
+    "image": "/uploads/1777447703_avni.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/avni",
+    "slug": "monitoring-and-evaluation/avni",
     "category": [
       "Monitoring and Evaluation"
     ],
@@ -156,9 +156,9 @@
     "title": "Basecamp",
     "short_description": "Collaboration Tool for Social Impact",
     "long_description": "Basecamp is a web-based project management and team collaboration tool. It provides features for message boards, to-do lists, schedules, document sharing, and group chat, helping teams simplify communication and organise work in one place.",
-    "image": "/uploads/1776326066_Basecamp.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=basecamp-1",
-    "slug": "basecamp-1",
+    "image": "/uploads/1777446310_basecamp.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/basecamp",
+    "slug": "project-and-task-management/basecamp",
     "category": [
       "Project & Task Management"
     ],
@@ -172,8 +172,8 @@
     "short_description": "AI-assisted presentation design for nonprofits",
     "long_description": "Beautiful.ai is a presentation design platform that helps nonprofits and social purpose organisations create structured, visually consistent presentations. It uses AI-assisted layout and design suggestions to automatically adjust slides, reducing the need for manual formatting.",
     "image": "/uploads/1776931172_beautifulai.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=beautifulai-1",
-    "slug": "beautifulai-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/beautifulai",
+    "slug": "ai-tools/beautifulai",
     "category": [
       "AI Tools"
     ],
@@ -187,8 +187,8 @@
     "short_description": "HR and training management system for nonprofits and social purpose organisations.",
     "long_description": "Beehive HRMS is a cloud-based Human Resource Management System that enables organisations to manage payroll, attendance, compliance, and employee records within a single platform. It includes a training management module to track staff learning alongside core HR operations.",
     "image": "/uploads/1776501072_beehivehcm.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=beehive-hrms",
-    "slug": "beehive-hrms",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/human-resources/beehive-hrms",
+    "slug": "human-resources/beehive-hrms",
     "category": [
       "Human Resources"
     ],
@@ -200,10 +200,10 @@
     "id": 308,
     "title": "Better Together",
     "short_description": "Civic Engagement Platform for Volunteer & Fellowship Management, Community Building, and Social Impact Measurement.",
-    "long_description": "Better Together is a whitelabelled civic engagement platform used by nonprofits, CSR foundations, and government bodies to manage volunteers and fellowship programmes, track participation, and measure social impact — all in one system.",
+    "long_description": "Better Together is a whitelabelled civic engagement platform used by nonprofits, CSR foundations, and government bodies to manage volunteers and fellowship programmes, track participation, and measure social impact,  all in one system.",
     "image": "/uploads/1776412164_bettertogether.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=better-together-1",
-    "slug": "better-together-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/learning-and-development/better-together",
+    "slug": "learning-and-development/better-together",
     "category": [
       "Learning & Development"
     ],
@@ -212,13 +212,28 @@
     ]
   },
   {
+    "id": 434,
+    "title": "Bhashini AI",
+    "short_description": "Voice-First Multilingual AI Platform",
+    "long_description": "Bhashini is an AI-powered language technology platform developed under the Government of India’s National Language Translation Mission. The platform supports multilingual and voice-enabled digital experiences across Indian languages.",
+    "image": "/uploads/1778150700_bhashini.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/bhashini-ai",
+    "slug": "ai-tools/bhashini-ai",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Language & conversational AI"
+    ]
+  },
+  {
     "id": 276,
     "title": "Bigin by Zoho CRM",
     "short_description": "Relationship management for donors and stakeholders",
     "long_description": "Bigin by Zoho CRM is a pipeline-centric CRM software designed specifically for small businesses. It focuses on simplifying lead management, deal tracking, and contact organisation to help small teams manage their sales processes effectively.",
     "image": "/uploads/1776330496_Bigin by Zoho CRM.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=bigin-by-zoho-crm",
-    "slug": "bigin-by-zoho-crm",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/bigin-by-zoho-crm",
+    "slug": "fundraising/bigin-by-zoho-crm",
     "category": [
       "Fundraising"
     ],
@@ -232,8 +247,8 @@
     "short_description": "AI-assisted app and web development for nonprofits",
     "long_description": "Bolt.new is an AI-powered development tool that enables users to create web applications and interfaces using natural language prompts. It helps nonprofits and social purpose organisations build simple applications, prototypes, and tools without requiring extensive coding expertise.",
     "image": "/uploads/1776936162_bolt.new.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=boltnew",
-    "slug": "boltnew",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/boltnew",
+    "slug": "office-automation/boltnew",
     "category": [
       "Office Automation"
     ],
@@ -247,8 +262,8 @@
     "short_description": "Social media scheduling and management for nonprofits",
     "long_description": "Buffer is a social media management platform that helps nonprofits and social purpose organisations plan, schedule, and publish content across multiple social media channels. It enables teams to maintain consistent communication and track performance from a single interface.",
     "image": "/uploads/1776937670_buffer.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=buffer-1",
-    "slug": "buffer-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/buffer",
+    "slug": "marketing-and-communication/buffer",
     "category": [
       "Marketing & Communication"
     ],
@@ -261,9 +276,9 @@
     "title": "Calendly",
     "short_description": "Meeting scheduling automation tool for nonprofits and social purpose organisations.",
     "long_description": "Calendly is an automated scheduling software that simplifies the process of booking meetings and appointments. It allows users to set their availability and share links, enabling others to book times directly into their calendar without back-and-forth emails.",
-    "image": "/uploads/1776862269_calendly.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=calendly-1",
-    "slug": "calendly-1",
+    "image": "/uploads/1777532949_calendly.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/calendly",
+    "slug": "office-automation/calendly",
     "category": [
       "Office Automation"
     ],
@@ -276,9 +291,9 @@
     "title": "Campus Cloud (by Platform Commons)",
     "short_description": "School ERP and student information system for nonprofits & social purpose organisations",
     "long_description": "Campus Cloud is a school ERP and student information system developed by Platform Commons that helps organisations manage attendance, assessments, scheduling, learner performance, and communication through a centralised system.",
-    "image": "/uploads/1776577421_campus cloud.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=campus-cloud-by-platform-commons",
-    "slug": "campus-cloud-by-platform-commons",
+    "image": "/uploads/1777464686_campus-cloud.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/training-and-development/campus-cloud",
+    "slug": "training-and-development/campus-cloud",
     "category": [
       "Learning & Development"
     ],
@@ -292,8 +307,8 @@
     "short_description": "Design and content creation for nonprofits",
     "long_description": "Canva is a design platform that helps nonprofits and social purpose organisations create visual content such as social media posts, presentations, posters, and reports. It provides templates, drag-and-drop editing, and collaboration features to support accessible content creation.",
     "image": "/uploads/1777024200_canva.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=canva-1",
-    "slug": "canva-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/canva",
+    "slug": "marketing-and-communication/canva",
     "category": [
       "Marketing & Communication"
     ],
@@ -307,8 +322,8 @@
     "short_description": "AI-powered design and 3D content creation for NGOs & SPOs.",
     "long_description": "Canva AI 3D Model Generator is part of Canva’s AI-powered design ecosystem, enabling users to create visual content and 3D-style assets quickly within a simple and collaborative platform.",
     "image": "/uploads/1777024186_canva.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=canva-ai-3d-model-generator",
-    "slug": "canva-ai-3d-model-generator",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/canva-ai-3d-model-generator",
+    "slug": "ai-tools/canva-ai-3d-model-generator",
     "category": [
       "AI Tools"
     ],
@@ -322,8 +337,8 @@
     "short_description": "AI-assisted data visualisation and insights for nonprofits",
     "long_description": "ChartPixel is a data analysis tool that helps nonprofits and social purpose organisations upload datasets, generate visualisations, and explore insights using AI-assisted prompts. It enables teams to quickly create charts and summaries without requiring advanced data analysis skills.",
     "image": "/uploads/1777017288_chartpixel.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=chartpixel-1",
-    "slug": "chartpixel-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/chartpixel",
+    "slug": "data-and-analytics/chartpixel",
     "category": [
       "AI Tools"
     ],
@@ -337,8 +352,8 @@
     "short_description": "AI-powered data exploration for nonprofits working with spreadsheets",
     "long_description": "Chat CSV is an AI-powered tool that allows users to analyse and interact with CSV (spreadsheet) data using natural language. Instead of writing formulas or queries, teams can ask questions about their data and get instant insights, summaries, and visualisations. It is useful for nonprofits working with programme data, survey results, or operational datasets.",
     "image": "/uploads/1777052677_chat-csv.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=chat-csv-1",
-    "slug": "chat-csv-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/chat-csv",
+    "slug": "ai-tools/chat-csv",
     "category": [
       "AI Tools"
     ],
@@ -352,8 +367,8 @@
     "short_description": "AI assistant for content creation, research, and workflow support.",
     "long_description": "ChatGPT is an AI-powered conversational agent developed by OpenAI. It is designed to understand and generate human-like text based on the prompts it receives, capable of engaging in diverse conversations, providing information, and generating creative content.",
     "image": "/uploads/1777022378_chatgpt (1).webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=chatgpt-1",
-    "slug": "chatgpt-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/chatgpt",
+    "slug": "ai-tools/chatgpt",
     "category": [
       "AI Tools"
     ],
@@ -362,13 +377,28 @@
     ]
   },
   {
+    "id": 443,
+    "title": "CiviCRM",
+    "short_description": "",
+    "long_description": "CiviCRM is an open-source constituent relationship management (CRM) platform built for nonprofits, advocacy groups, associations, and civic organisations. It helps organisations manage donor relationships, memberships, fundraising, communications, events, and engagement workflows through a highly configurable system.",
+    "image": "/uploads/1778505130_CiviCRM-logo-2019-F2-200px.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/civicrm",
+    "slug": "fundraising/civicrm",
+    "category": [
+      "Fundraising"
+    ],
+    "sub_category": [
+      "CRM/Grant/Donor Management"
+    ]
+  },
+  {
     "id": 427,
     "title": "Claude",
     "short_description": "AI assistant for writing, analysis, and content support for nonprofits",
     "long_description": "Anthropic’s Claude is a conversational AI assistant that helps nonprofits and social purpose organisations generate content, summarise information, and work with documents and data. It supports teams in turning scattered inputs into structured outputs and developing clear, usable narratives within existing workflows.",
     "image": "/uploads/1777284550_claude.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=claude-1",
-    "slug": "claude-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/claude",
+    "slug": "ai-tools/claude",
     "category": [
       "AI Tools"
     ],
@@ -381,9 +411,9 @@
     "title": "Clearscope",
     "short_description": "AI-powered content optimisation and SEO platform.",
     "long_description": "Clearscope helps organisations create high-ranking, relevant content by analysing top search results and providing keyword and content recommendations.",
-    "image": "/uploads/1776863425_clearscope.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=clearscope-1",
-    "slug": "clearscope-1",
+    "image": "/uploads/1777533448_clearscope.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/clearscope",
+    "slug": "marketing-and-communication/clearscope",
     "category": [
       "Marketing & Communication"
     ],
@@ -396,9 +426,9 @@
     "title": "ClickTime",
     "short_description": "Time tracking and labour cost management for nonprofits.",
     "long_description": "ClickTime is a cloud-based platform used by nonprofits and social purpose organisations to track staff time, allocate labour costs to programmes, and generate reports for financial management and compliance.",
-    "image": "/uploads/1776680656_clicktime.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=clicktime-1",
-    "slug": "clicktime-1",
+    "image": "/uploads/1777526208_clicktime.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/finance-and-accounts/clicktime",
+    "slug": "finance-and-accounts/clicktime",
     "category": [
       "Finance and Accounts"
     ],
@@ -412,8 +442,8 @@
     "short_description": "Productivity platform for social impact",
     "long_description": "ClickUp is a cloud-based project management and productivity platform that combines tasks, collaboration, documents, and reporting within a single workspace.",
     "image": "/uploads/1776338185_clickup.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=clickup-1",
-    "slug": "clickup-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/clickup",
+    "slug": "project-and-task-management/clickup",
     "category": [
       "Project & Task Management"
     ],
@@ -426,9 +456,9 @@
     "title": "Collaborate",
     "short_description": "Project tracking for development sector",
     "long_description": "Collaborate is a project management software platform by Platform Commons that supports project planning, task assignment, progress tracking, team collaboration, and reporting in one place.",
-    "image": "/uploads/1776421469_Collaborate.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=collaborate-1",
-    "slug": "collaborate-1",
+    "image": "/uploads/1777447134_collaborate.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/collaborate",
+    "slug": "project-and-task-management/collaborate",
     "category": [
       "Project & Task Management"
     ],
@@ -442,8 +472,8 @@
     "short_description": "Digital case management and field operations platform for NGOs",
     "long_description": "<p>CommCare is a digital case management and field operations platform designed for NGOs, governments, and social enterprises to manage beneficiary data, deliver services, and monitor programmes in low-connectivity environments.</p>\r\n\r\n<p>It enables organisations to digitise frontline workflows, track beneficiaries over time, and support field workers with guided mobile applications. Unlike survey tools, CommCare maintains persistent case records, allowing programmes to manage ongoing service delivery across multiple interactions.</p>",
     "image": "/uploads/1776326313_commcare.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=commcare-1",
-    "slug": "commcare-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/commcare",
+    "slug": "monitoring-and-evaluation/commcare",
     "category": [
       "Monitoring and Evaluation"
     ],
@@ -457,8 +487,8 @@
     "short_description": "Farm management and data platform for organisations working with smallholder farmers and agriculture programmes.",
     "long_description": "Commons.farm is a platform within the broader \"Platform Commons\" initiative, designed to support the agricultural sector. It provides digital infrastructure and applications to facilitate interactions between ground workforce professionals and farmers, managing processes like farmer onboarding, crop planning, inventory, and transactions, with a focus on improving agricultural workflows.",
     "image": "/uploads/1776773692_commons-farm.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=commonsfarm-1",
-    "slug": "commonsfarm-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/commonsfarm",
+    "slug": "office-automation/commonsfarm",
     "category": [
       "Office Automation"
     ],
@@ -472,13 +502,13 @@
     "short_description": "An AI-powered copywriting tool for generating marketing content, blogs, and social media posts quickly.",
     "long_description": "Copy.ai is an AI-powered content generation tool that helps users create marketing copy, blog posts, social media content, and other written materials. It leverages artificial intelligence to generate text based on user inputs and templates.",
     "image": "/uploads/1776088353_main-copyai.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=copyai-1",
-    "slug": "copyai-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/copy-ai",
+    "slug": "ai-tools/copy-ai",
     "category": [
       "AI Tools"
     ],
     "sub_category": [
-      "Text Generation"
+      "AI Writing & Content Generation"
     ]
   },
   {
@@ -486,9 +516,9 @@
     "title": "D-ID",
     "short_description": "Converts text, images, or audio into talking avatar videos, enabling quick, low-effort content creation.",
     "long_description": "D-ID is an AI-powered platform that enables the creation of talking avatars and video content from text, images, or audio. It helps organisations convert static content into engaging video formats without requiring traditional video production.",
-    "image": "/uploads/1776533943_did.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=d-id-1",
-    "slug": "d-id-1",
+    "image": "/uploads/1777457489_did.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/d-id",
+    "slug": "ai-tools/d-id",
     "category": [],
     "sub_category": [
       "Image & Video Generation"
@@ -500,8 +530,8 @@
     "short_description": "DALL·E 3 generates images from text prompts, helping nonprofits create custom visuals quickly without design skills.",
     "long_description": "DALL·E 3 is an AI-based image generation tool that creates visuals from text prompts. It enables nonprofit organisations to generate custom images for communication, campaigns, and content without requiring design expertise.",
     "image": "/uploads/1776534400_dalle.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=dalle-3",
-    "slug": "dalle-3",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/dalle3",
+    "slug": "ai-tools/dalle3",
     "category": [
       "AI Tools"
     ],
@@ -515,8 +545,8 @@
     "short_description": "AI-powered donor intelligence and prospecting platform for NGOs",
     "long_description": "<p><strong>DaanVeda</strong> is an AI-driven donor intelligence platform designed for Indian NGOs. It enables organisations to <strong>identify potential donors, match with CSR opportunities, and build fundraising proposals</strong> using structured data and AI-supported workflows.</p>\r\n\r\n<p>DaanVeda is <strong>not a crowdfunding or donation marketplace platform</strong>. Its primary role is <strong>donor discovery and prospecting</strong>, with campaign execution and donation workflows as supporting capabilities.</p>",
     "image": "/uploads/1777274633_daanveda.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=daanveda-1",
-    "slug": "daanveda-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/daanveda",
+    "slug": "fundraising/daanveda",
     "category": [
       "Fundraising"
     ],
@@ -530,9 +560,9 @@
     "title": "Dalgo",
     "short_description": "Data pipelines and analytics for NGO data systems",
     "long_description": "Dalgo is a data platform developed by Project Tech4Dev that supports nonprofits in integrating and managing data from multiple sources. It enables organisations to set up data pipelines, prepare datasets, and support reporting and analysis workflows.",
-    "image": "/uploads/1777012667_dalgo.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=dalgo-1",
-    "slug": "dalgo-1",
+    "image": "/uploads/1777542392_dalgo.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/dalgo",
+    "slug": "data-and-analytics/dalgo",
     "category": [
       "AI Tools",
       "Data & Analytics"
@@ -541,36 +571,6 @@
       "Agent Building",
       "Data Analysis",
       "Data Management"
-    ]
-  },
-  {
-    "id": 298,
-    "title": "Danamojo",
-    "short_description": "Digital fundraising and donation management platform for nonprofits",
-    "long_description": "Danamojo is a platform designed for nonprofit organisations in India to collect donations online, run fundraising campaigns, and maintain donor records in a structured way.",
-    "image": "/uploads/1776522547_danamojo.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=danamojo-1",
-    "slug": "danamojo-1",
-    "category": [
-      "Fundraising"
-    ],
-    "sub_category": [
-      "Crowdfunding"
-    ]
-  },
-  {
-    "id": 246,
-    "title": "DeepL",
-    "short_description": "Translation and language support for NGOs and social purpose organisations.",
-    "long_description": "DeepL is an AI-powered machine translation service known for its high-quality and nuanced translations. It uses neural network technology to provide accurate and natural-sounding translations across multiple languages.",
-    "image": "/uploads/1776147971_deepl.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=deepl-1",
-    "slug": "deepl-1",
-    "category": [
-      "AI Tools"
-    ],
-    "sub_category": [
-      "Text Generation"
     ]
   }
 ]

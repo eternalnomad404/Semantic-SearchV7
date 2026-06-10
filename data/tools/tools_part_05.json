@@ -1,12 +1,132 @@
 [
   {
+    "id": 389,
+    "title": "Suno",
+    "short_description": "AI-generated songs and audio content for nonprofits",
+    "long_description": "Suno is an AI-powered tool that enables users to generate complete songs from text prompts. It allows nonprofits and social purpose organisations to create audio content, including music with vocals and lyrics, for communication, storytelling, and digital engagement.",
+    "image": "/uploads/1777535938_suno.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/suno",
+    "slug": "ai-tools/suno",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Audio, Voice & Music Generation"
+    ]
+  },
+  {
+    "id": 286,
+    "title": "SurveyCTO",
+    "short_description": "Secure, offline-first data collection platform for M&E and research",
+    "long_description": "<p>SurveyCTO is a mobile-first data collection platform designed for NGOs, researchers, and development organisations to collect high-quality field data, run complex surveys, and manage monitoring and evaluation workflows in low-connectivity environments.</p>\r\n\r\n<p>It enables teams to design advanced surveys, enforce data quality at the point of entry, and securely collect and manage sensitive programme data across mobile and web channels.</p>",
+    "image": "/uploads/1776359736_surveycto.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/surveycto",
+    "slug": "monitoring-and-evaluation/surveycto",
+    "category": [
+      "Monitoring and Evaluation"
+    ],
+    "sub_category": [
+      "Data Collection"
+    ]
+  },
+  {
+    "id": 275,
+    "title": "Synergy Connect",
+    "short_description": "CRM platform for managing donor, fundraising, and programme data for nonprofits",
+    "long_description": "Synergy Connect is a nonprofit-focused CRM designed for organisations to manage donors, fundraising, and programme data within a single system. It is built for ease of use and typically requires less setup compared to enterprise CRM platforms.",
+    "image": "/uploads/1777025860_synergy-connect.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/synergy-connect",
+    "slug": "fundraising/synergy-connect",
+    "category": [
+      "Fundraising"
+    ],
+    "sub_category": [
+      "CRM/Grant/Donor Management"
+    ]
+  },
+  {
+    "id": 433,
+    "title": "Synergy Donor",
+    "short_description": "Donor management and fundraising workflow platform for NGOs & SPOs",
+    "long_description": "Synergy Donor is a donor management platform by SynergyConnect designed to support donor management, fundraising workflows, fund allocation, reporting, and related operational processes through a unified system. It supports donor and fundraising workflows from prospect management to MOU tracking, disbursement scheduling, donor communication, and reporting.",
+    "image": "/uploads/1777381314_synergy-connect.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/synergy-donor",
+    "slug": "ai-tools/synergy-donor",
+    "category": [
+      "Fundraising"
+    ],
+    "sub_category": [
+      "CRM/Grant/Donor Management"
+    ]
+  },
+  {
+    "id": 312,
+    "title": "Synergy LMS",
+    "short_description": "Learning and skilling management platform for nonprofits and CSR programmes.",
+    "long_description": "Synergy LMS is a learning and skilling management platform built for NGOs, CSR foundations, and government programmes to manage training delivery, track learner progress, and support end-to-end skilling journeys from enrolment to certification and placement.",
+    "image": "/uploads/1777025888_synergy-connect.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/learning-and-development/synergy-lms",
+    "slug": "learning-and-development/synergy-lms",
+    "category": [
+      "Learning & Development"
+    ],
+    "sub_category": [
+      "Learning Management System"
+    ]
+  },
+  {
+    "id": 296,
+    "title": "SynergySurvey",
+    "short_description": "Flexible M&E data collection for NGOs & SPOs",
+    "long_description": "SynergySurvey is a mobile-first monitoring and evaluation (M&E) data collection platform developed by SynergyConnect Data Innovations Pvt. Ltd., designed for Indian NGOs and CSR teams to collect field data offline, track beneficiaries, and generate programme insights through integrated dashboards.",
+    "image": "/uploads/1777025873_synergy-connect.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/synergysurvey",
+    "slug": "monitoring-and-evaluation/synergysurvey",
+    "category": [
+      "Monitoring and Evaluation"
+    ],
+    "sub_category": [
+      "Data Collection"
+    ]
+  },
+  {
+    "id": 421,
+    "title": "Synthesia",
+    "short_description": "AI video generation platform for structured training and communication content",
+    "long_description": "Synthesia enables organisations to create videos from text-based scripts using AI avatars and voiceovers, without cameras, studios, or on-screen presenters.\r\nIt is used to produce repeatable, standardised video content for training, onboarding, and programme communication where consistency is required across teams or locations.",
+    "image": "/uploads/1777283123_synthesia.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/synthesia",
+    "slug": "ai-tools/synthesia",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Image & Video Generation"
+    ]
+  },
+  {
+    "id": 307,
+    "title": "Tableau",
+    "short_description": "Data visualisation and analytics for nonprofits and social purpose organisations",
+    "long_description": "Tableau is a data visualisation and analytics platform that enables organisations to explore data, create interactive dashboards, and generate insights for reporting and decision-making.",
+    "image": "/uploads/1776412001_tableau.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/tableau",
+    "slug": "monitoring-and-evaluation/tableau",
+    "category": [
+      "Monitoring and Evaluation"
+    ],
+    "sub_category": [
+      "Reporting & Dashboarding"
+    ]
+  },
+  {
     "id": 413,
     "title": "Taiga",
     "short_description": "Agile project management for NGOs running iterative, collaborative work",
     "long_description": "Taiga is an open-source project management platform built for teams using agile workflows such as Kanban and Scrum. It helps nonprofits plan tasks, manage backlogs, track progress, and collaborate in real time for campaigns, digital initiatives, and evolving programme work.",
     "image": "/uploads/1777053448_taiga.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=taiga-1",
-    "slug": "taiga-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/taiga",
+    "slug": "project-and-task-management/taiga",
     "category": [
       "Project & Task Management"
     ],
@@ -20,8 +140,8 @@
     "short_description": "All-in-one software for invoicing, accounting, inventory, payroll, and banking.",
     "long_description": "TallyPrime is a widely used accounting platform in India for managing financial records, GST compliance, inventory, and reporting within a single system. It is primarily desktop-based, with optional cloud access features, and is commonly used by organisations working closely with accountants and compliance requirements.",
     "image": "/uploads/1776677984_tally prime.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=tallyprime-1",
-    "slug": "tallyprime-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/finance-and-accounts/tallyprime",
+    "slug": "finance-and-accounts/tallyprime",
     "category": [
       "Finance and Accounts"
     ],
@@ -35,8 +155,8 @@
     "short_description": "Community communication and broadcast platform for large-scale outreach.",
     "long_description": "Telegram enables large-scale outreach through channels and groups for community communication and updates. It supports structured communication and automation through bots. However, adoption may be lower than WhatsApp, and monitoring is limited to basic engagement.",
     "image": "/uploads/1776863365_telegram.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=telegram-1",
-    "slug": "telegram-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/telegram",
+    "slug": "marketing-and-communication/telegram",
     "category": [
       "Marketing & Communication"
     ],
@@ -50,8 +170,8 @@
     "short_description": "Simple project management for nonprofits",
     "long_description": "Trello is a visual project management tool that uses boards, lists, and cards to help teams organise tasks, track progress, and collaborate in a simple and intuitive way.",
     "image": "/uploads/1776341891_trello.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=trello-1",
-    "slug": "trello-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/trello",
+    "slug": "project-and-task-management/trello",
     "category": [
       "Project & Task Management"
     ],
@@ -65,23 +185,38 @@
     "short_description": "WhatsApp communication and engagement platform for NGOs & SPOs",
     "long_description": "Turn.io is a WhatsApp Business API-based platform that enables organisations to design, automate, and manage beneficiary communication workflows at scale.",
     "image": "/uploads/1776433540_Turn.io.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=turnio",
-    "slug": "turnio",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/messaging/turn-io",
+    "slug": "messaging/turn-io",
     "category": [
-      "Chatbot"
+      "Messaging"
     ],
     "sub_category": [
-      "Chatbot"
+      "WhatsApp"
+    ]
+  },
+  {
+    "id": 444,
+    "title": "Twilio Calling",
+    "short_description": "AI-Led Customer Engagement & Communication Platform",
+    "long_description": "Twilio is a cloud-based customer engagement platform that enables organisations to manage messaging, voice, email, authentication, and AI-powered communication workflows through programmable APIs and customer engagement tools.",
+    "image": "/uploads/1778508221_Twilio-logo.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/twilio-calling",
+    "slug": "marketing-and-communication/twilio-calling",
+    "category": [
+      "Marketing & Communication"
+    ],
+    "sub_category": [
+      "Outreach and Marketing"
     ]
   },
   {
     "id": 368,
     "title": "UVDesk",
     "short_description": "Helpdesk and query management for nonprofits and social purpose organisations",
-    "long_description": "UVDesk is a helpdesk platform that enables organisations to manage beneficiary, donor, and stakeholder queries through a structured ticketing system. It supports ticket management, workflow automation, knowledge base creation, and multichannel communication—helping teams organise and respond to queries efficiently.",
-    "image": "/uploads/1776863559_uvdesk.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=uvdesk-1",
-    "slug": "uvdesk-1",
+    "long_description": "UVDesk is a helpdesk platform that enables organisations to manage beneficiary, donor, and stakeholder queries through a structured ticketing system. It supports ticket management, workflow automation, knowledge base creation, and multichannel communication helping teams organise and respond to queries efficiently.",
+    "image": "/uploads/1777533780_uvdesk.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/uvdesk",
+    "slug": "office-automation/uvdesk",
     "category": [
       "Office Automation"
     ],
@@ -94,9 +229,9 @@
     "title": "Vyapar",
     "short_description": "GST billing, invoicing, and basic accounting software for small nonprofits and social purpose organisations in India.",
     "long_description": "Vyapar is a GST billing and accounting application used by small organisations to manage invoicing, inventory, expenses, and basic financial reporting. It is designed for Indian users, with built-in GST compliance and offline functionality for environments with limited connectivity.",
-    "image": "/uploads/1776671570_vyapar.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=vyapar-1",
-    "slug": "vyapar-1",
+    "image": "/uploads/1777526018_vyapar.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/finance-and-accounts/vyapar",
+    "slug": "finance-and-accounts/vyapar",
     "category": [
       "Finance and Accounts"
     ],
@@ -110,13 +245,13 @@
     "short_description": "WhatsApp communication and engagement platform for NGOs & SPOs",
     "long_description": "WATI is a WhatsApp Business API-based platform that enables organisations to manage conversations, automate workflows, and engage users through structured messaging.",
     "image": "/uploads/1776434456_WATI.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=wati-1",
-    "slug": "wati-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/messaging/wati",
+    "slug": "messaging/wati",
     "category": [
-      "Chatbot"
+      "Messaging"
     ],
     "sub_category": [
-      "Chatbot"
+      "WhatsApp"
     ]
   },
   {
@@ -124,15 +259,13 @@
     "title": "WhatsApp",
     "short_description": "Messaging and communication channel for NGOs & SPOs",
     "long_description": "WhatsApp is a widely used messaging platform that enables organisations to communicate and engage with users through chat-based interactions. Through the WhatsApp Business app and API, organisations can manage conversations, send updates, and build structured communication workflows.",
-    "image": "/uploads/1776434882_WhatsApp.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=whatsapp-2",
-    "slug": "whatsapp-2",
+    "image": "/uploads/1777482336_whatsapp.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/whatsapp",
+    "slug": "ai-tools/whatsapp",
     "category": [
-      "Chatbot"
+      "Messaging"
     ],
-    "sub_category": [
-      "Chatbot"
-    ]
+    "sub_category": []
   },
   {
     "id": 347,
@@ -140,8 +273,8 @@
     "short_description": "Messaging platform for direct outreach, engagement, and supporter communication",
     "long_description": "WhatsApp Business enables direct, real-time outreach with communities and beneficiaries. However, monitoring is limited, and structured tracking requires additional tools or API integration.",
     "image": "/uploads/1776940186_whatsapp-business-icon.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=whatsapp-business-1",
-    "slug": "whatsapp-business-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/whatsapp-business",
+    "slug": "marketing-and-communication/whatsapp-business",
     "category": [
       "Marketing & Communication"
     ],
@@ -155,8 +288,8 @@
     "short_description": "Drag-and-drop website builder for nonprofits",
     "long_description": "Wix is a cloud-based website builder that allows organisations to create professional websites using drag-and-drop tools and pre-designed templates, without coding. It also includes tools for donations, events, email campaigns, and contact management in one platform.",
     "image": "/uploads/1777032742_wix.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=wix-1",
-    "slug": "wix-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/wix",
+    "slug": "marketing-and-communication/wix",
     "category": [
       "Marketing & Communication",
       "Office Automation"
@@ -171,9 +304,9 @@
     "title": "Wordwall",
     "short_description": "Interactive learning and assessment tool for nonprofits & social purpose organisations",
     "long_description": "Wordwall is an online platform that enables educators and organisations to create interactive learning activities such as quizzes, games, and assessments for classroom or remote learning. It supports engagement through gamified formats and reusable templates.",
-    "image": "/uploads/1776577350_wordwall.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=wordwall-1",
-    "slug": "wordwall-1",
+    "image": "/uploads/1777481330_wordwall.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/training-and-development/wordwall",
+    "slug": "training-and-development/wordwall",
     "category": [
       "Learning & Development"
     ],
@@ -187,8 +320,8 @@
     "short_description": "Real-time public communication and advocacy platform for nonprofits and SPOs",
     "long_description": "<p>X (formerly Twitter) is a platform used by organisations to share real-time updates, participate in public conversations, and engage with media, policymakers, and broader audiences.</p>\r\n<p>It is commonly used by nonprofits to communicate time-sensitive information, contribute to public discourse, and build visibility in policy and advocacy ecosystems.</p>",
     "image": "/uploads/1777291132_twitter.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=x",
-    "slug": "x",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/x-twitter",
+    "slug": "marketing-and-communication/x-twitter",
     "category": [
       "Marketing & Communication"
     ],
@@ -202,8 +335,8 @@
     "short_description": "Cloud-based accounting and financial management for nonprofits and social purpose organisations.",
     "long_description": "Xero is a cloud-based accounting platform used by organisations to manage invoicing, expenses, bank reconciliation, and financial reporting. It is widely used by organisations operating across multiple countries, offering multi-currency support and integration with a wide range of financial and business tools.",
     "image": "/uploads/1777025341_xero.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=xero-1",
-    "slug": "xero-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/finance-and-accounts/xero",
+    "slug": "finance-and-accounts/xero",
     "category": [
       "Finance and Accounts"
     ],
@@ -217,8 +350,8 @@
     "short_description": "AI-powered workflow automation platform for outreach and donor communication coordination",
     "long_description": "ZAMS is a platform that uses AI agents (“AI workers”) to automate routine tasks that support nonprofit outreach and communication workflows, such as updating donor records, tracking engagement, retrieving information, and coordinating follow-ups across systems.",
     "image": "/uploads/1777093077_zams (1).webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zams-1",
-    "slug": "zams-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/zams",
+    "slug": "ai-tools/zams",
     "category": [
       "AI Tools"
     ],
@@ -232,8 +365,8 @@
     "short_description": "Open-source infrastructure monitoring tool for nonprofits and social purpose organisations.",
     "long_description": "Zabbix is an open-source monitoring software tool for a wide range of IT components, including networks, servers, virtual machines, and cloud services. It provides real-time monitoring of performance metrics, availability, and alerts for system issues.",
     "image": "/uploads/1776859886_zabbix.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zabbix-1",
-    "slug": "zabbix-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/zabbix",
+    "slug": "office-automation/zabbix",
     "category": [
       "Office Automation"
     ],
@@ -247,8 +380,8 @@
     "short_description": "No-code automation platform for connecting apps and workflows for nonprofits and social purpose organisations",
     "long_description": "Zapier is a web automation platform that allows users to connect different web applications and automate workflows. It enables the creation of \"Zaps\" which are automated workflows between apps without requiring coding knowledge.",
     "image": "/uploads/1776860378_zapier.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zapier-1",
-    "slug": "zapier-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/zapier",
+    "slug": "office-automation/zapier",
     "category": [
       "Office Automation"
     ],
@@ -263,8 +396,8 @@
     "short_description": "HR, payroll, and employee management platform for organisations in India",
     "long_description": "Zimyo is a cloud-based HR and payroll platform used by organisations to manage employee data, payroll processing, attendance, performance, and recruitment within a single system. It is designed for Indian organisations, with built-in support for statutory compliance and workforce management processes.",
     "image": "/uploads/1776834036_zimyo.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zimyo-1",
-    "slug": "zimyo-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/human-resources/zimyo",
+    "slug": "human-resources/zimyo",
     "category": [
       "Human Resources"
     ],
@@ -279,8 +412,8 @@
     "short_description": "Business intelligence platform for advanced data analysis and dashboards",
     "long_description": "Zoho Analytics is a business intelligence and data analytics platform that helps organisations combine data from multiple sources, create dashboards, and generate insights for reporting and decision-making. It supports advanced analysis, reporting, and data visualisation across programmes and operations.",
     "image": "/uploads/1776874311_Zoho payroll.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-analytics-1",
-    "slug": "zoho-analytics-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/zoho-analytics",
+    "slug": "data-and-analytics/zoho-analytics",
     "category": [
       "Data & Analytics"
     ],
@@ -294,8 +427,8 @@
     "short_description": "Online accounting and GST-compliant financial management for nonprofits and social purpose organisations",
     "long_description": "Zoho Books is a cloud-based accounting platform used by organisations to manage invoicing, expenses, bank reconciliation, and financial reporting in a single system. It supports GST-compliant workflows in India, enabling organisations to generate invoices, track taxes, and maintain structured financial records.",
     "image": "/uploads/1777025233_zoho-books.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-books-1",
-    "slug": "zoho-books-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/finance-and-accounts/zoho-books",
+    "slug": "finance-and-accounts/zoho-books",
     "category": [
       "Finance and Accounts"
     ],
@@ -309,8 +442,8 @@
     "short_description": "Customisable CRM for managing donors, beneficiaries, and operations at scale",
     "long_description": "Zoho CRM is a flexible CRM platform that enables nonprofits to manage relationships, workflows, and data across fundraising, programme delivery, and operations within a single system.",
     "image": "/uploads/1776335161_Zoho CRM.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-crm-1",
-    "slug": "zoho-crm-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/zoho-crm",
+    "slug": "fundraising/zoho-crm",
     "category": [
       "Fundraising"
     ],
@@ -324,8 +457,8 @@
     "short_description": "Low-code platform to build custom web and mobile apps for nonprofits and social purpose organisations.",
     "long_description": "Zoho Creator is a low-code application development platform that allows users to build custom web and mobile applications. It includes features for data collection, workflow automation, business intelligence, and integrations, enabling the creation of tailored business solutions.",
     "image": "/uploads/1776873010_zoho creator.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-creator-1",
-    "slug": "zoho-creator-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/zoho-creator",
+    "slug": "office-automation/zoho-creator",
     "category": [
       "Office Automation"
     ],
@@ -340,8 +473,8 @@
     "short_description": "Online form builder for structured data collection and workflow automation",
     "long_description": "Zoho Forms is a no-code form builder used to create online forms, collect structured data, and manage workflows such as registrations, applications, and approvals. It is typically used in operational contexts where form submissions are part of a broader process rather than standalone data collection.",
     "image": "/uploads/1776359850_zoho-forms.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-forms-1",
-    "slug": "zoho-forms-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/zoho-forms",
+    "slug": "monitoring-and-evaluation/zoho-forms",
     "category": [
       "Monitoring and Evaluation"
     ],
@@ -354,9 +487,9 @@
     "title": "Zoho One",
     "short_description": "Integrated business and workforce management suite for nonprofits and social purpose organisations",
     "long_description": "Zoho One is a cloud-based suite of integrated business applications that enables organisations to manage HR, recruitment, finance, operations, and other functions within a single platform. It includes tools for employee management, hiring, and workforce coordination, while connecting data across multiple organisational processes.",
-    "image": "/uploads/1776516395_zoho-one.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-one",
-    "slug": "zoho-one",
+    "image": "/uploads/1777525320_zoho-one.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/human-resources/zoho-one",
+    "slug": "human-resources/zoho-one",
     "category": [
       "Human Resources"
     ],
@@ -371,8 +504,8 @@
     "short_description": "Payroll and statutory compliance software for nonprofits and organisations in India",
     "long_description": "Zoho Payroll is a cloud-based payroll system used to manage salary processing, statutory compliance, and employee payouts. It is designed for Indian organisations, with built-in support for tax calculations, payslips, and regulatory filings.",
     "image": "/uploads/1777025107_zoho-payroll.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-payroll-1",
-    "slug": "zoho-payroll-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/finance-and-accounts/zoho-payroll",
+    "slug": "finance-and-accounts/zoho-payroll",
     "category": [
       "Finance and Accounts"
     ],
@@ -386,14 +519,15 @@
     "short_description": "HR management system for nonprofits and social purpose organisations",
     "long_description": "Zoho People is a cloud-based Human Resource Management System (HRMS) that enables organisations to manage employee data, attendance, leave, performance, and HR processes within a single platform. It integrates with other Zoho applications to support payroll, recruitment, and broader workforce management needs.",
     "image": "/uploads/1776510796_zoho-people.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-people",
-    "slug": "zoho-people",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/human-resources/zoho-people",
+    "slug": "human-resources/zoho-people",
     "category": [
       "Human Resources"
     ],
     "sub_category": [
       "HRMS",
-      "Recruitment"
+      "Recruitment",
+      "Payroll"
     ]
   },
   {
@@ -402,8 +536,8 @@
     "short_description": "Project management platform for planning, tracking, and team coordination",
     "long_description": "<p>Zoho Projects is a project management platform used by organisations to plan tasks, assign responsibilities, track progress, and manage timelines across teams.</p>\r\n<p>It helps nonprofits and social purpose organisations organise project workflows, improve coordination, and monitor execution of programmes and initiatives.</p>",
     "image": "/uploads/1777287988_zoho-projects.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-projects-1",
-    "slug": "zoho-projects-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/zoho-projects",
+    "slug": "project-and-task-management/zoho-projects",
     "category": [
       "Project & Task Management"
     ],
@@ -416,9 +550,9 @@
     "title": "greytHR",
     "short_description": "HR, payroll, and training management system for nonprofits and social purpose organisations",
     "long_description": "greytHR is a cloud-based Human Resource Management System (HRMS) that enables organisations to manage payroll, attendance, compliance, and employee records within a single platform. It includes integrated learning capabilities through VioletLMS for tracking staff training alongside core HR operations.",
-    "image": "/uploads/1776506672_greythr.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=greythr-1",
-    "slug": "greythr-1",
+    "image": "/uploads/1777525163_greythr.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/human-resources/greyt-hr",
+    "slug": "human-resources/greyt-hr",
     "category": [
       "Human Resources"
     ],
@@ -433,88 +567,13 @@
     "short_description": "Free, open-source vector design tool for NGOs and SPOs.",
     "long_description": "Inkscape is a free and open-source vector graphics editor. It enables users to create and edit scalable vector graphics (SVG), including illustrations, diagrams, line art, charts, logos, and complex design compositions. Being vector-based, outputs scale without quality loss to any size.",
     "image": "/uploads/1777283802_inkscape.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=inkscape-1",
-    "slug": "inkscape-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-communication/inkscape",
+    "slug": "marketing-communication/inkscape",
     "category": [
       "Marketing & Communication"
     ],
     "sub_category": [
       "Image and Video Editing"
-    ]
-  },
-  {
-    "id": 280,
-    "title": "mForm",
-    "short_description": "Programme MIS and data collection platform for nonprofits and CSR initiatives",
-    "long_description": "mForm is a low-code programme MIS platform developed by Dhwani RIS. It enables organisations to design structured forms, collect programme data across web and mobile interfaces (including offline environments), and generate dashboards for monitoring, evaluation, and reporting.",
-    "image": "/uploads/1776359453_mform.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=mform-1",
-    "slug": "mform-1",
-    "category": [
-      "Monitoring and Evaluation"
-    ],
-    "sub_category": [
-      "Data Collection"
-    ]
-  },
-  {
-    "id": 270,
-    "title": "mGrant",
-    "short_description": "Grant and donor management platform for nonprofits and CSR programmes",
-    "long_description": "",
-    "image": "/uploads/1776323981_mGrant.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=mgrant-1",
-    "slug": "mgrant-1",
-    "category": [
-      "Fundraising"
-    ],
-    "sub_category": [
-      "CRM/Grant/Donor Management"
-    ]
-  },
-  {
-    "id": 318,
-    "title": "mLearn (by Dhwani RIS)",
-    "short_description": "Mobile-based learning management system for nonprofits & social purpose organisations",
-    "long_description": "mLearn is a mobile-based learning management system (LMS) developed by Dhwani RIS that enables organisations to deliver, track, and document e-learning courses. It is designed for training and capacity-building programmes, particularly for distributed and field-based teams.",
-    "image": "/uploads/1777015951_dhwani.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=mlearn-by-dhwani-ris",
-    "slug": "mlearn-by-dhwani-ris",
-    "category": [
-      "Learning & Development"
-    ],
-    "sub_category": [
-      "Training & Development"
-    ]
-  },
-  {
-    "id": 283,
-    "title": "mWater",
-    "short_description": "Data collection and monitoring platform for water, sanitation, and public health programmes",
-    "long_description": "<p>mWater is a data collection and monitoring platform designed for organisations working in water, sanitation, and public health. It enables teams to collect field data, map infrastructure and services, and generate dashboards to track programme performance.</p>\r\n\r\n<p>The platform combines mobile data collection with mapping and monitoring, making it suitable for programmes that require location-based tracking and field visibility.</p>",
-    "image": "/uploads/1776359603_mwater.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=mwater-1",
-    "slug": "mwater-1",
-    "category": [
-      "Monitoring and Evaluation"
-    ],
-    "sub_category": [
-      "Data Collection"
-    ]
-  },
-  {
-    "id": 388,
-    "title": "perplexity",
-    "short_description": "AI-powered search and research for nonprofits",
-    "long_description": "Perplexity is an AI-powered search and research tool that helps nonprofits and social purpose organisations find, summarise, and understand information from across the web. It combines conversational search with source-backed answers, enabling teams to quickly gather insights for research, planning, and communication.",
-    "image": "/uploads/1776935159_perplexity.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=perplexity-1",
-    "slug": "perplexity-1",
-    "category": [
-      "AI Tools"
-    ],
-    "sub_category": [
-      "AI Assistant"
     ]
   }
 ]

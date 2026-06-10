@@ -1,12 +1,102 @@
 [
   {
+    "id": 311,
+    "title": "Moodle",
+    "short_description": "Open-Source Learning Management System for Online Training, Course Delivery, and Capability Building.",
+    "long_description": "<strong>Moodle</strong> is an open-source learning management system that enables nonprofits to design, deliver, and track structured training programmes across staff, volunteers, and communities at scale.",
+    "image": "/uploads/1776416493_moodle.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/learning-and-development/moodle",
+    "slug": "learning-and-development/moodle",
+    "category": [
+      "Learning & Development"
+    ],
+    "sub_category": [
+      "Learning Management System"
+    ]
+  },
+  {
+    "id": 359,
+    "title": "Motion",
+    "short_description": "AI-powered task, calendar, and project management tool for nonprofits and social purpose organisations.",
+    "long_description": "Motion is an AI-powered smart calendar assistant that helps users manage their time by automatically scheduling tasks, habits, and meetings. It aims to optimize schedules by finding the best times for various activities based on priorities and availability.",
+    "image": "/uploads/1777533211_motion.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/motion",
+    "slug": "office-automation/motion",
+    "category": [
+      "Office Automation"
+    ],
+    "sub_category": [
+      "Scheduling"
+    ]
+  },
+  {
+    "id": 342,
+    "title": "Nagios",
+    "short_description": "Open-source IT infrastructure monitoring tool for nonprofits and social purpose organisations",
+    "long_description": "Nagios is an open-source monitoring system for tracking the health and performance of servers, networks, and applications. It provides continuous monitoring and alerting for infrastructure components such as servers, switches, databases, and services, helping organisations ensure system reliability and uptime.",
+    "image": "/uploads/1777026081_nagios.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/nagios",
+    "slug": "office-automation/nagios",
+    "category": [
+      "Office Automation"
+    ],
+    "sub_category": [
+      "Digital Infrastructure"
+    ]
+  },
+  {
+    "id": 383,
+    "title": "Napkin AI",
+    "short_description": "AI-assisted visualisation of ideas and concepts for nonprofits",
+    "long_description": "Napkin AI is a tool that helps nonprofits and social purpose organisations turn text, ideas, or notes into simple visual representations such as diagrams, flows, and structured layouts. It supports teams in organising thinking, explaining concepts, and communicating ideas more clearly.",
+    "image": "/uploads/1776922485_napkin.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/napkin-ai",
+    "slug": "ai-tools/napkin-ai",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "Presentation Generation"
+    ]
+  },
+  {
+    "id": 384,
+    "title": "New Relic",
+    "short_description": "Application monitoring and observability for nonprofits",
+    "long_description": "New Relic is an observability platform that helps nonprofits and social purpose organisations monitor the performance of their applications, websites, and digital systems. It provides visibility into system health, errors, and usage, enabling teams to identify issues and maintain reliable digital services.",
+    "image": "/uploads/1776923013_new-relic.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/new-relic",
+    "slug": "project-and-task-management/new-relic",
+    "category": [
+      "Project & Task Management"
+    ],
+    "sub_category": [
+      "Agile"
+    ]
+  },
+  {
+    "id": 278,
+    "title": "Notion",
+    "short_description": "Collaboration tool for nonprofits and social impact teams",
+    "long_description": "Notion is a workspace application that combines note-taking, databases, project management, and collaboration on a single platform. It enables organisations to organise information, manage workflows, and collaborate in a flexible environment.",
+    "image": "/uploads/1777446450_notion.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/notion",
+    "slug": "project-and-task-management/notion",
+    "category": [
+      "Project & Task Management"
+    ],
+    "sub_category": [
+      "Task Management"
+    ]
+  },
+  {
     "id": 385,
     "title": "Olive Video Editor",
     "short_description": "Open-source video editing for nonprofit content creation",
     "long_description": "Olive Video Editor is a free, open-source video editing software that enables nonprofits and social purpose organisations to create and edit video content for communication, awareness, and documentation. It provides basic to intermediate editing capabilities without requiring expensive software.",
     "image": "/uploads/1776924588_olive-video-editor.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=olive-video-editor-1",
-    "slug": "olive-video-editor-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/olive-video-editor",
+    "slug": "marketing-and-communication/olive-video-editor",
     "category": [
       "Marketing & Communication"
     ],
@@ -20,8 +110,8 @@
     "short_description": "Cloud file storage and sharing platform within Microsoft ecosystem for nonprofits & social purpose organisations",
     "long_description": "OneDrive is a cloud-based storage service by Microsoft that enables organisations to store, access, and share files across devices. It integrates with Microsoft 365 tools such as Word, Excel, and Teams to support collaboration and document workflows.",
     "image": "/uploads/1777026877_onedrive.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=onedrive-1",
-    "slug": "onedrive-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/onedrive",
+    "slug": "office-automation/onedrive",
     "category": [
       "Office Automation"
     ],
@@ -30,13 +120,28 @@
     ]
   },
   {
+    "id": 435,
+    "title": "OpenAI Whisper",
+    "short_description": "Speech Recognition & Multilingual Transcription Platform",
+    "long_description": "OpenAI Whisper is an automatic speech recognition (ASR) model designed for multilingual speech transcription and translation. The platform supports speech-to-text workflows across multiple languages and audio formats through transcription capabilities.",
+    "image": "/uploads/1778155871_open-ai.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/open-ai-whisper",
+    "slug": "ai-tools/open-ai-whisper",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "AI Transcription"
+    ]
+  },
+  {
     "id": 363,
     "title": "Oracle Cloud Infrastructure (OCI)",
     "short_description": "Cloud platform for running applications, managing databases, and supporting enterprise systems.",
     "long_description": "Oracle Cloud Infrastructure is a comprehensive suite of cloud services built on Oracle’s globally distributed network. It offers a range of services including compute, storage, networking, database, and developer tools.",
     "image": "/uploads/1777026773_oracle-cloud-infrastructure.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=oracle-cloud-infrastructure-oci-1",
-    "slug": "oracle-cloud-infrastructure-oci-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/oracle-cloud-infrastructure-oci",
+    "slug": "data-and-analytics/oracle-cloud-infrastructure-oci",
     "category": [
       "Data & Analytics"
     ],
@@ -50,8 +155,8 @@
     "short_description": "Payroll and HR management system for nonprofits and social purpose organisations.",
     "long_description": "Paybooks is a cloud-based payroll and Human Resource Management System (HRMS) that enables organisations to manage payroll, compliance, attendance, and employee records within a single platform. It is designed to simplify payroll processing and statutory compliance while supporting core HR operations for growing teams.",
     "image": "/uploads/1777024632_paybooks.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=paybooks",
-    "slug": "paybooks",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/human-resources/paybooks",
+    "slug": "human-resources/paybooks",
     "category": [
       "Human Resources"
     ],
@@ -66,8 +171,8 @@
     "short_description": "AI voice generation platform for accessibility, multilingual communication, and content creation",
     "long_description": "PlayHT is an AI-powered voice generation platform that enables organisations to convert text into natural-sounding speech. It helps nonprofits and social purpose organisations create audio content, improve accessibility, and deliver information in multiple languages and formats.",
     "image": "/uploads/1777272319_playai.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=playht-1",
-    "slug": "playht-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/playht",
+    "slug": "ai-tools/playht",
     "category": [
       "AI Tools"
     ],
@@ -76,13 +181,28 @@
     ]
   },
   {
+    "id": 439,
+    "title": "PostgreSQL",
+    "short_description": "Scalable Open-Source Database Infrastructure",
+    "long_description": "PostgreSQL is an open-source relational database system used by organisations to manage structured operational data, support transactional applications, and build scalable digital systems across cloud and self-hosted environments.",
+    "image": "/uploads/1778173652_postgresql.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/postgresql",
+    "slug": "data-and-analytics/postgresql",
+    "category": [
+      "Data & Analytics"
+    ],
+    "sub_category": [
+      "Data Management"
+    ]
+  },
+  {
     "id": 391,
     "title": "Prezi",
     "short_description": "Interactive presentations and visual storytelling for nonprofits",
     "long_description": "Prezi is a presentation software that enables nonprofits and social purpose organisations to create dynamic, non-linear presentations. Instead of traditional slide-based formats, it uses a zoomable canvas to present ideas visually, helping teams communicate concepts, programmes, and impact more clearly and engagingly.",
-    "image": "/uploads/1776929961_Prezi-1.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=prezi-1",
-    "slug": "prezi-1",
+    "image": "/uploads/1777534422_prezi.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/prezi",
+    "slug": "ai-tools/prezi",
     "category": [
       "AI Tools"
     ],
@@ -96,27 +216,44 @@
     "short_description": "Digital Editing Tools for SPOs",
     "long_description": "<p>A detailed writing editor that provides in-depth grammar, style, and readability analysis for long-form content.</p>\r\n\r\n<p>ProWritingAid is a writing enhancement software that provides comprehensive feedback on grammar, style, readability, and originality. It helps writers improve their prose by offering suggestions for various aspects of writing.</p>",
     "image": "/uploads/1776427543_Prowriting.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=prowritingaid-1",
-    "slug": "prowritingaid-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/prowritingaid",
+    "slug": "ai-tools/prowritingaid",
     "category": [
       "AI Tools"
     ],
     "sub_category": [
-      "Text Generation"
+      "AI Writing & Content Generation"
     ]
   },
   {
     "id": 264,
     "title": "RapidPro",
     "short_description": "Multi-channel communication and messaging platform for NGOs & SPOs",
-    "long_description": "RapidPro is an open-source platform that enables organisations to design and manage interactive communication workflows across SMS, WhatsApp, voice, and USSD channels.",
+    "long_description": "RapidPro is an open-source platform that enables organisations to design and manage interactive communication workflows across SMS, WhatsApp,  and voice.",
     "image": "/uploads/1776435293_RapidPro.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=rapidpro",
-    "slug": "rapidpro",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/messaging/rapidpro",
+    "slug": "messaging/rapidpro",
     "category": [
-      "Chatbot"
+      "Messaging"
     ],
-    "sub_category": []
+    "sub_category": [
+      "Broadcast"
+    ]
+  },
+  {
+    "id": 437,
+    "title": "Razorpay",
+    "short_description": "Donation Collection & Payment Infrastructure for NGOs and SPOs",
+    "long_description": "Razorpay is an India-based payment and financial operations platform that helps nonprofits and social purpose organisations collect online donations, manage digital payment workflows, handle payouts, and support fundraising operations across websites, campaigns, and mobile-first payment channels.",
+    "image": "/uploads/1778159155_razorpay.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/razorpay",
+    "slug": "fundraising/razorpay",
+    "category": [
+      "Fundraising"
+    ],
+    "sub_category": [
+      "Crowdfunding"
+    ]
   },
   {
     "id": 331,
@@ -124,8 +261,8 @@
     "short_description": "Cloud-based accounting and financial management software for nonprofits and organisations operating in India",
     "long_description": "RealBooks is a cloud-based accounting platform designed for organisations that require structured financial management across multiple programmes, branches, or entities. It supports real-time accounting, GST compliance, inventory tracking, and reporting within a single system, and is hosted on cloud infrastructure.",
     "image": "/uploads/1777295223_realbooks.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=realbooks-1",
-    "slug": "realbooks-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/finance-and-accounts/realbooks",
+    "slug": "finance-and-accounts/realbooks",
     "category": [
       "Finance and Accounts"
     ],
@@ -138,9 +275,9 @@
     "title": "Reclaim.ai",
     "short_description": "AI-powered calendar and time management tool for nonprofits and social purpose organisations",
     "long_description": "Reclaim.ai is an AI-powered calendar tool that automatically schedules your tasks, meetings, and routines so you don’t have to plan everything manually.\r\nIt works with Google Calendar to adjust your schedule as things change, helping you stay organised and make better use of your time.",
-    "image": "/uploads/1776857356_Reclaim.ai.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=reclaimai-1",
-    "slug": "reclaimai-1",
+    "image": "/uploads/1777532795_reclaim-ai.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/reclaim-ai",
+    "slug": "office-automation/reclaim-ai",
     "category": [
       "Office Automation"
     ],
@@ -149,13 +286,28 @@
     ]
   },
   {
+    "id": 440,
+    "title": "Redis",
+    "short_description": "Real-Time Data Infrastructure for High-Performance Applications",
+    "long_description": "Redis is an in-memory data platform used by organisations to improve application responsiveness, enable real-time data access, and support high-speed operational workloads across cloud and hybrid environments.",
+    "image": "/uploads/1778175097_redis.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/redis",
+    "slug": "data-and-analytics/redis",
+    "category": [
+      "Data & Analytics"
+    ],
+    "sub_category": [
+      "Data Management"
+    ]
+  },
+  {
     "id": 414,
     "title": "Redmine",
     "short_description": "Structured project and workflow tracking for NGOs managing complex, multi-program operations",
     "long_description": "Redmine is an open-source project management and issue tracking platform designed for organisations that need structured control over tasks, workflows, and programme execution across multiple projects. It supports custom workflows, role-based access, and centralised tracking, making it suitable for organisations handling complex operations with limited budgets.",
     "image": "/uploads/1777090865_redmine.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=redmine-1",
-    "slug": "redmine-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/redmine",
+    "slug": "project-and-task-management/redmine",
     "category": [
       "Project & Task Management"
     ],
@@ -169,8 +321,8 @@
     "short_description": "Speech-to-text transcription and audio analysis for nonprofits",
     "long_description": "Rev AI is a speech-to-text and audio processing platform that helps nonprofits and social purpose organisations convert audio and video recordings into text. It enables teams to transcribe interviews, meetings, and field recordings, supporting documentation, analysis, and reporting workflows.",
     "image": "/uploads/1776945597_Rev AI.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=rev-ai-1",
-    "slug": "rev-ai-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/rev-ai",
+    "slug": "ai-tools/rev-ai",
     "category": [
       "AI Tools"
     ],
@@ -184,8 +336,8 @@
     "short_description": "AI-powered document automation for transactional workflows (invoices, finance, operations)",
     "long_description": "Rossum is an AI-powered intelligent document processing platform that automates data extraction from documents like invoices, purchase orders, and receipts. It uses artificial intelligence to accurately capture and process information from various document types.",
     "image": "/uploads/1777091899_rossum.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=rossum-1",
-    "slug": "rossum-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/rossum",
+    "slug": "ai-tools/rossum",
     "category": [
       "AI Tools"
     ],
@@ -194,28 +346,13 @@
     ]
   },
   {
-    "id": 243,
-    "title": "Runway",
-    "short_description": "AI-powered video and media creation for NGOs and SPOs.",
-    "long_description": "Runway is an AI-powered creative platform that enables users to generate, edit, and adapt video and media content. It supports content creation across different stages, from ideation to production and distribution.",
-    "image": "/uploads/1776084239_Runway.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=runway-1",
-    "slug": "runway-1",
-    "category": [
-      "AI Tools"
-    ],
-    "sub_category": [
-      "3D Design"
-    ]
-  },
-  {
     "id": 336,
     "title": "Runway",
     "short_description": "AI video generation and editing tools for nonprofits.",
     "long_description": "Runway is an AI-powered platform that enables users to generate and edit video content using machine learning models. It supports text-to-video generation, video editing, and visual effects within a browser-based interface.",
-    "image": "/uploads/1776751235_runway.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=runway",
-    "slug": "runway",
+    "image": "/uploads/1777525592_runway.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/runway",
+    "slug": "ai-tools/runway",
     "category": [
       "AI Tools"
     ],
@@ -228,9 +365,9 @@
     "title": "Salesforce",
     "short_description": "CRM platform for managing donor, stakeholder, and programme relationships.",
     "long_description": "Salesforce is a highly customisable CRM platform used by nonprofits to manage donors, programmes, and workflows at scale. It brings data, teams, and processes into a single system, enabling better coordination and visibility across the organisation.",
-    "image": "/uploads/1776325656_salesforce.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=salesforce-2",
-    "slug": "salesforce-2",
+    "image": "/uploads/1777456981_salesforce.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/salesforce",
+    "slug": "fundraising/salesforce",
     "category": [
       "Fundraising"
     ],
@@ -243,9 +380,9 @@
     "title": "Sarvam AI",
     "short_description": "Indian language AI and voice technologies for nonprofits",
     "long_description": "Sarvam AI provides AI models and speech technologies designed for Indian languages, helping nonprofits engage beneficiaries in their native languages across text and voice. It enables organisations to automate communication, run multilingual helplines, and simplify data collection in low-literacy or rural contexts. This makes programme delivery more inclusive, scalable, and accessible across diverse communities in India.",
-    "image": "/uploads/1776946415_sarvam.ai.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=sarvam-ai-1",
-    "slug": "sarvam-ai-1",
+    "image": "/uploads/1777534522_sarvamai.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/sarvam-ai",
+    "slug": "ai-tools/sarvam-ai",
     "category": [
       "AI Tools"
     ],
@@ -259,8 +396,8 @@
     "short_description": "Email delivery and communication infrastructure for nonprofits",
     "long_description": "SendGrid is a cloud-based email delivery platform that helps nonprofits and social purpose organisations send emails at scale. It supports transactional emails (such as confirmations and alerts) as well as campaign emails, enabling reliable communication with donors, volunteers, and stakeholders.",
     "image": "/uploads/1777013318_sendgrid.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=sendgrid-1",
-    "slug": "sendgrid-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-communication/sendgrid",
+    "slug": "marketing-communication/sendgrid",
     "category": [
       "Marketing & Communication"
     ],
@@ -274,8 +411,8 @@
     "short_description": "Team communication and workflow coordination for nonprofits",
     "long_description": "Slack is a team communication platform that helps nonprofits and social purpose organisations organise conversations, share updates, and coordinate work across teams. It provides structured channels, messaging, and integrations, while also supporting basic workflow automation within communication processes.",
     "image": "/uploads/1776937386_Slack.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=slack-1",
-    "slug": "slack-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/operations/slack",
+    "slug": "operations/slack",
     "category": [
       "Office Automation"
     ],
@@ -284,28 +421,13 @@
     ]
   },
   {
-    "id": 242,
-    "title": "Sloyd",
-    "short_description": "AI-powered 3D asset generation for NGOs and SPOs",
-    "long_description": "Sloyd is an AI-powered tool that enables users to generate and customise 3D models using adjustable parameters. It supports the creation of visual assets for digital content, prototypes, and concept representation.",
-    "image": "/uploads/1776082169_sloyd.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=sloyd-1",
-    "slug": "sloyd-1",
-    "category": [
-      "AI Tools"
-    ],
-    "sub_category": [
-      "3D Design"
-    ]
-  },
-  {
     "id": 289,
     "title": "Smartsheet",
     "short_description": "Collaborative sheets for nonprofits",
     "long_description": "Smartsheet is a work management platform that uses a spreadsheet-like interface to enable collaborative work. It helps teams plan projects, track tasks, and manage resources within a structured system.",
-    "image": "/uploads/1776339940_smartsheet.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=smartsheet",
-    "slug": "smartsheet",
+    "image": "/uploads/1777454021_smartsheet.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/smartsheet",
+    "slug": "project-and-task-management/smartsheet",
     "category": [
       "Project & Task Management"
     ],
@@ -318,9 +440,9 @@
     "title": "Social Integrated Platform",
     "short_description": "Integrated social media management for nonprofits",
     "long_description": "A social integrated platform is a type of tool that helps nonprofits and social purpose organisations manage multiple social media channels from a single interface. It enables teams to plan content, schedule posts, monitor engagement, and analyse performance across platforms such as Facebook, Instagram, LinkedIn, and X (Twitter).",
-    "image": "/uploads/1777016632_synergy-connect.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=social-integrated-platform-1",
-    "slug": "social-integrated-platform-1",
+    "image": "/uploads/1777534598_synergy.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-communication/social-integrated-platform",
+    "slug": "marketing-communication/social-integrated-platform",
     "category": [
       "Marketing & Communication"
     ],
@@ -334,8 +456,8 @@
     "short_description": "Social media management and scheduling for nonprofits",
     "long_description": "Socioboard is a social media management platform that helps nonprofits and social purpose organisations manage multiple social media accounts, schedule content, and monitor engagement. It provides tools for publishing, analytics, and team collaboration across platforms.",
     "image": "/uploads/1776931027_socioboard.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=socioboard-1",
-    "slug": "socioboard-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/socioboard",
+    "slug": "marketing-and-communication/socioboard",
     "category": [
       "Marketing & Communication"
     ],
@@ -348,9 +470,9 @@
     "title": "Soundraw",
     "short_description": "AI-generated music for nonprofit content and media",
     "long_description": "Soundraw is an AI-powered music generation tool that helps nonprofits and social purpose organisations create background music for videos, campaigns, and digital content. It enables users to generate and customise music tracks based on mood, genre, and duration.",
-    "image": "/uploads/1776931058_soundraw.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=soundraw-1",
-    "slug": "soundraw-1",
+    "image": "/uploads/1777542016_soundraw.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/soundraw",
+    "slug": "ai-tools/soundraw",
     "category": [
       "AI Tools"
     ],
@@ -364,8 +486,8 @@
     "short_description": "Interactive 3D design platform for NGOs and SPOs.",
     "long_description": "Spline is a web-based design platform that enables users to create interactive 2D and 3D content for websites, campaigns, and digital communication. It brings design, interaction, and collaboration into a single environment.",
     "image": "/uploads/1776079489_spline.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=spline-1",
-    "slug": "spline-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/spline",
+    "slug": "ai-tools/spline",
     "category": [
       "AI Tools"
     ],
@@ -379,8 +501,8 @@
     "short_description": "Social media management and outreach platform for engagement and analytics.",
     "long_description": "Sprout Social helps nonprofits schedule content, manage supporter interactions, and track performance across social media. It enables organisations to engage donors and communities more effectively while using analytics to improve campaigns and demonstrate impact.",
     "image": "/uploads/1777024741_sprout-social.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=sprout-social",
-    "slug": "sprout-social",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/sprout-social",
+    "slug": "marketing-and-communication/sprout-social",
     "category": [
       "AI Tools",
       "Marketing & Communication"
@@ -396,8 +518,8 @@
     "short_description": "All-in-one website builder for nonprofits and grassroots organisations",
     "long_description": "Squarespace is a cloud-based website builder that allows organisations to create and manage professional websites without coding. It combines design templates, hosting, content management, and tools for donations and communication in a single platform.",
     "image": "/uploads/1777024881_squarespace.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=squarespace",
-    "slug": "squarespace",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/squarespace",
+    "slug": "marketing-and-communication/squarespace",
     "category": [
       "Marketing & Communication"
     ],
@@ -411,8 +533,8 @@
     "short_description": "AI-powered narrative and content platform for digital transformation",
     "long_description": "<p>Stotio is an AI-powered growth narrative platform designed to help organisations create pitch decks, strategic narratives, and data-driven content.</p>\r\n<p>It enables teams to translate ideas, data, and strategy into clear, structured communication across fundraising, marketing, and leadership contexts.</p>",
     "image": "/uploads/1777282371_stotio.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=stotio-1",
-    "slug": "stotio-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/stotio",
+    "slug": "ai-tools/stotio",
     "category": [
       "AI Tools"
     ],
@@ -426,8 +548,8 @@
     "short_description": "Email-native CRM for NGOs & SPOs",
     "long_description": "Streak is a CRM built directly inside Gmail, enabling nonprofits and social purpose organisations to structure donor communication and fundraising workflows without moving to a separate platform.",
     "image": "/uploads/1776332408_Streak.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=streak-1",
-    "slug": "streak-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/streak",
+    "slug": "fundraising/streak",
     "category": [
       "Fundraising"
     ],
@@ -441,133 +563,13 @@
     "short_description": "Direct newsletter publishing platform",
     "long_description": "<p>Substack is a publishing platform that enables organisations to write, distribute, and manage newsletters and podcasts directly to subscribers via email and web.</p>\r\n<p>It allows to build a direct communication channel with donors, supporters, and stakeholders without relying on social media platforms.</p>",
     "image": "/uploads/1777276552_substack.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=substack-1",
-    "slug": "substack-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/substack",
+    "slug": "marketing-and-communication/substack",
     "category": [
       "Marketing & Communication"
     ],
     "sub_category": [
       "Email Marketing"
-    ]
-  },
-  {
-    "id": 389,
-    "title": "Suno",
-    "short_description": "AI-generated songs and audio content for nonprofits",
-    "long_description": "Suno is an AI-powered tool that enables users to generate complete songs from text prompts. It allows nonprofits and social purpose organisations to create audio content, including music with vocals and lyrics, for communication, storytelling, and digital engagement.",
-    "image": "/uploads/1776931114_suno.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=suno-1",
-    "slug": "suno-1",
-    "category": [
-      "AI Tools"
-    ],
-    "sub_category": [
-      "Audio, Voice & Music Generation"
-    ]
-  },
-  {
-    "id": 286,
-    "title": "SurveyCTO",
-    "short_description": "Secure, offline-first data collection platform for M&E and research",
-    "long_description": "<p>SurveyCTO is a mobile-first data collection platform designed for NGOs, researchers, and development organisations to collect high-quality field data, run complex surveys, and manage monitoring and evaluation workflows in low-connectivity environments.</p>\r\n\r\n<p>It enables teams to design advanced surveys, enforce data quality at the point of entry, and securely collect and manage sensitive programme data across mobile and web channels.</p>",
-    "image": "/uploads/1776359736_surveycto.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=surveycto-1",
-    "slug": "surveycto-1",
-    "category": [
-      "Monitoring and Evaluation"
-    ],
-    "sub_category": [
-      "Data Collection"
-    ]
-  },
-  {
-    "id": 275,
-    "title": "Synergy Connect",
-    "short_description": "CRM platform for managing donor, fundraising, and programme data for nonprofits",
-    "long_description": "Synergy Connect is a nonprofit-focused CRM designed for organisations to manage donors, fundraising, and programme data within a single system. It is built for ease of use and typically requires less setup compared to enterprise CRM platforms.",
-    "image": "/uploads/1777025860_synergy-connect.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=synergy-connect",
-    "slug": "synergy-connect",
-    "category": [
-      "Fundraising"
-    ],
-    "sub_category": [
-      "CRM/Grant/Donor Management"
-    ]
-  },
-  {
-    "id": 312,
-    "title": "Synergy LMS",
-    "short_description": "Learning and skilling management platform for nonprofits and CSR programmes.",
-    "long_description": "Synergy LMS is a learning and skilling management platform built for NGOs, CSR foundations, and government programmes to manage training delivery, track learner progress, and support end-to-end skilling journeys from enrolment to certification and placement.",
-    "image": "/uploads/1777025888_synergy-connect.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=synergy-lms",
-    "slug": "synergy-lms",
-    "category": [
-      "Learning & Development"
-    ],
-    "sub_category": [
-      "Learning Management System"
-    ]
-  },
-  {
-    "id": 97,
-    "title": "SynergyDonor - Donor Relationship Platform",
-    "short_description": "Donor management platform for tracking donors and campaigns.",
-    "long_description": "SynergyDonor is a donor relationship management platform designed to help organizations manage their interactions with donors. It typically includes features for tracking donor information, managing campaigns, processing donations, and facilitating communication to build and maintain donor relationships.",
-    "image": "/uploads/1777025834_synergy-connect.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=synergydonor-donor-relationship-platform",
-    "slug": "synergydonor-donor-relationship-platform",
-    "category": [
-      "Fundraising"
-    ],
-    "sub_category": [
-      "CRM/Grant/Donor Management"
-    ]
-  },
-  {
-    "id": 296,
-    "title": "SynergySurvey",
-    "short_description": "Flexible M&E data collection for NGOs & SPOs",
-    "long_description": "SynergySurvey is a mobile-first monitoring and evaluation (M&E) data collection platform developed by SynergyConnect Data Innovations Pvt. Ltd., designed for Indian NGOs and CSR teams to collect field data offline, track beneficiaries, and generate programme insights through integrated dashboards.",
-    "image": "/uploads/1777025873_synergy-connect.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=synergysurvey",
-    "slug": "synergysurvey",
-    "category": [
-      "Monitoring and Evaluation"
-    ],
-    "sub_category": [
-      "Data Collection"
-    ]
-  },
-  {
-    "id": 421,
-    "title": "Synthesia",
-    "short_description": "AI video generation platform for structured training and communication content",
-    "long_description": "Synthesia enables organisations to create videos from text-based scripts using AI avatars and voiceovers, without cameras, studios, or on-screen presenters.\r\nIt is used to produce repeatable, standardised video content for training, onboarding, and programme communication where consistency is required across teams or locations.",
-    "image": "/uploads/1777283123_synthesia.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=synthesia-1",
-    "slug": "synthesia-1",
-    "category": [
-      "AI Tools"
-    ],
-    "sub_category": [
-      "Image & Video Generation"
-    ]
-  },
-  {
-    "id": 307,
-    "title": "Tableau",
-    "short_description": "Data visualisation and analytics for nonprofits and social purpose organisations",
-    "long_description": "Tableau is a data visualisation and analytics platform that enables organisations to explore data, create interactive dashboards, and generate insights for reporting and decision-making.",
-    "image": "/uploads/1776412001_tableau.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=tableau-1",
-    "slug": "tableau-1",
-    "category": [
-      "Monitoring and Evaluation"
-    ],
-    "sub_category": [
-      "Reporting & Dashboarding"
     ]
   }
 ]

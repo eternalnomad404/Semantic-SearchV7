@@ -1,0 +1,77 @@
+[
+  {
+    "id": 280,
+    "title": "mForm",
+    "short_description": "Programme MIS and data collection platform for nonprofits and CSR initiatives",
+    "long_description": "mForm is a low-code programme MIS platform developed by Dhwani RIS. It enables organisations to design structured forms, collect programme data across web and mobile interfaces (including offline environments), and generate dashboards for monitoring, evaluation, and reporting.",
+    "image": "/uploads/1777449003_mform.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/mform",
+    "slug": "monitoring-and-evaluation/mform",
+    "category": [
+      "Monitoring and Evaluation"
+    ],
+    "sub_category": [
+      "Data Collection"
+    ]
+  },
+  {
+    "id": 270,
+    "title": "mGrant",
+    "short_description": "Grant and donor management platform for nonprofits and CSR programmes",
+    "long_description": "mGrant is a grant and donor management platform designed for nonprofits, CSR programmes, and social impact organisations to streamline donor relationships, manage grant lifecycles, track fund allocation, and simplify reporting through a centralised system.",
+    "image": "/uploads/1776323981_mGrant.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/mgrant",
+    "slug": "fundraising/mgrant",
+    "category": [
+      "Fundraising"
+    ],
+    "sub_category": [
+      "CRM/Grant/Donor Management"
+    ]
+  },
+  {
+    "id": 318,
+    "title": "mLearn (by Dhwani RIS)",
+    "short_description": "Mobile-based learning management system for nonprofits & social purpose organisations",
+    "long_description": "mLearn is a mobile-based learning management system (LMS) developed by Dhwani RIS that enables organisations to deliver, track, and document e-learning courses. It is designed for training and capacity-building programmes, particularly for distributed and field-based teams.",
+    "image": "/uploads/1777015951_dhwani.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/training-and-development/mlearn",
+    "slug": "training-and-development/mlearn",
+    "category": [
+      "Learning & Development"
+    ],
+    "sub_category": [
+      "Training & Development"
+    ]
+  },
+  {
+    "id": 283,
+    "title": "mWater",
+    "short_description": "Data collection and monitoring platform for water, sanitation, and public health programmes",
+    "long_description": "<p>mWater is a data collection and monitoring platform designed for organisations working in water, sanitation, and public health. It enables teams to collect field data, map infrastructure and services, and generate dashboards to track programme performance.</p>\r\n\r\n<p>The platform combines mobile data collection with mapping and monitoring, making it suitable for programmes that require location-based tracking and field visibility.</p>",
+    "image": "/uploads/1776359603_mwater.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/mwater",
+    "slug": "monitoring-and-evaluation/mwater",
+    "category": [
+      "Monitoring and Evaluation"
+    ],
+    "sub_category": [
+      "Data Collection"
+    ]
+  },
+  {
+    "id": 388,
+    "title": "perplexity",
+    "short_description": "AI-powered search and research for nonprofits",
+    "long_description": "Perplexity is an AI-powered search and research tool that helps nonprofits and social purpose organisations find, summarise, and understand information from across the web. It combines conversational search with source-backed answers, enabling teams to quickly gather insights for research, planning, and communication.",
+    "image": "/uploads/1777534336_perplexity.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/perplexity",
+    "slug": "ai-tools/perplexity",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "AI Assistant"
+    ]
+  }
+]

@@ -1,12 +1,42 @@
 [
   {
+    "id": 298,
+    "title": "Danamojo",
+    "short_description": "Digital fundraising and donation management platform for nonprofits",
+    "long_description": "Danamojo is a platform designed for nonprofit organisations in India to collect donations online, run fundraising campaigns, and maintain donor records in a structured way.",
+    "image": "/uploads/1776522547_danamojo.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/danamojo",
+    "slug": "fundraising/danamojo",
+    "category": [
+      "Fundraising"
+    ],
+    "sub_category": [
+      "Crowdfunding"
+    ]
+  },
+  {
+    "id": 246,
+    "title": "DeepL",
+    "short_description": "Translation and language support for NGOs and social purpose organisations.",
+    "long_description": "DeepL is an AI-powered machine translation service known for its high-quality and nuanced translations. It uses neural network technology to provide accurate and natural-sounding translations across multiple languages.",
+    "image": "/uploads/1777456313_deepl.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/deepl",
+    "slug": "ai-tools/deepl",
+    "category": [
+      "AI Tools"
+    ],
+    "sub_category": [
+      "AI Writing & Content Generation"
+    ]
+  },
+  {
     "id": 257,
     "title": "Descript",
     "short_description": "Audio and video editing tool for nonprofits.",
     "long_description": "Descript is a multimedia editing platform that enables users to record, transcribe, and edit audio and video content. It allows editing through text transcripts, simplifying traditional editing workflows.",
     "image": "/uploads/1776535634_descript.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=descript-1",
-    "slug": "descript-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/descript",
+    "slug": "ai-tools/descript",
     "category": [
       "AI Tools"
     ],
@@ -20,8 +50,8 @@
     "short_description": "Support workflows for NGOs & SPOs",
     "long_description": "Deskpro is an omnichannel helpdesk and workflow platform that helps organisations manage stakeholder queries across channels in a structured system. It enables ticketing, automation, collaboration, and performance tracking for support processes.",
     "image": "/uploads/1777011836_deskpro.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=deskpro-1",
-    "slug": "deskpro-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/deskpro",
+    "slug": "office-automation/deskpro",
     "category": [
       "Office Automation"
     ],
@@ -35,8 +65,8 @@
     "short_description": "Simple cloud platform for hosting applications and managing data",
     "long_description": "DigitalOcean is a cloud infrastructure platform designed to simplify application hosting, database management, and deployment. It provides virtual servers, managed databases, and storage with straightforward pricing, making it suitable for organisations with limited technical capacity.",
     "image": "/uploads/1776862135_digitalocean.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=digitalocean-1",
-    "slug": "digitalocean-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/digitalocean",
+    "slug": "data-and-analytics/digitalocean",
     "category": [
       "Data & Analytics"
     ],
@@ -50,8 +80,8 @@
     "short_description": "Knowledge base and documentation platform for nonprofits and social purpose organisations",
     "long_description": "Document360 is a cloud-based platform that enables organisations to create, manage, and publish structured knowledge bases for internal teams, partners, or external users. It is used to organise documentation such as standard operating procedures (SOPs), FAQs, and support content in a searchable and structured format.",
     "image": "/uploads/1776858379_document360.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=document360-1",
-    "slug": "document360-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/document360",
+    "slug": "office-automation/document360",
     "category": [
       "Office Automation"
     ],
@@ -65,8 +95,8 @@
     "short_description": "Cloud file storage and sharing platform for nonprofits and social purpose organisations",
     "long_description": "Dropbox is a cloud-based storage platform that enables organisations to store, organise, and share files across teams. It supports collaboration through shared folders, file access controls, and version history.",
     "image": "/uploads/1776858676_drop-box.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=dropbox-1",
-    "slug": "dropbox-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/dropbox",
+    "slug": "office-automation/dropbox",
     "category": [
       "Office Automation"
     ],
@@ -80,8 +110,8 @@
     "short_description": "Financial management and donor tracking platform for nonprofits and social purpose organisations.",
     "long_description": "ERP4Impact is a cloud-based financial management and donor tracking platform used by nonprofits and social purpose organisations in India to manage donations, grants, and compliance requirements within a single system.",
     "image": "/uploads/1776682519_erp4impact.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=erp4impact-1",
-    "slug": "erp4impact-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/finance-and-accounts/erp4impact",
+    "slug": "finance-and-accounts/erp4impact",
     "category": [
       "Finance and Accounts"
     ],
@@ -95,8 +125,8 @@
     "short_description": "Open-source HR and workforce management system for nonprofits and social purpose organisations",
     "long_description": "ERPNext is an open-source Enterprise Resource Planning (ERP) platform that includes a Human Resource Management (HR) module for managing employee data, payroll, attendance, and workforce processes. It enables organisations to integrate HR with finance, accounting, and operations within a single system.",
     "image": "/uploads/1777023874_erpnext.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=erpnext",
-    "slug": "erpnext",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/human-resources/erpnext",
+    "slug": "human-resources/erpnext",
     "category": [
       "Human Resources"
     ],
@@ -111,8 +141,8 @@
     "short_description": "Digital learning platform with pre-built curriculum for education programmes",
     "long_description": "EduSystem is a learning management system (LMS) that provides digital curricular content for core academic subjects such as Mathematics, Science, History, Social Studies, Spanish, and English. It combines interactive lessons, assessments, and planning tools within a structured platform to support delivery of K-12 learning programmes.",
     "image": "/uploads/1777010529_edusystem.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=edusystem-1",
-    "slug": "edusystem-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/learning-and-development/edusystem",
+    "slug": "learning-and-development/edusystem",
     "category": [
       "Learning & Development"
     ],
@@ -126,8 +156,8 @@
     "short_description": "Education management platform for nonprofits & social purpose organisations",
     "long_description": "Eduapp is an education management platform that supports organisations running schools, coaching centres, or learning programmes in managing student data, attendance, fees, and parent communication through a single integrated system. This can be relevant for organisations managing student cohorts across multiple centres or locations.",
     "image": "/uploads/1776536322_eduapp.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=eduapp-1",
-    "slug": "eduapp-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/training-and-development/eduapp",
+    "slug": "training-and-development/eduapp",
     "category": [
       "Learning & Development"
     ],
@@ -136,13 +166,26 @@
     ]
   },
   {
+    "id": 441,
+    "title": "Elasticsearch",
+    "short_description": "Distributed Search & Analytics Infrastructure for Operational Systems",
+    "long_description": "Elasticsearch is a distributed search and analytics platform used by organisations to index, search, analyse, and monitor large volumes of operational data across cloud, hybrid, and self-hosted environments. The platform supports full-text search, log analytics, observability, and real-time data processing for digital systems and applications.",
+    "image": "/uploads/1778217513_elastic.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/elasticsearch",
+    "slug": "data-and-analytics/elasticsearch",
+    "category": [
+      "Data & Analytics"
+    ],
+    "sub_category": []
+  },
+  {
     "id": 404,
     "title": "ElevenLabs",
     "short_description": "AI voice generation and text-to-speech platform for audio content",
     "long_description": "ElevenLabs is an AI-powered voice synthesis platform that converts text into natural-sounding speech and supports voice cloning across multiple languages. It enables organisations to generate audio content without traditional recording processes.",
     "image": "/uploads/1777008987_elevenlabs.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=elevenlabs-1",
-    "slug": "elevenlabs-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/elevenlabs",
+    "slug": "ai-tools/elevenlabs",
     "category": [
       "AI Tools"
     ],
@@ -156,8 +199,8 @@
     "short_description": "Device management platform for dedicated devices and field operations",
     "long_description": "Esper is a device management platform that enables organisations to manage and control fleets of devices, including Android, iOS, Windows, and Linux systems. It provides tools for provisioning, application management, remote control, and monitoring, designed for managing dedicated devices such as kiosks, POS systems, and field devices at scale.",
     "image": "/uploads/1776945760_esper.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=esper-1",
-    "slug": "esper-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/esper",
+    "slug": "office-automation/esper",
     "category": [
       "Office Automation"
     ],
@@ -166,13 +209,28 @@
     ]
   },
   {
+    "id": 442,
+    "title": "Exotel",
+    "short_description": "AI-Led Customer Experience Platform for Enterprise Communication & Contact Centres",
+    "long_description": "Exotel is a cloud-based customer engagement and communication platform that helps organisations manage voice, chat, AI agents, contact centre operations, and customer interactions through a unified infrastructure. The platform combines telecom-grade communication systems with AI-powered automation to support scalable customer experience (CX) operations across industries.",
+    "image": "/uploads/1778225308_exotel.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/exotel",
+    "slug": "marketing-and-communication/exotel",
+    "category": [
+      "Marketing & Communication"
+    ],
+    "sub_category": [
+      "Outreach and Marketing"
+    ]
+  },
+  {
     "id": 322,
     "title": "FactoHR",
     "short_description": "HR, payroll, and training management system for nonprofits and social purpose organisations",
     "long_description": "FactoHR is a cloud-based Human Capital Management (HCM) platform that enables organisations to manage payroll, attendance, compliance, recruitment, and employee performance within a single system. It includes an integrated Learning Management System (LMS) module for tracking staff training alongside HR operations.",
     "image": "/uploads/1776502167_factohr.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=factohr",
-    "slug": "factohr",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/human-resources/facto-hr",
+    "slug": "human-resources/facto-hr",
     "category": [
       "Human Resources"
     ],
@@ -187,8 +245,8 @@
     "short_description": "Teacher professional development platform for educators and education NGOs.",
     "long_description": "Firki is a free online teacher education platform built by Teach For India that enables educators to access structured courses, webinars, peer learning, and mentorship for continuous professional development.",
     "image": "/uploads/1776707678_firki.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=firki-1",
-    "slug": "firki-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/learning-and-development/firki",
+    "slug": "learning-and-development/firki",
     "category": [
       "Learning & Development"
     ],
@@ -202,8 +260,8 @@
     "short_description": "Managing workflows and processes across systems",
     "long_description": "Flux by Flux Corporation is a workflow automation platform that provides tools to design, execute, and monitor complex business processes. It offers features like job scheduling, event-based triggers, process orchestration, and real-time monitoring, managed through a centralized interface.",
     "image": "/uploads/1776862300_flux.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=flux-1",
-    "slug": "flux-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/flux",
+    "slug": "office-automation/flux",
     "category": [
       "Office Automation"
     ],
@@ -216,9 +274,9 @@
     "title": "Frappe",
     "short_description": "Open-source application framework for building custom organisational systems in nonprofits & social purpose organisations",
     "long_description": "Frappe is an open-source framework used to build applications such as ERP, HR, and workflow systems. It enables organisations to develop integrated systems tailored to their operations.",
-    "image": "/uploads/1776862412_frappe.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=frappe",
-    "slug": "frappe",
+    "image": "/uploads/1777533597_frappe.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/frappe",
+    "slug": "office-automation/frappe",
     "category": [
       "Office Automation"
     ],
@@ -231,9 +289,9 @@
     "title": "Fuel a Dream",
     "short_description": "Crowdfunding platform for projects and causes",
     "long_description": "Fuel a Dream is a crowdfunding platform that enables individuals and organisations to raise funds for social, creative, and innovation-led projects through campaign-based fundraising.",
-    "image": "/uploads/1776513266_fuel-a-dream.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=fuel-a-dream-1",
-    "slug": "fuel-a-dream-1",
+    "image": "/uploads/1777457269_fuel-a-dream.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/fuel-a-dream",
+    "slug": "fundraising/fuel-a-dream",
     "category": [
       "Fundraising"
     ],
@@ -247,8 +305,8 @@
     "short_description": "Free, open-source image editing software for visual content creation",
     "long_description": "GIMP (GNU Image Manipulation Program) is a free and open-source raster graphics editor used for image editing, retouching, and visual content creation. It supports a wide range of image formats and provides tools for photo correction, composition, and design without licensing costs.",
     "image": "/uploads/1777026342_gimp.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=gimp-1",
-    "slug": "gimp-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/gimp",
+    "slug": "marketing-and-communication/gimp",
     "category": [
       "Marketing & Communication"
     ],
@@ -262,8 +320,8 @@
     "short_description": "AI-powered presentation and content creation tool",
     "long_description": "Gamma is an AI-powered content creation tool that enables users to generate presentations, documents, and web pages from text prompts or outlines, with automated layout and formatting.",
     "image": "/uploads/1776946801_gamma.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=gamma-1",
-    "slug": "gamma-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/gamma",
+    "slug": "ai-tools/gamma",
     "category": [
       "AI Tools"
     ],
@@ -277,8 +335,8 @@
     "short_description": "AI assistance for content and media generation for nonprofits",
     "long_description": "Gemini is an AI-powered assistant developed by Google that supports content creation, summarisation, and media-related tasks. It helps organisations generate and refine content that can be used across text, images, and presentations.",
     "image": "/uploads/1776535410_gemini.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=gemini-1",
-    "slug": "gemini-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/gemini",
+    "slug": "ai-tools/gemini",
     "category": [
       "AI Tools"
     ],
@@ -292,8 +350,8 @@
     "short_description": "AI assistant for writing, analysis, and content support for nonprofits",
     "long_description": "Anthropic’s Claude is a conversational AI assistant that helps nonprofits and social purpose organisations generate content, summarise information, and work with documents and data. It supports teams in turning scattered inputs into structured outputs and developing clear, usable narratives within existing workflows.",
     "image": "/uploads/1777285016_github.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=github-copilot-1",
-    "slug": "github-copilot-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/github-copilot",
+    "slug": "ai-tools/github-copilot",
     "category": [
       "AI Tools"
     ],
@@ -306,14 +364,14 @@
     "title": "Glific",
     "short_description": "WhatsApp-based communication platform for NGOs & SPOs",
     "long_description": "Glific is an open-source platform that enables nonprofits and social purpose organisations to engage beneficiaries through WhatsApp, supporting two-way communication, information delivery, and feedback collection at scale.",
-    "image": "/uploads/1776433993_Glific.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=glific-1",
-    "slug": "glific-1",
+    "image": "/uploads/1777481618_glific.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/messaging/glific",
+    "slug": "messaging/glific",
     "category": [
-      "Chatbot"
+      "Messaging"
     ],
     "sub_category": [
-      "Chatbot"
+      "WhatsApp"
     ]
   },
   {
@@ -322,8 +380,8 @@
     "short_description": "Website analytics platform for understanding user behaviour and improving digital performance.",
     "long_description": "Google Analytics is a web-analytics service offering real-time and historical data on website traffic, user behavior, and marketing ROI through customizable dashboards and reports.",
     "image": "/uploads/1776862534_google analytics.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-analytics-1",
-    "slug": "google-analytics-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-analytics/google-analytics",
+    "slug": "data-analytics/google-analytics",
     "category": [
       "Data & Analytics"
     ],
@@ -337,8 +395,8 @@
     "short_description": "Cloud data warehouse for large-scale data storage and analysis",
     "long_description": "<strong>Google Cloud BigQuery</strong> is a serverless cloud data warehouse that enables organisations to store and analyse large datasets using SQL. It allows users to run complex queries, store and manage vast amounts of data, and integrate with various data analytics and business intelligence tools.",
     "image": "/uploads/1776406119_google-bigquery.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-bigquery",
-    "slug": "google-bigquery",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/google-bigquery",
+    "slug": "monitoring-and-evaluation/google-bigquery",
     "category": [
       "Monitoring and Evaluation"
     ],
@@ -352,8 +410,8 @@
     "short_description": "Cloud infrastructure and data platform for analytics, AI, and scalable digital systems",
     "long_description": "Google Cloud is a suite of cloud computing services that runs on the same infrastructure Google uses internally for its end-user products. It offers a range of services including computing, storage, networking, big data, machine learning, and developer tools.",
     "image": "/uploads/1776862738_google-cloud.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-cloud-1",
-    "slug": "google-cloud-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/google-cloud",
+    "slug": "data-and-analytics/google-cloud",
     "category": [
       "Data & Analytics"
     ],
@@ -367,8 +425,8 @@
     "short_description": "A free, browser-based form and survey tool used by NGOs for intake, volunteer registration, and operational data capture.",
     "long_description": "Google Forms is a free, browser-based form and survey tool used by nonprofits and social purpose organisations to collect beneficiary data, registrations, and operational information in real time through Google Sheets.",
     "image": "/uploads/1777023964_google-form.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-forms",
-    "slug": "google-forms",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/google-forms",
+    "slug": "monitoring-and-evaluation/google-forms",
     "category": [
       "Monitoring and Evaluation"
     ],
@@ -381,9 +439,9 @@
     "title": "Google Groups",
     "short_description": "Simple group communication for NGOs & SPOs",
     "long_description": "Google Groups is a free tool that enables nonprofits and social purpose organisations to create and manage email-based discussion groups and mailing lists. It helps teams, volunteers, and partners communicate through a shared group email address, while maintaining a searchable archive of conversations.",
-    "image": "/uploads/1777284281_google-groups.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-groups-1",
-    "slug": "google-groups-1",
+    "image": "/uploads/1777535718_google-groups.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-communication/google-groups",
+    "slug": "marketing-communication/google-groups",
     "category": [
       "Marketing & Communication"
     ],
@@ -397,8 +455,8 @@
     "short_description": "Website performance, accessibility, and SEO auditing tool",
     "long_description": "Google Lighthouse is a free, open-source tool developed by Google that helps organisations audit website performance, accessibility, and technical SEO. It runs automated checks and provides clear recommendations to improve website quality.",
     "image": "/uploads/1777024382_google-lighthouse.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-lighthouse-1",
-    "slug": "google-lighthouse-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/google-lighthouse",
+    "slug": "marketing-and-communication/google-lighthouse",
     "category": [
       "Marketing & Communication"
     ],
@@ -411,9 +469,9 @@
     "title": "Google Looker Studio",
     "short_description": "An interactive dashboarding tool for data visualisation and reporting.",
     "long_description": "<p><strong>Google Looker Studio (formerly Google Data Studio)</strong> is a free, web-based data visualisation and reporting tool developed by Google. It enables organisations to transform raw data into interactive dashboards and shareable reports.</p>\r\n\r\n<p>It connects to multiple data sources and presents information through charts, graphs, and tables, helping teams monitor performance and communicate insights effectively.</p>",
-    "image": "/uploads/1776406840_google-looker-studio.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-looker-studio-1",
-    "slug": "google-looker-studio-1",
+    "image": "/uploads/1777448434_google-looker-studio.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/google-looker-studio",
+    "slug": "monitoring-and-evaluation/google-looker-studio",
     "category": [
       "Monitoring and Evaluation"
     ],
@@ -426,9 +484,9 @@
     "title": "Google Meet",
     "short_description": "Video conferencing and meetings for nonprofits and distributed teams.",
     "long_description": "Google Meet is a video conferencing platform by Google that enables nonprofits and social purpose organisations to host secure online meetings, training sessions, and webinars. It integrates with Google Workspace, making it easy to schedule, join, and manage meetings directly from tools like Gmail and Google Calendar.",
-    "image": "/uploads/1776941905_google-meet.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-meet-1",
-    "slug": "google-meet-1",
+    "image": "/uploads/1777535129_google-meet.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/google-meet",
+    "slug": "marketing-and-communication/google-meet",
     "category": [
       "Marketing & Communication"
     ],
@@ -442,8 +500,8 @@
     "short_description": "Cloud-based spreadsheet tool for data management and lightweight programme workflows",
     "long_description": "<p>Google Sheets is a cloud-based spreadsheet tool used by nonprofits and social purpose organisations to manage programme data, track operations, and generate reports collaboratively.</p>\r\n\r\n<p>While not a dedicated data collection platform, it is widely used as a flexible data management layer, often combined with tools like Google Forms or external survey platforms.</p>",
     "image": "/uploads/1777024041_google-sheet.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-sheets-1",
-    "slug": "google-sheets-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/google-sheets",
+    "slug": "monitoring-and-evaluation/google-sheets",
     "category": [
       "Monitoring and Evaluation"
     ],
@@ -456,9 +514,9 @@
     "title": "Google Workspace",
     "short_description": "Cloud-based productivity and collaboration suite for nonprofits and social purpose organisations",
     "long_description": "Google Workspace is a suite of cloud-based productivity and collaboration tools that includes applications for email (Gmail), word processing (Docs), spreadsheets (Sheets), presentations (Slides), cloud storage (Drive), and video conferencing (Meet). It enables real-time collaboration and remote work.",
-    "image": "/uploads/1776776195_google-workspaces.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-workspace-1",
-    "slug": "google-workspace-1",
+    "image": "/uploads/1777526533_google-workspace.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/google-workspace",
+    "slug": "office-automation/google-workspace",
     "category": [
       "Office Automation"
     ],
@@ -471,14 +529,14 @@
     "title": "Grammarly",
     "short_description": "Writing assistance and grammar support for NGOs and social purpose organisations.",
     "long_description": "Grammarly is an AI-powered writing assistant that helps users improve their writing by checking for grammar, spelling, punctuation, clarity, engagement, and delivery errors. It provides suggestions in real-time across various platforms.",
-    "image": "/uploads/1776150062_Grammarly.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=grammarly-1",
-    "slug": "grammarly-1",
+    "image": "/uploads/1777456426_grammarly.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/grammarly",
+    "slug": "ai-tools/grammarly",
     "category": [
       "AI Tools"
     ],
     "sub_category": [
-      "Text Generation"
+      "AI Writing & Content Generation"
     ]
   },
   {
@@ -487,8 +545,8 @@
     "short_description": "Developer workflow automation for NGOs & SPOs",
     "long_description": "Graphite is a developer platform that helps SPOs automate pull request workflows, code reviews, and CI processes within Git-based development environments. It is used by technology teams managing complex codebases and multi-developer contributions.",
     "image": "/uploads/1777135790_graphite.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=graphite-1",
-    "slug": "graphite-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/graphite",
+    "slug": "ai-tools/graphite",
     "category": [
       "AI Tools"
     ],
@@ -497,78 +555,18 @@
     ]
   },
   {
-    "id": 48,
+    "id": 432,
     "title": "Grok AI",
-    "short_description": "Conversational AI by xAI with real-time, somewhat edgy or witty answers, integrated with social feeds.",
-    "long_description": "Grok AI is a conversational AI platform by xAI. It delivers real‑time, context‑aware dialogue across diverse topics, leveraging unfiltered and witty responses to engage users and integrate with social feeds.",
-    "image": "/uploads/1764325153_grok.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=grok-ai",
-    "slug": "grok-ai",
+    "short_description": "Conversational AI platform for organisational productivity",
+    "long_description": "Grok AI is a conversational AI platform by xAI designed for real-time dialogue, content generation, and collaborative AI use. It functions primarily as a general-purpose communication, drafting, and productivity tool rather than a specialised sector-specific platform. Its business and enterprise offerings focus on team collaboration, governance, and organisational controls.",
+    "image": "/uploads/1777535812_grok-ai.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/grok-ai",
+    "slug": "ai-tools/grok-ai",
     "category": [
       "AI Tools"
     ],
     "sub_category": [
       "AI Assistant"
-    ]
-  },
-  {
-    "id": 262,
-    "title": "Gupshup",
-    "short_description": "Messaging infrastructure platform for NGOs & SPOs",
-    "long_description": "Gupshup is a conversational messaging platform that enables organisations to build and deploy communication workflows across channels such as WhatsApp, SMS, and other messaging services.",
-    "image": "/uploads/1776434707_Gupshup.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=gupshup-1",
-    "slug": "gupshup-1",
-    "category": [
-      "Chatbot"
-    ],
-    "sub_category": [
-      "Chatbot"
-    ]
-  },
-  {
-    "id": 378,
-    "title": "Hive",
-    "short_description": "Workflow coordination and project tracking for nonprofits",
-    "long_description": "Hive is a workflow and project management platform that helps nonprofits and social purpose organisations organise tasks, track progress, and coordinate workflows across teams. It brings together task management, timelines, and communication into a single workspace, supporting structured execution of programmes and internal processes.",
-    "image": "/uploads/1776867682_hive.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=hive-1",
-    "slug": "hive-1",
-    "category": [
-      "Office Automation"
-    ],
-    "sub_category": [
-      "Workflow Management"
-    ]
-  },
-  {
-    "id": 418,
-    "title": "Hootsuite",
-    "short_description": "Flexible social media management for nonprofits and social purpose organisations",
-    "long_description": "Hootsuite is a social media management platform that helps nonprofits and social purpose organisations plan content, manage engagement, monitor public conversations, and analyse performance across multiple platforms from a single dashboard.",
-    "image": "/uploads/1777137258_hootsuite.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=hootsuite-1",
-    "slug": "hootsuite-1",
-    "category": [
-      "Marketing & Communication"
-    ],
-    "sub_category": [
-      "Social Media & Community Engagement"
-    ]
-  },
-  {
-    "id": 302,
-    "title": "Hotjar",
-    "short_description": "User behaviour analytics tool for website and user experience",
-    "long_description": "<p>Hotjar is a digital experience analytics tool (now part of Contentsquare) that helps organisations understand how users interact with their websites and applications. It provides visual insights into user behaviour through heatmaps, session recordings, and feedback tools.</p>\r\n\r\n<p>It enables teams to move beyond quantitative metrics and understand user behaviour, friction points, and engagement patterns.</p>",
-    "image": "/uploads/1776407942_hotjar.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=hotjar-1",
-    "slug": "hotjar-1",
-    "category": [
-      "Monitoring and Evaluation"
-    ],
-    "sub_category": [
-      "Reporting & Dashboarding"
     ]
   }
 ]

@@ -12,9 +12,9 @@
       "3DAI Studio"
     ],
     "short_description": "AI-powered creative platform for NGOs & SPOs",
-    "image": "/uploads/1777023499_3dai.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=3dai-studio",
-    "slug": "3dai-studio",
+    "image": "/uploads/1777525418_3dai.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/3dai-studio",
+    "slug": "ai-tools/3dai-studio",
     "id": 238,
     "category": "tool"
   },
@@ -32,8 +32,8 @@
     ],
     "short_description": "Mentorship and cohort management platform for nonprofits",
     "image": "/uploads/1777023616_ally.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=ally-1",
-    "slug": "ally-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/learning-and-development/ally",
+    "slug": "learning-and-development/ally",
     "id": 303,
     "category": "tool"
   },
@@ -51,8 +51,8 @@
     ],
     "short_description": "Data analytics platform for nonprofit programme data",
     "image": "/uploads/1776774077_Alteryx.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=alteryx-1",
-    "slug": "alteryx-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/alteryx",
+    "slug": "data-and-analytics/alteryx",
     "id": 339,
     "category": "tool"
   },
@@ -65,13 +65,13 @@
     ],
     "values": [
       "AI Tools",
-      "Text Generation",
+      "AI Writing & Content Generation",
       "Amazon Comprehend"
     ],
     "short_description": "A cloud-based NLP service that extracts insights, sentiment, entities, and key phrases from text at scale.",
     "image": "/uploads/1776780004_aws-logo.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=amazon-comprehend-1",
-    "slug": "amazon-comprehend-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/amazon-comprehend",
+    "slug": "ai-tools/amazon-comprehend",
     "id": 244,
     "category": "tool"
   },
@@ -89,8 +89,8 @@
     ],
     "short_description": "Cloud infrastructure platform for building and scaling digital systems",
     "image": "/uploads/1777023698_aws.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=amazon-web-services",
-    "slug": "amazon-web-services",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/aws",
+    "slug": "data-and-analytics/aws",
     "id": 337,
     "category": "tool"
   },
@@ -107,9 +107,9 @@
       "Apache Superset"
     ],
     "short_description": "Data visualisation and dashboarding for nonprofits & SPOs",
-    "image": "/uploads/1776411762_apache-superset.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=apache-superset-1",
-    "slug": "apache-superset-1",
+    "image": "/uploads/1777455258_apache-superset.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/apache-superset",
+    "slug": "monitoring-and-evaluation/apache-superset",
     "id": 306,
     "category": "tool"
   },
@@ -126,9 +126,9 @@
       "Asana"
     ],
     "short_description": "Work management platform for nonprofits",
-    "image": "/uploads/1776323652_asana-main-logo.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=asana-1",
-    "slug": "asana-1",
+    "image": "/uploads/1777445909_asana.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/asana",
+    "slug": "project-and-task-management/asana",
     "id": 267,
     "category": "tool"
   },
@@ -145,9 +145,9 @@
       "AssemblyAI"
     ],
     "short_description": "AI speech-to-text and audio analysis",
-    "image": "/uploads/1776776413_assemblyai.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=assemblyai-1",
-    "slug": "assemblyai-1",
+    "image": "/uploads/1777542302_assemblyai.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/assemblyai",
+    "slug": "ai-tools/assemblyai",
     "id": 341,
     "category": "tool"
   },
@@ -164,9 +164,9 @@
       "Avaza"
     ],
     "short_description": "Project management and collaboration for nonprofits",
-    "image": "/uploads/1776324567_avaza.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=avaza-1",
-    "slug": "avaza-1",
+    "image": "/uploads/1777446076_avaza.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/avaza",
+    "slug": "project-and-task-management/avaza",
     "id": 271,
     "category": "tool"
   },
@@ -183,9 +183,9 @@
       "Avni"
     ],
     "short_description": "Offline-first field data collection and beneficiary tracking platform for NGOs",
-    "image": "/uploads/1776326388_avni.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=avni-1",
-    "slug": "avni-1",
+    "image": "/uploads/1777447703_avni.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/avni",
+    "slug": "monitoring-and-evaluation/avni",
     "id": 269,
     "category": "tool"
   },
@@ -202,9 +202,9 @@
       "Basecamp"
     ],
     "short_description": "Collaboration Tool for Social Impact",
-    "image": "/uploads/1776326066_Basecamp.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=basecamp-1",
-    "slug": "basecamp-1",
+    "image": "/uploads/1777446310_basecamp.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/basecamp",
+    "slug": "project-and-task-management/basecamp",
     "id": 274,
     "category": "tool"
   },
@@ -222,8 +222,8 @@
     ],
     "short_description": "AI-assisted presentation design for nonprofits",
     "image": "/uploads/1776931172_beautifulai.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=beautifulai-1",
-    "slug": "beautifulai-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/beautifulai",
+    "slug": "ai-tools/beautifulai",
     "id": 390,
     "category": "tool"
   },
@@ -241,8 +241,8 @@
     ],
     "short_description": "HR and training management system for nonprofits and social purpose organisations.",
     "image": "/uploads/1776501072_beehivehcm.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=beehive-hrms",
-    "slug": "beehive-hrms",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/human-resources/beehive-hrms",
+    "slug": "human-resources/beehive-hrms",
     "id": 321,
     "category": "tool"
   },
@@ -260,9 +260,28 @@
     ],
     "short_description": "Civic Engagement Platform for Volunteer & Fellowship Management, Community Building, and Social Impact Measurement.",
     "image": "/uploads/1776412164_bettertogether.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=better-together-1",
-    "slug": "better-together-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/learning-and-development/better-together",
+    "slug": "learning-and-development/better-together",
     "id": 308,
+    "category": "tool"
+  },
+  {
+    "sheet": "Cleaned Sheet",
+    "column_headers": [
+      "Category",
+      "Sub-Category",
+      "Name of Tool"
+    ],
+    "values": [
+      "AI Tools",
+      "Language & conversational AI",
+      "Bhashini AI"
+    ],
+    "short_description": "Voice-First Multilingual AI Platform",
+    "image": "/uploads/1778150700_bhashini.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/bhashini-ai",
+    "slug": "ai-tools/bhashini-ai",
+    "id": 434,
     "category": "tool"
   },
   {
@@ -279,8 +298,8 @@
     ],
     "short_description": "Relationship management for donors and stakeholders",
     "image": "/uploads/1776330496_Bigin by Zoho CRM.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=bigin-by-zoho-crm",
-    "slug": "bigin-by-zoho-crm",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/bigin-by-zoho-crm",
+    "slug": "fundraising/bigin-by-zoho-crm",
     "id": 276,
     "category": "tool"
   },
@@ -298,8 +317,8 @@
     ],
     "short_description": "AI-assisted app and web development for nonprofits",
     "image": "/uploads/1776936162_bolt.new.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=boltnew",
-    "slug": "boltnew",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/boltnew",
+    "slug": "office-automation/boltnew",
     "id": 394,
     "category": "tool"
   },
@@ -317,8 +336,8 @@
     ],
     "short_description": "Social media scheduling and management for nonprofits",
     "image": "/uploads/1776937670_buffer.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=buffer-1",
-    "slug": "buffer-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/buffer",
+    "slug": "marketing-and-communication/buffer",
     "id": 396,
     "category": "tool"
   },
@@ -335,9 +354,9 @@
       "Calendly"
     ],
     "short_description": "Meeting scheduling automation tool for nonprofits and social purpose organisations.",
-    "image": "/uploads/1776862269_calendly.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=calendly-1",
-    "slug": "calendly-1",
+    "image": "/uploads/1777532949_calendly.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/calendly",
+    "slug": "office-automation/calendly",
     "id": 370,
     "category": "tool"
   },
@@ -354,9 +373,9 @@
       "Campus Cloud (by Platform Commons)"
     ],
     "short_description": "School ERP and student information system for nonprofits & social purpose organisations",
-    "image": "/uploads/1776577421_campus cloud.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=campus-cloud-by-platform-commons",
-    "slug": "campus-cloud-by-platform-commons",
+    "image": "/uploads/1777464686_campus-cloud.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/training-and-development/campus-cloud",
+    "slug": "training-and-development/campus-cloud",
     "id": 316,
     "category": "tool"
   },
@@ -374,8 +393,8 @@
     ],
     "short_description": "Design and content creation for nonprofits",
     "image": "/uploads/1777024200_canva.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=canva-1",
-    "slug": "canva-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/canva",
+    "slug": "marketing-and-communication/canva",
     "id": 409,
     "category": "tool"
   },
@@ -393,8 +412,8 @@
     ],
     "short_description": "AI-powered design and 3D content creation for NGOs & SPOs.",
     "image": "/uploads/1777024186_canva.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=canva-ai-3d-model-generator",
-    "slug": "canva-ai-3d-model-generator",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/canva-ai-3d-model-generator",
+    "slug": "ai-tools/canva-ai-3d-model-generator",
     "id": 239,
     "category": "tool"
   },
@@ -412,8 +431,8 @@
     ],
     "short_description": "AI-assisted data visualisation and insights for nonprofits",
     "image": "/uploads/1777017288_chartpixel.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=chartpixel-1",
-    "slug": "chartpixel-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/chartpixel",
+    "slug": "data-and-analytics/chartpixel",
     "id": 410,
     "category": "tool"
   },
@@ -431,8 +450,8 @@
     ],
     "short_description": "AI-powered data exploration for nonprofits working with spreadsheets",
     "image": "/uploads/1777052677_chat-csv.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=chat-csv-1",
-    "slug": "chat-csv-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/chat-csv",
+    "slug": "ai-tools/chat-csv",
     "id": 412,
     "category": "tool"
   },
@@ -450,9 +469,28 @@
     ],
     "short_description": "AI assistant for content creation, research, and workflow support.",
     "image": "/uploads/1777022378_chatgpt (1).webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=chatgpt-1",
-    "slug": "chatgpt-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/chatgpt",
+    "slug": "ai-tools/chatgpt",
     "id": 252,
+    "category": "tool"
+  },
+  {
+    "sheet": "Cleaned Sheet",
+    "column_headers": [
+      "Category",
+      "Sub-Category",
+      "Name of Tool"
+    ],
+    "values": [
+      "Fundraising",
+      "CRM/Grant/Donor Management",
+      "CiviCRM"
+    ],
+    "short_description": "",
+    "image": "/uploads/1778505130_CiviCRM-logo-2019-F2-200px.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/civicrm",
+    "slug": "fundraising/civicrm",
+    "id": 443,
     "category": "tool"
   },
   {
@@ -469,8 +507,8 @@
     ],
     "short_description": "AI assistant for writing, analysis, and content support for nonprofits",
     "image": "/uploads/1777284550_claude.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=claude-1",
-    "slug": "claude-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/claude",
+    "slug": "ai-tools/claude",
     "id": 427,
     "category": "tool"
   },
@@ -487,9 +525,9 @@
       "Clearscope"
     ],
     "short_description": "AI-powered content optimisation and SEO platform.",
-    "image": "/uploads/1776863425_clearscope.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=clearscope-1",
-    "slug": "clearscope-1",
+    "image": "/uploads/1777533448_clearscope.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/clearscope",
+    "slug": "marketing-and-communication/clearscope",
     "id": 374,
     "category": "tool"
   },
@@ -506,9 +544,9 @@
       "ClickTime"
     ],
     "short_description": "Time tracking and labour cost management for nonprofits.",
-    "image": "/uploads/1776680656_clicktime.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=clicktime-1",
-    "slug": "clicktime-1",
+    "image": "/uploads/1777526208_clicktime.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/finance-and-accounts/clicktime",
+    "slug": "finance-and-accounts/clicktime",
     "id": 334,
     "category": "tool"
   },
@@ -526,8 +564,8 @@
     ],
     "short_description": "Productivity platform for social impact",
     "image": "/uploads/1776338185_clickup.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=clickup-1",
-    "slug": "clickup-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/clickup",
+    "slug": "project-and-task-management/clickup",
     "id": 287,
     "category": "tool"
   },
@@ -544,9 +582,9 @@
       "Collaborate"
     ],
     "short_description": "Project tracking for development sector",
-    "image": "/uploads/1776421469_Collaborate.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=collaborate-1",
-    "slug": "collaborate-1",
+    "image": "/uploads/1777447134_collaborate.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/collaborate",
+    "slug": "project-and-task-management/collaborate",
     "id": 285,
     "category": "tool"
   },
@@ -564,8 +602,8 @@
     ],
     "short_description": "Digital case management and field operations platform for NGOs",
     "image": "/uploads/1776326313_commcare.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=commcare-1",
-    "slug": "commcare-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/commcare",
+    "slug": "monitoring-and-evaluation/commcare",
     "id": 272,
     "category": "tool"
   },
@@ -583,8 +621,8 @@
     ],
     "short_description": "Farm management and data platform for organisations working with smallholder farmers and agriculture programmes.",
     "image": "/uploads/1776773692_commons-farm.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=commonsfarm-1",
-    "slug": "commonsfarm-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/commonsfarm",
+    "slug": "office-automation/commonsfarm",
     "id": 338,
     "category": "tool"
   },
@@ -597,13 +635,13 @@
     ],
     "values": [
       "AI Tools",
-      "Text Generation",
+      "AI Writing & Content Generation",
       "Copy.ai"
     ],
     "short_description": "An AI-powered copywriting tool for generating marketing content, blogs, and social media posts quickly.",
     "image": "/uploads/1776088353_main-copyai.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=copyai-1",
-    "slug": "copyai-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/copy-ai",
+    "slug": "ai-tools/copy-ai",
     "id": 245,
     "category": "tool"
   },
@@ -620,9 +658,9 @@
       "D-ID"
     ],
     "short_description": "Converts text, images, or audio into talking avatar videos, enabling quick, low-effort content creation.",
-    "image": "/uploads/1776533943_did.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=d-id-1",
-    "slug": "d-id-1",
+    "image": "/uploads/1777457489_did.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/d-id",
+    "slug": "ai-tools/d-id",
     "id": 251,
     "category": "tool"
   },
@@ -640,8 +678,8 @@
     ],
     "short_description": "DALL·E 3 generates images from text prompts, helping nonprofits create custom visuals quickly without design skills.",
     "image": "/uploads/1776534400_dalle.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=dalle-3",
-    "slug": "dalle-3",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/dalle3",
+    "slug": "ai-tools/dalle3",
     "id": 253,
     "category": "tool"
   },
@@ -659,8 +697,8 @@
     ],
     "short_description": "AI-powered donor intelligence and prospecting platform for NGOs",
     "image": "/uploads/1777274633_daanveda.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=daanveda-1",
-    "slug": "daanveda-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/daanveda",
+    "slug": "fundraising/daanveda",
     "id": 423,
     "category": "tool"
   },
@@ -677,9 +715,9 @@
       "Dalgo"
     ],
     "short_description": "Data pipelines and analytics for NGO data systems",
-    "image": "/uploads/1777012667_dalgo.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=dalgo-1",
-    "slug": "dalgo-1",
+    "image": "/uploads/1777542392_dalgo.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/dalgo",
+    "slug": "data-and-analytics/dalgo",
     "id": 407,
     "category": "tool"
   },
@@ -697,8 +735,8 @@
     ],
     "short_description": "Digital fundraising and donation management platform for nonprofits",
     "image": "/uploads/1776522547_danamojo.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=danamojo-1",
-    "slug": "danamojo-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/danamojo",
+    "slug": "fundraising/danamojo",
     "id": 298,
     "category": "tool"
   },
@@ -711,13 +749,13 @@
     ],
     "values": [
       "AI Tools",
-      "Text Generation",
+      "AI Writing & Content Generation",
       "DeepL"
     ],
     "short_description": "Translation and language support for NGOs and social purpose organisations.",
-    "image": "/uploads/1776147971_deepl.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=deepl-1",
-    "slug": "deepl-1",
+    "image": "/uploads/1777456313_deepl.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/deepl",
+    "slug": "ai-tools/deepl",
     "id": 246,
     "category": "tool"
   },
@@ -735,8 +773,8 @@
     ],
     "short_description": "Audio and video editing tool for nonprofits.",
     "image": "/uploads/1776535634_descript.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=descript-1",
-    "slug": "descript-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/descript",
+    "slug": "ai-tools/descript",
     "id": 257,
     "category": "tool"
   },
@@ -754,8 +792,8 @@
     ],
     "short_description": "Support workflows for NGOs & SPOs",
     "image": "/uploads/1777011836_deskpro.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=deskpro-1",
-    "slug": "deskpro-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/deskpro",
+    "slug": "office-automation/deskpro",
     "id": 406,
     "category": "tool"
   },
@@ -773,8 +811,8 @@
     ],
     "short_description": "Simple cloud platform for hosting applications and managing data",
     "image": "/uploads/1776862135_digitalocean.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=digitalocean-1",
-    "slug": "digitalocean-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/digitalocean",
+    "slug": "data-and-analytics/digitalocean",
     "id": 344,
     "category": "tool"
   },
@@ -792,8 +830,8 @@
     ],
     "short_description": "Knowledge base and documentation platform for nonprofits and social purpose organisations",
     "image": "/uploads/1776858379_document360.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=document360-1",
-    "slug": "document360-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/document360",
+    "slug": "office-automation/document360",
     "id": 346,
     "category": "tool"
   },
@@ -811,8 +849,8 @@
     ],
     "short_description": "Cloud file storage and sharing platform for nonprofits and social purpose organisations",
     "image": "/uploads/1776858676_drop-box.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=dropbox-1",
-    "slug": "dropbox-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/dropbox",
+    "slug": "office-automation/dropbox",
     "id": 348,
     "category": "tool"
   },
@@ -830,8 +868,8 @@
     ],
     "short_description": "Financial management and donor tracking platform for nonprofits and social purpose organisations.",
     "image": "/uploads/1776682519_erp4impact.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=erp4impact-1",
-    "slug": "erp4impact-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/finance-and-accounts/erp4impact",
+    "slug": "finance-and-accounts/erp4impact",
     "id": 335,
     "category": "tool"
   },
@@ -849,8 +887,8 @@
     ],
     "short_description": "Open-source HR and workforce management system for nonprofits and social purpose organisations",
     "image": "/uploads/1777023874_erpnext.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=erpnext",
-    "slug": "erpnext",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/human-resources/erpnext",
+    "slug": "human-resources/erpnext",
     "id": 320,
     "category": "tool"
   },
@@ -868,8 +906,8 @@
     ],
     "short_description": "Digital learning platform with pre-built curriculum for education programmes",
     "image": "/uploads/1777010529_edusystem.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=edusystem-1",
-    "slug": "edusystem-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/learning-and-development/edusystem",
+    "slug": "learning-and-development/edusystem",
     "id": 405,
     "category": "tool"
   },
@@ -887,9 +925,28 @@
     ],
     "short_description": "Education management platform for nonprofits & social purpose organisations",
     "image": "/uploads/1776536322_eduapp.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=eduapp-1",
-    "slug": "eduapp-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/training-and-development/eduapp",
+    "slug": "training-and-development/eduapp",
     "id": 313,
+    "category": "tool"
+  },
+  {
+    "sheet": "Cleaned Sheet",
+    "column_headers": [
+      "Category",
+      "Sub-Category",
+      "Name of Tool"
+    ],
+    "values": [
+      "Data & Analytics",
+      "",
+      "Elasticsearch"
+    ],
+    "short_description": "Distributed Search & Analytics Infrastructure for Operational Systems",
+    "image": "/uploads/1778217513_elastic.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/elasticsearch",
+    "slug": "data-and-analytics/elasticsearch",
+    "id": 441,
     "category": "tool"
   },
   {
@@ -906,8 +963,8 @@
     ],
     "short_description": "AI voice generation and text-to-speech platform for audio content",
     "image": "/uploads/1777008987_elevenlabs.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=elevenlabs-1",
-    "slug": "elevenlabs-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/elevenlabs",
+    "slug": "ai-tools/elevenlabs",
     "id": 404,
     "category": "tool"
   },
@@ -925,9 +982,28 @@
     ],
     "short_description": "Device management platform for dedicated devices and field operations",
     "image": "/uploads/1776945760_esper.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=esper-1",
-    "slug": "esper-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/esper",
+    "slug": "office-automation/esper",
     "id": 401,
+    "category": "tool"
+  },
+  {
+    "sheet": "Cleaned Sheet",
+    "column_headers": [
+      "Category",
+      "Sub-Category",
+      "Name of Tool"
+    ],
+    "values": [
+      "Marketing & Communication",
+      "Outreach and Marketing",
+      "Exotel"
+    ],
+    "short_description": "AI-Led Customer Experience Platform for Enterprise Communication & Contact Centres",
+    "image": "/uploads/1778225308_exotel.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/exotel",
+    "slug": "marketing-and-communication/exotel",
+    "id": 442,
     "category": "tool"
   },
   {
@@ -944,8 +1020,8 @@
     ],
     "short_description": "HR, payroll, and training management system for nonprofits and social purpose organisations",
     "image": "/uploads/1776502167_factohr.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=factohr",
-    "slug": "factohr",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/human-resources/facto-hr",
+    "slug": "human-resources/facto-hr",
     "id": 322,
     "category": "tool"
   },
@@ -963,8 +1039,8 @@
     ],
     "short_description": "Teacher professional development platform for educators and education NGOs.",
     "image": "/uploads/1776707678_firki.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=firki-1",
-    "slug": "firki-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/learning-and-development/firki",
+    "slug": "learning-and-development/firki",
     "id": 310,
     "category": "tool"
   },
@@ -982,8 +1058,8 @@
     ],
     "short_description": "Managing workflows and processes across systems",
     "image": "/uploads/1776862300_flux.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=flux-1",
-    "slug": "flux-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/flux",
+    "slug": "office-automation/flux",
     "id": 350,
     "category": "tool"
   },
@@ -1000,9 +1076,9 @@
       "Frappe"
     ],
     "short_description": "Open-source application framework for building custom organisational systems in nonprofits & social purpose organisations",
-    "image": "/uploads/1776862412_frappe.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=frappe",
-    "slug": "frappe",
+    "image": "/uploads/1777533597_frappe.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/frappe",
+    "slug": "office-automation/frappe",
     "id": 352,
     "category": "tool"
   },
@@ -1019,9 +1095,9 @@
       "Fuel a Dream"
     ],
     "short_description": "Crowdfunding platform for projects and causes",
-    "image": "/uploads/1776513266_fuel-a-dream.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=fuel-a-dream-1",
-    "slug": "fuel-a-dream-1",
+    "image": "/uploads/1777457269_fuel-a-dream.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/fuel-a-dream",
+    "slug": "fundraising/fuel-a-dream",
     "id": 291,
     "category": "tool"
   },
@@ -1039,8 +1115,8 @@
     ],
     "short_description": "Free, open-source image editing software for visual content creation",
     "image": "/uploads/1777026342_gimp.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=gimp-1",
-    "slug": "gimp-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/gimp",
+    "slug": "marketing-and-communication/gimp",
     "id": 403,
     "category": "tool"
   },
@@ -1058,8 +1134,8 @@
     ],
     "short_description": "AI-powered presentation and content creation tool",
     "image": "/uploads/1776946801_gamma.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=gamma-1",
-    "slug": "gamma-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/gamma",
+    "slug": "ai-tools/gamma",
     "id": 402,
     "category": "tool"
   },
@@ -1077,8 +1153,8 @@
     ],
     "short_description": "AI assistance for content and media generation for nonprofits",
     "image": "/uploads/1776535410_gemini.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=gemini-1",
-    "slug": "gemini-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/gemini",
+    "slug": "ai-tools/gemini",
     "id": 256,
     "category": "tool"
   },
@@ -1096,8 +1172,8 @@
     ],
     "short_description": "AI assistant for writing, analysis, and content support for nonprofits",
     "image": "/uploads/1777285016_github.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=github-copilot-1",
-    "slug": "github-copilot-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/github-copilot",
+    "slug": "ai-tools/github-copilot",
     "id": 429,
     "category": "tool"
   },
@@ -1109,14 +1185,14 @@
       "Name of Tool"
     ],
     "values": [
-      "Chatbot",
-      "Chatbot",
+      "Messaging",
+      "WhatsApp",
       "Glific"
     ],
     "short_description": "WhatsApp-based communication platform for NGOs & SPOs",
-    "image": "/uploads/1776433993_Glific.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=glific-1",
-    "slug": "glific-1",
+    "image": "/uploads/1777481618_glific.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/messaging/glific",
+    "slug": "messaging/glific",
     "id": 260,
     "category": "tool"
   },
@@ -1134,8 +1210,8 @@
     ],
     "short_description": "Website analytics platform for understanding user behaviour and improving digital performance.",
     "image": "/uploads/1776862534_google analytics.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-analytics-1",
-    "slug": "google-analytics-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-analytics/google-analytics",
+    "slug": "data-analytics/google-analytics",
     "id": 357,
     "category": "tool"
   },
@@ -1153,8 +1229,8 @@
     ],
     "short_description": "Cloud data warehouse for large-scale data storage and analysis",
     "image": "/uploads/1776406119_google-bigquery.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-bigquery",
-    "slug": "google-bigquery",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/google-bigquery",
+    "slug": "monitoring-and-evaluation/google-bigquery",
     "id": 300,
     "category": "tool"
   },
@@ -1172,8 +1248,8 @@
     ],
     "short_description": "Cloud infrastructure and data platform for analytics, AI, and scalable digital systems",
     "image": "/uploads/1776862738_google-cloud.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-cloud-1",
-    "slug": "google-cloud-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/google-cloud",
+    "slug": "data-and-analytics/google-cloud",
     "id": 358,
     "category": "tool"
   },
@@ -1191,8 +1267,8 @@
     ],
     "short_description": "A free, browser-based form and survey tool used by NGOs for intake, volunteer registration, and operational data capture.",
     "image": "/uploads/1777023964_google-form.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-forms",
-    "slug": "google-forms",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/google-forms",
+    "slug": "monitoring-and-evaluation/google-forms",
     "id": 315,
     "category": "tool"
   },
@@ -1209,9 +1285,9 @@
       "Google Groups"
     ],
     "short_description": "Simple group communication for NGOs & SPOs",
-    "image": "/uploads/1777284281_google-groups.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-groups-1",
-    "slug": "google-groups-1",
+    "image": "/uploads/1777535718_google-groups.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-communication/google-groups",
+    "slug": "marketing-communication/google-groups",
     "id": 426,
     "category": "tool"
   },
@@ -1229,8 +1305,8 @@
     ],
     "short_description": "Website performance, accessibility, and SEO auditing tool",
     "image": "/uploads/1777024382_google-lighthouse.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-lighthouse-1",
-    "slug": "google-lighthouse-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/google-lighthouse",
+    "slug": "marketing-and-communication/google-lighthouse",
     "id": 361,
     "category": "tool"
   },
@@ -1247,9 +1323,9 @@
       "Google Looker Studio"
     ],
     "short_description": "An interactive dashboarding tool for data visualisation and reporting.",
-    "image": "/uploads/1776406840_google-looker-studio.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-looker-studio-1",
-    "slug": "google-looker-studio-1",
+    "image": "/uploads/1777448434_google-looker-studio.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/google-looker-studio",
+    "slug": "monitoring-and-evaluation/google-looker-studio",
     "id": 301,
     "category": "tool"
   },
@@ -1266,9 +1342,9 @@
       "Google Meet"
     ],
     "short_description": "Video conferencing and meetings for nonprofits and distributed teams.",
-    "image": "/uploads/1776941905_google-meet.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-meet-1",
-    "slug": "google-meet-1",
+    "image": "/uploads/1777535129_google-meet.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/google-meet",
+    "slug": "marketing-and-communication/google-meet",
     "id": 399,
     "category": "tool"
   },
@@ -1286,8 +1362,8 @@
     ],
     "short_description": "Cloud-based spreadsheet tool for data management and lightweight programme workflows",
     "image": "/uploads/1777024041_google-sheet.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-sheets-1",
-    "slug": "google-sheets-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/google-sheets",
+    "slug": "monitoring-and-evaluation/google-sheets",
     "id": 293,
     "category": "tool"
   },
@@ -1304,9 +1380,9 @@
       "Google Workspace"
     ],
     "short_description": "Cloud-based productivity and collaboration suite for nonprofits and social purpose organisations",
-    "image": "/uploads/1776776195_google-workspaces.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=google-workspace-1",
-    "slug": "google-workspace-1",
+    "image": "/uploads/1777526533_google-workspace.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/google-workspace",
+    "slug": "office-automation/google-workspace",
     "id": 340,
     "category": "tool"
   },
@@ -1319,13 +1395,13 @@
     ],
     "values": [
       "AI Tools",
-      "Text Generation",
+      "AI Writing & Content Generation",
       "Grammarly"
     ],
     "short_description": "Writing assistance and grammar support for NGOs and social purpose organisations.",
-    "image": "/uploads/1776150062_Grammarly.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=grammarly-1",
-    "slug": "grammarly-1",
+    "image": "/uploads/1777456426_grammarly.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/grammarly",
+    "slug": "ai-tools/grammarly",
     "id": 247,
     "category": "tool"
   },
@@ -1343,8 +1419,8 @@
     ],
     "short_description": "Developer workflow automation for NGOs & SPOs",
     "image": "/uploads/1777135790_graphite.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=graphite-1",
-    "slug": "graphite-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/graphite",
+    "slug": "ai-tools/graphite",
     "id": 417,
     "category": "tool"
   },
@@ -1360,11 +1436,11 @@
       "AI Assistant",
       "Grok AI"
     ],
-    "short_description": "Conversational AI by xAI with real-time, somewhat edgy or witty answers, integrated with social feeds.",
-    "image": "/uploads/1764325153_grok.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=grok-ai",
-    "slug": "grok-ai",
-    "id": 48,
+    "short_description": "Conversational AI platform for organisational productivity",
+    "image": "/uploads/1777535812_grok-ai.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/grok-ai",
+    "slug": "ai-tools/grok-ai",
+    "id": 432,
     "category": "tool"
   },
   {
@@ -1375,14 +1451,14 @@
       "Name of Tool"
     ],
     "values": [
-      "Chatbot",
-      "Chatbot",
+      "Messaging",
+      "WhatsApp Broadcast",
       "Gupshup"
     ],
     "short_description": "Messaging infrastructure platform for NGOs & SPOs",
-    "image": "/uploads/1776434707_Gupshup.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=gupshup-1",
-    "slug": "gupshup-1",
+    "image": "/uploads/1777481937_gupshup.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/messaging/gupshup",
+    "slug": "messaging/gupshup",
     "id": 262,
     "category": "tool"
   },
@@ -1399,9 +1475,9 @@
       "Hive"
     ],
     "short_description": "Workflow coordination and project tracking for nonprofits",
-    "image": "/uploads/1776867682_hive.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=hive-1",
-    "slug": "hive-1",
+    "image": "/uploads/1777534016_hive.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/operations/hive",
+    "slug": "operations/hive",
     "id": 378,
     "category": "tool"
   },
@@ -1419,8 +1495,8 @@
     ],
     "short_description": "Flexible social media management for nonprofits and social purpose organisations",
     "image": "/uploads/1777137258_hootsuite.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=hootsuite-1",
-    "slug": "hootsuite-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/hootsuite",
+    "slug": "marketing-and-communication/hootsuite",
     "id": 418,
     "category": "tool"
   },
@@ -1438,8 +1514,8 @@
     ],
     "short_description": "User behaviour analytics tool for website and user experience",
     "image": "/uploads/1776407942_hotjar.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=hotjar-1",
-    "slug": "hotjar-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/hotjar",
+    "slug": "monitoring-and-evaluation/hotjar",
     "id": 302,
     "category": "tool"
   },
@@ -1457,8 +1533,8 @@
     ],
     "short_description": "CRM and engagement platform for managing donor communication and outreach.",
     "image": "/uploads/1776322147_HubSpot.jpg",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=hubspot-1",
-    "slug": "hubspot-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/hubspot",
+    "slug": "fundraising/hubspot",
     "id": 268,
     "category": "tool"
   },
@@ -1476,8 +1552,8 @@
     ],
     "short_description": "Enterprise cloud platform for secure and compliant infrastructure, AI, and hybrid cloud systems.",
     "image": "/uploads/1776863107_ibm-cloud.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=ibm-cloud-1",
-    "slug": "ibm-cloud-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-analytics/ibm-cloud",
+    "slug": "data-analytics/ibm-cloud",
     "id": 365,
     "category": "tool"
   },
@@ -1495,8 +1571,8 @@
     ],
     "short_description": "Digital storytelling and engagement platform for nonprofits and SPOs",
     "image": "/uploads/1777283375_instagram.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=instagram-1",
-    "slug": "instagram-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/instagram",
+    "slug": "marketing-and-communication/instagram",
     "id": 422,
     "category": "tool"
   },
@@ -1509,13 +1585,13 @@
     ],
     "values": [
       "AI Tools",
-      "Text Generation",
+      "AI Writing & Content Generation",
       "Jasper"
     ],
     "short_description": "An AI content generation platform designed for teams to create long-form and marketing content.",
     "image": "/uploads/1776158390_Jasper-logo.jpg",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=jasper-1",
-    "slug": "jasper-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/jasper",
+    "slug": "ai-tools/jasper",
     "id": 248,
     "category": "tool"
   },
@@ -1532,9 +1608,9 @@
       "Jira"
     ],
     "short_description": "Software project tracking for nonprofits",
-    "image": "/uploads/1777026223_jira.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=jira-1",
-    "slug": "jira-1",
+    "image": "/uploads/1777446899_jira.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/jira",
+    "slug": "project-and-task-management/jira",
     "id": 281,
     "category": "tool"
   },
@@ -1552,8 +1628,8 @@
     ],
     "short_description": "Flexible video meetings for NGOs & SPOs",
     "image": "/uploads/1776941829_jitsi-meet.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=jitsi-meet-1",
-    "slug": "jitsi-meet-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/jitsi-meet",
+    "slug": "marketing-and-communication/jitsi-meet",
     "id": 400,
     "category": "tool"
   },
@@ -1570,9 +1646,9 @@
       "Joomla"
     ],
     "short_description": "Open-source content management system for NGO websites",
-    "image": "/uploads/1776840231_joomla.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=joomla-1",
-    "slug": "joomla-1",
+    "image": "/uploads/1777529294_joomla.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/joomla",
+    "slug": "marketing-and-communication/joomla",
     "id": 345,
     "category": "tool"
   },
@@ -1590,8 +1666,8 @@
     ],
     "short_description": "Simple forms for NGOs & SPOs",
     "image": "/uploads/1777026145_1776359330_jotform.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=jotform-1",
-    "slug": "jotform-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/jotform",
+    "slug": "monitoring-and-evaluation/jotform",
     "id": 277,
     "category": "tool"
   },
@@ -1608,9 +1684,9 @@
       "Journeys of Change"
     ],
     "short_description": "Learning journey and outcome tracking platform for nonprofits",
-    "image": "/uploads/1776412919_platformcommons.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=journeys-of-change-1",
-    "slug": "journeys-of-change-1",
+    "image": "/uploads/1777455766_platformcommons.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/learning-and-development/journeys-of-change",
+    "slug": "learning-and-development/journeys-of-change",
     "id": 309,
     "category": "tool"
   },
@@ -1628,8 +1704,8 @@
     ],
     "short_description": "HR, payroll, and workforce management system for nonprofits and social purpose organisations",
     "image": "/uploads/1776507856_keka.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=keka-hr",
-    "slug": "keka-hr",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/human-resources/keka-hr",
+    "slug": "human-resources/keka-hr",
     "id": 324,
     "category": "tool"
   },
@@ -1647,8 +1723,8 @@
     ],
     "short_description": "HR workflow platform for employee lifecycle and people processes",
     "image": "/uploads/1776842310_kelsa.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=kelsa-1",
-    "slug": "kelsa-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/human-resources/kelsa",
+    "slug": "human-resources/kelsa",
     "id": 349,
     "category": "tool"
   },
@@ -1666,8 +1742,8 @@
     ],
     "short_description": "Open-Source Field Data Collection & M&E Platform for Humanitarian and Development Organisations.",
     "image": "/uploads/1775982073_1775319006_kobotoolbox-logo.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=kobotoolbox-demo",
-    "slug": "kobotoolbox-demo",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/kobotoolbox",
+    "slug": "monitoring-and-evaluation/kobotoolbox",
     "id": 237,
     "category": "tool"
   },
@@ -1685,8 +1761,8 @@
     ],
     "short_description": "Social media scheduling and content planning",
     "image": "/uploads/1777137767_later.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=later-1",
-    "slug": "later-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/later",
+    "slug": "ai-tools/later",
     "id": 419,
     "category": "tool"
   },
@@ -1704,8 +1780,8 @@
     ],
     "short_description": "Lightweight dashboarding tool for real-time data visualisation using Google tools.",
     "image": "/uploads/1776844471_looker.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=looker-studio-1",
-    "slug": "looker-studio-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-analysis/looker-studio",
+    "slug": "data-analysis/looker-studio",
     "id": 353,
     "category": "tool"
   },
@@ -1723,8 +1799,8 @@
     ],
     "short_description": "AI-assisted app building and prototyping for nonprofits",
     "image": "/uploads/1776867707_lovable.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=lovable-ai-1",
-    "slug": "lovable-ai-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/lovable-ai",
+    "slug": "office-automation/lovable-ai",
     "id": 372,
     "category": "tool"
   },
@@ -1741,9 +1817,9 @@
       "M-Files"
     ],
     "short_description": "Document management system for organising and controlling organisational information in nonprofits and social purpose organisations",
-    "image": "/uploads/1776846009_mfiles.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=m-files-1",
-    "slug": "m-files-1",
+    "image": "/uploads/1777531981_m-files.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/m-files",
+    "slug": "office-automation/m-files",
     "id": 354,
     "category": "tool"
   },
@@ -1761,8 +1837,8 @@
     ],
     "short_description": "E-commerce platform for online fundraising and merchandise",
     "image": "/uploads/1777035080_magento.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=magento-1",
-    "slug": "magento-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/magento",
+    "slug": "marketing-and-communication/magento",
     "id": 411,
     "category": "tool"
   },
@@ -1780,8 +1856,8 @@
     ],
     "short_description": "Email marketing and outreach platform for donor and supporter communication",
     "image": "/uploads/1777026495_mailchimp.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=mailchimp-1",
-    "slug": "mailchimp-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/mailchimp",
+    "slug": "marketing-and-communication/mailchimp",
     "id": 355,
     "category": "tool"
   },
@@ -1799,8 +1875,8 @@
     ],
     "short_description": "Workflow automation and integration for nonprofits.",
     "image": "/uploads/1776867741_make.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=make-1",
-    "slug": "make-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/product-development/make",
+    "slug": "product-development/make",
     "id": 375,
     "category": "tool"
   },
@@ -1813,13 +1889,13 @@
     ],
     "values": [
       "AI Tools",
-      "Text Generation",
+      "AI Writing & Content Generation",
       "MarketMuse"
     ],
     "short_description": "Content optimisation and planning support for NGOs and social purpose organisations.",
     "image": "/uploads/1777026616_marketmuse.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=marketmuse-1",
-    "slug": "marketmuse-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/marketmuse",
+    "slug": "ai-tools/marketmuse",
     "id": 249,
     "category": "tool"
   },
@@ -1837,8 +1913,8 @@
     ],
     "short_description": "Feedback and experience management for nonprofits",
     "image": "/uploads/1776867758_medallia.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=medallia-1",
-    "slug": "medallia-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-evaluation/medallia",
+    "slug": "monitoring-evaluation/medallia",
     "id": 377,
     "category": "tool"
   },
@@ -1856,8 +1932,8 @@
     ],
     "short_description": "Student recruitment and enrolment platform for nonprofits & social purpose organisations",
     "image": "/uploads/1776533102_meritto.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=meritto-2",
-    "slug": "meritto-2",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/meritto",
+    "slug": "fundraising/meritto",
     "id": 314,
     "category": "tool"
   },
@@ -1875,8 +1951,8 @@
     ],
     "short_description": "AI-powered 3D model generation for NGOs and SPOs.",
     "image": "/uploads/1776077879_Meshy AI.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=meshy-ai-1",
-    "slug": "meshy-ai-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/meshy-ai",
+    "slug": "ai-tools/meshy-ai",
     "id": 240,
     "category": "tool"
   },
@@ -1894,8 +1970,8 @@
     ],
     "short_description": "AI assistant and content support for nonprofits",
     "image": "/uploads/1776867772_meta-ai.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=meta-ai-1",
-    "slug": "meta-ai-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/meta-ai",
+    "slug": "ai-tools/meta-ai",
     "id": 379,
     "category": "tool"
   },
@@ -1912,9 +1988,9 @@
       "Microsoft Azure"
     ],
     "short_description": "Platform for managing apps, data, and infrastructure across cloud environments.",
-    "image": "/uploads/1776849811_Microsoft Azure.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=microsoft-azure-1",
-    "slug": "microsoft-azure-1",
+    "image": "/uploads/1777532516_microsoft-azure.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/microsoft-azure",
+    "slug": "data-and-analytics/microsoft-azure",
     "id": 356,
     "category": "tool"
   },
@@ -1932,9 +2008,28 @@
     ],
     "short_description": "AI assistant for productivity and document workflows in nonprofits",
     "image": "/uploads/1777014177_Microsoft Copilot.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=microsoft-copilot",
-    "slug": "microsoft-copilot",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/microsoft-copilot",
+    "slug": "data-and-analytics/microsoft-copilot",
     "id": 408,
+    "category": "tool"
+  },
+  {
+    "sheet": "Cleaned Sheet",
+    "column_headers": [
+      "Category",
+      "Sub-Category",
+      "Name of Tool"
+    ],
+    "values": [
+      "Fundraising",
+      "CRM/Grant/Donor Management",
+      "Microsoft Dynamics 365"
+    ],
+    "short_description": "ERP, CRM & Enterprise Operations Platform",
+    "image": "/uploads/1778157419_microsoft-dynamics-365.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/microsoft-dynamics-365",
+    "slug": "fundraising/microsoft-dynamics-365",
+    "id": 436,
     "category": "tool"
   },
   {
@@ -1950,9 +2045,9 @@
       "Microsoft Excel"
     ],
     "short_description": "Spreadsheet tool for data management, analysis, and reporting",
-    "image": "/uploads/1776410050_microsoft-excel.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=microsoft-excel-1",
-    "slug": "microsoft-excel-1",
+    "image": "/uploads/1777454589_microsoft-excel.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/microsoft-excel",
+    "slug": "monitoring-and-evaluation/microsoft-excel",
     "id": 304,
     "category": "tool"
   },
@@ -1969,9 +2064,9 @@
       "Microsoft Power BI"
     ],
     "short_description": "Data visualisation and business intelligence for nonprofits & SPOs",
-    "image": "/uploads/1776411490_power-bi.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=microsoft-power-bi",
-    "slug": "microsoft-power-bi",
+    "image": "/uploads/1777455085_power-bi.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/microsoft-power-bi",
+    "slug": "monitoring-and-evaluation/microsoft-power-bi",
     "id": 305,
     "category": "tool"
   },
@@ -1988,9 +2083,9 @@
       "Midjourney"
     ],
     "short_description": "Midjourney creates stylised images from text prompts for campaigns and creative use.",
-    "image": "/uploads/1776171579_Midjourney.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=midjourney-1",
-    "slug": "midjourney-1",
+    "image": "/uploads/1777458638_midjourney.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/midjourney",
+    "slug": "ai-tools/midjourney",
     "id": 254,
     "category": "tool"
   },
@@ -2008,8 +2103,8 @@
     ],
     "short_description": "Crowdfunding platform for fundraising",
     "image": "/uploads/1776513456_milaap-1.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=milaap-1",
-    "slug": "milaap-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/milaap",
+    "slug": "fundraising/milaap",
     "id": 294,
     "category": "tool"
   },
@@ -2027,8 +2122,8 @@
     ],
     "short_description": "Machine learning integration for data-driven nonprofits",
     "image": "/uploads/1776921124_mindsdb.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=mindsdb-1",
-    "slug": "mindsdb-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/mindsdb",
+    "slug": "ai-tools/mindsdb",
     "id": 382,
     "category": "tool"
   },
@@ -2045,10 +2140,29 @@
       "Monday.com"
     ],
     "short_description": "work management platform for nonprofits",
-    "image": "/uploads/1776338959_monday.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=mondaycom-1",
-    "slug": "mondaycom-1",
+    "image": "/uploads/1777453356_monday.com.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/monday",
+    "slug": "project-and-task-management/monday",
     "id": 288,
+    "category": "tool"
+  },
+  {
+    "sheet": "Cleaned Sheet",
+    "column_headers": [
+      "Category",
+      "Sub-Category",
+      "Name of Tool"
+    ],
+    "values": [
+      "Data & Analytics",
+      "Data Management",
+      "MongoDB"
+    ],
+    "short_description": "AI-Ready Data Platform for Modern Applications",
+    "image": "/uploads/1778160899_mongodb.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/mongodb",
+    "slug": "data-and-analytics/mongodb",
+    "id": 438,
     "category": "tool"
   },
   {
@@ -2065,8 +2179,8 @@
     ],
     "short_description": "Open-Source Learning Management System for Online Training, Course Delivery, and Capability Building.",
     "image": "/uploads/1776416493_moodle.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=moodle-1",
-    "slug": "moodle-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/learning-and-development/moodle",
+    "slug": "learning-and-development/moodle",
     "id": 311,
     "category": "tool"
   },
@@ -2083,9 +2197,9 @@
       "Motion"
     ],
     "short_description": "AI-powered task, calendar, and project management tool for nonprofits and social purpose organisations.",
-    "image": "/uploads/1776851216_motion.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=motion-1",
-    "slug": "motion-1",
+    "image": "/uploads/1777533211_motion.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/motion",
+    "slug": "office-automation/motion",
     "id": 359,
     "category": "tool"
   },
@@ -2103,8 +2217,8 @@
     ],
     "short_description": "Open-source IT infrastructure monitoring tool for nonprofits and social purpose organisations",
     "image": "/uploads/1777026081_nagios.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=nagios-1",
-    "slug": "nagios-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/nagios",
+    "slug": "office-automation/nagios",
     "id": 342,
     "category": "tool"
   },
@@ -2122,8 +2236,8 @@
     ],
     "short_description": "AI-assisted visualisation of ideas and concepts for nonprofits",
     "image": "/uploads/1776922485_napkin.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=napkin-ai-1",
-    "slug": "napkin-ai-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/napkin-ai",
+    "slug": "ai-tools/napkin-ai",
     "id": 383,
     "category": "tool"
   },
@@ -2141,8 +2255,8 @@
     ],
     "short_description": "Application monitoring and observability for nonprofits",
     "image": "/uploads/1776923013_new-relic.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=new-relic-1",
-    "slug": "new-relic-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/new-relic",
+    "slug": "project-and-task-management/new-relic",
     "id": 384,
     "category": "tool"
   },
@@ -2159,9 +2273,9 @@
       "Notion"
     ],
     "short_description": "Collaboration tool for nonprofits and social impact teams",
-    "image": "/uploads/1776332336_nation.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=notion-1",
-    "slug": "notion-1",
+    "image": "/uploads/1777446450_notion.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/notion",
+    "slug": "project-and-task-management/notion",
     "id": 278,
     "category": "tool"
   },
@@ -2179,8 +2293,8 @@
     ],
     "short_description": "Open-source video editing for nonprofit content creation",
     "image": "/uploads/1776924588_olive-video-editor.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=olive-video-editor-1",
-    "slug": "olive-video-editor-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/olive-video-editor",
+    "slug": "marketing-and-communication/olive-video-editor",
     "id": 385,
     "category": "tool"
   },
@@ -2198,9 +2312,28 @@
     ],
     "short_description": "Cloud file storage and sharing platform within Microsoft ecosystem for nonprofits & social purpose organisations",
     "image": "/uploads/1777026877_onedrive.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=onedrive-1",
-    "slug": "onedrive-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/onedrive",
+    "slug": "office-automation/onedrive",
     "id": 360,
+    "category": "tool"
+  },
+  {
+    "sheet": "Cleaned Sheet",
+    "column_headers": [
+      "Category",
+      "Sub-Category",
+      "Name of Tool"
+    ],
+    "values": [
+      "AI Tools",
+      "AI Transcription",
+      "OpenAI Whisper"
+    ],
+    "short_description": "Speech Recognition & Multilingual Transcription Platform",
+    "image": "/uploads/1778155871_open-ai.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/open-ai-whisper",
+    "slug": "ai-tools/open-ai-whisper",
+    "id": 435,
     "category": "tool"
   },
   {
@@ -2217,8 +2350,8 @@
     ],
     "short_description": "Cloud platform for running applications, managing databases, and supporting enterprise systems.",
     "image": "/uploads/1777026773_oracle-cloud-infrastructure.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=oracle-cloud-infrastructure-oci-1",
-    "slug": "oracle-cloud-infrastructure-oci-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/oracle-cloud-infrastructure-oci",
+    "slug": "data-and-analytics/oracle-cloud-infrastructure-oci",
     "id": 363,
     "category": "tool"
   },
@@ -2236,8 +2369,8 @@
     ],
     "short_description": "Payroll and HR management system for nonprofits and social purpose organisations.",
     "image": "/uploads/1777024632_paybooks.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=paybooks",
-    "slug": "paybooks",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/human-resources/paybooks",
+    "slug": "human-resources/paybooks",
     "id": 325,
     "category": "tool"
   },
@@ -2255,9 +2388,28 @@
     ],
     "short_description": "AI voice generation platform for accessibility, multilingual communication, and content creation",
     "image": "/uploads/1777272319_playai.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=playht-1",
-    "slug": "playht-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/playht",
+    "slug": "ai-tools/playht",
     "id": 420,
+    "category": "tool"
+  },
+  {
+    "sheet": "Cleaned Sheet",
+    "column_headers": [
+      "Category",
+      "Sub-Category",
+      "Name of Tool"
+    ],
+    "values": [
+      "Data & Analytics",
+      "Data Management",
+      "PostgreSQL"
+    ],
+    "short_description": "Scalable Open-Source Database Infrastructure",
+    "image": "/uploads/1778173652_postgresql.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/postgresql",
+    "slug": "data-and-analytics/postgresql",
+    "id": 439,
     "category": "tool"
   },
   {
@@ -2273,9 +2425,9 @@
       "Prezi"
     ],
     "short_description": "Interactive presentations and visual storytelling for nonprofits",
-    "image": "/uploads/1776929961_Prezi-1.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=prezi-1",
-    "slug": "prezi-1",
+    "image": "/uploads/1777534422_prezi.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/prezi",
+    "slug": "ai-tools/prezi",
     "id": 391,
     "category": "tool"
   },
@@ -2288,13 +2440,13 @@
     ],
     "values": [
       "AI Tools",
-      "Text Generation",
+      "AI Writing & Content Generation",
       "ProWritingAid"
     ],
     "short_description": "Digital Editing Tools for SPOs",
     "image": "/uploads/1776427543_Prowriting.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=prowritingaid-1",
-    "slug": "prowritingaid-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/prowritingaid",
+    "slug": "ai-tools/prowritingaid",
     "id": 250,
     "category": "tool"
   },
@@ -2306,15 +2458,34 @@
       "Name of Tool"
     ],
     "values": [
-      "Chatbot",
-      "",
+      "Messaging",
+      "Broadcast",
       "RapidPro"
     ],
     "short_description": "Multi-channel communication and messaging platform for NGOs & SPOs",
     "image": "/uploads/1776435293_RapidPro.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=rapidpro",
-    "slug": "rapidpro",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/messaging/rapidpro",
+    "slug": "messaging/rapidpro",
     "id": 264,
+    "category": "tool"
+  },
+  {
+    "sheet": "Cleaned Sheet",
+    "column_headers": [
+      "Category",
+      "Sub-Category",
+      "Name of Tool"
+    ],
+    "values": [
+      "Fundraising",
+      "Crowdfunding",
+      "Razorpay"
+    ],
+    "short_description": "Donation Collection & Payment Infrastructure for NGOs and SPOs",
+    "image": "/uploads/1778159155_razorpay.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/razorpay",
+    "slug": "fundraising/razorpay",
+    "id": 437,
     "category": "tool"
   },
   {
@@ -2331,8 +2502,8 @@
     ],
     "short_description": "Cloud-based accounting and financial management software for nonprofits and organisations operating in India",
     "image": "/uploads/1777295223_realbooks.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=realbooks-1",
-    "slug": "realbooks-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/finance-and-accounts/realbooks",
+    "slug": "finance-and-accounts/realbooks",
     "id": 331,
     "category": "tool"
   },
@@ -2349,10 +2520,29 @@
       "Reclaim.ai"
     ],
     "short_description": "AI-powered calendar and time management tool for nonprofits and social purpose organisations",
-    "image": "/uploads/1776857356_Reclaim.ai.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=reclaimai-1",
-    "slug": "reclaimai-1",
+    "image": "/uploads/1777532795_reclaim-ai.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/reclaim-ai",
+    "slug": "office-automation/reclaim-ai",
     "id": 369,
+    "category": "tool"
+  },
+  {
+    "sheet": "Cleaned Sheet",
+    "column_headers": [
+      "Category",
+      "Sub-Category",
+      "Name of Tool"
+    ],
+    "values": [
+      "Data & Analytics",
+      "Data Management",
+      "Redis"
+    ],
+    "short_description": "Real-Time Data Infrastructure for High-Performance Applications",
+    "image": "/uploads/1778175097_redis.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/redis",
+    "slug": "data-and-analytics/redis",
+    "id": 440,
     "category": "tool"
   },
   {
@@ -2369,8 +2559,8 @@
     ],
     "short_description": "Structured project and workflow tracking for NGOs managing complex, multi-program operations",
     "image": "/uploads/1777090865_redmine.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=redmine-1",
-    "slug": "redmine-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/redmine",
+    "slug": "project-and-task-management/redmine",
     "id": 414,
     "category": "tool"
   },
@@ -2388,8 +2578,8 @@
     ],
     "short_description": "Speech-to-text transcription and audio analysis for nonprofits",
     "image": "/uploads/1776945597_Rev AI.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=rev-ai-1",
-    "slug": "rev-ai-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/rev-ai",
+    "slug": "ai-tools/rev-ai",
     "id": 392,
     "category": "tool"
   },
@@ -2407,28 +2597,9 @@
     ],
     "short_description": "AI-powered document automation for transactional workflows (invoices, finance, operations)",
     "image": "/uploads/1777091899_rossum.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=rossum-1",
-    "slug": "rossum-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/rossum",
+    "slug": "ai-tools/rossum",
     "id": 415,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
-      "AI Tools",
-      "3D Design",
-      "Runway"
-    ],
-    "short_description": "AI-powered video and media creation for NGOs and SPOs.",
-    "image": "/uploads/1776084239_Runway.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=runway-1",
-    "slug": "runway-1",
-    "id": 243,
     "category": "tool"
   },
   {
@@ -2444,9 +2615,9 @@
       "Runway"
     ],
     "short_description": "AI video generation and editing tools for nonprofits.",
-    "image": "/uploads/1776751235_runway.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=runway",
-    "slug": "runway",
+    "image": "/uploads/1777525592_runway.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/runway",
+    "slug": "ai-tools/runway",
     "id": 336,
     "category": "tool"
   },
@@ -2463,9 +2634,9 @@
       "Salesforce"
     ],
     "short_description": "CRM platform for managing donor, stakeholder, and programme relationships.",
-    "image": "/uploads/1776325656_salesforce.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=salesforce-2",
-    "slug": "salesforce-2",
+    "image": "/uploads/1777456981_salesforce.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/salesforce",
+    "slug": "fundraising/salesforce",
     "id": 273,
     "category": "tool"
   },
@@ -2482,9 +2653,9 @@
       "Sarvam AI"
     ],
     "short_description": "Indian language AI and voice technologies for nonprofits",
-    "image": "/uploads/1776946415_sarvam.ai.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=sarvam-ai-1",
-    "slug": "sarvam-ai-1",
+    "image": "/uploads/1777534522_sarvamai.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/sarvam-ai",
+    "slug": "ai-tools/sarvam-ai",
     "id": 393,
     "category": "tool"
   },
@@ -2502,8 +2673,8 @@
     ],
     "short_description": "Email delivery and communication infrastructure for nonprofits",
     "image": "/uploads/1777013318_sendgrid.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=sendgrid-1",
-    "slug": "sendgrid-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-communication/sendgrid",
+    "slug": "marketing-communication/sendgrid",
     "id": 395,
     "category": "tool"
   },
@@ -2521,28 +2692,9 @@
     ],
     "short_description": "Team communication and workflow coordination for nonprofits",
     "image": "/uploads/1776937386_Slack.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=slack-1",
-    "slug": "slack-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/operations/slack",
+    "slug": "operations/slack",
     "id": 397,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
-      "AI Tools",
-      "3D Design",
-      "Sloyd"
-    ],
-    "short_description": "AI-powered 3D asset generation for NGOs and SPOs",
-    "image": "/uploads/1776082169_sloyd.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=sloyd-1",
-    "slug": "sloyd-1",
-    "id": 242,
     "category": "tool"
   },
   {
@@ -2558,9 +2710,9 @@
       "Smartsheet"
     ],
     "short_description": "Collaborative sheets for nonprofits",
-    "image": "/uploads/1776339940_smartsheet.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=smartsheet",
-    "slug": "smartsheet",
+    "image": "/uploads/1777454021_smartsheet.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/smartsheet",
+    "slug": "project-and-task-management/smartsheet",
     "id": 289,
     "category": "tool"
   },
@@ -2577,9 +2729,9 @@
       "Social Integrated Platform"
     ],
     "short_description": "Integrated social media management for nonprofits",
-    "image": "/uploads/1777016632_synergy-connect.png",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=social-integrated-platform-1",
-    "slug": "social-integrated-platform-1",
+    "image": "/uploads/1777534598_synergy.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-communication/social-integrated-platform",
+    "slug": "marketing-communication/social-integrated-platform",
     "id": 398,
     "category": "tool"
   },
@@ -2597,8 +2749,8 @@
     ],
     "short_description": "Social media management and scheduling for nonprofits",
     "image": "/uploads/1776931027_socioboard.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=socioboard-1",
-    "slug": "socioboard-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/socioboard",
+    "slug": "marketing-and-communication/socioboard",
     "id": 386,
     "category": "tool"
   },
@@ -2615,9 +2767,9 @@
       "Soundraw"
     ],
     "short_description": "AI-generated music for nonprofit content and media",
-    "image": "/uploads/1776931058_soundraw.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=soundraw-1",
-    "slug": "soundraw-1",
+    "image": "/uploads/1777542016_soundraw.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/soundraw",
+    "slug": "ai-tools/soundraw",
     "id": 387,
     "category": "tool"
   },
@@ -2635,8 +2787,8 @@
     ],
     "short_description": "Interactive 3D design platform for NGOs and SPOs.",
     "image": "/uploads/1776079489_spline.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=spline-1",
-    "slug": "spline-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/spline",
+    "slug": "ai-tools/spline",
     "id": 241,
     "category": "tool"
   },
@@ -2654,8 +2806,8 @@
     ],
     "short_description": "Social media management and outreach platform for engagement and analytics.",
     "image": "/uploads/1777024741_sprout-social.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=sprout-social",
-    "slug": "sprout-social",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/sprout-social",
+    "slug": "marketing-and-communication/sprout-social",
     "id": 362,
     "category": "tool"
   },
@@ -2673,8 +2825,8 @@
     ],
     "short_description": "All-in-one website builder for nonprofits and grassroots organisations",
     "image": "/uploads/1777024881_squarespace.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=squarespace",
-    "slug": "squarespace",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/squarespace",
+    "slug": "marketing-and-communication/squarespace",
     "id": 364,
     "category": "tool"
   },
@@ -2692,8 +2844,8 @@
     ],
     "short_description": "AI-powered narrative and content platform for digital transformation",
     "image": "/uploads/1777282371_stotio.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=stotio-1",
-    "slug": "stotio-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/stotio",
+    "slug": "ai-tools/stotio",
     "id": 428,
     "category": "tool"
   },
@@ -2711,8 +2863,8 @@
     ],
     "short_description": "Email-native CRM for NGOs & SPOs",
     "image": "/uploads/1776332408_Streak.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=streak-1",
-    "slug": "streak-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/streak",
+    "slug": "fundraising/streak",
     "id": 279,
     "category": "tool"
   },
@@ -2730,8 +2882,8 @@
     ],
     "short_description": "Direct newsletter publishing platform",
     "image": "/uploads/1777276552_substack.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=substack-1",
-    "slug": "substack-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/substack",
+    "slug": "marketing-and-communication/substack",
     "id": 425,
     "category": "tool"
   },
@@ -2748,9 +2900,9 @@
       "Suno"
     ],
     "short_description": "AI-generated songs and audio content for nonprofits",
-    "image": "/uploads/1776931114_suno.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=suno-1",
-    "slug": "suno-1",
+    "image": "/uploads/1777535938_suno.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/suno",
+    "slug": "ai-tools/suno",
     "id": 389,
     "category": "tool"
   },
@@ -2768,8 +2920,8 @@
     ],
     "short_description": "Secure, offline-first data collection platform for M&E and research",
     "image": "/uploads/1776359736_surveycto.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=surveycto-1",
-    "slug": "surveycto-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/surveycto",
+    "slug": "monitoring-and-evaluation/surveycto",
     "id": 286,
     "category": "tool"
   },
@@ -2787,9 +2939,28 @@
     ],
     "short_description": "CRM platform for managing donor, fundraising, and programme data for nonprofits",
     "image": "/uploads/1777025860_synergy-connect.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=synergy-connect",
-    "slug": "synergy-connect",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/synergy-connect",
+    "slug": "fundraising/synergy-connect",
     "id": 275,
+    "category": "tool"
+  },
+  {
+    "sheet": "Cleaned Sheet",
+    "column_headers": [
+      "Category",
+      "Sub-Category",
+      "Name of Tool"
+    ],
+    "values": [
+      "Fundraising",
+      "CRM/Grant/Donor Management",
+      "Synergy Donor"
+    ],
+    "short_description": "Donor management and fundraising workflow platform for NGOs & SPOs",
+    "image": "/uploads/1777381314_synergy-connect.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/synergy-donor",
+    "slug": "ai-tools/synergy-donor",
+    "id": 433,
     "category": "tool"
   },
   {
@@ -2806,28 +2977,9 @@
     ],
     "short_description": "Learning and skilling management platform for nonprofits and CSR programmes.",
     "image": "/uploads/1777025888_synergy-connect.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=synergy-lms",
-    "slug": "synergy-lms",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/learning-and-development/synergy-lms",
+    "slug": "learning-and-development/synergy-lms",
     "id": 312,
-    "category": "tool"
-  },
-  {
-    "sheet": "Cleaned Sheet",
-    "column_headers": [
-      "Category",
-      "Sub-Category",
-      "Name of Tool"
-    ],
-    "values": [
-      "Fundraising",
-      "CRM/Grant/Donor Management",
-      "SynergyDonor - Donor Relationship Platform"
-    ],
-    "short_description": "Donor management platform for tracking donors and campaigns.",
-    "image": "/uploads/1777025834_synergy-connect.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=synergydonor-donor-relationship-platform",
-    "slug": "synergydonor-donor-relationship-platform",
-    "id": 97,
     "category": "tool"
   },
   {
@@ -2844,8 +2996,8 @@
     ],
     "short_description": "Flexible M&E data collection for NGOs & SPOs",
     "image": "/uploads/1777025873_synergy-connect.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=synergysurvey",
-    "slug": "synergysurvey",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/synergysurvey",
+    "slug": "monitoring-and-evaluation/synergysurvey",
     "id": 296,
     "category": "tool"
   },
@@ -2863,8 +3015,8 @@
     ],
     "short_description": "AI video generation platform for structured training and communication content",
     "image": "/uploads/1777283123_synthesia.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=synthesia-1",
-    "slug": "synthesia-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/synthesia",
+    "slug": "ai-tools/synthesia",
     "id": 421,
     "category": "tool"
   },
@@ -2882,8 +3034,8 @@
     ],
     "short_description": "Data visualisation and analytics for nonprofits and social purpose organisations",
     "image": "/uploads/1776412001_tableau.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=tableau-1",
-    "slug": "tableau-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/tableau",
+    "slug": "monitoring-and-evaluation/tableau",
     "id": 307,
     "category": "tool"
   },
@@ -2901,8 +3053,8 @@
     ],
     "short_description": "Agile project management for NGOs running iterative, collaborative work",
     "image": "/uploads/1777053448_taiga.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=taiga-1",
-    "slug": "taiga-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/taiga",
+    "slug": "project-and-task-management/taiga",
     "id": 413,
     "category": "tool"
   },
@@ -2920,8 +3072,8 @@
     ],
     "short_description": "All-in-one software for invoicing, accounting, inventory, payroll, and banking.",
     "image": "/uploads/1776677984_tally prime.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=tallyprime-1",
-    "slug": "tallyprime-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/finance-and-accounts/tallyprime",
+    "slug": "finance-and-accounts/tallyprime",
     "id": 332,
     "category": "tool"
   },
@@ -2939,8 +3091,8 @@
     ],
     "short_description": "Community communication and broadcast platform for large-scale outreach.",
     "image": "/uploads/1776863365_telegram.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=telegram-1",
-    "slug": "telegram-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/telegram",
+    "slug": "marketing-and-communication/telegram",
     "id": 366,
     "category": "tool"
   },
@@ -2958,8 +3110,8 @@
     ],
     "short_description": "Simple project management for nonprofits",
     "image": "/uploads/1776341891_trello.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=trello-1",
-    "slug": "trello-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/trello",
+    "slug": "project-and-task-management/trello",
     "id": 292,
     "category": "tool"
   },
@@ -2971,15 +3123,34 @@
       "Name of Tool"
     ],
     "values": [
-      "Chatbot",
-      "Chatbot",
+      "Messaging",
+      "WhatsApp",
       "Turn.io"
     ],
     "short_description": "WhatsApp communication and engagement platform for NGOs & SPOs",
     "image": "/uploads/1776433540_Turn.io.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=turnio",
-    "slug": "turnio",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/messaging/turn-io",
+    "slug": "messaging/turn-io",
     "id": 259,
+    "category": "tool"
+  },
+  {
+    "sheet": "Cleaned Sheet",
+    "column_headers": [
+      "Category",
+      "Sub-Category",
+      "Name of Tool"
+    ],
+    "values": [
+      "Marketing & Communication",
+      "Outreach and Marketing",
+      "Twilio Calling"
+    ],
+    "short_description": "AI-Led Customer Engagement & Communication Platform",
+    "image": "/uploads/1778508221_Twilio-logo.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/twilio-calling",
+    "slug": "marketing-and-communication/twilio-calling",
+    "id": 444,
     "category": "tool"
   },
   {
@@ -2995,9 +3166,9 @@
       "UVDesk"
     ],
     "short_description": "Helpdesk and query management for nonprofits and social purpose organisations",
-    "image": "/uploads/1776863559_uvdesk.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=uvdesk-1",
-    "slug": "uvdesk-1",
+    "image": "/uploads/1777533780_uvdesk.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/uvdesk",
+    "slug": "office-automation/uvdesk",
     "id": 368,
     "category": "tool"
   },
@@ -3014,9 +3185,9 @@
       "Vyapar"
     ],
     "short_description": "GST billing, invoicing, and basic accounting software for small nonprofits and social purpose organisations in India.",
-    "image": "/uploads/1776671570_vyapar.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=vyapar-1",
-    "slug": "vyapar-1",
+    "image": "/uploads/1777526018_vyapar.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/finance-and-accounts/vyapar",
+    "slug": "finance-and-accounts/vyapar",
     "id": 330,
     "category": "tool"
   },
@@ -3028,14 +3199,14 @@
       "Name of Tool"
     ],
     "values": [
-      "Chatbot",
-      "Chatbot",
+      "Messaging",
+      "WhatsApp",
       "WATI"
     ],
     "short_description": "WhatsApp communication and engagement platform for NGOs & SPOs",
     "image": "/uploads/1776434456_WATI.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=wati-1",
-    "slug": "wati-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/messaging/wati",
+    "slug": "messaging/wati",
     "id": 261,
     "category": "tool"
   },
@@ -3047,14 +3218,14 @@
       "Name of Tool"
     ],
     "values": [
-      "Chatbot",
-      "Chatbot",
+      "Messaging",
+      "",
       "WhatsApp"
     ],
     "short_description": "Messaging and communication channel for NGOs & SPOs",
-    "image": "/uploads/1776434882_WhatsApp.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=whatsapp-2",
-    "slug": "whatsapp-2",
+    "image": "/uploads/1777482336_whatsapp.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/whatsapp",
+    "slug": "ai-tools/whatsapp",
     "id": 263,
     "category": "tool"
   },
@@ -3072,8 +3243,8 @@
     ],
     "short_description": "Messaging platform for direct outreach, engagement, and supporter communication",
     "image": "/uploads/1776940186_whatsapp-business-icon.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=whatsapp-business-1",
-    "slug": "whatsapp-business-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/whatsapp-business",
+    "slug": "marketing-and-communication/whatsapp-business",
     "id": 347,
     "category": "tool"
   },
@@ -3091,8 +3262,8 @@
     ],
     "short_description": "Drag-and-drop website builder for nonprofits",
     "image": "/uploads/1777032742_wix.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=wix-1",
-    "slug": "wix-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/wix",
+    "slug": "marketing-and-communication/wix",
     "id": 351,
     "category": "tool"
   },
@@ -3109,9 +3280,9 @@
       "Wordwall"
     ],
     "short_description": "Interactive learning and assessment tool for nonprofits & social purpose organisations",
-    "image": "/uploads/1776577350_wordwall.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=wordwall-1",
-    "slug": "wordwall-1",
+    "image": "/uploads/1777481330_wordwall.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/training-and-development/wordwall",
+    "slug": "training-and-development/wordwall",
     "id": 317,
     "category": "tool"
   },
@@ -3129,8 +3300,8 @@
     ],
     "short_description": "Real-time public communication and advocacy platform for nonprofits and SPOs",
     "image": "/uploads/1777291132_twitter.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=x",
-    "slug": "x",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-and-communication/x-twitter",
+    "slug": "marketing-and-communication/x-twitter",
     "id": 431,
     "category": "tool"
   },
@@ -3148,8 +3319,8 @@
     ],
     "short_description": "Cloud-based accounting and financial management for nonprofits and social purpose organisations.",
     "image": "/uploads/1777025341_xero.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=xero-1",
-    "slug": "xero-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/finance-and-accounts/xero",
+    "slug": "finance-and-accounts/xero",
     "id": 329,
     "category": "tool"
   },
@@ -3167,8 +3338,8 @@
     ],
     "short_description": "AI-powered workflow automation platform for outreach and donor communication coordination",
     "image": "/uploads/1777093077_zams (1).webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zams-1",
-    "slug": "zams-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/zams",
+    "slug": "ai-tools/zams",
     "id": 416,
     "category": "tool"
   },
@@ -3186,8 +3357,8 @@
     ],
     "short_description": "Open-source infrastructure monitoring tool for nonprofits and social purpose organisations.",
     "image": "/uploads/1776859886_zabbix.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zabbix-1",
-    "slug": "zabbix-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/zabbix",
+    "slug": "office-automation/zabbix",
     "id": 371,
     "category": "tool"
   },
@@ -3205,8 +3376,8 @@
     ],
     "short_description": "No-code automation platform for connecting apps and workflows for nonprofits and social purpose organisations",
     "image": "/uploads/1776860378_zapier.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zapier-1",
-    "slug": "zapier-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/zapier",
+    "slug": "office-automation/zapier",
     "id": 373,
     "category": "tool"
   },
@@ -3224,8 +3395,8 @@
     ],
     "short_description": "HR, payroll, and employee management platform for organisations in India",
     "image": "/uploads/1776834036_zimyo.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zimyo-1",
-    "slug": "zimyo-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/human-resources/zimyo",
+    "slug": "human-resources/zimyo",
     "id": 343,
     "category": "tool"
   },
@@ -3243,8 +3414,8 @@
     ],
     "short_description": "Business intelligence platform for advanced data analysis and dashboards",
     "image": "/uploads/1776874311_Zoho payroll.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-analytics-1",
-    "slug": "zoho-analytics-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/data-and-analytics/zoho-analytics",
+    "slug": "data-and-analytics/zoho-analytics",
     "id": 381,
     "category": "tool"
   },
@@ -3262,8 +3433,8 @@
     ],
     "short_description": "Online accounting and GST-compliant financial management for nonprofits and social purpose organisations",
     "image": "/uploads/1777025233_zoho-books.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-books-1",
-    "slug": "zoho-books-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/finance-and-accounts/zoho-books",
+    "slug": "finance-and-accounts/zoho-books",
     "id": 328,
     "category": "tool"
   },
@@ -3281,8 +3452,8 @@
     ],
     "short_description": "Customisable CRM for managing donors, beneficiaries, and operations at scale",
     "image": "/uploads/1776335161_Zoho CRM.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-crm-1",
-    "slug": "zoho-crm-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/zoho-crm",
+    "slug": "fundraising/zoho-crm",
     "id": 284,
     "category": "tool"
   },
@@ -3300,8 +3471,8 @@
     ],
     "short_description": "Low-code platform to build custom web and mobile apps for nonprofits and social purpose organisations.",
     "image": "/uploads/1776873010_zoho creator.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-creator-1",
-    "slug": "zoho-creator-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/office-automation/zoho-creator",
+    "slug": "office-automation/zoho-creator",
     "id": 380,
     "category": "tool"
   },
@@ -3319,8 +3490,8 @@
     ],
     "short_description": "Online form builder for structured data collection and workflow automation",
     "image": "/uploads/1776359850_zoho-forms.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-forms-1",
-    "slug": "zoho-forms-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/zoho-forms",
+    "slug": "monitoring-and-evaluation/zoho-forms",
     "id": 290,
     "category": "tool"
   },
@@ -3337,9 +3508,9 @@
       "Zoho One"
     ],
     "short_description": "Integrated business and workforce management suite for nonprofits and social purpose organisations",
-    "image": "/uploads/1776516395_zoho-one.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-one",
-    "slug": "zoho-one",
+    "image": "/uploads/1777525320_zoho-one.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/human-resources/zoho-one",
+    "slug": "human-resources/zoho-one",
     "id": 327,
     "category": "tool"
   },
@@ -3357,8 +3528,8 @@
     ],
     "short_description": "Payroll and statutory compliance software for nonprofits and organisations in India",
     "image": "/uploads/1777025107_zoho-payroll.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-payroll-1",
-    "slug": "zoho-payroll-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/finance-and-accounts/zoho-payroll",
+    "slug": "finance-and-accounts/zoho-payroll",
     "id": 333,
     "category": "tool"
   },
@@ -3371,13 +3542,13 @@
     ],
     "values": [
       "Human Resources",
-      "HRMS Recruitment",
+      "HRMS Recruitment Payroll",
       "Zoho People"
     ],
     "short_description": "HR management system for nonprofits and social purpose organisations",
     "image": "/uploads/1776510796_zoho-people.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-people",
-    "slug": "zoho-people",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/human-resources/zoho-people",
+    "slug": "human-resources/zoho-people",
     "id": 326,
     "category": "tool"
   },
@@ -3395,8 +3566,8 @@
     ],
     "short_description": "Project management platform for planning, tracking, and team coordination",
     "image": "/uploads/1777287988_zoho-projects.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=zoho-projects-1",
-    "slug": "zoho-projects-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/project-and-task-management/zoho-projects",
+    "slug": "project-and-task-management/zoho-projects",
     "id": 430,
     "category": "tool"
   },
@@ -3413,9 +3584,9 @@
       "greytHR"
     ],
     "short_description": "HR, payroll, and training management system for nonprofits and social purpose organisations",
-    "image": "/uploads/1776506672_greythr.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=greythr-1",
-    "slug": "greythr-1",
+    "image": "/uploads/1777525163_greythr.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/human-resources/greyt-hr",
+    "slug": "human-resources/greyt-hr",
     "id": 323,
     "category": "tool"
   },
@@ -3433,8 +3604,8 @@
     ],
     "short_description": "Free, open-source vector design tool for NGOs and SPOs.",
     "image": "/uploads/1777283802_inkscape.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=inkscape-1",
-    "slug": "inkscape-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/marketing-communication/inkscape",
+    "slug": "marketing-communication/inkscape",
     "id": 424,
     "category": "tool"
   },
@@ -3451,9 +3622,9 @@
       "mForm"
     ],
     "short_description": "Programme MIS and data collection platform for nonprofits and CSR initiatives",
-    "image": "/uploads/1776359453_mform.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=mform-1",
-    "slug": "mform-1",
+    "image": "/uploads/1777449003_mform.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/mform",
+    "slug": "monitoring-and-evaluation/mform",
     "id": 280,
     "category": "tool"
   },
@@ -3471,8 +3642,8 @@
     ],
     "short_description": "Grant and donor management platform for nonprofits and CSR programmes",
     "image": "/uploads/1776323981_mGrant.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=mgrant-1",
-    "slug": "mgrant-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/fundraising/mgrant",
+    "slug": "fundraising/mgrant",
     "id": 270,
     "category": "tool"
   },
@@ -3490,8 +3661,8 @@
     ],
     "short_description": "Mobile-based learning management system for nonprofits & social purpose organisations",
     "image": "/uploads/1777015951_dhwani.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=mlearn-by-dhwani-ris",
-    "slug": "mlearn-by-dhwani-ris",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/training-and-development/mlearn",
+    "slug": "training-and-development/mlearn",
     "id": 318,
     "category": "tool"
   },
@@ -3509,8 +3680,8 @@
     ],
     "short_description": "Data collection and monitoring platform for water, sanitation, and public health programmes",
     "image": "/uploads/1776359603_mwater.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=mwater-1",
-    "slug": "mwater-1",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/monitoring-and-evaluation/mwater",
+    "slug": "monitoring-and-evaluation/mwater",
     "id": 283,
     "category": "tool"
   },
@@ -3527,9 +3698,9 @@
       "perplexity"
     ],
     "short_description": "AI-powered search and research for nonprofits",
-    "image": "/uploads/1776935159_perplexity.webp",
-    "url": "https://dt4si.com/digital-tools-for-non-profits?tool=perplexity-1",
-    "slug": "perplexity-1",
+    "image": "/uploads/1777534336_perplexity.webp",
+    "url": "https://dt4si.com/digital-tools-for-non-profits/ai-tools/perplexity",
+    "slug": "ai-tools/perplexity",
     "id": 388,
     "category": "tool"
   },
@@ -5904,7 +6075,7 @@
     "word_count": 39,
     "keyword": "AI for Accessibility, Assistive Technology, Digital Inclusion, Accessibility Platforms, AI for People with Disabilities, Inclusive Technology, Accessible Digital Content, Disability Tech",
     "short_description": "AI platform converts inaccessible content and automates tasks, enabling independent digital access for persons with disabilities.",
-    "image": "/uploads/studies/1776681785_logo_I-Stem_ Dismantling the _Digital Apartheid_ for People with Disabilities.png",
+    "image": "/uploads/studies/1777536793_logo_I-Stem_ Dismantling the _Digital Apartheid_ for People with Disabilities.webp",
     "url": "https://dt4si.com/digital-transformation-case-studies/i-stem-dismantling-the-digital-apartheid-for-people-with-disabilities",
     "slug": "i-stem-dismantling-the-digital-apartheid-for-people-with-disabilities",
     "id": 46,
@@ -6198,7 +6369,7 @@
     "word_count": 11,
     "keyword": "AI for Accessibility, Universal Accessibility, Inclusive Infrastructure, Accessibility Audits, Disability Inclusion Technology, Crowdsourced Accessibility Data, Accessible Urban Planning, AI-Powered Accessibility Mapping",
     "short_description": "AI-powered audits crowdsource accessibility data, enabling real-time mapping and inclusive infrastructure planning nationwide.",
-    "image": "/uploads/studies/1776684198_logo_the-association-of-people-with-disability-apd-ai-powered-universal-accessibility.png",
+    "image": "/uploads/studies/1777536829_logo_The Association of People with Disability (APD) + AI-Powered Universal Accessibility.webp",
     "url": "https://dt4si.com/digital-transformation-case-studies/the-association-of-people-with-disability-apd-ai-powered-universal-accessibility",
     "slug": "the-association-of-people-with-disability-apd-ai-powered-universal-accessibility",
     "id": 41,
@@ -6282,7 +6453,7 @@
     "word_count": 28,
     "keyword": "offline-first AI, agentic AI systems, hybrid AI architecture, edge AI learning, low-connectivity education, digital divide in education, AI-powered learning delivery, offline education technology, personalised learning AI, scalable education technology, cloud and edge AI integration, rural digital education solutions.",
     "short_description": "Hybrid AI system ensures uninterrupted, personalised learning delivery in low-connectivity and offline environments.",
-    "image": "/uploads/studies/1776684498_logo_Vruksh Ecosystem Foundation_ Bridging the Digital Divide with Offline-First Agentic AI.png",
+    "image": "/uploads/studies/1777536878_logo_Vruksh Ecosystem Foundation_ Bridging the Digital Divide with Offline-First Agentic AI.webp",
     "url": "https://dt4si.com/digital-transformation-case-studies/vruksh-ecosystem-foundation-bridging-the-digital-divide-with-offline-first-agentic-ai",
     "slug": "vruksh-ecosystem-foundation-bridging-the-digital-divide-with-offline-first-agentic-ai",
     "id": 40,
@@ -6318,16 +6489,16 @@
     ],
     "values": [
       "ILSS Digital Transformation for Social Impact Program",
-      "",
-      ""
+      "A 10-week blended ILSS programme helping social purpose organisations build digital capability, strengthen data use, and drive sustainable transformation.",
+      "Digital capability building, digital transformation programme, data-driven decision making, nonprofit digital strategy, blended learning programme, social impact organisations"
     ],
     "id": 19,
     "title": "ILSS Digital Transformation for Social Impact Program",
-    "short_description": "",
-    "image": "1772184205_ilss-digital-transformation-for-social-impact-program-img.jpg",
+    "short_description": "A 10-week blended ILSS programme helping social purpose organisations build digital capability, strengthen data use, and drive sustainable transformation.",
+    "image": "1778266395_1772184205-ilss-digital-transformation-for-social-impact-program-img.webp",
     "url": "https://indialeadersforsocialsector.com/the-ilss-digital-transformation-for-social-impact-program/",
     "slug": "",
-    "keyword": "",
+    "keyword": "Digital capability building, digital transformation programme, data-driven decision making, nonprofit digital strategy, blended learning programme, social impact organisations",
     "category": "insight"
   },
   {
@@ -6345,7 +6516,7 @@
     "id": 15,
     "title": "Funding Digital Transformation in Nonprofits: A Conversation with Chetan Kapoor and Ashwin Iyer",
     "short_description": "As nonprofits grapple with growing complexity, constrained resources, and rising expectations of impact, digital transformation has emerged as both an opportunity and a challenge.",
-    "image": "1771567039_nonprofit-digital-transformation-funding.jpg",
+    "image": "1778266443_1771567039-nonprofit-digital-transformation-funding-2.webp",
     "url": "https://leadershipinspired.indialeadersforsocialsector.com/2026/01/29/ilss-conversation-5/",
     "slug": "",
     "keyword": "This conversation highlights digital transformation in nonprofits, focusing on data-driven decisions, capacity building, and sustainable innovation. Chetan Kapoor and Ashwin Iyer emphasise flexible funding, funder–nonprofit partnerships, depth before scale, and problem-first technology adoption to create replicable, long-term social impact beyond short-term digital solutions.",
@@ -6366,7 +6537,7 @@
     "id": 16,
     "title": "Reimagining Value and Impact in the Social Sector",
     "short_description": "In 1879, when the electric light bulb was first demonstrated by the prolific and evolutionary inventor Thomas Edison, the world did not immediately grasp the magnitude of the shift. It was not merely a better candle or just another tool for brighter illumination, but it was the introduction of the transformative power of electricity that would eventually reorganise society, industry, and daily life.",
-    "image": "1771587970_reimagining-social-sector-impact.jpeg",
+    "image": "1778266428_1771567039-nonprofit-digital-transformation-funding-1.webp",
     "url": "https://leadershipinspired.indialeadersforsocialsector.com/2026/01/24/cover-story-5/",
     "slug": "",
     "keyword": "Digital transformation, social impact, technology adoption, leadership, data-driven decisions, value chain, nonprofit scaling, accountability, governance, capacity building.",
@@ -6387,7 +6558,7 @@
     "id": 17,
     "title": "Doing More with Less: Digital Transformation of Nonprofits in India",
     "short_description": "Indian nonprofits today face a difficult paradox. Expectations around scale, accountability, and measurable outcomes are rising, while funding, talent, and organisational bandwidth remain constrained.",
-    "image": "1771567019_digital-transformation-of-nonprofits-in-india.jpg",
+    "image": "1778493657_doing-more-with-less-digital-transformation-of-nonprofits-in-india.webp",
     "url": "https://leadershipinspired.indialeadersforsocialsector.com/2026/01/24/guest-column-edition-5-sanjeev-prasad/",
     "slug": "",
     "keyword": "Digital transformation, nonprofits in India, social purpose organisations (SPOs), technology adoption, process optimisation, lean thinking, data architecture, AI in nonprofits, cloud solutions, change management, governance, sustainability, impact measurement, donor reporting, operational efficiency, Seva Mandir, Anudip Foundation, mission-driven technology, digital MIS, community engagement, capacity building, scalable systems.",
@@ -6408,7 +6579,7 @@
     "id": 18,
     "title": "From Compliance to Cultural Change: Understanding the Relevance of Personal Data Protection",
     "short_description": "India’s Digital Personal Data Protection Act (DPDP Act), which took effect on 13 November 2025, marks a decisive shift from ad hoc data practices to a rights-based legal framework. For social sector organisations working directly with vulnerable communities, the law is not merely a compliance exercise; it is a call to build new habits of care and prudence.",
-    "image": "1771567008_compliance-to-cultural-change-data-protection.jpg",
+    "image": "1780388196_data-with-care-img.webp",
     "url": "https://leadershipinspired.indialeadersforsocialsector.com/2026/01/22/guest-column-edition-5-deepika-mogilishetty/",
     "slug": "",
     "keyword": "The Digital Personal Data Protection (DPDP) Act mandates data minimisation, informed and explicit consent, purpose limitation, secure storage, and accountability. Organisations must ensure children’s data protection, vendor compliance, breach readiness within 72 hours, and strong data governance practices. Building a privacy culture through audits, training, and due diligence ensures sustainable legal compliance.",
@@ -6450,7 +6621,7 @@
     "id": 13,
     "title": "Should Your Nonprofit Hire, Buy, or Bootstrap Data Analytics? The Founder’s Guide",
     "short_description": "A DT4SI-informed guide to nonprofit data analytics on when to hire talent, adopt M&E software or bootstrap impact measurement systems.",
-    "image": "1771590112_nonprofit-data-analytics-guide.jpg",
+    "image": "1778266475_1771590112-nonprofit-data-analytics-guide-1.webp",
     "url": "https://dt4si.com/insights-for-non-profits/nonprofit-data-analytics-guide",
     "slug": "nonprofit-data-analytics-guide",
     "keyword": "nonprofit data analytics, social impact measurement, data tools for NGOs, M&E tools, impact tracking software, build vs buy analytics",
@@ -6471,7 +6642,7 @@
     "id": 14,
     "title": "Mapping the Invisible: How AI-Driven 3D Tools Help Us See Social Systems Clearly",
     "short_description": "Discover how AI-driven 3D tools, spatial modelling, and digital twins help nonprofits see hidden links between climate, behaviour, and the built environment to make better decisions.",
-    "image": "1771591016_ai-3d-social-systems.jpg",
+    "image": "1778266659_1771591016-ai-3d-social-systems-1-1.webp",
     "url": "https://dt4si.com/insights-for-non-profits/ai-3d-social-systems",
     "slug": "ai-3d-social-systems",
     "keyword": "AI-driven 3D tools, 3D modelling for nonprofits, Spatial modelling, Digital twins, Systems thinking, Social systems, Built environment, Systems visibility",
