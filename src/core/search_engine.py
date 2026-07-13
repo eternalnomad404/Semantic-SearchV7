@@ -300,11 +300,10 @@ class SemanticSearcher:
         other_results.sort(key=lambda x: x['score'], reverse=True)
         
         # Create category groups with their highest scores for ranking
+        # Courses are excluded here and always appended last (see below)
         category_groups = []
         if tools_results:
             category_groups.append(('tools', tools_results, tools_results[0]['score']))
-        if courses_results:
-            category_groups.append(('courses', courses_results, courses_results[0]['score']))
         if service_providers_results:
             category_groups.append(('service-providers', service_providers_results, service_providers_results[0]['score']))
         if case_studies_results:
@@ -330,6 +329,10 @@ class SemanticSearcher:
             
             if case_study_group:
                 category_groups = [case_study_group] + other_groups
+        
+        # Always stack courses at the bottom, regardless of query or score
+        if courses_results:
+            category_groups.append(('courses', courses_results, courses_results[0]['score']))
         
         # Combine results in order of category ranking by highest score
         top_results = []

@@ -166,7 +166,7 @@ streamlit run streamlit_app.py
 ### Option 3: Docker
 
 ```bash
-# Build the image
+# Build the image 
 docker build -t semantic-search:latest -f docker/Dockerfile .
 
 # Run API

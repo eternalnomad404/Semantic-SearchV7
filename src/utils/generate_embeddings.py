@@ -159,20 +159,23 @@ try:
     print(f"✅ Loaded {len(case_studies_data)} case studies from data/case_studies/")
     
     for cs in case_studies_data:
-        # Extract and clean the organization name from title
+        # Extract and clean the organization name from title (fallback if organisation field missing)
         case_study_title = cs.get("title", "")
-        # Extract org name (everything before the first colon)
-        clean_org_name = case_study_title.split(':')[0].strip()
+        # Prefer explicit organisation field; otherwise title prefix before first colon
+        organisation = cs.get('organisation', '') or case_study_title.split(':')[0].strip()
+        clean_org_name = organisation.strip() if organisation else case_study_title.split(':')[0].strip()
         
         # Extract fields for embedding
-        # API fields: title, keyword (replaces industry+problem_type), long_description (replaces summary)
+        # API fields: title, keyword, long_description, organisation, sectors, impact_areas
         title = cs.get('title', '')
         keyword = cs.get('keyword', '')  # NEW: replaces industry + problem_type
         long_desc = cs.get('long_description', '')  # Replaces summary
+        sectors = cs.get('sectors', '')
+        impact_areas = cs.get('impact_areas', '')
         
-        # Prioritize organization name by placing it first, then add case study keywords
-        # This ensures direct name searches match strongly while maintaining thematic discoverability
-        embed_text = f"{clean_org_name} {clean_org_name} {clean_org_name} case study {title} {keyword} {long_desc}"
+        # Prioritize organization name by placing it first, then sectors/impact for discoverability
+        # This ensures direct name/sector searches match strongly while maintaining thematic discoverability
+        embed_text = f"{clean_org_name} {clean_org_name} {clean_org_name} case study {title} {organisation} {sectors} {impact_areas} {keyword} {long_desc}"
         
         # Create display data
         display_data = [title, keyword]  # NEW: displaying keyword instead of separate industry/problem_type
@@ -186,6 +189,9 @@ try:
             "summary": long_desc,  # Store long_description as summary
             "word_count": len(long_desc.split()) if long_desc else 0,
             "keyword": keyword,  # NEW: Store keyword field
+            "organisation": organisation,
+            "sectors": sectors,
+            "impact_areas": impact_areas,
             "short_description": cs.get('short_description', ''),
             "image": cs.get('image', ''),
             "url": cs.get('url', ''),
