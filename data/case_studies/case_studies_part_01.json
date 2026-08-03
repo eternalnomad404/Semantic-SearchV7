@@ -9,7 +9,7 @@
     "slug": "armman-ai-assisted-clinical-decision-support-for-high-risk-pregnancies",
     "organisation": "Armman",
     "keyword": "Frontline Health Workers, Maternal Health, Neonatal Health, Maternal Mortality Reduction, Newborn Care, Health Worker Capacity Building, Community Health Systems, Skilled Birth Attendance",
-    "impact_areas": "Workforce Enablement, Operations & Systems, Program Delivery",
+    "impact_areas": "Workforce Enablement, Operations & Systems, Program Delivery, Data & AI",
     "sectors": "Healthcare"
   },
   {
@@ -48,7 +48,7 @@
     "slug": "anudip-foundation-bridging-the-skills-gap-through-an-agentic-ai-learning-ecosystem",
     "organisation": "Anudip Foundation for Social Welfare",
     "keyword": "Agentic AI, AI-Powered Learning Ecosystem, Vocational Training, Skills Development, AI in Education, Workforce Readiness, Digital Skilling, Inclusive Employment",
-    "impact_areas": "Program Delivery, Operations & Systems, Workforce Enablement",
+    "impact_areas": "Program Delivery, Operations & Systems, Workforce Enablement, Data & AI",
     "sectors": "Livelihoods, Education"
   },
   {
@@ -61,7 +61,7 @@
     "slug": "anudip-scaling-inclusive-digital-livelihoods-technology-ai",
     "organisation": "Anudip Foundation for Social Welfare",
     "keyword": "Inclusive Digital Livelihoods, AI in Skilling, Digital Skills Training, AI-Powered Learning Platforms, Workforce Development, Tech-Enabled Livelihoods, Employment Readiness, LMS and AI Ecosystem",
-    "impact_areas": "Program Delivery, Operations & Systems",
+    "impact_areas": "Program Delivery, Operations & Systems, Data & AI",
     "sectors": "Livelihoods"
   },
   {
@@ -139,7 +139,7 @@
     "slug": "futured-trust-democratising-world-class-stem-learning-through-pedagogy-first-ai",
     "organisation": "FuturEd Trust",
     "keyword": "Pedagogy-First AI, AI in STEM Education, Personalized STEM Learning, Generative AI in Education, Government School EdTech, Mastery-Based Learning, AI-Powered Classrooms, Education Equity",
-    "impact_areas": "Program Delivery, Workforce Enablement",
+    "impact_areas": "Program Delivery, Workforce Enablement, Data & AI",
     "sectors": "Education"
   },
   {
@@ -165,7 +165,7 @@
     "slug": "i-saksham-ai-enabled-coaching-intelligence-for-programme-scale",
     "organisation": "I-Saksham",
     "keyword": "AI in Education Leadership, AI-Assisted Mentoring, Grassroots Leadership Development, AI for Teacher Coaching, Education MIS Systems, Community-Based Education, Scalable Mentorship Models, AI for Social Impact",
-    "impact_areas": "Workforce Enablement, Program Delivery, Operations & Systems",
+    "impact_areas": "Workforce Enablement, Program Delivery, Operations & Systems, Data & AI",
     "sectors": "Education"
   },
   {
@@ -230,7 +230,7 @@
     "slug": "magic-bus-india-foundation-democratizing-personalized-skilling-through-magic-ai",
     "organisation": "Magic Bus India Foundation",
     "keyword": "AI-Powered Skilling, Voice AI Learning, Personalized Employability Training, AI for Youth Employment, Multilingual Learning Platforms, Digital Skills Development, AI in Workforce Training, Inclusive Skilling Programs",
-    "impact_areas": "Program Delivery",
+    "impact_areas": "Program Delivery, Data & AI",
     "sectors": "Livelihoods, Education"
   },
   {
@@ -243,7 +243,7 @@
     "slug": "myna-mahila-foundation-empowering-womens-health-agency-through-generative-ai",
     "organisation": "Myna Mahila Foundation",
     "keyword": "Generative AI for Health, Sexual and Reproductive Health, AI Health Chatbots, Women’s Health Access, Digital Health for Women, Confidential Health Support, AI for Health Education, Community Health Technology",
-    "impact_areas": "User Engagement, Program Delivery",
+    "impact_areas": "User Engagement, Program Delivery, Data & AI",
     "sectors": "Livelihoods"
   },
   {
@@ -256,7 +256,7 @@
     "slug": "nudged-trust-reimagining-early-education-through-ai-powered-parental-engagement",
     "organisation": "NudgED Trust",
     "keyword": "AI in Early Childhood Education, Parental Engagement Technology, AI Learning Nudges, Home-Based Learning, Early Literacy Development, AI for Education Access, Conversational Learning Tools, EdTech for Early Education",
-    "impact_areas": "User Engagement, Operations & Systems",
+    "impact_areas": "User Engagement, Operations & Systems, Data & AI",
     "sectors": "Education"
   },
   {
@@ -269,7 +269,7 @@
     "slug": "rocket-learning-ai-driven-worksheet-autocorrection-for-early-learning",
     "organisation": "Rocket Learning",
     "keyword": "AI in Early Learning, Worksheet Auto-Correction, Foundational Learning Technology, AI Feedback Systems, Early Childhood Education Technology, Teacher Workload Reduction, AI for Foundational Literacy, Digital Learning Assessment",
-    "impact_areas": "User Engagement, Program Delivery, Monitoring & Evaluation",
+    "impact_areas": "User Engagement, Program Delivery, Monitoring & Evaluation, Data & AI",
     "sectors": "Education"
   },
   {
@@ -308,7 +308,7 @@
     "slug": "sneha-ai-supported-maternal-and-child-health-guidance-in-urban-settlements",
     "organisation": "SNEHA (Society for Nutrition Education & Health Action)",
     "keyword": "AI in Maternal Health, Digital Health Assistants, WhatsApp Health Bots, Maternal and Child Health, Voice AI for Health Education, Community Health Technology, Digital Health Awareness, AI for Public Health",
-    "impact_areas": "Program Delivery, Workforce Enablement",
+    "impact_areas": "Program Delivery, Workforce Enablement, Data & AI",
     "sectors": "Healthcare"
   },
   {
@@ -347,7 +347,7 @@
     "slug": "the-apprentice-project-ai-enabled-skill-assessment-at-scale",
     "organisation": "The Apprentice Project (TAP)",
     "keyword": "AI in 21st Century Skills, WhatsApp Learning Platforms, AI-Powered Skill Development, Critical Thinking Education, Creativity and Problem-Solving Skills, Digital Learning at Scale, Youth Skill Development, AI in Education Programs",
-    "impact_areas": "Program Delivery, Workforce Enablement",
+    "impact_areas": "Program Delivery, Workforce Enablement, Data & AI",
     "sectors": "Education"
   },
   {
@@ -373,7 +373,7 @@
     "slug": "udhyam-learning-ai-powered-mentorship-for-student-entrepreneurship",
     "organisation": "Udhyam Learning Foundation",
     "keyword": "AI Mentorship Platforms, Entrepreneurship Education, AI in School Learning, Personalized Learning Support, Student Innovation Programs, AI for Experiential Learning, Entrepreneurial Mindset Development, EdTech for Skill Building",
-    "impact_areas": "Workforce Enablement",
+    "impact_areas": "Workforce Enablement, Data & AI",
     "sectors": "Livelihoods"
   },
   {
@@ -425,7 +425,7 @@
     "slug": "clinton-foundation-ai-enabled-tb-screening-for-community-health-programmes",
     "organisation": "The William J. Clinton Foundation (WJCF)",
     "keyword": "AI-powered TB screening, tuberculosis detection, AI in public health, portable X-ray screening, active case finding, early TB diagnosis, health camp innovation, AI-assisted diagnostics, scalable TB screening, public health technology, community health screening, AI for disease detection.",
-    "impact_areas": "Program Delivery",
+    "impact_areas": "Program Delivery, Data & AI",
     "sectors": "Healthcare"
   }
 ]

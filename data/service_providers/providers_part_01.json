@@ -80,6 +80,16 @@
     "keyword": ""
   },
   {
+    "id": 56,
+    "title": "Futurelab Studios",
+    "short_description": "AI Enablement & Agentic AI Solutions for Social Impact Organisations",
+    "long_description": "AI consulting and digital transformation partner offering AI workshops, custom AI tool development, workflow automation, and Fractional CTO services. Helping nonprofits, enterprises, and social impact organisations accelerate AI adoption and build practical, production-ready AI solutions.",
+    "image": "/uploads/1785222084_Futurelab-Studios-logo.webp",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/futurelab-studios",
+    "slug": "futurelab-studios",
+    "keyword": ""
+  },
+  {
     "id": 42,
     "title": "Greenpepper+AI",
     "short_description": "A generative AI studio helping organisations explore, adopt, and scale AI for business and operational transformation.",
@@ -137,6 +147,16 @@
     "image": "/uploads/1776762938_microware.webp",
     "url": "https://dt4si.com/solution-providers-for-non-profits/microware-computing-and-consulting",
     "slug": "microware-computing-and-consulting",
+    "keyword": ""
+  },
+  {
+    "id": 57,
+    "title": "People4Good",
+    "short_description": "Digital partners helping nonprofits build sustainable technology capabilities.",
+    "long_description": "Technology consulting and digital transformation partner helping nonprofits, foundations, and CSR initiatives adopt AI, custom software, automation, and digital solutions to strengthen organisational effectiveness and social impact.",
+    "image": "/uploads/1785221294_People4Good-p.webp",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/people4good",
+    "slug": "people4good",
     "keyword": ""
   },
   {
@@ -207,6 +227,16 @@
     "image": "/uploads/1775988464_think21.webp",
     "url": "https://dt4si.com/solution-providers-for-non-profits/think201-creative-studio-llp",
     "slug": "think201-creative-studio-llp",
+    "keyword": ""
+  },
+  {
+    "id": 55,
+    "title": "Vera Solutions",
+    "short_description": "Helping impact-driven organisations strengthen programmes through technology, data, and AI.",
+    "long_description": "Helping impact-driven organisations strengthen programmes through technology, data, and AI.",
+    "image": "/uploads/1783424711_vera-solutions-logo.webp",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/vera-solutions",
+    "slug": "vera-solutions",
     "keyword": ""
   }
 ]

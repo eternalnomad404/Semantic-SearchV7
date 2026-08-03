@@ -3814,6 +3814,19 @@
       "Name of Service Provider"
     ],
     "values": [
+      "Futurelab Studios"
+    ],
+    "short_description": "AI Enablement & Agentic AI Solutions for Social Impact Organisations",
+    "image": "/uploads/1785222084_Futurelab-Studios-logo.webp",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/futurelab-studios",
+    "slug": "futurelab-studios"
+  },
+  {
+    "sheet": "Service Provider Profiles",
+    "column_headers": [
+      "Name of Service Provider"
+    ],
+    "values": [
       "Greenpepper+AI"
     ],
     "short_description": "A generative AI studio helping organisations explore, adopt, and scale AI for business and operational transformation.",
@@ -3885,6 +3898,19 @@
     "image": "/uploads/1776762938_microware.webp",
     "url": "https://dt4si.com/solution-providers-for-non-profits/microware-computing-and-consulting",
     "slug": "microware-computing-and-consulting"
+  },
+  {
+    "sheet": "Service Provider Profiles",
+    "column_headers": [
+      "Name of Service Provider"
+    ],
+    "values": [
+      "People4Good"
+    ],
+    "short_description": "Digital partners helping nonprofits build sustainable technology capabilities.",
+    "image": "/uploads/1785221294_People4Good-p.webp",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/people4good",
+    "slug": "people4good"
   },
   {
     "sheet": "Service Provider Profiles",
@@ -3976,6 +4002,19 @@
     "image": "/uploads/1775988464_think21.webp",
     "url": "https://dt4si.com/solution-providers-for-non-profits/think201-creative-studio-llp",
     "slug": "think201-creative-studio-llp"
+  },
+  {
+    "sheet": "Service Provider Profiles",
+    "column_headers": [
+      "Name of Service Provider"
+    ],
+    "values": [
+      "Vera Solutions"
+    ],
+    "short_description": "Helping impact-driven organisations strengthen programmes through technology, data, and AI.",
+    "image": "/uploads/1783424711_vera-solutions-logo.webp",
+    "url": "https://dt4si.com/solution-providers-for-non-profits/vera-solutions",
+    "slug": "vera-solutions"
   },
   {
     "sheet": "Training Program",
@@ -5829,7 +5868,7 @@
     "keyword": "Frontline Health Workers, Maternal Health, Neonatal Health, Maternal Mortality Reduction, Newborn Care, Health Worker Capacity Building, Community Health Systems, Skilled Birth Attendance",
     "organisation": "Armman",
     "sectors": "Healthcare",
-    "impact_areas": "Workforce Enablement, Operations & Systems, Program Delivery",
+    "impact_areas": "Workforce Enablement, Operations & Systems, Program Delivery, Data & AI",
     "short_description": "WhatsApp-based AI assistant supported ANMs with real-time clinical guidance, strengthening high-risk pregnancy management statewide",
     "image": "/uploads/studies/1770100386_logo_armman-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/armman-ai-assisted-clinical-decision-support-for-high-risk-pregnancies",
@@ -5901,7 +5940,7 @@
     "keyword": "Agentic AI, AI-Powered Learning Ecosystem, Vocational Training, Skills Development, AI in Education, Workforce Readiness, Digital Skilling, Inclusive Employment",
     "organisation": "Anudip Foundation for Social Welfare",
     "sectors": "Livelihoods, Education",
-    "impact_areas": "Program Delivery, Operations & Systems, Workforce Enablement",
+    "impact_areas": "Program Delivery, Operations & Systems, Workforce Enablement, Data & AI",
     "short_description": "Agentic AI ecosystem personalises vocational training, reducing costs and improving job readiness at scale",
     "image": "/uploads/studies/1776681202_logo_Anudip Foundation_ Bridging the Skills Gap through an Agentic AI Learning Ecosystem.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/anudip-foundation-bridging-the-skills-gap-through-an-agentic-ai-learning-ecosystem",
@@ -5925,7 +5964,7 @@
     "keyword": "Inclusive Digital Livelihoods, AI in Skilling, Digital Skills Training, AI-Powered Learning Platforms, Workforce Development, Tech-Enabled Livelihoods, Employment Readiness, LMS and AI Ecosystem",
     "organisation": "Anudip Foundation for Social Welfare",
     "sectors": "Livelihoods",
-    "impact_areas": "Program Delivery, Operations & Systems",
+    "impact_areas": "Program Delivery, Operations & Systems, Data & AI",
     "short_description": "Hybrid tech ecosystem amplified human capacity, enhancing learner journeys and placement rate",
     "image": "/uploads/studies/1764055887_logo_Anudip-2--updated.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/anudip-scaling-inclusive-digital-livelihoods-technology-ai",
@@ -6069,7 +6108,7 @@
     "keyword": "Pedagogy-First AI, AI in STEM Education, Personalized STEM Learning, Generative AI in Education, Government School EdTech, Mastery-Based Learning, AI-Powered Classrooms, Education Equity",
     "organisation": "FuturEd Trust",
     "sectors": "Education",
-    "impact_areas": "Program Delivery, Workforce Enablement",
+    "impact_areas": "Program Delivery, Workforce Enablement, Data & AI",
     "short_description": "Pedagogy-first AI platform delivers personalised STEM learning, improving conceptual understanding in government school classrooms",
     "image": "/uploads/studies/1776681616_logo_FuturEd Trust_ Democratising World-Class STEM Learning Through Pedagogy-First AI.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/futured-trust-democratising-world-class-stem-learning-through-pedagogy-first-ai",
@@ -6117,7 +6156,7 @@
     "keyword": "AI in Education Leadership, AI-Assisted Mentoring, Grassroots Leadership Development, AI for Teacher Coaching, Education MIS Systems, Community-Based Education, Scalable Mentorship Models, AI for Social Impact",
     "organisation": "I-Saksham",
     "sectors": "Education",
-    "impact_areas": "Workforce Enablement, Program Delivery, Operations & Systems",
+    "impact_areas": "Workforce Enablement, Program Delivery, Operations & Systems, Data & AI",
     "short_description": "AI-enabled Mentoring for Stronger Edu-leaders and Resilient Communities.",
     "image": "/uploads/studies/1770114787_logo_i-sakhsam.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/i-saksham-ai-enabled-coaching-intelligence-for-programme-scale",
@@ -6237,7 +6276,7 @@
     "keyword": "AI-Powered Skilling, Voice AI Learning, Personalized Employability Training, AI for Youth Employment, Multilingual Learning Platforms, Digital Skills Development, AI in Workforce Training, Inclusive Skilling Programs",
     "organisation": "Magic Bus India Foundation",
     "sectors": "Livelihoods, Education",
-    "impact_areas": "Program Delivery",
+    "impact_areas": "Program Delivery, Data & AI",
     "short_description": "AI voice tutor provides personalised skilling and language practice, improving employability for underserved youth",
     "image": "/uploads/studies/1776682170_logo_Magic Bus India Foundation_ Democratizing Personalized Skilling through Magic AI.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/magic-bus-india-foundation-democratizing-personalized-skilling-through-magic-ai",
@@ -6261,7 +6300,7 @@
     "keyword": "Generative AI for Health, Sexual and Reproductive Health, AI Health Chatbots, Women’s Health Access, Digital Health for Women, Confidential Health Support, AI for Health Education, Community Health Technology",
     "organisation": "Myna Mahila Foundation",
     "sectors": "Livelihoods",
-    "impact_areas": "User Engagement, Program Delivery",
+    "impact_areas": "User Engagement, Program Delivery, Data & AI",
     "short_description": "Confidential AI chatbot provides culturally sensitive sexual health guidance, enabling safe and anonymous access",
     "image": "/uploads/studies/1776682901_logo_Myna Mahila Foundation_ Empowering Women’s Health Agency through Generative AI.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/myna-mahila-foundation-empowering-womens-health-agency-through-generative-ai",
@@ -6285,7 +6324,7 @@
     "keyword": "AI in Early Childhood Education, Parental Engagement Technology, AI Learning Nudges, Home-Based Learning, Early Literacy Development, AI for Education Access, Conversational Learning Tools, EdTech for Early Education",
     "organisation": "NudgED Trust",
     "sectors": "Education",
-    "impact_areas": "User Engagement, Operations & Systems",
+    "impact_areas": "User Engagement, Operations & Systems, Data & AI",
     "short_description": "AI nudges and conversational tools drive parental engagement, improving home-based early childhood learning outcomes",
     "image": "/uploads/studies/1776683377_logo_nudged-trust-reimagining-early-education.png",
     "url": "https://dt4si.com/digital-transformation-case-studies/nudged-trust-reimagining-early-education-through-ai-powered-parental-engagement",
@@ -6309,7 +6348,7 @@
     "keyword": "AI in Early Learning, Worksheet Auto-Correction, Foundational Learning Technology, AI Feedback Systems, Early Childhood Education Technology, Teacher Workload Reduction, AI for Foundational Literacy, Digital Learning Assessment",
     "organisation": "Rocket Learning",
     "sectors": "Education",
-    "impact_areas": "User Engagement, Program Delivery, Monitoring & Evaluation",
+    "impact_areas": "User Engagement, Program Delivery, Monitoring & Evaluation, Data & AI",
     "short_description": "AI-enabled worksheet autocorrection delivered instant feedback to children, reducing frontline workload and strengthening early learning outcomes",
     "image": "/uploads/studies/1776317844_logo_Rocket-Learning-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/rocket-learning-ai-driven-worksheet-autocorrection-for-early-learning",
@@ -6381,7 +6420,7 @@
     "keyword": "AI in Maternal Health, Digital Health Assistants, WhatsApp Health Bots, Maternal and Child Health, Voice AI for Health Education, Community Health Technology, Digital Health Awareness, AI for Public Health",
     "organisation": "SNEHA (Society for Nutrition Education & Health Action)",
     "sectors": "Healthcare",
-    "impact_areas": "Program Delivery, Workforce Enablement",
+    "impact_areas": "Program Delivery, Workforce Enablement, Data & AI",
     "short_description": "Voice-enabled WhatsApp AI assistant improved maternal health awareness, driving repeated engagement and timely health-seeking behaviours",
     "image": "/uploads/studies/1770111491_logo_sneha-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/sneha-ai-supported-maternal-and-child-health-guidance-in-urban-settlements",
@@ -6453,7 +6492,7 @@
     "keyword": "AI in 21st Century Skills, WhatsApp Learning Platforms, AI-Powered Skill Development, Critical Thinking Education, Creativity and Problem-Solving Skills, Digital Learning at Scale, Youth Skill Development, AI in Education Programs",
     "organisation": "The Apprentice Project (TAP)",
     "sectors": "Education",
-    "impact_areas": "Program Delivery, Workforce Enablement",
+    "impact_areas": "Program Delivery, Workforce Enablement, Data & AI",
     "short_description": "AI-powered WhatsApp learning platform enabled large-scale 21st-century skills development with measurable gains in creativity and problem-solving",
     "image": "/uploads/studies/1770101039_logo_the-apprentice-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/the-apprentice-project-ai-enabled-skill-assessment-at-scale",
@@ -6501,7 +6540,7 @@
     "keyword": "AI Mentorship Platforms, Entrepreneurship Education, AI in School Learning, Personalized Learning Support, Student Innovation Programs, AI for Experiential Learning, Entrepreneurial Mindset Development, EdTech for Skill Building",
     "organisation": "Udhyam Learning Foundation",
     "sectors": "Livelihoods",
-    "impact_areas": "Workforce Enablement",
+    "impact_areas": "Workforce Enablement, Data & AI",
     "short_description": "AI mentor provided personalised project support to students and teachers, increasing engagement, iteration, and curriculum adherence",
     "image": "/uploads/studies/1770111705_logo_udhyam-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/udhyam-learning-ai-powered-mentorship-for-student-entrepreneurship",
@@ -6597,7 +6636,7 @@
     "keyword": "AI-powered TB screening, tuberculosis detection, AI in public health, portable X-ray screening, active case finding, early TB diagnosis, health camp innovation, AI-assisted diagnostics, scalable TB screening, public health technology, community health screening, AI for disease detection.",
     "organisation": "The William J. Clinton Foundation (WJCF)",
     "sectors": "Healthcare",
-    "impact_areas": "Program Delivery",
+    "impact_areas": "Program Delivery, Data & AI",
     "short_description": "AI-enabled health camps used portable X-rays for rapid TB screening, detecting cases earlier and reducing screening time and cost",
     "image": "/uploads/studies/1770111673_logo_william-thumbnail.jpg",
     "url": "https://dt4si.com/digital-transformation-case-studies/clinton-foundation-ai-enabled-tb-screening-for-community-health-programmes",
